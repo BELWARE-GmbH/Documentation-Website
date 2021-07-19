@@ -48,6 +48,17 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 Easy Batch. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -87,6 +98,18 @@ After submitting your contact information, you will be prompted to choose a lang
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
         <description>Working with CTI for STARFACE Click to dial With our app you have the possibility to start calls directly from your contacts. Open the contact you want to make a call with and open the area &amp;ldquo;Communication&amp;rdquo;. Next to the phone number there is now a button with 3 dots. Click on the button to initiate a phone call.
 If no call is triggered, you may have to switch off the popup blocker of your browser or set your STARFACE client to open phone numbers.</description>
+      </item>
+      
+      <item>
+        <title>Document Layouts</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-layouts/</guid>
+        <description>Setup Setting up the document layouts In order to be able to use the Connector 365 Easy Batch App correctly, you must first set up the customers who want to receive documents in batch mode.
+Open the desired customer and navigate to the document layouts
+Navigate -&amp;gt; Document layouts
+Once there, you will notice two new buttons, one is a check mark for batch mode and the other is a drop down menu for job mode.</description>
       </item>
       
       <item>
@@ -157,6 +180,16 @@ With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365
         
         <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</guid>
         <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Document processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the document creator is not on-site. Depending on the volume of documents to be sent, this process can become even more time-consuming - time that could be used more productively.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/introduction/</guid>
+        <description>First steps Introduction When sending documents from your Microsoft Dynamics 365 Business Central environment, you often want to send multiple documents at the same time, but with the Dynamics 365 Business Central standard, this is not easily possible. This makes a process that should only take a few minutes take much longer.
+With the Connector 365 Easy Batch it is possible to intelligently send multiple documents at the same time, set up the desired sending method in the document layouts and simply select your receipts you want to send - One click and all receipts will be sent.</description>
       </item>
       
       <item>
@@ -257,6 +290,18 @@ The content of the mail can be customized and the current attachments are visibl
       </item>
       
       <item>
+        <title>Sending Scenarios</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/</guid>
+        <description>Working with Easy Batch Sending Scenarios Basically you have the possibility to use several job modes at the same time in use with the batch function. You only have to set this up accordingly in the document layouts.
+If the batch dispatch is triggered while several job modes are set up for a document, they will be triggered one after the other.
+Example 1
+One scenario where this functionality may be desired would be in the transition phase from postal delivery to purely digital delivery via email, this looks like the following in the document layouts:</description>
+      </item>
+      
+      <item>
         <title>Under Construction</title>
         <link>https://docs.belware.de/en-us/under-construction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -264,6 +309,15 @@ The content of the mail can be customized and the current attachments are visibl
         <guid>https://docs.belware.de/en-us/under-construction/</guid>
         <description>This part of our docs page is under construction This part of the website is still being worked on and as such is not yet available to the public.
 Please return at a later date, when we will have added further informative content about the usage of our solutions to this website.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
       </item>
       
       <item>
@@ -361,6 +415,19 @@ The following options are available to you as a registered E-POST customer:</des
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Purchase AppSource The app is available in the Microsoft AppSource.
+After downloading, the app can be tested free of charge for 30 days.
+In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
+   Monthly subscription incl. maintenance*     x,xx€    *Electively billed monthly, quarterly or annually.
+To the form</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -399,7 +466,7 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
 After downloading, the app is available to you free of charge for 5 processes.
 Once these are reached, you have the option to order the app directly.
 Your costs:
-   Monthly subscription incl. maintenance per company with annual payment and term*     19,90€       Monthly subscription incl. maintenance per company with monthly payment and term*     25,90€    *Each additional customer or instance is charged with a 50% price advantage</description>
+   Monthly subscription incl. maintenance per company with annual payment and term*     19,90€       Monthly subscription incl. maintenance per company with monthly payment and term*     25,90€    *The subscription is for one environment within a tenant.</description>
       </item>
       
       <item>
@@ -410,6 +477,19 @@ Your costs:
         <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
         <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 The job list provides you with a detailed overview of all letters that have been sent. It shows which options were used and displays any error messages that may have occurred.</description>
+      </item>
+      
+      <item>
+        <title>Batch Function</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/batchfunction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/batchfunction/</guid>
+        <description>Working with Easy Batch Batch Function After all the customers have been set up according to your wishes, you can start sending.
+To do this, open one of the desired reports, e.g. your pos. sales invoices.
+Now select the documents that you want to send
+You are completely free in the selection - if desired, you also have the option to send individual documents as a batch.
+As soon as you have selected the vouchers for sending, you can start the batch.</description>
       </item>
       
       <item>
@@ -455,6 +535,17 @@ In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Customer Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For this example, we have set up the default attachments in invoice shipping as follows:
 Two PDFs are attached, each with the standards set up per document/report</description>
+      </item>
+      
+      <item>
+        <title>Document Sending Profile</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-sending-profile/</guid>
+        <description>Setup Document Sending Profile The document send profile is a standard functionality of Microsoft Dynamics 365 Business Central.
+It is used to control the preferred method of sending sales documents. By default, the functionality is intended for use with &amp;ldquo;Post and Send&amp;rdquo;. However, with Connector 365 Easy Batch, document send profiles can also be used to control the batch function.
+Set up document send profiles To set up a document sending profile</description>
       </item>
       
       <item>
@@ -540,6 +631,27 @@ Publishing of the Connector 365 Base &amp;amp; E-POST App the publishing of the 
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 E-POST App* without obligation or to purchase it directly. For this we need some information from you.
 To the form
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Easy Batch App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Easy Batch App the publishing of the Connector Base &amp;amp; Easy Batch App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Easy Batch App without obligation or to purchase it directly. For this we need some information from you..
+To the form
+If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>
@@ -687,6 +799,19 @@ Connector 365 is available for the following BC licensing:</description>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
         <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>Archive</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/archive/</guid>
+        <description>Working with Easy Batch Archive After a batch processing has been performed, the processed documents are listed in the Connector 365 activities. You can find this overview in two places:
+Directly on the document.
+You can find it directly in the factbox to the right of your documents.
+In the global activities.
+The best way to access these is via search - open the search function and search for Connector 365 Activities.</description>
       </item>
       
       <item>
@@ -997,6 +1122,20 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
         <link>https://docs.belware.de/en-us/apps/mail-sender-plus/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1085,6 +1224,16 @@ Setup &amp;amp; Sending </description>
         <guid>https://docs.belware.de/en-us/apps/e-post/videos/</guid>
         <description>Videos Here you can find some informative videos about our Connector 365 E-POST App, each video covers a special topic
 Connector 365 E-POST - Quick Overview - English *The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Connector 365 CTI for Easy Batch App, each video covers a special topic
+Connector 365 Easy Batch - Quick Overview Connector 365 Easy Batch - Kurzübersicht </description>
       </item>
       
       <item>

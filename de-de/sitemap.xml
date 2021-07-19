@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/epost/example/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -29,6 +39,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/installation/appsource/"
                 />
   </url>
   
@@ -108,6 +133,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connector-on-appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -138,6 +168,16 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/pdfpaper_server/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/html-word/create_file/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/privacy-policy/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -149,6 +189,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/base/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/base/base_overview/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/status-report/configuration/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/setup/document-layouts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-layouts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/setup/document-layouts/"
                 />
   </url>
   
@@ -179,6 +249,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/"
                 />
   </url>
   
@@ -224,6 +309,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/introduction/"
                 />
   </url>
   
@@ -288,6 +388,56 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/setup_connectornav/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/drag-and-drop/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/sms/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/status-view/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/rapidstart/install/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/settings/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -318,6 +468,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/drag-and-drop/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/templates.md/booked_receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/html-word/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/legalnotice/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -330,6 +495,16 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/legalnotice/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -423,6 +598,41 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/msp/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/cti/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/epost/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/fax/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/mail/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/sms/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -483,6 +693,16 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/msp/priorities/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/priority-system/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -498,6 +718,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/rapidstart/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/segment/segment_view/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/segment/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/terms-of-use/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -510,6 +745,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/terms-of-use/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/status-report/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -530,6 +770,21 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/differences-dialog/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
   </url>
   
   <url>
@@ -668,6 +923,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/sendingscenarios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/sendingscenarios/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/preparations/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/cti/preparation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/preparation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -713,6 +998,41 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/mail/officemaster/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/fax/faxmaker/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/templates.md/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/rapidstart/adjust/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/drag-and-drop/example/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/fax/example/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/mail/example/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -739,6 +1059,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/appsource/"
                 />
   </url>
   
@@ -803,6 +1138,46 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/definitions/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/example/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/setup/document-sending-profile/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/document-sending-profile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/setup/document-sending-profile/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/msp/setup_user/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/user_setup_connectornav/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/status-report/user_report_setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-report/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -833,6 +1208,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/html-word/link_pics/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-customer/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -860,6 +1240,21 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-customer/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/epost/dialog/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/base/pdf_creation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/cti/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -938,6 +1333,16 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/configuration/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/segment/add_contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -950,6 +1355,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -979,6 +1389,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/negative-xrechnung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/"
                 />
   </url>
   
@@ -1088,6 +1513,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1178,6 +1633,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/batchfunction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/batchfunction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/batchfunction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1219,6 +1689,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/"
                 />
   </url>
   
@@ -1280,6 +1765,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/test-purchase/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/templates.md/unbooked_receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1358,6 +1848,26 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/sms/send_via_contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/send_email/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/cti/call_contacts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1369,6 +1879,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/"
                 />
   </url>
   
@@ -1433,6 +1958,46 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/archive/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/working-with-easy-batch/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/working-with-easy-batch/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/example_print/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/html-word/bodytexts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/base/docimport_module/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-customer/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1463,6 +2028,26 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/fax/dialog/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/mail/dialog/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/epost/summary/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/report/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1475,6 +2060,16 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/report/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/create_xml/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/rapidstart/import/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1598,6 +2193,16 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/msp/setup_report/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/segment/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/state/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1625,6 +2230,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/table_id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1688,6 +2298,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/sms/send_via_receipts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/customer-vendor/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1733,6 +2348,16 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/address_chooser/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/example_password/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/setup/defaults-document/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1760,6 +2385,16 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/mail_attachment_plus/working-with-map/defaults-document/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/msp/dialog/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/epost/status/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1804,6 +2439,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/setup/"
                 />
   </url>
   
@@ -1865,6 +2515,16 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/adresses/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/cti/caller_identification/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -1943,6 +2603,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1970,6 +2645,31 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/installation/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/fax/jobs/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/gateway_id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/sms/message_mobile/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/base/useful_functions/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/standard/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -2003,6 +2703,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/archive_pdf/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/help-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2014,6 +2719,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/help-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/help-support/"
                 />
   </url>
   
@@ -2078,6 +2798,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/communication_matrix/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-tax-category/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2138,6 +2863,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/create/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/detour/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/setup_queue/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/added_documents/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/rotate_attachments/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/pdfpaper/user_printer/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2149,6 +2904,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/videos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/videos/"
                 />
   </url>
   
@@ -2195,6 +2965,36 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/videos/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/stack_mode/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/send_via_mail/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/book_and_process/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/error_analysis/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/more_error_analysis/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/matrix/options/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
