@@ -833,6 +833,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -935,21 +950,6 @@
   <url>
     <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/preparation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/web-services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/"
-                />
   </url>
   
   <url>

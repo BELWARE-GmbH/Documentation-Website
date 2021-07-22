@@ -344,7 +344,16 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.0  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
+        <description>New and planned Version 1.0.1.1  CTI status in Role center Button to open the CTI Client in the Role center Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -363,21 +372,6 @@ Please return at a later date, when we will have added further informative conte
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
         <description>New and planned Version 1.0.1.3  Bug fixes Integration to Easy Batch  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
-      </item>
-      
-      <item>
-        <title>Web service</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/web-services/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/web-services/</guid>
-        <description>Setup Setting up the Web service After the extension has been successfully published to your solution, it must first be set up. The search will take you to the &amp;ldquo;Web Services&amp;rdquo; page. Here you need to create a new entry.
-For this you need the following data:
-Object type: Page
-Object ID: 70109820
-Object name: CTI-Client
-Service name: CTI
-After you have set up here, you can proceed with the rest of the setup.</description>
       </item>
       
       <item>
@@ -748,7 +742,7 @@ Connector 365 is available for the following BC licensing:</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
+        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
       </item>
       
       <item>
@@ -766,7 +760,7 @@ Connector 365 is available for the following BC licensing:</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the dashboard Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
+        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the Role center Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
       </item>
       
       <item>
@@ -890,10 +884,10 @@ Afterwards you can enter the desired address into the &amp;ldquo;Email Sender&am
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/state/</guid>
-        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the dashboard.
+        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the Role center.
 Sent XRechnung&amp;quot; &amp;amp; &amp;ldquo;Incorrect XRechnung&amp;rdquo;.
 Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; - &amp;ldquo;What&amp;rdquo; - &amp;ldquo;When &amp;ldquo; all successfully sent XRechnung are archived. The original XML file as well as the validation report are included in the log.
-Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung. This can have different reasons - you can find out exactly which ones by opening the validation report.</description>
+Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung.</description>
       </item>
       
       <item>
@@ -902,10 +896,10 @@ Protocol incorrect XRechnung Here XRechnung are displayed, which failed the chec
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/working-with-xrechnung/state/</guid>
-        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the dashboard.
+        <description>Working with XRechnung State Two XRechnung dispatch logs are available in the Role center.
 Sent XRechnung&amp;quot; &amp;amp; &amp;ldquo;Incorrect XRechnung&amp;rdquo;.
 Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; - &amp;ldquo;What&amp;rdquo; - &amp;ldquo;When &amp;ldquo; all successfully sent XRechnung are archived. The original XML file as well as the validation report are included in the log.
-Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung. This can have different reasons - you can find out exactly which ones by opening the validation report.</description>
+Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung.</description>
       </item>
       
       <item>
@@ -925,7 +919,7 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in dashboard Show unknown numbers on incoming calls  </description>
+        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in Role center Show unknown numbers on incoming calls  </description>
       </item>
       
       <item>
@@ -946,9 +940,8 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
         <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
  Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
   Sending status (joblist) in the factbox per document in the overview
-  Two boxes for the joblist in the dashboard
-  The Connector 365 XRechnung app now relies on our base app
-  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
+  Two boxes for the joblist in the Role center
+  The Connector 365 XRechnung app now relies on our base app</description>
       </item>
       
       <item>
@@ -957,7 +950,7 @@ If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.0  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -1112,7 +1105,7 @@ Then you should adjust the field &amp;ldquo;International Standard Code” accor
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in dashboard Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
+        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
       </item>
       
       <item>

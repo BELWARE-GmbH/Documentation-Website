@@ -465,7 +465,16 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
+        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.1  CTI Status im Rollencenter Button zum öffnen des CTI Clients im Rollencenter Automatisches konvertieren von Telefonnummern Frei setzbare CTI-Seite Webdienst wird automatisch generiert  Geplante Funktionen für zukünftige Versionen  Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer  </description>
       </item>
       
       <item>
@@ -569,21 +578,6 @@ NAV 2018 ab CU28 (04/20)
 Business Central 13 ab CU18 (04/20)
 Business Central 14 ab CU11 (04/20)
 Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und prüft, ob die erzeugten XRechnung-Dateien konform zu den formalen Vorgaben sind. Diese Überprüfung geschieht standardmäßig mittels eines Validierungstools welches sich auf einem externen Server befindet.</description>
-      </item>
-      
-      <item>
-        <title>Webdienste</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/web-services/</guid>
-        <description>Einrichtung Einrichtung des Webdienstes Nachdem die Extension erfolgreich in Ihrer Lösung veröffentlicht wurde, muss diese zunächst eingerichtet werden. Über die Suche gelangen Sie zur Seite &amp;ldquo;Webdienste&amp;rdquo;. Hier müssen Sie einen neuen Eintrag erstellen.
-Dazu benötigen Sie die folgenden Daten:
-Objektart: Seite
-Objekt-ID: 70109820
-Objektname: CTI-Client
-Servicename: CTI
-Nachdem Sie die Einrichtung hier vorgenommen haben, können Sie mit der weiteren Einrichtung fortfahren.</description>
       </item>
       
       <item>
@@ -1187,7 +1181,7 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central  Geplante Funktionen für zukünftige Versionen  Dashboard verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen  </description>
+        <description>Neu und geplant Version 1.0.1.0  Kleinere Korrekturen Click to Dial für Telefon- und Handynummer Unbekannte Nummern bei eingehenden Anrufen anzeigen Der CTI-Client öffnet sich automatisch anch Anmeldung bei Business Central  Geplante Funktionen für zukünftige Versionen  Rollencenter verfeinern Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen  </description>
       </item>
       
       <item>
@@ -1495,7 +1489,7 @@ Sprache: Sollten Sie mehrsprachige Kunden haben und Ihre Mails dementsprechend i
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/state/</guid>
-        <description>Arbeiten mit XRechnung Status Im Dashboard stehen zwei Versandprotokolle der XRechnungen zur Verfügung.
+        <description>Arbeiten mit XRechnung Status Im Rollencenter stehen zwei Versandprotokolle der XRechnungen zur Verfügung.
 &amp;ldquo;Gesendetet XRechnungen&amp;rdquo; &amp;amp; &amp;ldquo;Fehlerhafte XRechnungen&amp;rdquo;
 Protokoll Gesendete XRechnungen In dem detaillierten Versandprotokoll &amp;ldquo;Wer&amp;rdquo; - &amp;ldquo;Was&amp;rdquo; - &amp;ldquo;Wann&amp;rdquo; werden alle erfolgreich versendeten XRechnung archiviert. Die Original XML Datei, sowie das Prüfprotokoll liegen mit im Protokoll.
 Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche durch die Prüfung durchgefallen sind und nicht als XRechnung akzeptiert werden. Dies kann unterschiedliche Gründe haben – Welche genau, können Sie herausfinden indem Sie den Prüfbericht öffnen.</description>
@@ -1507,7 +1501,7 @@ Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche dur
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/working-with-xrechnung/state/</guid>
-        <description>Arbeiten mit XRechnung Status Im Dashboard stehen zwei Versandprotokolle der XRechnungen zur Verfügung.
+        <description>Arbeiten mit XRechnung Status Im Rollencenter stehen zwei Versandprotokolle der XRechnungen zur Verfügung.
 &amp;ldquo;Gesendetet XRechnungen&amp;rdquo; &amp;amp; &amp;ldquo;Fehlerhafte XRechnungen&amp;rdquo;
 Protokoll Gesendete XRechnungen In dem detaillierten Versandprotokoll &amp;ldquo;Wer&amp;rdquo; - &amp;ldquo;Was&amp;rdquo; - &amp;ldquo;Wann&amp;rdquo; werden alle erfolgreich versendeten XRechnung archiviert. Die Original XML Datei, sowie das Prüfprotokoll liegen mit im Protokoll.
 Protokoll Fehlerhafte XRechnungen Hier werden XRechnungen abgebildet, welche durch die Prüfung durchgefallen sind und nicht als XRechnung akzeptiert werden. Dies kann unterschiedliche Gründe haben – Welche genau, können Sie herausfinden indem Sie den Prüfbericht öffnen.</description>
@@ -1540,7 +1534,7 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1  Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs  Geplante Funktionen für zukünftige Versionen  Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Dashboard Unbekannte Nummern bei eingehenden Anrufen anzeigen  </description>
+        <description>Neu und geplant Version 1.0.0.1  Anzeigen von Kontaktdaten bei eingehenden Anrufen Keine verpassten Anrufe durch eine automatische Anrufverwaltung Verlinkung zu Kontakt, Debitor oder Kreditor Automatische Zeiterfassung von Uhrzeit und Dauer jedes Anrufs  Geplante Funktionen für zukünftige Versionen  Erweiterung der Anrufliste - Globale Jobliste Anrufliste im Rollencenter Unbekannte Nummern bei eingehenden Anrufen anzeigen  </description>
       </item>
       
       <item>
@@ -1558,7 +1552,7 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Dashboard Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
+        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Rollencenter Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
       </item>
       
       <item>
@@ -1567,7 +1561,7 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Dashboard Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
+        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -1596,7 +1590,7 @@ Die Wichtigsten Felder hier sind „Verwendung“, „Berichts-ID“ und unser n
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
-        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an zwei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
+        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an drei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
 CTI-Einträge In Ihren Kontakten können Sie die &amp;ldquo;CTI-Einträge&amp;rdquo; finden, diese befinden sich am Ende der Kontaktkarte. Dort finden Sie die Details zu allen Telefonaten die mit diesem Kontakt gefürht wurden, wie z.B. ob es ein- oder ausgehende war, Wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat.</description>
       </item>
       
