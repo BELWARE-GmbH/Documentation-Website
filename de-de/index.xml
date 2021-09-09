@@ -103,6 +103,17 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       </item>
       
       <item>
+        <title>Belegarten für XRechnung</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
+        <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
+ Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1   Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen. Die Funktion ist OnPrem inklusive. &amp;#x21a9;&amp;#xfe0e;
+   </description>
+      </item>
+      
+      <item>
         <title>Click to dial</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
