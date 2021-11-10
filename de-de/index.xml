@@ -500,6 +500,15 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       </item>
       
       <item>
+        <title>V1.0.0.7 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</guid>
+        <description>Neu und geplant Version 1.0.0.7  Fehlerkorrekturen Verbesserung der Übersetzung Dokumentenanhänge als E-Mailanhang  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
+      </item>
+      
+      <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1346,7 +1355,7 @@ Dialog Vorgang Ausdruck Aktionen Connector NAV Dialog Modus Ausdruck, Aktionen
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</guid>
-        <description>Die Connector NAV Benutzerbericht Einrichtung Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellungen pro Benutzer, Bericht und Sprache einstellen. Eine Einstellung in der Benutzerbericht Einrichtung hat höhere Priorität als die derDie Connector NAV Benutzer Einrichtung (z.B. E-Mail Absender).
+        <description>Die Connector NAV Benutzerbericht Einrichtung Mittels der Benutzerbericht Einrichtung lassen sich individuellere Voreinstellungen pro Benutzer, Bericht und Sprache einstellen. Eine Einstellung in der Benutzerbericht Einrichtung hat höhere Priorität als die der Connector NAV Benutzer Einrichtung (z.B. E-Mail Absender).
 Aktionen Connector NAV Benutzerbericht Einrichtung, Aktionen
    Aktionenbeschreibung      Bodytext/SMS Bodytext
 Anhangsdatei 1 - 4 Über diese Aktionen kann das gewünschte Dokument angezeigt werden.   Briefpapier Client/Server</description>
@@ -2102,6 +2111,15 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         
         <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
         <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
+        <description>Neu und geplant Version 1.0.1.5  Korrekturen Unterstützung von Servicerechnungen und Servicegutschriften  Geplante Funktionen für zukünftige Versionen  Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>

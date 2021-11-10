@@ -1383,6 +1383,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3984,6 +3999,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/"
                 />
   </url>
   
