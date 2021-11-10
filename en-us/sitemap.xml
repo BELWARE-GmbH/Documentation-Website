@@ -1218,11 +1218,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/countries/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/terms-of-use/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4245,6 +4240,11 @@
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/september/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/countries/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
