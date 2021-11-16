@@ -491,12 +491,12 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       </item>
       
       <item>
-        <title>V1.0.0.7 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</link>
+        <title>V1.0.0.8 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</guid>
-        <description>Neu und geplant Version 1.0.0.7  Fehlerkorrekturen Verbesserung der Übersetzung Dokumentenanhänge als E-Mailanhang  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
+        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</guid>
+        <description>Neu und geplant Version 1.0.0.8  Fehlerkorrektur bei Übernahme der Anhänge  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
       </item>
       
       <item>
@@ -1237,12 +1237,12 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.0.7 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
-        <description>Neu und geplant Version 1.0.0.5  Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
+        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</guid>
+        <description>Neu und geplant Version 1.0.0.7  Fehlerkorrekturen Verbesserung der Übersetzung Dokumentenanhänge als E-Mailanhang  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
       </item>
       
       <item>
@@ -1622,12 +1622,12 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
       </item>
       
       <item>
-        <title>V1.0.0.4 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
-        <description>Neu und geplant Version 1.0.0.4  Unbegrenzte Menge an Standardanhängen pro Dokument Anpassung an die Mail Experience  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
+        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
+        <description>Neu und geplant Version 1.0.0.5  Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
       </item>
       
       <item>
@@ -1942,12 +1942,12 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
       </item>
       
       <item>
-        <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
+        <title>V1.0.0.4 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
-        <description>Neu und geplant Version 1.0.0.3  Unbegrenzte Menge an Anhängen im Dialog Unbegrenzt viele Standardanhänge pro Bericht festlegen Unbegrenzt viele Standardanhänge pro Kunde/Bericht Auf einen bestimmten Zeitraum eingeschränkte Standardanhänge Kompatibel mit allen gängigen Dateitypen  Geplante Funktionen für zukünftige Versionen  Unbegrenzte Menge an Standardanhängen pro Dokument  </description>
+        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
+        <description>Neu und geplant Version 1.0.0.4  Unbegrenzte Menge an Standardanhängen pro Dokument Anpassung an die Mail Experience  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
       </item>
       
       <item>
@@ -2103,6 +2103,15 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         <guid>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Einrichtung Überprüfen der Steuerkategorie Zuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der MwSt.-Buchungsmatrix zu finden, diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
 Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie hier finden. In den meisten Fällen werden Sie nur E S und Z benötigen.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
+        <description>Neu und geplant Version 1.0.0.3  Unbegrenzte Menge an Anhängen im Dialog Unbegrenzt viele Standardanhänge pro Bericht festlegen Unbegrenzt viele Standardanhänge pro Kunde/Bericht Auf einen bestimmten Zeitraum eingeschränkte Standardanhänge Kompatibel mit allen gängigen Dateitypen  Geplante Funktionen für zukünftige Versionen  Unbegrenzte Menge an Standardanhängen pro Dokument  </description>
       </item>
       
       <item>

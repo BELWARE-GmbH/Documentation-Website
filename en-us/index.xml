@@ -591,12 +591,12 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
-        <title>V1.0.0.7 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</link>
+        <title>V1.0.0.8 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</guid>
-        <description>New and planned Version 1.0.0.7  Bug fixes Improving the translation Document attachments as email attachments  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</guid>
+        <description>New and planned Version 1.0.0.8  Error correction during transfer of attachments  Planned features for future versions  Attachment functionalities on further levels  </description>
       </item>
       
       <item>
@@ -1242,12 +1242,12 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.0.7 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
-        <description>New and planned Version 1.0.0.5  Bug fixes  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</guid>
+        <description>New and planned Version 1.0.0.7  Bug fixes Improving the translation Document attachments as email attachments  Planned features for future versions  Attachment functionalities on further levels  </description>
       </item>
       
       <item>
@@ -1593,12 +1593,12 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
       </item>
       
       <item>
-        <title>V1.0.0.4 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
-        <description>New and planned Version 1.0.0.4  Unlimited amount of standard attachments per document Adaptation to the Mail Experience  Planned features for future versions  Attachment functionalities on further levels  </description>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</guid>
+        <description>New and planned Version 1.0.0.5  Bug fixes  Planned features for future versions  Attachment functionalities on further levels  </description>
       </item>
       
       <item>
@@ -1937,12 +1937,12 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
       </item>
       
       <item>
-        <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
+        <title>V1.0.0.4 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
-        <description>New and planned Version 1.0.0.3  Unlimited number of attachments in dialog Set unlimited amount of default attachments per report Unlimited amount of standard attachments per customer/report Standard attachments limited to a specific time period Compatible with all common file types  Planned features for future versions  Unlimited amount of standard attachments per document  </description>
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
+        <description>New and planned Version 1.0.0.4  Unlimited amount of standard attachments per document Adaptation to the Mail Experience  Planned features for future versions  Attachment functionalities on further levels  </description>
       </item>
       
       <item>
@@ -2098,6 +2098,15 @@ Here you should now fill the field “Tax category” with the respective design
         <guid>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</guid>
+        <description>New and planned Version 1.0.0.3  Unlimited number of attachments in dialog Set unlimited amount of default attachments per report Unlimited amount of standard attachments per customer/report Standard attachments limited to a specific time period Compatible with all common file types  Planned features for future versions  Unlimited amount of standard attachments per document  </description>
       </item>
       
       <item>
