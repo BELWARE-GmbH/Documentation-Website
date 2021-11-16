@@ -188,7 +188,7 @@ Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</de
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
-        <description>Erste Schritte E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Setup&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+        <description>Erste Schritte E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Eirichtung&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
       </item>
       
@@ -509,30 +509,30 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       </item>
       
       <item>
+        <title>V1.0.1.10 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.10/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.10/</guid>
+        <description>Neu und geplant Version 1.0.1.10  Ländercodes werden bei Installation automatisch eingelesen und in die Tabelle &amp;ldquo;Länder/Region&amp;rdquo; geschrieben Globale Voreinstellung für Dialog und Briefparameter in der Page &amp;ldquo;Connector 365 Einrichtung&amp;rdquo; möglich &amp;ldquo;Berichtsauswahl Verkauf&amp;rdquo; und &amp;ldquo;Berichtsauswahl Mahnung&amp;rdquo; um neues Feld &amp;ldquo;Für E-POST nutzen&amp;rdquo; ergänzt. Nur Berichte, bei welchen der Haken gesetzt ist werden berücksichtigt. Testzeitraum auf 30 Tage geändert. Zuvor waren hier 5 Gratisbriefe möglich.  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.11 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</guid>
+        <description>Neu und geplant Version 1.0.1.11  Dokumentlayout übersteuert nun die Berichtsauswahl je Verwendung. Fehlerkorrektur Dialog: Unterpage &amp;ldquo;Anhänge&amp;rdquo; wurde doppelt angezeigt. Es wird nun immer das richtige E-Mail Layout genommen.  Geplante Funktionen für zukünftige Versionen  Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
+      </item>
+      
+      <item>
         <title>V1.0.1.3 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
         <description>Neu und geplant Version 1.0.1.3  Warnung beim schließen des CTI-Clients Änderung der Einrichtung des Moduls  Geplante Funktionen für zukünftige Versionen  Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.3/</guid>
-        <description>Neu und geplant Version 1.0.1.3  Fehlerkorrektur in der Einrichtung  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
-        <description>Neu und geplant Version 1.0.1.3  Korrekturen Integration zu Connector 365 Easy Batch  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -880,6 +880,17 @@ Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience 
       </item>
       
       <item>
+        <title>Berichtsauswahl</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/</guid>
+        <description>Erste Schritte Berichtsauswahl Vor dem ersten Versand, muss in der Berichtsauswahl die Berichte für den E-POST Versand festgelegt werden. Aktuell gibt es diese Möglichkeit in &amp;ldquo;Berichtsauswahl Verkauf&amp;rdquo; und &amp;ldquo;Berichtsauswahl Mahnung&amp;rdquo;
+[SCREENSHOT]
+Nur Berichte bei denen der Haken in der Option &amp;ldquo;Für E-POST nutzen&amp;rdquo; gesetzt ist, werden berücksichtigt.</description>
+      </item>
+      
+      <item>
         <title>Bilder verknüpfen</title>
         <link>https://docs.belware.de/de-de/connectornav/html-word/link_pics/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -981,16 +992,6 @@ Register Codeunit Connector NAV Konfiguration, Register Codeunit
         <description>Kontakte hinzufügen Um das Segment versenden zu können, müssen zuerst in den „Zeilen“ die Empfänger eingetragen werden. Dies können Sie entweder manuell, direkt in der Tabelle machen oder über die Funktion „Kontakte hinzufügen…“ im Menüband automatisch setzen.
 Wenn Sie auf „Kontakte hinzufügen…“ klicken, öffnet sich ein neues Fenster in dem Sie, mit Hilfe von verschiedenen Suchkriterien, große Mengen an Kontakten gleichzeitig Ihrem Segment hinzufügen können.
 Ihr Segment sollte nun gefüllt sein:</description>
-      </item>
-      
-      <item>
-        <title>Ländernamen</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/countrynames/</guid>
-        <description>Erste Schritte Ländercodes Die Deutsche Post benutzt im Versand Ländernamen nach ISO 3166-1, wenn Sie die Connector 365 E-POST App* nutzen möchten, müssen Sie also zuvor in Ihrer Business Central Umgebung die Ländernamen in der entsprechenden Einrichtung anpassen.
-Die Einrichtung dafür finden Sie in der Suche unter &amp;ldquo;Länder/Regionen&amp;rdquo;. Sie müssen in dieser Einrichtung nur Ländernamen ändern welche auch von Ihnen Briefe erhalten, der Inlandsversand ist nicht betroffen. Bitte schreiben Sie die Ländernamen in Großbuchstaben.</description>
       </item>
       
       <item>
@@ -1254,21 +1255,21 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       </item>
       
       <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.1  Die Connector 365 XRechnung App stützt nun auf unsere Basis App Hinzufügen von Events zur Steuerung der XRechnung Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
+        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.3/</guid>
+        <description>Neu und geplant Version 1.0.1.3  Fehlerkorrektur in der Einrichtung  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
       </item>
       
       <item>
-        <title>V1.0.1.2 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.2/</link>
+        <title>V1.0.1.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.2/</guid>
-        <description>Neu und geplant Version 1.0.1.2  Korrekturen Integration zu Connector 365 Easy Batch  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
+        <description>Neu und geplant Version 1.0.1.5  Korrekturen Unterstützung von Servicerechnungen und Servicegutschriften  Geplante Funktionen für zukünftige Versionen  Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -1639,21 +1640,21 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.2 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
+        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.2/</guid>
+        <description>Neu und geplant Version 1.0.1.2  Korrekturen Integration zu Connector 365 Easy Batch  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
       </item>
       
       <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Korrektur der Übersetzung  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
+        <description>Neu und geplant Version 1.0.1.3  Korrekturen Integration zu Connector 365 Easy Batch  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -1941,15 +1942,6 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
       </item>
       
       <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.3 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1959,12 +1951,21 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Rollencenter Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
+        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Korrektur der Übersetzung  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
+        <description>Neu und geplant Version 1.0.1.1  Die Connector 365 XRechnung App stützt nun auf unsere Basis App Hinzufügen von Events zur Steuerung der XRechnung Fehlerkorrekturen  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -2105,21 +2106,21 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
+        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Versand weiterer Belegarten  Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge   Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Rollencenter Die Connector 365 XRechnung App stützt nun auf unsere Basis App  Geplante Funktionen für zukünftige Versionen  Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten  Geb. Service-Rechnungen Geb.</description>
       </item>
       
       <item>
-        <title>V1.0.1.5 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
-        <description>Neu und geplant Version 1.0.1.5  Korrekturen Unterstützung von Servicerechnungen und Servicegutschriften  Geplante Funktionen für zukünftige Versionen  Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01  </description>
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst  Geplante Funktionen für zukünftige Versionen  Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01  </description>
       </item>
       
       <item>
@@ -2226,6 +2227,15 @@ Dort finden Sie 2 Felder, Drucker für den Vorgang Ausdruck bzw. Ausdruck Server
       </item>
       
       <item>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <description>Neu und geplant Version 1.0.0.5  Versenden von E-POST Briefen aus geb. Verkaufsrechnungen Versand in Farbe bzw. S/W Einschreiben (Einwurf/Rückschein) Archivierung versendeter Briefe Auslandsversand  Geplante Funktionen für zukünftige Versionen  Weitere Belegarten  Lieferscheine Verkaufsaufträge Angebote   Kleine Verbesserungen  </description>
+      </item>
+      
+      <item>
         <title>Videos</title>
         <link>https://docs.belware.de/de-de/apps/e-post/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2305,6 +2315,15 @@ Zu den Dokumentationen
 Neue Features: Modul XRechnung
 Wir haben ein neues Modul veröffentlicht, dass es erlaubt, Ihnen XRechnungen direkt aus Dynamics zu versenden. Weitere Informationen zu den genauen Funktionen des Moduls finden Sie auf unserer Hauptseite.
 Zur Veranschaulichung haben wir auch ein Video für Sie vorbereitet aus unserem letzten Webcast zusammen mit einer Präsentation.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1  Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll  Geplante Funktionen für zukünftige Versionen  Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s  </description>
       </item>
       
       <item>

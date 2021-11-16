@@ -609,30 +609,30 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
+        <title>V1.0.1.10 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.10/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.10/</guid>
+        <description>New and planned Version 1.0.1.10  Country codes are automatically read during installation and written to the &amp;ldquo;Countries/Region&amp;rdquo; table. Global presetting for dialog and letter parameters possible in the &amp;ldquo;Connector 365 Setup&amp;rdquo; page. New field &amp;ldquo;Use for E-POST&amp;rdquo; added to &amp;ldquo;Report selection sales&amp;rdquo; and &amp;ldquo;Report selection reminder&amp;rdquo;. Only reports with a check mark are taken into account. Test period changed to 30 days. Previously, 5 free letters were possible here.  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.11 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/</guid>
+        <description>New and planned Version 1.0.1.11  Document layout now overrides report selection per usage. Error correction dialog: Subpage &amp;ldquo;Attachments&amp;rdquo; was displayed twice. The correct e-mail layout is now always used.  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+      </item>
+      
+      <item>
         <title>V1.0.1.3 &amp; Roadmap</title>
         <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
         <description>New and planned Version 1.0.1.3  Warning when closing the CTI Client Changes to the module setup  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.3/</guid>
-        <description>New and planned Version 1.0.1.3  Bug fixes in the setup  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
-        <description>New and planned Version 1.0.1.3  Bug fixes Integration to Easy Batch  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -804,16 +804,6 @@ As soon as you have selected the vouchers for sending, you can start the batch.<
 Before you start setting up the Connector NAV, your individual configuration data is loaded. To do this, press the Configuration setting action at the beginning. The configuration provides information about your acquired modules.
 Register Codeunit Connector NAV configuration, Register Codeunit
    Field describtion      Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit For each acquired module, the corresponding object number of the code unit was entered.</description>
-      </item>
-      
-      <item>
-        <title>Country names</title>
-        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/countrynames/</guid>
-        <description>First Steps Country names Deutsche Post uses country names according to ISO 3166-1 in shipping, so if you want to use the Connector 365 E-POST App, you have to adjust the country names in the appropriate setup in your Business Central environment beforehand.
-You can find the setup for this in the search under &amp;ldquo;Countries/Regions&amp;rdquo;. You only need to change country names in this setup which also receive letters from you, domestic shipping is not affected.</description>
       </item>
       
       <item>
@@ -1102,6 +1092,16 @@ Start by opening the report selection of the report you want, in this example we
       </item>
       
       <item>
+        <title>Report selection</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/</guid>
+        <description>First steps Report selection Before sending the first letter, the reports for sending with E-POST must be defined in the report selection. Currently, this option is available in &amp;ldquo;Report selection sales&amp;rdquo; and &amp;ldquo;Report selection reminder&amp;rdquo;.
+Only reports with a check mark in the &amp;ldquo;Use for E-POST&amp;rdquo; option are taken into account.</description>
+      </item>
+      
+      <item>
         <title>Sending via e-mail</title>
         <link>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/send_email/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1260,21 +1260,21 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
       </item>
       
       <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
-        <description>New and planned Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.3/</guid>
+        <description>New and planned Version 1.0.1.3  Bug fixes in the setup  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
       </item>
       
       <item>
-        <title>V1.0.1.2 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.2/</link>
+        <title>V1.0.1.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.2/</guid>
-        <description>New and planned Version 1.0.1.2  Bug fixes Integration to Easy Batch  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
+        <description>New and planned Version 1.0.1.3  Bug fixes Support for service invoices and service credit notes  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -1611,21 +1611,21 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.2 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.2/</guid>
+        <description>New and planned Version 1.0.1.2  Bug fixes Integration to Easy Batch  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
       </item>
       
       <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
-        <description>New and plannedd Version 1.0.1.1  Corrections in the translation  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
+        <description>New and planned Version 1.0.1.3  Bug fixes Integration to Easy Batch  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -1937,15 +1937,6 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
       </item>
       
       <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.3 &amp; Roadmap</title>
         <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1955,16 +1946,21 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
-        <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
- Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
-  Sending status (joblist) in the factbox per document in the overview
-  Two boxes for the joblist in the Role center
-  The Connector 365 XRechnung app now relies on our base app</description>
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.1/</guid>
+        <description>New and plannedd Version 1.0.1.1  Corrections in the translation  Planned functions for future versions  Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos)  Pos. service invoices Pos. service credit memos Purchase orders    </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.1/</guid>
+        <description>New and planned Version 1.0.1.1  The Connector 365 XRechnung app now relies on our base app Adding events to control the XRechnung Bug fixes  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -2105,21 +2101,25 @@ Here you should now fill the field “Tax category” with the respective design
       </item>
       
       <item>
-        <title>V1.0.0.5 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
-        <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.1.0/</guid>
+        <description>New and plannedd Version 1.0.1.0   Sending of other document types (credit notes, reminders, quotations, orders)
+ Posted Sales Credit Memos Issued Reminders Quotes Sales orders    Sending duplex letters
+  Sending status (joblist) in the factbox per document in the overview
+  Two boxes for the joblist in the Role center
+  The Connector 365 XRechnung app now relies on our base app</description>
       </item>
       
       <item>
-        <title>V1.0.1.5 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
-        <description>New and planned Version 1.0.1.3  Bug fixes Support for service invoices and service credit notes  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  Planned features for future versions  Service invoices and service credit notes Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
@@ -2212,6 +2212,24 @@ There you will find 2 fields, Printer for the process Printout or Printout Serve
         <description>Setting up a task queue for background processing The task queue setup is located in the menu under Administration-&amp;gt; IT Administration-&amp;gt; Application Setup-&amp;gt; Task Queue.
 Microsoft Dynamics NAV, task queue
 To execute Connector NAV server jobs, a task queue item is created with the corresponding code unit 5402516. For this item to run, a task queue with corresponding service must be created. There are several ways to do this. In the following example, a task queue is created with the administrator user without any further setup on the server.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Creating an XRechnung XML file Sending the XRechnung by mail using the standard BC Mail dialog. Sending of a validation report, which confirms the conformity of the invoice to the recipient. Displaying the validation report for the user in case of &amp;ldquo;non-conformity&amp;rdquo; Aborting the sending in case of &amp;ldquo;non-conformity&amp;rdquo; Improvement of the WebService query / DLL for the check report  Planned features for future versions  Status tracking in Role center Invoice accompanying attachments Revised XRechnung dialog Syntax check of Ident ID Extension of input for Ident IDs XRechnung version adapted  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/v1.0.0.5/</guid>
+        <description>New and planned Version 1.0.0.5  Sending E-POST letters from posted sales invoices Shipping in color or b/w Registered mail (posting/return receipt) Archiving sent letters Shipping abroad  Planned functions for future versions  Other document types  Delivery bills Sales orders Quotes   Small improvements  </description>
       </item>
       
       <item>

@@ -52,6 +52,14 @@
         "id" : "https://docs.belware.de/de-de/apps/xrechnung/",
         "url" : "https://docs.belware.de/de-de/apps/xrechnung/",
         "content_html" : "\u003ch3 id=\"connector-365-xrechnung-online-hilfe\"\u003eConnector 365 XRechnung Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource XRechnungs App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/connector-on-appsource/xrechnung/support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Unterstützte Länder",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/countries/",
+        "url" : "https://docs.belware.de/de-de/apps/countries/",
+        "content_html" : "\u003ch3 id=\"unsere-lösunge-unterstützt-zur-zeit-die-folgenden-märkte\"\u003eUnsere Lösunge unterstützt zur Zeit die folgenden Märkte:\u003c/h3\u003e\n\u003cp\u003eÄgypten, Algerien, Argentinien, Australien, Bangladesch, Belgien, Brasilien, Bulgarien, Chile, Dänemark, Deutschland, Estland, Färöer-Inseln, Finnland, Frankreich, Griechenland, Grönland, Hongkong SAR, Indien, Indonesien, Irland, Island, Italien, Japan, Kanada, Kenia, Kolumbien, Korea, Kroatien, Lettland, Libanon, Litauen, Luxemburg, Malaysia, Malta, Tschechien, Ungarn, Mexiko, Marokko, Myanmar, Niederlande, Neuseeland, Nigeria, Norwegen, Peru, Philippinen, Polen, Portugal, Puerto Rico, Katar, Rumänien, Saudi-Arabien, Serbien, Singapur, Slowakei, Slowenien, Südafrika, Spanien, Sri Lanka, Schweden, Schweiz, Taiwan, Thailand, Tunesien, Türkei, Ukraine, Vereinigte Arabische Emirate, Vereinigtes Königreich, Vereinigte Staaten, Vietnam\u003c/p\u003e\n"
     }
     ]
 }
