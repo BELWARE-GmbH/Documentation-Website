@@ -31,7 +31,6 @@ Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattde
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/</guid>
         <description>Erste Schritte Berichtsauswahl Vor dem ersten Versand, muss in der Berichtsauswahl die Berichte für den E-POST Versand festgelegt werden. Aktuell gibt es diese Möglichkeit in &amp;ldquo;Berichtsauswahl Verkauf&amp;rdquo; und &amp;ldquo;Berichtsauswahl Mahnung&amp;rdquo;
-[SCREENSHOT]
 Nur Berichte bei denen der Haken in der Option &amp;ldquo;Für E-POST nutzen&amp;rdquo; gesetzt ist, werden berücksichtigt.</description>
       </item>
       

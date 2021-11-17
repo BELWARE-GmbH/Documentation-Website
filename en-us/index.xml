@@ -573,21 +573,21 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.2 &amp; Roadmap</title>
         <link>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
         <description>Neu und geplant Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.6 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
+        <description>New and planned Version 1.0.0.6  Logic when selecting the report layout aligned with the standard  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
       </item>
       
       <item>
@@ -623,16 +623,16 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/</guid>
-        <description>New and planned Version 1.0.1.11  Document layout now overrides report selection per usage. Error correction dialog: Subpage &amp;ldquo;Attachments&amp;rdquo; was displayed twice. The correct e-mail layout is now always used.  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
+        <description>New and planned Version 1.0.1.11  Document layout now overrides report selection per usage. Error correction dialog: Subpage &amp;ldquo;Attachments&amp;rdquo; was displayed twice. The correct e-mail layout is now always used. Service area is now available for XRechnung.  Planned features for future versions  Extension and improvement of the XRechnung setting on the customer side Ident ID 1:N Improvement Dimension Events Change from KoSit to 2.01  </description>
       </item>
       
       <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
+        <title>V1.0.1.8 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
-        <description>New and planned Version 1.0.1.3  Warning when closing the CTI Client Changes to the module setup  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/</guid>
+        <description>New and planned Version 1.0.1.8  The phone notes can now be edited afterwards. It is possible to set when the CTI card opens.  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -1233,6 +1233,15 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
       </item>
       
       <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
         <link>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1251,12 +1260,12 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
       </item>
       
       <item>
-        <title>V1.0.1.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
-        <description>New and planned Version 1.0.1.1  CTI status in Role center Button to open the CTI Client in the Role center Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
+        <description>New and planned Version 1.0.1.3  Warning when closing the CTI Client Changes to the module setup  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -1602,12 +1611,12 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
+        <title>V1.0.1.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
-        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the Role center Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.1/</guid>
+        <description>New and planned Version 1.0.1.1  CTI status in Role center Button to open the CTI Client in the Role center Automatic conversion of phone numbers Freely definable CTI page Web service is generated automatically  Planned functions for future versions  Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes Hiding the CTI functions in the Role center for non-CTI users  </description>
       </item>
       
       <item>
@@ -1928,21 +1937,21 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
       </item>
       
       <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
-        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in Role center Show unknown numbers on incoming calls  </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.4 &amp; Roadmap</title>
         <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
         <description>New and planned Version 1.0.0.4  Unlimited amount of standard attachments per document Adaptation to the Mail Experience  Planned features for future versions  Attachment functionalities on further levels  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.0/</guid>
+        <description>New and planned Version 1.0.1.0  Minor corrections Click to Dial for phone and mobile number Show unknown numbers on incoming calls The CTI client opens automatically when you log in to Business Central  Planned functions for future versions  Refining the Role center Automatic creation of contacts for unknown numbers Customization of the job list to match the app Editable CTI notes  </description>
       </item>
       
       <item>
@@ -2098,6 +2107,15 @@ Here you should now fill the field “Tax category” with the respective design
         <guid>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-tax-category/</guid>
         <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.0.1/</guid>
+        <description>New and planned Version 1.0.0.1  Displaying contact data during incoming calls No missed calls, thanks to automatic call tracking Note function to write down important call details Automatic logging of start times and the length of every call  Planned functions for future versions  Call list extension - Global job list Call list in Role center Show unknown numbers on incoming calls  </description>
       </item>
       
       <item>
