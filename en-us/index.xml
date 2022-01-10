@@ -113,6 +113,17 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Use the search function to open the Marketplace for Extensions and open it.
+The Microsoft AppSource will open. There you can use the search function again to find Connector 365 Mail Subject Plus. Click on Free Trial to start the installation. Before the installation starts you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -295,6 +306,15 @@ With the Connector 365 Easy Batch it is possible to intelligently send multiple 
       
       <item>
         <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/first-steps/introduction/</guid>
+        <description>First steps Introduction When you send emails via Microsoft Dynamics 365 Business Central, the system automatically generates a subject line for you. However, this automatically generated subject contains only your company name, the type of document and the number. This is often not enough, and you then have to manually add something to the generated subject or change it altogether because your company has certain requirements for your subject lines.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -408,6 +428,17 @@ system. The priority system works as follows, from lowest zu highest:
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Report Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For this example, we have set up the default attachments in invoice shipping as follows:
 In this example we have attached two PDFs and a time-limited image.</description>
+      </item>
+      
+      <item>
+        <title>Report selection</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/first-steps/setup/reportselection/</guid>
+        <description>Setup Report selection Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, however, reports from the areas of sales, purchasing &amp;amp; reminder are supported.
+in the report selection you will find the new field &amp;ldquo;Email subject&amp;rdquo;, you can use this to define your subject. This is freely definable, but static.
+In order to set a dynamic subject, you must first define placeholders.</description>
       </item>
       
       <item>
@@ -526,6 +557,16 @@ Now on the page open a new line enter the following parameters exactly:</descrip
         <description>Status overview setup recommendation The job list can be intimidating if unsorted, so in this document we will show you an example of how to set up your job list.
 Overview &amp;ldquo;Select columns&amp;hellip;&amp;quot;
            Lot. no. The sequence no. of the job. Name Name of the recipient.   Job direction Is the job incoming or outgoing. Email sender Who sent the email.</description>
+      </item>
+      
+      <item>
+        <title>Subject in the mail dialog</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/working-with-mail-subject-plus/maildialogue/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/working-with-mail-subject-plus/maildialogue/</guid>
+        <description>Working with Mail Subject Plus Subject in mail dialog After you have set up - Whether in document layouts or report selection. You are now ready to actively use your previously defined subject(s).
+First open one of the reports you have set up and then open the desired document (if applicable, that of a customer/vendor you have set up). Now click on &amp;ldquo;Print/Send &amp;ldquo; -&amp;gt; &amp;ldquo;Send by e-mail &amp;ldquo;. The dialog for sending the e-mail will open and instead of the standard subject you will now find the new subject defined by you.</description>
       </item>
       
       <item>
@@ -747,6 +788,19 @@ Connector 365 Mail Sender Plus is available for the following BC licensing:</des
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
+After downloading, the app can be tested free of charge for 30 days.
+In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
+Your costs:
+   Monthly subscription incl. maintenance per environment with annual payment and term*     0,90€       Monthly Subscription incl.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -849,6 +903,16 @@ Two PDFs are attached, each with the standards set up per document/report</descr
         <guid>https://docs.belware.de/en-us/connectornav/matrix/definitions/</guid>
         <description>Basic definitions In the course of the documentation, certain terms will be used. We would like to clarify these and their meaning beforehand.
    Field no. Field name English Field name German     1 Sell-to Customer No. Sell to Debit No.   2 Sell-to Customer Name Sell to Name   3 Sell to Contact No. Sell to Contact No.        Field No.</description>
+      </item>
+      
+      <item>
+        <title>Document layouts</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/first-steps/setup/documentlayouts/</guid>
+        <description>Setup Document layouts In addition to the report selection, you can also define a subject individually per customer/vendor - this setting will then overwrite the setting from the report selection, if available.
+First navigate to the desired customer or vendor. Once there, click &amp;ldquo;Navigate&amp;rdquo; -&amp;gt; &amp;ldquo;Document layouts&amp;rdquo; in the menu bar. Before you set up the subject, you must first set up the usage or report. Once this is done you can use the &amp;ldquo;Email Subject&amp;rdquo; field to set your desired subject.</description>
       </item>
       
       <item>
@@ -1048,6 +1112,27 @@ If you wish a test phase, you will receive the desired objects for one user and 
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Subject Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Mail Subject Plus App the publishing of the Connector Base &amp;amp; Mail Subject Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; purchase OnPrem You have the possibility to test our Connector 365 Mail Subject Plus App without obligation or to purchase it directly. For this we need some information from you.
+To the form
+If you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1239,6 +1324,15 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
         
         <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
         <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/new-and-planned/v1.0.0.0/</guid>
+        <description>New and planned Version 1.0.0.0  Freely definable subjects per report Freely definable subjects per vendor/customer via document layouts Own placeholders for dynamic subjects  Planned functions for future versions  Increase length of desired placeholders Multilingual placeholders Preview function  </description>
       </item>
       
       <item>
@@ -2065,6 +2159,20 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
         <link>https://docs.belware.de/en-us/connector-on-appsource/xrechnung/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2297,6 +2405,15 @@ Setup of the App </description>
         <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
 Using the App </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/mailsubject/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailsubject/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Mail Subject Plus app, each video covers a special topic</description>
       </item>
       
       <item>

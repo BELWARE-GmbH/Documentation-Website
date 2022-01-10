@@ -46,6 +46,14 @@
         "content_html" : "\u003ch3 id=\"connector-365-mail-sender-plus-online-help\"\u003eConnector 365 Mail Sender Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/mail-sender-plus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
+        "title" : "Mail Subject Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mailsubject/",
+        "url" : "https://docs.belware.de/en-us/apps/mailsubject/",
+        "content_html" : "\u003ch3 id=\"connector-365-mail-subject-plus-online-help\"\u003eConnector 365 Mail Subject Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Subject Plus App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You can find the necessary Konktatin information on the \u003ca href=\"/en-us/apps/mailsubject/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "XRechnung",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
@@ -59,7 +67,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/countries/",
         "url" : "https://docs.belware.de/en-us/apps/countries/",
-        "content_html" : "\u003ch3 id=\"our-solutions-currently-support-the-following-markets\"\u003eOur Solutions currently support the following markets:\u003c/h3\u003e\n\u003cp\u003eAlgeria, Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Canada, Chile, Colombia, Croatia, Czechia, Denmark, Egypt, Estonia, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hong Kong SAR, Hungary, Iceland, India, Indonesia, Ireland, Italy, Japan, Kenya, Korea, Latvia, Lebanon, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Morocco, Myanmar, Netherlands, New Zealand, Nigeria, Norway, Peru, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, United States, Vietnam\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"our-solutions-currently-support-the-following-markets\"\u003eOur Solutions currently support the following markets:\u003c/h3\u003e\n\u003cp\u003eAlgeria, Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Canada, Chile, Colombia, Croatia, Denmark, Egypt, Estonia, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hong Kong (SAR), Iceland, India, Indonesia, Ireland, Italy, Japan, Kenya, Korea (Republic), Latvia, Lebanon, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Mexico, Myanmar, Netherlands, New Zealand, Nigeria, Norway, Austria, Peru, Philippines, Poland, Portugal, Puerto Rico, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Czech Republic, Tunisia, Turkey, Ukraine, Hungary,United Arab Emirates, United States, United Kingdom, Vietnam\u003c/p\u003e\n"
     }
     ]
 }

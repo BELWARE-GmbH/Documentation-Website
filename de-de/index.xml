@@ -93,6 +93,17 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Subject Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -111,6 +122,27 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
  Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1   Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen. Die Funktion ist OnPrem inklusive. &amp;#x21a9;&amp;#xfe0e;
    </description>
+      </item>
+      
+      <item>
+        <title>Berichtsauswahl</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/first-steps/setup/reportselection/</guid>
+        <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf &amp;amp; Mahnung unterstützt.
+in der Berichtsauswahl finden Sie das neue Feld &amp;ldquo;E-Mail Betreff&amp;rdquo;, dieses können Sie nutzen um Ihren Betreff zu definieren. Dieser ist frei definierbar, jedoch statisch.
+Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalter festlegen.</description>
+      </item>
+      
+      <item>
+        <title>Betreff im Mail-Dialog</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/working-with-mail-subject-plus/maildialogue/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/working-with-mail-subject-plus/maildialogue/</guid>
+        <description>Arbeiten mit Mail Subject Plus Betreff im Mail-Dialog Nachdem Sie die Einrichtung vorgenommen haben - Egal ob in Dokumentenlayouts oder der Berichtsauswahl. Sind Sie jetzt bereit Ihre(n) zuvor definierten Betreff(s) aktiv zu nutzen.
+Öffnen Sie zunächst einen der Belege die Sie eingerichtet haben und anschließend den gewünschten Beleg (ggf. den eines eingerichteten Debitor/Kreditor). Klicken Sie nun auf &amp;ldquo;Drucken/Senden&amp;rdquo; -&amp;gt; &amp;ldquo;Per E-Mail senden&amp;rdquo;. Es öffnet sich der Dialog für den Mailversand und an Stelle des Standardbetreffs finden Sie nun den neuen von Ihnen definierte Betreff stehen.</description>
       </item>
       
       <item>
@@ -249,6 +281,16 @@ Mit dem Connector 365 Easy Batch ist es möglich intelligent gesteuert mehrere B
         
         <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Connector 365 Mail Attachment Plus - Ihre Lösung für Anhänge in Microsoft Dynamics 365 Business Central Finden Sie sich auch in Situationen wieder, in denen Sie mehr als nur den Bericht an eine E-Mail anhängen möchten? Wie z. B. Ihre AGB, Entwürfe oder zusätzliche Informationen für Kunden, aber die Standardeinstellungen von Microsoft Dynamics 365 Business Central hindert Sie daran? Das zwingt Sie dazu, den Workflow zu unterbrechen und diese Dateien zu versenden, nachdem der Empfänger den Bericht bereits erhalten hat&amp;hellip; Im schlimmsten Fall werden Sie durch andere Arbeiten abgelenkt und vergessen, die E-Mail zu versenden.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Wenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.
+Mit der Connector 365 Mail Subject Plus App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor.</description>
       </item>
       
       <item>
@@ -752,6 +794,19 @@ Zum Formular</description>
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann die App 30 Tage kostenlos getestet werden.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Ihre Kosten:
+   Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit*     0,90€       Monatliche Subscription inkl.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -945,6 +1000,16 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
 Die Erzeugung von PDF Dateien aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
 Ausschnitt Beispielangebot Connector NAV Integration
    Aktionen      PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und zu dem entsprechenden Eintrag.</description>
+      </item>
+      
+      <item>
+        <title>Dokumentenlayouts</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/first-steps/setup/documentlayouts/</guid>
+        <description>Einrichtung Dokumentenlayouts Neben der Berichtsauswahl, können Sie auch individuell pro Debitor einen Betreff festlegen - diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
+Navigieren Sie zunächst zu dem gewünschten Debitor bzw. Kreditor. Dort angekommen, klicken Sie in der Menüleiste auf &amp;ldquo;Navigieren&amp;rdquo; -&amp;gt; &amp;ldquo;Dokumentenlayouts&amp;rdquo;. Bevor Sie den Betreff einrichten, müssen Sie zunächst die Verwendung bzw. den Bericht einrichten. Sobald dies vorgenommen wurde können Sie über das Feld &amp;ldquo;E-Mail Betreff&amp;rdquo; Ihren gewünschten Betreff festlegen.</description>
       </item>
       
       <item>
@@ -1160,6 +1225,27 @@ Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Subject Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Mail Subject Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Subject Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Mail Subject Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1233,6 +1319,15 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
         
         <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
         <description>Neu und geplant Version 1.0.0.0  Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen  Geplante Funktionen für zukünftige Versionen  Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/new-and-planned/v1.0.0.0/</guid>
+        <description>Neu und geplant Version 1.0.0.0  Frei definierbare Betreffs je Bericht Frei definierbare Betreffs je Kreditor/Debitor via Dokumentenlayouts Eigene Platzhalter für dynamische Betreffs  Geplante Funktionen für zukünftige Versionen  Länge der gewünschten Platzhalter erhöhen Mehrsprachige Platzhalter Vorschaufunktion  </description>
       </item>
       
       <item>
@@ -2055,6 +2150,20 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Hilfe &amp; Support</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
         <link>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2298,6 +2407,15 @@ Einrichtung der App </description>
         <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
 Nutzung der App </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Subject Plus App, jedes Video behandelt ein spezielles Thema</description>
       </item>
       
       <item>
