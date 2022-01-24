@@ -528,6 +528,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/introduction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -708,6 +723,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -779,6 +809,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/legalnotice/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/installation/ipaper/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/installation/ipaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/installation/ipaper/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/ipaper/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/ipaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/ipaper/"
                 />
   </url>
   
@@ -1113,6 +1173,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1268,6 +1343,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1294,21 +1384,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
                 />
   </url>
   
@@ -1913,6 +1988,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/working-with-pdfpaper/stationery/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/working-with-pdfpaper/stationery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/working-with-pdfpaper/stationery/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-customer/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2213,6 +2303,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2423,6 +2528,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2449,6 +2584,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/pdfpaper/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/pdfpaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/pdfpaper/"
                 />
   </url>
   
@@ -2573,6 +2723,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2648,6 +2813,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2663,17 +2843,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</loc>
+    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.9/"
                 />
   </url>
   
@@ -2858,6 +3038,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/working-with-pdfpaper/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/working-with-pdfpaper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/working-with-pdfpaper/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2959,6 +3154,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/html-word/bodytexts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/reportselection/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/reportselection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/reportselection/"
                 />
   </url>
   
@@ -3353,17 +3563,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</loc>
+    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/"
                 />
   </url>
   
@@ -3548,6 +3758,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/documentlayouts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/documentlayouts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/documentlayouts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connectornav/msp/dialog/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3679,6 +3904,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/mailsubject/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/"
                 />
   </url>
   
@@ -3878,6 +4118,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connectornav/fax/jobs/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3968,17 +4223,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</loc>
+    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.7/"
                 />
   </url>
   
@@ -4148,6 +4403,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/help-support/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/help-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4253,17 +4523,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</loc>
+    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.5/"
                 />
   </url>
   
@@ -4433,6 +4703,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.0.5/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4523,6 +4808,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/videos/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4609,6 +4909,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.3/"
                 />
   </url>
   
