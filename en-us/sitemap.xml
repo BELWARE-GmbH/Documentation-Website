@@ -138,6 +138,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mailsubject/first-steps/installation/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -453,6 +468,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/easybatch/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -678,6 +708,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mailsubject/first-steps/introduction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -809,6 +854,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail_attachment_plus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/"
                 />
   </url>
   
@@ -1263,6 +1323,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/setup/modules/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/setup/modules/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/setup/modules/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/setup_connectornav/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1499,6 +1574,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/updates/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/new-and-planned/v1.0.0.0/"
                 />
   </url>
   
@@ -1769,6 +1859,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/appsource/"
                 />
   </url>
   
@@ -2133,6 +2238,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/new-and-planned/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mailsubject/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2339,6 +2459,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/onprem/"
                 />
   </url>
   
@@ -2624,6 +2774,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/"
                 />
   </url>
   
@@ -3203,6 +3368,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3634,6 +3814,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail_attachment_plus/working-with-map/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/working-with-mep/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/working-with-mep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/working-with-mep/"
                 />
   </url>
   
@@ -4093,6 +4288,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mailsubject/first-steps/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4404,6 +4614,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail_attachment_plus/help-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/help-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/help-support/"
                 />
   </url>
   
@@ -4809,6 +5034,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail_attachment_plus/videos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/videos/"
                 />
   </url>
   

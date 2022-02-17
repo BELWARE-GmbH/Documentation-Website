@@ -113,6 +113,17 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 Mail Experience Plus. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/mailsubject/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -302,6 +313,15 @@ With the Connector 365 Easy Batch it is possible to intelligently send multiple 
         
         <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/introduction/</guid>
         <description>First steps Introduction Connector 365 Mail Attachment Plus - Your Attachment Solution in Microsoft Dynamics 365 Business Central Do you also find yourself in situations where you want to attach more than just the report to an email? Like your T&amp;amp;Cs, drafts or additional information for customers, but the default settings of Microsoft Dynamics 365 Business Central prevent you from doing so? This forces you to interrupt the workflow and send these files after the recipient has already received the report&amp;hellip;.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/introduction/</guid>
+        <description>First steps Introduction Thanks to the enhanced mail capabilities Microsoft Dynamics 365 Business Central received plenty of new Email functions which improves the experience when mailing directly from Dynamics 365 Business Central. Our Mail Plus apps aim to further improve that experience with quality of life functions that users might miss. To give easy access to these quality of life functions we have decided to roll them into one central app for users that desire the whole package of improvements - Mail Experience Plus.</description>
       </item>
       
       <item>
@@ -545,6 +565,16 @@ Then in the &amp;ldquo;PEPPOL Usage&amp;rdquo; column select the report in which
       </item>
       
       <item>
+        <title>Setting up the individual modules</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/setup/modules/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/setup/modules/</guid>
+        <description>Setup Setting up the individual modules The Connector 365 Mail Experience Plus app combines the 3 apps from our Mail Plus series into one power app. Below we will tell you how to set up each area.
+Mail Subject Plus area The Mail Subject Plus area is for adding your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.</description>
+      </item>
+      
+      <item>
         <title>Setup</title>
         <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -646,6 +676,15 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</guid>
+        <description>New and planned Version 1.0.0.0  Intelligent control of sender address per report via Mail Sender Plus Intelligent control of attachments at different levels via Mail Attachments Plus Intelligent control of subject line with placeholders via Mail Subject Plus  </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.10 &amp; Roadmap</title>
         <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.10/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -660,7 +699,7 @@ Please return at a later date, when we will have added further informative conte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</guid>
-        <description>Neu und geplant Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
+        <description>New and planned Version 1.0.0.2  Advanced mail setup with multiple senders Changeable sender address in dialog Set an address per user A default address per report A default address per vendor/customer  Planned functions for future versions  Customize to the Mail Experience  </description>
       </item>
       
       <item>
@@ -816,6 +855,19 @@ Your costs:
    Subscription incl. maintenance*     0,90€    *billed either monthly, quarterly or annually
 To the form
 Connector 365 Mail Sender Plus is available for the following BC licensing:</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
+After downloading, a user can use the App completely free.
+In case that more Users want to use the function, you can simply order more licenses via our form.
+Your costs:
+   Subscription incl. maintenance*     2,50€/User       Subscription incl. maintenance*     3,25€/User    We reserve the right to change prices in the event of functional enhancements.</description>
       </item>
       
       <item>
@@ -1138,6 +1190,27 @@ Publishing of the Connector 365 Base &amp;amp; Mail Attachment Plus App the publ
         
         <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
+To the form
+If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Mail Experience Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Mail Experience Plus App the publishing of the Connector Base &amp;amp; Mail Experience Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Experience Plus App without obligation or to purchase it directly. For this we need some information from you.
 To the form
 If you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
@@ -1851,6 +1924,17 @@ There you change the field “VAT Scheme“ to the code for the corresponding co
       </item>
       
       <item>
+        <title>Working with Mail Experience Plus</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/working-with-mep/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/working-with-mep/</guid>
+        <description>Working with Mail Experience Plus The Connector 365 Mail Experience Plus app combines the 3 apps from our Mail Plus series into one power app. Below we provide information on how to use each area.
+Mail Subject Plus area The Mail Subject Plus area is there to add your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.
+Working with Subject</description>
+      </item>
+      
+      <item>
         <title>Working with Mail Sender Plus</title>
         <link>https://docs.belware.de/en-us/apps/mail-sender-plus/working-with-msp/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2267,6 +2351,20 @@ Fax: +49 2362 788 90 56</description>
       
       <item>
         <title>Help &amp; Support</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
         <link>https://docs.belware.de/en-us/apps/mailsubject/help-support/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2536,6 +2634,15 @@ Setup of the App </description>
         <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
 Using the App </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/mailexperienceplus/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mailexperienceplus/videos/</guid>
+        <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic</description>
       </item>
       
       <item>
