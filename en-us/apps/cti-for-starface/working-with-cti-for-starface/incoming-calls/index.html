@@ -1252,6 +1252,14 @@ if (!doNotTrack) {
         
         
         <li>
+          <a href="https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/" class="menu__title " data-depth="1">V1.1.0.0 &amp; Roadmap</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
           <a href="https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/" class="menu__title " data-depth="1">V1.0.1.8 &amp; Roadmap</a>
         </li>
       
@@ -4045,6 +4053,14 @@ if (!doNotTrack) {
     </span>
   </li>
   <ul class="menu__list " data-data=/new-and-planned/ data-link=https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/incoming-calls/>
+    
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.18/" class="menu__title " data-depth="1">V1.0.1.18 &amp; Roadmap</a>
+        </li>
+      
     
       
         
@@ -4859,6 +4875,14 @@ if (!doNotTrack) {
         
         
         <li>
+          <a href="https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/" class="menu__title " data-depth="1">V1.1.0.0 &amp; Roadmap</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
           <a href="https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.0.1.8/" class="menu__title " data-depth="1">V1.0.1.8 &amp; Roadmap</a>
         </li>
       
@@ -7657,6 +7681,14 @@ if (!doNotTrack) {
         
         
         <li>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.18/" class="menu__title " data-depth="1">V1.0.1.18 &amp; Roadmap</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
           <a href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/" class="menu__title " data-depth="1">V1.0.1.11 &amp; Roadmap</a>
         </li>
       
@@ -8056,10 +8088,10 @@ if (!doNotTrack) {
 <p>The Connector 365 CTI for STARFACE app automatically opens the contact card of the calling person for incoming calls. For this process to work smoothly, two things need to be taken care of.</p>
 <ol>
 <li>
-<p>The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed.</p>
+<p>The phone number of the person calling is stored in a contact. If this is not the case, only the unknown number is displayed and a follow up action happens depending on your user setup.</p>
 </li>
 <li>
-<p>The <strong>&ldquo;CTI Client &ldquo;</strong> must be open, the client is the core of the Connector 365 CTI for STARFACE App and is mandatory. You can open the client in the Role center via a dedicated button, alternatively you can find it using the search function under <strong>&ldquo;CTI Client &ldquo;</strong>. You can also open the client in another window so that it does not hinder you in your further work.</p>
+<p>The <strong>&ldquo;CTI Client&rdquo;</strong> must be open, the client is the core of the Connector 365 CTI for STARFACE App and is mandatory. You can open the client in the Role center via a dedicated button, alternatively you can find it using the search function under <strong>&ldquo;CTI Client &ldquo;</strong>. You can also open the client in another window so that it does not hinder you in your further work.</p>
 </li>
 </ol>
 <p>In case you accidentally close the client, you will be briefly warned before closing it.</p>
@@ -8068,6 +8100,18 @@ if (!doNotTrack) {
 <p><p class="md__image">
   <img src="/images/apps/cticlientde.png" alt=""  />
 </p></p>
+<h3 id="behavior-when-numbers-do-not-exist">Behavior when numbers do not exist</h3>
+<p>If the system detects that a number is not yet stored in the system, an action is automatically triggered depending on the user&rsquo;s setup.</p>
+<p><p class="md__image">
+  <img src="/images/apps/cticlientunknown.jpg" alt=""  />
+</p></p>
+<p>The following choices exist and are set in the user setup</p>
+<p><strong>Empty/None</strong><br />
+No follow-up action is triggered for unknown numbers.</p>
+<p><strong>Question</strong><br />
+The user is asked if he wants to create a contact for the unknown number. If confirmed, the corresponding dialog will be opened.</p>
+<p><strong>Create contact</strong><br />
+The system automatically creates a new contact and the corresponding dialog opens.</p>
 
   </article>
 </div>
