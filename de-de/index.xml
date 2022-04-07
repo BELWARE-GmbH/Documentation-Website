@@ -26,17 +26,6 @@ Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Mell
       </item>
       
       <item>
-        <title>Anwendungsbeispiel</title>
-        <link>https://docs.belware.de/de-de/connectornav/epost/example/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/connectornav/epost/example/</guid>
-        <description>Anwendungsbeispiel Das Senden von E-Post Briefen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel eine Geb. Verkaufsrechnung verwendet.
-Ausschnitt Beispielrechnung Connector NAV Integration
-   Aktionen      E-POST Mit dieser Aktion versenden Sie die E-POST.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
-      </item>
-      
-      <item>
         <title>AppSource</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -197,6 +186,17 @@ Bevor Sie die Datei speichern, müssen Sie überprüfen, ob die korrekte Zeichen
         <description>Die Basisübersichten Bitte beachten Sie, dass auch Funktionen für Module beschrieben werden deren Lizenz Sie nicht erworben haben. Diese sollten i.d.R. am Kontext erkennbar sein.  Die Connector NAV Jobliste Übersicht Wichtige Felder Connector NAV Jobliste Übersicht
 Die Connector NAV Jobliste Übersicht zeigt tabellarisch die jeweils erteilten Jobaufträge mit allen benötigten Informationen an. Die obere Abbildung zeigt einen kleinen Ausschnitt aus der Jobliste Übersicht.
    Feldbeschreibung      Lfd.</description>
+      </item>
+      
+      <item>
+        <title>Die Einrichtung</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/setup/</guid>
+        <description>Die Einrichtung Vor nutzen der E-Post-Funktionen muss zunächst eine Einrichtung stattfinden. Diese ist unter Einrichtung -&amp;gt; Pro Mandant zu finden.
+Einrichtung E-Post, Übersicht
+   Felder      Anbieter-ID Dieses Feld ist automatisch gesetzt und beinhaltet unsere Anbieter-ID   EKP Hier wird Ihre EKP oder Kundennummer eingetragen. Diese können Sie in den Vertragsunterlagen der Deutschen Post finden   Geheimnis Dieses Feld wird automatisch gesetzt sobald ein Passwort gesetzt wurde.</description>
       </item>
       
       <item>
@@ -450,6 +450,15 @@ Nachdem Download können Sie die Software wie jede andere Software mithilfe des 
 Briefpapierablage Sämtliche Briefpapiervorlagen müssen im gleichen Ordner hinterlegt sein, welcher der Software bekannt gegeben wird. Ein hinterlegtes Briefpapier muss sich im PDF-Format befinden.
 Den Ordner finden Sie wie folgt:
 Rufen Sie die Nutzeroberfläche der Serverversion auf, dies erfolgt über die Windowssuche oder indem Sie die Software aus dem Ordner indem sie installiert wurde ausführen.</description>
+      </item>
+      
+      <item>
+        <title>Januar</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/january/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/january/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Die Drag &amp;amp; Drop Funktion ist nun auch via Outlook verwendbar Neues Feld/Tabelle für das verwalten von Standard BCC/CC-Adressen  Optimierungen:  Die Drag &amp;amp; Drop-Funktion kann nun in Verbindung mit Mails aus Outlook verwendet werden Anpassen der Logik für die Erkennung eines abgebrochenen Dialogs  </description>
       </item>
       
       <item>
@@ -778,6 +787,17 @@ Auf den Seiten auf welchen die Funktion Drag&amp;amp;Drop integriert ist sehen S
       
       <item>
         <title>Anwendungsbeispiel</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/example/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/example/</guid>
+        <description>Anwendungsbeispiel Das Senden von E-Post Briefen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel eine Geb. Verkaufsrechnung verwendet.
+Ausschnitt Beispielrechnung Connector NAV Integration
+   Aktionen      E-POST Mit dieser Aktion versenden Sie die E-POST.   PDF Mit dieser Aktion erstellen Sie das PDF.   Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag.</description>
+      </item>
+      
+      <item>
+        <title>Anwendungsbeispiel</title>
         <link>https://docs.belware.de/de-de/connectornav/fax/example/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -959,7 +979,7 @@ Pdf Vorschau - Diese Vorschaufunktion funktioniert auch wenn Sie den iPaper nich
         <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
 Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
 Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
- Öffnen Sie die Suche, geben Sie Belegsendeprofil ein und wählen Sie dann den entsprechenden Link.</description>
+ Öffnen Sie die Suche, geben Sie Dokumentsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
       </item>
       
       <item>
@@ -1076,16 +1096,6 @@ In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</desc
       </item>
       
       <item>
-        <title>Der Dialog</title>
-        <link>https://docs.belware.de/de-de/connectornav/epost/dialog/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/connectornav/epost/dialog/</guid>
-        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
-   Aktionen      Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.    Register Allgemein Dialog Modus E-POST, Register Allgemein</description>
-      </item>
-      
-      <item>
         <title>Die PDF Erzeugung</title>
         <link>https://docs.belware.de/de-de/connectornav/base/pdf_creation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1128,6 +1138,15 @@ Single Line (Client) Öffnen Sie den Zip-Ordner, hier starten Sie nun die Anwend
 Die folgenden Felder sind einzurichten:
 E-Mail Sender
 Sie können nach einem Benutzer suchen und ihn direkt auswählen. Ebenfalls ist es möglich benutzerunabhängige Absenderadressen, wie z.</description>
+      </item>
+      
+      <item>
+        <title>Februar</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/february/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/february/</guid>
+        <description>Optimierungen:  Anhangsdateien aus E-Mails werden nun in com_pdf statt in com_tmp abgelegt.  </description>
       </item>
       
       <item>
@@ -1690,6 +1709,16 @@ Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience 
       
       <item>
         <title>Der Dialog</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/dialog/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/dialog/</guid>
+        <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
+   Aktionen      Anhänge 1-4 anzeigen Über diese Aktion können Sie sich die ausgewählten Anhänge ansehen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.    Register Allgemein Dialog Modus E-POST, Register Allgemein</description>
+      </item>
+      
+      <item>
+        <title>Der Dialog</title>
         <link>https://docs.belware.de/de-de/connectornav/fax/dialog/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1706,16 +1735,6 @@ Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience 
         <guid>https://docs.belware.de/de-de/connectornav/mail/dialog/</guid>
         <description>Der Dialog Aktionen Dialog Modus E-Mail, Aktionen
    Aktionen      Bodytext bearbeiten Über diese Aktion kann der Bodytext aus der Schnittstellenübergabe bearbeitet werden.   Bodytext wechseln Über diese Aktion können Sie einen anderen Bodytext aussuchen.   Dateien hinzufügen Über diese Aktion können Sie zusätzliche Dateien auswählen, die als Anhang mitversendet werden sollen.   Dokumente anzeigen Die hinzugefügten Dokumente lassen sich über diese Aktion als Liste anzeigen.</description>
-      </item>
-      
-      <item>
-        <title>E-POST Summary</title>
-        <link>https://docs.belware.de/de-de/connectornav/epost/summary/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/connectornav/epost/summary/</guid>
-        <description>E-Post Summary Für Unternehmen mit einem hohen Aufkommen an postalischen Sendungen, steht die Funktion &amp;ldquo;Summary&amp;rdquo; zur Verfügung. Hiermit lassen sich einzelne Belege zu einer größeren Sendung zusammenfassen. So lässt sich noch eine weitere Einsparung erzielen.
-Aufgabenwarteschlange einrichten Damit die Funktion wie gewünscht funktionieren kann, muss zunächst für die Summary Funktion eine eigene Aufgabenwarteschlange eingerichtet werden. Öffnen Sie also die Aufgabenwarteschlangenposten und erstellen Sie einen neuen Warteschlangenposten. Im Dialog, der sich öffnet, können Sie nun die Warteschlange konfigurieren.</description>
       </item>
       
       <item>
@@ -1804,6 +1823,15 @@ Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entspreche
         <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.
 Diese lassen sich unter “Länder/Regionen” in Dynamics NAV anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
 Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
+      </item>
+      
+      <item>
+        <title>März</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/march/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/march/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Neues Feld in der Einrichtung um den Ablagepfad von Daten zur Verarbeitung der CTI-Daten Neue Tabelle für den CTI-Status der Nutzer  </description>
       </item>
       
       <item>
@@ -1971,6 +1999,15 @@ CTI-Einträge In Ihren Kontakten können Sie die &amp;ldquo;CTI-Einträge&amp;rd
       </item>
       
       <item>
+        <title>April</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/april/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/april/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Passwort-Feld in der Kommunikationsmatrix um verarbeitete Daten via iPaper zu verschlüsseln Neues Modul: CTI  Optimierungen:  Anpassen der Feldnamen in der Kommunikationsmatrix um die Verwendung zu verallgemeinern  Kundenname -&amp;gt; Name Kundennr. -&amp;gt; Nr.    </description>
+      </item>
+      
+      <item>
         <title>Auswahl der Zieladressen</title>
         <link>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/address_chooser/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2048,14 +2085,13 @@ Richten Sie nun den entsprechenden Bericht ein und nutzen das Feld &amp;ldquo;Br
       </item>
       
       <item>
-        <title>E-Post Statusabfrage</title>
-        <link>https://docs.belware.de/de-de/connectornav/epost/status/</link>
+        <title>E-POST Summary</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/summary/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/epost/status/</guid>
-        <description>E-Post Statusabfrage Sobald Sie einen Versand per E-Post getätigt haben, so werden Sie feststellen, dass noch kein Status für den zugehörigen Eintrag in der Jobliste angezeigt wird.
-Um den Status für versendete E-Post-API-Briefe zu bekommen, so empfiehlt sich dafür ebenfalls eine Aufgabenwarteschlange einzurichten. Dazu ist ähnliches Vorgehen wie bei der E-Post Summary-Warteschlange notwendig. Öffnen Sie dazu die Seite Aufgabenwarteschlangenposten und legen Sie einen neuen Warteschlangenposten an.
-Als Art des auszuführenden Objektes ist CodeUnit anzugeben.</description>
+        <guid>https://docs.belware.de/de-de/connectornav/epost/summary/</guid>
+        <description>E-Post Summary Für Unternehmen mit einem hohen Aufkommen an postalischen Sendungen, steht die Funktion &amp;ldquo;Summary&amp;rdquo; zur Verfügung. Hiermit lassen sich einzelne Belege zu einer größeren Sendung zusammenfassen. So lässt sich noch eine weitere Einsparung erzielen.
+Aufgabenwarteschlange einrichten Damit die Funktion wie gewünscht funktionieren kann, muss zunächst für die Summary Funktion eine eigene Aufgabenwarteschlange eingerichtet werden. Öffnen Sie also die Aufgabenwarteschlangenposten und erstellen Sie einen neuen Warteschlangenposten. Im Dialog, der sich öffnet, können Sie nun die Warteschlange konfigurieren.</description>
       </item>
       
       <item>
@@ -2269,6 +2305,17 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
         
         <guid>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/faq/getting-started/</guid>
         <description>FAQ Wie kann ich anfangen? Sobald die App installiert ist, gehen Sie zu dem Debitor, der die XRechnung erhalten soll, kreuzen Sie das Kästchen in Dokumentlayouts an und fügen Sie die Leitweg ID hinzu. Dann können Sie mit dem Senden beginnen. Einen ausführlicheren Leitfaden finden Sie unter Arbeiten mit XRechnung bzw.Einrichtung</description>
+      </item>
+      
+      <item>
+        <title>E-Post Statusabfrage</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/status/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/status/</guid>
+        <description>E-Post Statusabfrage Sobald Sie einen Versand per E-Post getätigt haben, so werden Sie feststellen, dass noch kein Status für den zugehörigen Eintrag in der Jobliste angezeigt wird.
+Um den Status für versendete E-Post-API-Briefe zu bekommen, so empfiehlt sich dafür ebenfalls eine Aufgabenwarteschlange einzurichten. Dazu ist ähnliches Vorgehen wie bei der E-Post Summary-Warteschlange notwendig. Öffnen Sie dazu die Seite Aufgabenwarteschlangenposten und legen Sie einen neuen Warteschlangenposten an.
+Als Art des auszuführenden Objektes ist CodeUnit anzugeben.</description>
       </item>
       
       <item>
@@ -2661,7 +2708,7 @@ Nutzung der App </description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mailexperienceplus/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema</description>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Experience Plus App, jedes Video behandelt ein spezielles Thema</description>
       </item>
       
       <item>
@@ -2713,6 +2760,15 @@ Damit ein Eintrag in der Kommunikationsmatrix für den Stapellauf verwendet werd
       </item>
       
       <item>
+        <title>Juli</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/july/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/july/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Neue E-POST API für den hybriden Versand von Briefen aus Dynamics NAV Versand von Briefe via POST AT aus Dynamics NAV Anpassen der Funktionen zum Versand von hybriden Briefen via E-POST BOX  </description>
+      </item>
+      
+      <item>
         <title>September</title>
         <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2020/september/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2741,6 +2797,16 @@ Zur Veranschaulichung haben wir auch ein Video für Sie vorbereitet aus unserem 
         
         <guid>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</guid>
         <description>Neu und geplant Version 1.0.0.4  Unbegrenzte Menge an Standardanhängen pro Dokument Anpassung an die Mail Experience  Geplante Funktionen für zukünftige Versionen  Anhangsfunktionalitäten auf weiteren Ebenen  </description>
+      </item>
+      
+      <item>
+        <title>August</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/august/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/august/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Veröffentlichung der Connector NAV Templates
+Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. Neues Modul - Connector NAV/365 HR für die Verwendung der Connector NAV Funktionen in Verbindung mit HR-Funktionalitäten  Neues Feld für Bodytexte   Neues Feld zum ein/ausschalten des Tesversands von E-POST-Briefen  </description>
       </item>
       
       <item>
@@ -2789,6 +2855,15 @@ Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir d
         <guid>https://docs.belware.de/de-de/connectornav/matrix/options/</guid>
         <description>Optionen &amp;amp; erweiterte Optionen der Kommunikationsmatrix Die folgenden Funktionen finden Sie in der Kommunikationsmatrix. Ab Punkt 11 sind diese nur in Verbindung mit dem pdfPaper-Modul verwendbar.
    Feld Name Funktion     1 Stapelmodus legt fest, ob der Eintrag ebenfalls für die Verarbeitung im Stapelmodus gilt   2 TabellenID legt fest, auf welche Tabelle sich der Eintrag bezieht (Deb./Kred./Kontakt)   3 Tabellenname wird automatisch mit dem Namen der Tabelle gefüllt   4 Nr.</description>
+      </item>
+      
+      <item>
+        <title>September</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/september/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/september/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Neue Felder in der Kommunikationsmatrix  PDF/A-Level PDF/A-ZUGFeRD Anhang    Optimierungen:  Die oben genannten Felder auf 200 Zeichen erweitert  </description>
       </item>
       
     
