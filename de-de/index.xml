@@ -60,6 +60,17 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Easy Document Pin zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -273,6 +284,17 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
         <guid>https://docs.belware.de/de-de/apps/easybatch/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken, mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger.
 Mit dem Connector 365 Easy Batch ist es möglich intelligent gesteuert mehrere Belege gleichzeitig zu versenden, richten Sie die gewünschte Versandmethode in den Dokumentlayouts ein und wählen Sie einfach Ihre Belege aus die Sie versenden wollen - Ein Klick und alle Beleg werden versendet.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Wenn Sie Mahnungen an Ihre Kunden verschicken, stellen Sie oft fest, dass diese nach Erhalt der Mahnung eine Kopie der betreffenden Rechnung(en) anfordern. Dies führt zu einer Folge-E-Mail, in der jede Rechnung einzeln in ein PDF-Dokument umgewandelt und dann angehängt werden muss. Dieses Verfahren ist nicht nur fehleranfällig, sondern auch ineffizient.
+Keine Folge-E-Mails zur Anforderung von Dateien mehr
+Mit Connector 365 Easy Document Pin gehören Nachfass-E-Mails der Vergangenheit an.</description>
       </item>
       
       <item>
@@ -587,6 +609,15 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       
       <item>
         <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/new-and-planned/v1.0.0.0/</guid>
+        <description>Neu und geplant Version 1.0.0.0  Automatisches Anhängen von angemahnten Rechnungen an Mahnungen bei Versand Steuerung des Versands nach Mahnstufe Steuerung des Versands nach Mahnmethode  Geplante Funktionen für zukünftige Versionen  Automatisches Anhängen von Lieferscheinen  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/mailexperienceplus/new-and-planned/v1.0.0.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -853,6 +884,19 @@ Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 Ihre Kosten:
    Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit*     5,90€       Monatliche Subscription inkl.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach dem Download kann ein Nutzer die App komplett frei benutzen.
+Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Ihre Kosten:
+   Monatliche Subscription mit jährlicher Abrechnung inkl. Wartung*     6,90€/Nutzer       Monatliche Subscription mit monatlicher Abrechnung inkl.</description>
       </item>
       
       <item>
@@ -1297,6 +1341,27 @@ Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Easy Document Pin App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Easy Document Pin App Das veröffentlichen der Connector 365 Base &amp;amp; Easy Document Pin App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Easy Document Pin App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum Formular
+Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1583,6 +1648,16 @@ Ausschnitt Kontaktübersicht
 Sie haben nun die Möglichkeit direkt auf die Telefonnummer des Kontakts zu klicken und Ihre Telefonanlage wird sie automatisch verbinden. Es ist ebenfalls möglich, diese Funktion innerhalb einer Kontaktkarte aufzurufen.
 Ausschnitt Kontaktkarte, Abschnitt „Kontakt“
 Klicken Sie einfach innerhalb der Kontaktkarte unter „Kontakt“ auf das Telefon neben der Nummer, Sie werden erneut automatisch verbunden.</description>
+      </item>
+      
+      <item>
+        <title>Arbeiten mit Easy Document Pin</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/working-with-edp/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/working-with-edp/</guid>
+        <description>Arbeiten mit Easy Document Pin Nach dem die Einrichtung der App stattgefunden hat, können Sie die App sofort ohne Aufwand nutzen. Wählen Sie einfach eine Mahnung die versendet werden soll und versenden Sie diese wie gewohnt.
+Sie werden bemerken, dass die angemahnten Rechnungen automatisch an die Mahnung angehängt wurden.</description>
       </item>
       
       <item>
@@ -2117,6 +2192,21 @@ Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der
       </item>
       
       <item>
+        <title>Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/setup/</guid>
+        <description>Erste Schritte Einrichtung Berechtigungssätze Bevor Sie mit der Einrichtung beginnen, müssen Sie den Nutzern der App, neue Berechtigungssätze vergeben. Dabei wir stellen die folgenden zur Verfügung:
+  CON365, VIEW
+Diese erlaubt Nutzern grundsätzlich mit der App zu interagieren und Belege mit automatisches Anhang zu versenden.
+  CON365, EDIT
+Im Fall der Easy Document Pin App bietet dieser Satz die gleichen Berechtigungen wie VIEW
+  CON365, SETUP
+Dieser Berechtigungssatz ist nötig um Änderungen an der Einrichtung der App vorzunehmen und sollte dem Administrator zugewiesen werden.</description>
+      </item>
+      
+      <item>
         <title>Empfänger-Mailadressen</title>
         <link>https://docs.belware.de/de-de/connectornav/matrix/adresses/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2350,6 +2440,20 @@ Fax: +49 2362 788 90 56</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easybatch/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Hilfe &amp; Support</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/help-support/</guid>
         <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
 Für Allgemeines sind wir zu erreichen über:
 E-Mail: info@belware.de
@@ -2680,6 +2784,15 @@ kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die
         
         <guid>https://docs.belware.de/de-de/apps/easybatch/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Easy Batch App, jedes Video behandelt ein spezielles Thema</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/de-de/apps/easydocumentpin/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easydocumentpin/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema</description>
       </item>
       
       <item>
