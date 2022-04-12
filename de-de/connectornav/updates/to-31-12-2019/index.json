@@ -83,7 +83,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/",
         "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/",
-        "content_html" : "\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cp\u003eDas Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDas Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.\u003c/li\u003e\n\u003c/ul\u003e\n"
     }
     ]
 }

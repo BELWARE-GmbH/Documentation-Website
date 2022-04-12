@@ -1570,6 +1570,15 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
       
       <item>
         <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/mailsubject/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mailsubject/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1  Funktion &amp;ldquo;Aus Berichtsauswahl kopieren&amp;rdquo; in den Dokumentenlayouts  Geplante Funktionen für zukünftige Versionen  Länge der gewünschten Platzhalter erhöhen Mehrsprachige Platzhalter Vorschaufunktion  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/new-and-planned/v1.0.0.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -3044,7 +3053,7 @@ Optimierungen  Kontaktnummern werden nicht mehr gelöscht wenn ein Mail-Versand 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/</guid>
-        <description>Optimierungen: Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.</description>
+        <description>Optimierungen:  Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.  </description>
       </item>
       
     
