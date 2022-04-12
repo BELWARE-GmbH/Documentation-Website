@@ -60,6 +60,30 @@
         "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/september/",
         "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/september/",
         "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eNeue Felder in der Kommunikationsmatrix\n\u003cul\u003e\n\u003cli\u003ePDF/A-Level\u003c/li\u003e\n\u003cli\u003ePDF/A-ZUGFeRD Anhang\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDie oben genannten Felder auf 200 Zeichen erweitert\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Oktober",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/october/",
+        "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/october/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eDer CTI-Client öffnet sich nun automatisch bei Start von Dynamics NAV\u003c/li\u003e\n\u003cli\u003eGlobale Einstellung des PDF-Levels ist nun möglich\u003c/li\u003e\n\u003cli\u003ePasswortverschlüsselung via Kommunikationsmatrix\u003c/li\u003e\n\u003cli\u003eNeue PEPPOL-Funktionalitäten in der Kommunikationsmatrix\u003c/li\u003e\n\u003cli\u003eEinstellung des PDF-Levels in der Kommunikationxmatrix\u003c/li\u003e\n\u003cli\u003eNeues Dateigröße-Feld bei dem anhängen von Dateien\u003c/li\u003e\n\u003cli\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAnpassungen in der Drag \u0026amp; Drop Funktion\u003c/li\u003e\n\u003cli\u003ebestimmte Funktionen wurden in die CTI-Codeunit übertragen\u003c/li\u003e\n\u003cli\u003eAbweichende Absender via Office 365 SMTP im HR-Modul\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "November",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/november/",
+        "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/november/",
+        "content_html" : "\u003ch3 id=\"erweiterungen-von-standardfeatures--neue-features\"\u003eErweiterungen von Standardfeatures \u0026amp; Neue Features:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eAutomatisches drehen von Dokumenten in Hochkant via iPaper\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eOptimierungen für den Web-Client\u003c/li\u003e\n\u003cli\u003eÄnderungen bei der Seite für die Drag \u0026amp; Drop Funktion\u003c/li\u003e\n\u003cli\u003eAnpassung des Uploadordners von Briefpapier\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Dezember",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/",
+        "url" : "https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/",
+        "content_html" : "\u003ch3 id=\"optimierungen\"\u003eOptimierungen:\u003c/h3\u003e\n\u003cp\u003eDas Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.\u003c/p\u003e\n"
     }
     ]
 }

@@ -78,6 +78,33 @@ Bietet jeweils unsere Funktionsknöpfe schon integriert in verschiedene Belege. 
         <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Neue Felder in der Kommunikationsmatrix  PDF/A-Level PDF/A-ZUGFeRD Anhang    Optimierungen:  Die oben genannten Felder auf 200 Zeichen erweitert  </description>
       </item>
       
+      <item>
+        <title>Oktober</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/october/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/october/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Der CTI-Client öffnet sich nun automatisch bei Start von Dynamics NAV Globale Einstellung des PDF-Levels ist nun möglich Passwortverschlüsselung via Kommunikationsmatrix Neue PEPPOL-Funktionalitäten in der Kommunikationsmatrix Einstellung des PDF-Levels in der Kommunikationxmatrix Neues Dateigröße-Feld bei dem anhängen von Dateien   Optimierungen:  Anpassungen in der Drag &amp;amp; Drop Funktion bestimmte Funktionen wurden in die CTI-Codeunit übertragen Abweichende Absender via Office 365 SMTP im HR-Modul  </description>
+      </item>
+      
+      <item>
+        <title>November</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/november/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/november/</guid>
+        <description>Erweiterungen von Standardfeatures &amp;amp; Neue Features:  Automatisches drehen von Dokumenten in Hochkant via iPaper  Optimierungen:  Optimierungen für den Web-Client Änderungen bei der Seite für die Drag &amp;amp; Drop Funktion Anpassung des Uploadordners von Briefpapier  </description>
+      </item>
+      
+      <item>
+        <title>Dezember</title>
+        <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/</guid>
+        <description>Optimierungen: Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt.</description>
+      </item>
+      
     
   </channel>
 </rss>
