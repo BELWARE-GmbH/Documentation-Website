@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</loc>
+    <lastmod>2022-05-16T15:07:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</loc>
+    <lastmod>2022-05-16T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connectornav/matrix/contacts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1463,6 +1493,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/connectornav/templates.md/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/templates.md/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/templates.md/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/under-construction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1530,6 +1575,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/"
+                />
   </url>
   
   <url>
@@ -1788,17 +1843,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/connectornav/templates.md/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</loc>
+    <lastmod>2022-05-16T12:44:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/connectornav/templates.md/"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/connectornav/templates.md/"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/"
                 />
   </url>
   
@@ -2478,21 +2533,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/easydocumentpin/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3119,21 +3159,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/templates.md/unbooked_receipts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
                 />
   </url>
   
@@ -3768,36 +3793,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/march/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3824,6 +3819,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/updates/to-31-12-2020/march/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-vat-scheme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/"
                 />
   </url>
   
@@ -4709,6 +4734,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/data-exchange/peppol/standard/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
                 />
   </url>
   
@@ -5759,6 +5799,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/december/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/"
                 />
   </url>
   

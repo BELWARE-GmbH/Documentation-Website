@@ -15,6 +15,26 @@
     
       
       <item>
+        <title>V1.0.0.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</link>
+        <pubDate>Mon, 16 May 2022 15:07:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
+        <description>New and planned Version 1.0.0.3 New features:
+ Merge multiple PDF files into one Automatic rotation of PDF files if they are in landscape format Action buttons to remove stationery at the touch of a button Stationery can be set up globally under company data  Corrections:
+ Correction for file name when previewing pdf stationery  Planned functions for future versions  Integration of PDF/A functionality  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.12 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</link>
+        <pubDate>Sat, 16 May 2020 11:39:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</guid>
+        <description>New and planned Version 1.0.0.12  New permission sets  C365 View C365 Edit C365 Setup   Dependency on Connector 365 Base app version 1.0.1.23  Planned functions for future versions  Attachment functionality on furhter levels  </description>
+      </item>
+      
+      <item>
         <title>Additional notes Faxmaker</title>
         <link>https://docs.belware.de/en-us/connectornav/fax/faxmaker/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -214,7 +234,7 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
- Sales invoices Sales credit memos Service invoices 1 Service credit memos 1   Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem. &amp;#x21a9;&amp;#xfe0e;
+ Sales invoices Sales credit memos Service invoices 1 Service credit memos 1   Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;
    </description>
       </item>
       
@@ -304,8 +324,8 @@ With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easybatch/first-steps/introduction/</guid>
-        <description>First steps Introduction When sending documents from your Microsoft Dynamics 365 Business Central environment, you often want to send multiple documents at the same time, but with the Dynamics 365 Business Central standard, this is not easily possible. This makes a process that should only take a few minutes take much longer.
-With the Connector 365 Easy Batch it is possible to intelligently send multiple documents at the same time, set up the desired sending method in the document layouts and simply select your receipts you want to send - One click and all receipts will be sent.</description>
+        <description>First steps Introduction When sending documents from your Microsoft Dynamics 365 Business Central environment, you often want to send multiple documents at the same time, but with the Dynamics 365 Business Central standard, this is not easily possible. This makes a process that should only take a few minutes take much longer than necessary.
+With the Connector 365 Easy Batch it is possible to intelligently send multiple documents at the same time, set up the desired sending method in the document layouts and simply select your receipts you want to send: One click and all receipts will be sent.</description>
       </item>
       
       <item>
@@ -706,7 +726,7 @@ Following options are avaiable:
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/pdfpaper_server/</guid>
-        <description>The pdfPaper Server module The installation of the iPaper.NET server iPaper.NET server info Connector NAV is tested with the latest iPaper FM version. We recommend regularly following the blog at http://www.pdfblog.at/category/ipaper/.
+        <description>The pdfPaper Server module The installation of the iPaper.NET server iPaper.NET server infoConnector NAV is tested with the latest iPaper FM version. We recommend regularly following the blog at http://www.pdfblog.at/category/ipaper/.
 The configuration In order for the Connector NAV and iPaper FM to communicate properly with each other, certain settings must match in the Connector NAV pdfPaper setup as well as in the iPaper FM configuration.
 The Connector NAV pdfPaper setup Actions Connector 365 BC pdfPaper setup, actions</description>
       </item>
@@ -758,12 +778,12 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
-        <title>V1.0.0.6 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</link>
+        <title>V1.0.0.8 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
-        <description>New and planned Version 1.0.0.6  Logic when selecting the report layout aligned with the standard  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.8/</guid>
+        <description>New and planned Version 1.0.0.8  Fix: Negative status if E-Mail Codeunit fails Fix: Write E-Mail related information to joblist  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
       </item>
       
       <item>
@@ -800,6 +820,15 @@ Please return at a later date, when we will have added further informative conte
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/v1.1.0.0/</guid>
         <description>New and planned Version 1.1.0.0  New options in the user setup  Call direction for opening the CTI page Time of opening the card Behavior if contact is not available   New module setup for STARFACE version 7.x and higher.  Planned functions for future versions  Customization of the job list to match the app Hiding the CTI functions in the Role center for non-CTI users  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.7 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.7/</link>
+        <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
+        <description>New and planned Version 1.0.0.7  Dialog Pages only if allowed (GuiAllowed)  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
       </item>
       
       <item>
@@ -1007,8 +1036,8 @@ Register Codeunit Connector NAV configuration, Register Codeunit
         <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-customer/</guid>
         <description>Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under &amp;ldquo;Navigate&amp;rdquo; - &amp;ldquo;Document layouts&amp;rdquo; of the respective customer.
 When you open the document layouts, new fields are now available.
-XRechnung&amp;quot;, &amp;ldquo;Ident ID&amp;rdquo; and &amp;ldquo;Add document as attachment&amp;rdquo;.
-In the &amp;ldquo;XRechnung&amp;rdquo; field, place a check mark to activate the function that invoices/credit notes for this customer should be sent as XRechnung.</description>
+&amp;ldquo;Ident ID&amp;rdquo; and &amp;ldquo;Add document as attachment&amp;rdquo;.
+In the field &amp;ldquo;Ident ID&amp;rdquo; the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient.</description>
       </item>
       
       <item>
@@ -1570,16 +1599,7 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
         <guid>https://docs.belware.de/en-us/apps/pdfpaper/working-with-pdfpaper/stationery/</guid>
         <description>Working with the PdfPaper App Using the stationery Once stored, the stationery is automatically remembered when PDFs are created. In doing so, we support any operation where a PDF is provided.
 We support the following reports
-   Sales Purchase     Quote Inquiries   Sales Order Purchase Order   Blanket purchase order Blanket sales order   post. sales invoice Sales purchase invoice   post.</description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+   Sales Purchase     Quote Inquiries   Sales Order Purchase Order   Blanket purchase order Blanket sales order   Post. sales invoice Sales purchase invoice   Post.</description>
       </item>
       
       <item>
@@ -1981,6 +2001,15 @@ Attached file 1 - 4 These actions can be used to display the intended document.<
       </item>
       
       <item>
+        <title>V1.0.0.6 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
+        <description>New and planned Version 1.0.0.6  Logic when selecting the report layout aligned with the standard  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.8 &amp; Roadmap</title>
         <link>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2259,7 +2288,7 @@ Web: www.message-mobile.de</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/matrix/adresses/</guid>
-        <description>So where do the recipients&#39; e-mail addresses come from? (Using without target and communication matrix) The Connector NAV / 365 BC works analogously to the standard dispatch. We will use various examples to explain how the mail dispatch process works. For the following 3 examples we limit ourselves to the report Quotations. The service recipient is the same as the invoice recipient. The process is the same for each report.</description>
+        <description>So where do the recipients&amp;rsquo; e-mail addresses come from? (Using without target and communication matrix) The Connector NAV / 365 BC works analogously to the standard dispatch. We will use various examples to explain how the mail dispatch process works. For the following 3 examples we limit ourselves to the report Quotations. The service recipient is the same as the invoice recipient. The process is the same for each report.</description>
       </item>
       
       <item>
@@ -2367,6 +2396,15 @@ WithConfirmL: Display negative jobs Yes/No
 SetDialog(NewDialog : Boolean) This function can be used to override the visibility of the dialog.
 NewDialog: Display dialog Yes/No
 SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function can be used to change the subject of a specific job.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>New and planned Version 1.0.0.0  Intelligent process control Batch processing of documents Control via document sending profiles  Planned functions for future versions  Integration of credit-side documents. Background generation and sending of the documents  </description>
       </item>
       
       <item>
@@ -2794,7 +2832,8 @@ Connector 365 Easy Batch - Quick Overview Connector 365 Easy Batch - Kurzübers
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easydocumentpin/videos/</guid>
-        <description>Videos Here you can find some informative videos about Easy Document Pin, each video covers a special topic</description>
+        <description>Videos Here you can find some informative videos about Easy Document Pin, each video covers a special topic
+Setup and usage of Connector 365 Easy Document Pin </description>
       </item>
       
       <item>

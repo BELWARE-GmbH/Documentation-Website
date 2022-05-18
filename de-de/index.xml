@@ -15,6 +15,26 @@
     
       
       <item>
+        <title>V1.0.0.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</link>
+        <pubDate>Mon, 16 May 2022 15:07:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
+        <description>Neu und geplant Version 1.0.0.3 Neue Funktionen:
+ Mergen von mehreren PDF-Dateien zu einer einzigen Automatisches Drehen von PDF-Dateien, wenn diese im Querformat vorhanden sind Aktionsknöpfe, um Briefpapier per Knopfdruck wieder zu entfernen Briefpapier global unter Firmendaten einrichtbar  Korrekturen:
+ Korrekter Dateiname bei der Vorschau von Briefpapieren  Geplante Funktionen für zukünftige Versionen  Integration von PDF/A-Funktion  </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.8 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</link>
+        <pubDate>Mon, 16 May 2022 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</guid>
+        <description>Neu und geplant Version 1.0.0.8  Korrektur: Setze negativen Status, wenn E-Mail-Codeunit fehlschlägt Korrektur: Schreiben von E-Mail bezogenen Informationen in die Connector 365 Aktivitäten Liste  Geplante Funktionen für zukünftige Versionen  Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten  </description>
+      </item>
+      
+      <item>
         <title>Anlegen von Kontakten</title>
         <link>https://docs.belware.de/de-de/connectornav/matrix/contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -131,7 +151,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
- Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1   Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen. Die Funktion ist OnPrem inklusive. &amp;#x21a9;&amp;#xfe0e;
+ Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1   Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen. Die Funktion ist OnPrem inklusive.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;
    </description>
       </item>
       
@@ -242,7 +262,7 @@ Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</de
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
-        <description>Erste Schritte E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Eirichtung&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+        <description>Erste Schritte E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Einrichtung&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
 Während der Testmodus aktiviert ist, werden keine Rechnungen versendet. Stattdessen erhält die zuvor angegebene Testmail eine Benachrichtigung  Passwort setzen Um ein Passwort für die App zu setzen, sollten Sie zuerst sicherstellen, dass die Einrichtung vollständig (bis auf das Geheimnis/Passwort) ausgefüllt ist.</description>
       </item>
       
@@ -282,8 +302,8 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easybatch/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken, mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger.
-Mit dem Connector 365 Easy Batch ist es möglich intelligent gesteuert mehrere Belege gleichzeitig zu versenden, richten Sie die gewünschte Versandmethode in den Dokumentlayouts ein und wählen Sie einfach Ihre Belege aus die Sie versenden wollen - Ein Klick und alle Beleg werden versendet.</description>
+        <description>Erste Schritte Einleitung Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken. Mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger als notwendig.
+Mit dem Connector 365 Easy Batch ist es möglich, mehrere Belege intelligent gesteuert und gleichzeitig zu versenden. Richten Sie die gewünschte Versandmethode in den Dokumentenlayouts ein und wählen Sie einfach Ihre Belege aus, die Sie versenden wollen: Ein Klick und alle Belege werden versendet.</description>
       </item>
       
       <item>
@@ -798,6 +818,15 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
       </item>
       
       <item>
+        <title>V1.0.0.7 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</link>
+        <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
+        <description>Neu und geplant Version 1.0.0.7  Dialog-Seiten nur wenn erlaubt (GuiAllowed)  Geplante Funktionen für zukünftige Versionen  Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege  </description>
+      </item>
+      
+      <item>
         <title>Anpassen der Tabellen</title>
         <link>https://docs.belware.de/de-de/connectornav/rapidstart/adjust/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1109,9 +1138,8 @@ Dabei unterstützen wir die folgenden Berichte:
         <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-customer/</guid>
         <description>Einrichtung Debitor Die Einstellungen, um Rechnungen und Gutschriften im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentlayouts“ des jeweiligen Debitors.
 Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun neue Felder zur Verfügung.
-„XRechnung“, „Leitweg-ID“ und „Beleg als Anhang hinzufügen“
-In das Feld „XRechnung“ setzen Sie ein Häkchen, um die Funktion zu aktivieren, dass Rechnungen/Gutschriften für diesen Debitor als XRechnung versendet werden sollen.
-In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen.</description>
+„Leitweg-ID“ und „Beleg als Anhang hinzufügen“
+In das Feld „Leitweg-ID“ wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs</description>
       </item>
       
       <item>
@@ -1489,11 +1517,13 @@ Wünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/pdfpaper/</guid>
-        <description>Einrichtung Connector 365 PdfPaper Damit Sie die Connector 365 PdfPaper App nutzen können, muss eine Verbindung zu der iPaper Software hergestellt werden. Dies erfolgt über die &amp;ldquo;Connector 365 Einrichtung&amp;rdquo;, diese können Sie über die Suchfunktion finden.
-Dort finden Sie 3 Felder zur Einrichtung:
-PdfPaperIn - Hier müssen Sie den Eingangsordner aus der iPaper Einrichtung angeben.
-PdfPaperOut - Hier müssen Sie den Ausgangsordner aus der iPaper EInrichtung angeben.
-Maximale Wartezeit - Gibt an wie lange auf die Verarbeitung des iPapers gewartet wird, Werte unter 30 Sekunden werden automatisch als 30 Sekunden gewertet.</description>
+        <description>Einrichtung Connector 365 PdfPaper Damit Sie die Connector 365 pdfPaper App nutzen können, müssen Sie zunächst die hinterlegten Pfade des IPapers in Business Central hinterlegen.
+Dies erfolgt über die &amp;ldquo;Connector 365 Einrichtung&amp;rdquo;. Diese können Sie über die Suchfunktion finden.
+Screenshot aus der Connector 365 Einrichtung:
+ PDFPaper-Eingabeordner:
+ Hier wird der Eingangsorder aus der IPaper-Einrichtung angegeben.  PDFPaper-Ausgabeordner:
+ Hier wird der Ausgangsordner aus der IPaper-Einrichtung angegeben.  Hinweis
+Die zuvor eingerichteten Eingabe-und Ausgabepfade aus dem IPaper, müssen mit den in Business Central einzurichtenden Pfaden identisch sein.</description>
       </item>
       
       <item>
@@ -1539,15 +1569,6 @@ Connector 365 steht Ihnen für die folgende BC Lizensierung zur Verfügung:</des
         
         <guid>https://docs.belware.de/de-de/connectornav/templates.md/unbooked_receipts/</guid>
         <description>Ungebuchte Belege </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0  Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen  Geplante Funktionen für zukünftige Versionen  Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege  </description>
       </item>
       
       <item>
@@ -1862,28 +1883,6 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       </item>
       
       <item>
-        <title>MwSt.-Schema</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
-        <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.
-Diese lassen sich unter “Länder/Regionen” in Dynamics NAV anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
-Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
-      </item>
-      
-      <item>
-        <title>MwSt.-Schema</title>
-        <link>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
-        <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.
-Diese lassen sich unter “Länder/Regionen” in Dynamics NAV anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
-Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
-      </item>
-      
-      <item>
         <title>März</title>
         <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2019/march/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1905,6 +1904,28 @@ Im neuen Feld lässt sich festlegen, bei welcher Art von Beleg PEPPOL genutzt wi
 Mehr Informationen finden Sie in der entsprechenden Dokumentation
 Standard für Berichtsoptionen in Benutzerberichten
 Zusätzlich zum einfachen öffnen der Berichtsoptionen im Prozess, gibt es nun noch die Möglichkeit einen Standard der Berichtsoptionen festzulegen der für den jeweiligen Berichts gilt</description>
+      </item>
+      
+      <item>
+        <title>MwSt.-Schema</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
+        <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.
+Diese lassen sich unter “Länder/Regionen” in Dynamics NAV anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
+Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
+      </item>
+      
+      <item>
+        <title>MwSt.-Schema</title>
+        <link>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/</guid>
+        <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen. Für die XRechnung ist dies in Normalfall nur Deutschland.
+Diese lassen sich unter “Länder/Regionen” in Dynamics NAV anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
+Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
       </item>
       
       <item>
@@ -2209,13 +2230,13 @@ Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/setup/</guid>
-        <description>Erste Schritte Einrichtung Berechtigungssätze Bevor Sie mit der Einrichtung beginnen, müssen Sie den Nutzern der App, neue Berechtigungssätze vergeben. Dabei wir stellen die folgenden zur Verfügung:
+        <description>Erste Schritte Einrichtung Berechtigungssätze Bevor Sie mit der Einrichtung beginnen, müssen Sie den Nutzern der App, neue Berechtigungssätze vergeben. Dabei stellen wir die folgenden zur Verfügung:
   CON365, VIEW
-Diese erlaubt Nutzern grundsätzlich mit der App zu interagieren und Belege mit automatisches Anhang zu versenden.
+Dieser erlaubt Nutzern grundsätzlich mit der App zu interagieren und Belege mit automatischen Anhängen zu versenden.
   CON365, EDIT
-Im Fall der Easy Document Pin App bietet dieser Satz die gleichen Berechtigungen wie VIEW
+Im Fall der Easy Document Pin App, bietet dieser Satz die gleichen Berechtigungen wie VIEW
   CON365, SETUP
-Dieser Berechtigungssatz ist nötig um Änderungen an der Einrichtung der App vorzunehmen und sollte dem Administrator zugewiesen werden.</description>
+Dieser Berechtigungssatz ist notwendig um Änderungen an der Einrichtung der App vorzunehmen und sollte dem Administrator zugewiesen werden.</description>
       </item>
       
       <item>
@@ -2349,6 +2370,15 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
         <guid>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/standard/</guid>
         <description>Peppol im Standard Auch im Standard von Microsoft Dynamics NAV/365 BC lassen sich PEPPOL Belege erzeugen. Jedoch erst ab Version 2016 aufwärts. Die Versionsmöglichkeiten sehen wie folgt aus:
          Ab Dynamics NAV 2016 PEPPOL 2.0   Ab Dynamics NAV 2016 PEPPOL 2.1   Ab Business Central 14 PEPPOL 3.0    Für mehr Informationen, wie Sie PEPPOL im Standard nutzen können, greifen Sie bitte auf offizielle Dokumentationen von Microsoft zurück wie z.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>Neu und geplant Version 1.0.0.0  Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen  Geplante Funktionen für zukünftige Versionen  Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege  </description>
       </item>
       
       <item>
@@ -2791,7 +2821,8 @@ kurze Übersicht der App - Deutsch *Die Connector 365 E-POST App, setzt auf die
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easydocumentpin/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema</description>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Attachments Plus App, jedes Video behandelt ein spezielles Thema
+Einrichtung und Versand </description>
       </item>
       
       <item>

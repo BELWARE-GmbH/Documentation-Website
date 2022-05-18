@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</loc>
+    <lastmod>2022-05-16T15:07:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/</loc>
+    <lastmod>2020-05-16T11:39:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/new-and-planned/v1.0.0.12/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/fax/faxmaker/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -483,51 +513,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/easydocumentpin/first-steps/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easydocumentpin/first-steps/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/easybatch/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -584,6 +569,51 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connector-on-appsource/xrechnung/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easydocumentpin/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easydocumentpin/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easydocumentpin/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mailexperienceplus/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mailexperienceplus/first-steps/"
                 />
   </url>
   
@@ -1058,21 +1088,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/e-post/new-and-planned/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/e-post/new-and-planned/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/e-post/new-and-planned/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1114,6 +1129,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/e-post/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/new-and-planned/"
                 />
   </url>
   
@@ -1753,17 +1783,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</loc>
+    <loc>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.8/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.8/"
                 />
   </url>
   
@@ -1854,6 +1884,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connector-on-appsource/xrechnung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.7/</loc>
+    <lastmod>2022-05-16T12:44:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.7/"
                 />
   </url>
   
@@ -2248,36 +2293,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/e-post/first-steps/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/e-post/first-steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/e-post/first-steps/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2304,6 +2319,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/e-post/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail_attachment_plus/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail_attachment_plus/first-steps/"
                 />
   </url>
   
@@ -2913,17 +2958,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/</loc>
+    <loc>https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/"
+                href="https://docs.belware.de/de-de/apps/mailsubject/first-steps/test-purchase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/"
+                href="https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/"
                 />
   </url>
   
@@ -3063,17 +3108,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/</loc>
+    <loc>https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mailsubject/first-steps/test-purchase/"
+                href="https://docs.belware.de/de-de/apps/easybatch/first-steps/test-purchase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mailsubject/first-steps/test-purchase/"
+                href="https://docs.belware.de/en-us/apps/easybatch/first-steps/test-purchase/"
                 />
   </url>
   
@@ -3209,21 +3254,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/pdfpaper/working-with-pdfpaper/stationery/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
                 />
   </url>
   
@@ -3934,6 +3964,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/"
                 />
   </url>
   
@@ -4764,6 +4809,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/base/useful_functions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
                 />
   </url>
   
