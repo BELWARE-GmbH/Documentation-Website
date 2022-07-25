@@ -2,7 +2,7 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Connector 365 Apps on Connector 365 Online Help",
     "description": "Recent content in Connector 365 Apps on Connector 365 Online Help",
-    "home_page_url" : "https://docs.belware.de",
+    "home_page_url" : "https://docs.belware.de/",
     "feed_url" : "https://docs.belware.de/en-us/apps/index.json",
     "items" : [
     {
