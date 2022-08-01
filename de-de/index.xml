@@ -15,6 +15,15 @@
     
       
       <item>
+        <title>V1.0.1.23 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/</guid>
+        <description>Neu und geplant Version 1.0.1.23 Kompatibilität zu XRechnung 2.2 </description>
+      </item>
+      
+      <item>
         <title>V1.0.0.3 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</link>
         <pubDate>Mon, 16 May 2022 15:07:00 +0900</pubDate>
@@ -23,15 +32,6 @@
         <description>Neu und geplant Version 1.0.0.3 Neue Funktionen:
 Mergen von mehreren PDF-Dateien zu einer einzigen Automatisches Drehen von PDF-Dateien, wenn diese im Querformat vorhanden sind Aktionsknöpfe, um Briefpapier per Knopfdruck wieder zu entfernen Briefpapier global unter Firmendaten einrichtbar Korrekturen:
 Korrekter Dateiname bei der Vorschau von Briefpapieren Geplante Funktionen für zukünftige Versionen Integration von PDF/A-Funktion </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.8 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</link>
-        <pubDate>Mon, 16 May 2022 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</guid>
-        <description>Neu und geplant Version 1.0.0.8 Korrektur: Setze negativen Status, wenn E-Mail-Codeunit fehlschlägt Korrektur: Schreiben von E-Mail bezogenen Informationen in die Connector 365 Aktivitäten Liste Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
       </item>
       
       <item>
@@ -636,24 +636,6 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
       </item>
       
       <item>
-        <title>V1.0.0.6 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
-        <description>Neu und geplant Version 1.0.0.6 Logik bei der Auswahl des Berichtslayouts an den Standard angeglichen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.18 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</guid>
-        <description>Neu und geplant Version 1.0.1.18 Möglichkeit per XML-Felder per Event anzusteuern und zu überschreiben. Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
         <title>V1.1.0.0 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -757,12 +739,12 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
       </item>
       
       <item>
-        <title>V1.0.0.7 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</link>
-        <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
+        <title>V1.0.1.22 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/</link>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
-        <description>Neu und geplant Version 1.0.0.7 Dialog-Seiten nur wenn erlaubt (GuiAllowed) Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege </description>
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/</guid>
+        <description>Neu und geplant Version 1.0.1.22 Verbesserungen bei der Integration mit der Connector 365 Easy Batch App </description>
       </item>
       
       <item>
@@ -1489,15 +1471,6 @@ Informationsquellen Den Namen der Microsoft Dynamics 365 Business Central Benutz
       </item>
       
       <item>
-        <title>V1.0.1.11 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</guid>
-        <description>Neu und geplant Version 1.0.1.11 Dokumentlayout übersteuert nun die Berichtsauswahl je Verwendung. Fehlerkorrektur Dialog: Unterpage &amp;ldquo;Anhänge&amp;rdquo; wurde doppelt angezeigt. Es wird nun immer das richtige E-Mail Layout genommen. Servicebereich ist nun für die XRechnung verfügbar Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
         <title>V1.0.1.8 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1890,21 +1863,21 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
       </item>
       
       <item>
+        <title>V1.0.1.18 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</guid>
+        <description>Neu und geplant Version 1.0.1.18 Möglichkeit per XML-Felder per Event anzusteuern und zu überschreiben. Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
+      </item>
+      
+      <item>
         <title>V1.0.1.3 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</guid>
         <description>Neu und geplant Version 1.0.1.3 Warnung beim schließen des CTI-Clients Änderung der Einrichtung des Moduls Geplante Funktionen für zukünftige Versionen Automatisches Anlegen von kontakten bei unbekannten Nummern Anpassung der Jobliste passend zur App Editierbare CTI Notizen Ausblenden der CTI Funktionen im Rollencenter für Nicht-CTI-Nutzer </description>
-      </item>
-      
-      <item>
-        <title>V1.0.1.5 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
-        <description>Neu und geplant Version 1.0.1.5 Korrekturen Unterstützung von Servicerechnungen und Servicegutschriften Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
       </item>
       
       <item>
@@ -1915,6 +1888,15 @@ Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträge
         <guid>https://docs.belware.de/de-de/connectornav/sms/send_via_receipts/</guid>
         <description>Versand über gebuchte Belege: Zunächst rufen Sie wie gewohnt Ihre gebuchten Belege auf. Anschließend wählen Sie z.B. gebuchte Verkaufsrechnungen auf. Dort angekommen, wählen Sie die Rechnung aus von der aus Sie eine SMS an den verknüpften Kontakt senden wollen. Anschließend klicken Sie in der Menüleiste unter „Vorgang“ auf den SMS-Knopf
 Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Kontakten. Von dort aus können Sie wieder einen 160 Zeichen Text versenden bzw.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.8 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</link>
+        <pubDate>Mon, 16 May 2022 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</guid>
+        <description>Neu und geplant Version 1.0.0.8 Korrektur: Setze negativen Status, wenn E-Mail-Codeunit fehlschlägt Korrektur: Schreiben von E-Mail bezogenen Informationen in die Connector 365 Aktivitäten Liste Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege Buchen und Verarbeiten </description>
       </item>
       
       <item>
@@ -2208,15 +2190,6 @@ Ab Dynamics NAV 2016 PEPPOL 2.0 Ab Dynamics NAV 2016 PEPPOL 2.1 Ab Business Cent
       </item>
       
       <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0 Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.8 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2235,6 +2208,15 @@ Ab Dynamics NAV 2016 PEPPOL 2.0 Ab Dynamics NAV 2016 PEPPOL 2.1 Ab Business Cent
       </item>
       
       <item>
+        <title>V1.0.1.11 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</guid>
+        <description>Neu und geplant Version 1.0.1.11 Dokumentlayout übersteuert nun die Berichtsauswahl je Verwendung. Fehlerkorrektur Dialog: Unterpage &amp;ldquo;Anhänge&amp;rdquo; wurde doppelt angezeigt. Es wird nun immer das richtige E-Mail Layout genommen. Servicebereich ist nun für die XRechnung verfügbar Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
+      </item>
+      
+      <item>
         <title>V1.0.1.3 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.3/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2244,12 +2226,12 @@ Ab Dynamics NAV 2016 PEPPOL 2.0 Ab Dynamics NAV 2016 PEPPOL 2.1 Ab Business Cent
       </item>
       
       <item>
-        <title>V1.0.1.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        <title>V1.0.0.7 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</link>
+        <pubDate>Mon, 16 May 2022 12:44:00 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
-        <description>Neu und geplant Version 1.0.1.3 Korrekturen Integration zu Connector 365 Easy Batch Geplante Funktionen für zukünftige Versionen Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
+        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</guid>
+        <description>Neu und geplant Version 1.0.0.7 Dialog-Seiten nur wenn erlaubt (GuiAllowed) Geplante Funktionen für zukünftige Versionen Ausweitung der Funktionen auf den Einkaufsbereich Hintergrunderzeugung und Versand der Belege </description>
       </item>
       
       <item>
@@ -2459,6 +2441,15 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
       </item>
       
       <item>
+        <title>V1.0.1.5 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</guid>
+        <description>Neu und geplant Version 1.0.1.5 Korrekturen Unterstützung von Servicerechnungen und Servicegutschriften Geplante Funktionen für zukünftige Versionen Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
+      </item>
+      
+      <item>
         <title>Videos</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2581,21 +2572,21 @@ Weitere Informationen zur genauen Verwendung dieser Funktion finden Sie in der E
       </item>
       
       <item>
-        <title>V1.0.1.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
-        <description>Neu und geplant Version 1.0.1.0 Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst Geplante Funktionen für zukünftige Versionen Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01 </description>
-      </item>
-      
-      <item>
         <title>V1.0.1.1 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</guid>
         <description>Neu und geplant Version 1.0.1.0 Korrektur der Übersetzung Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.3 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</guid>
+        <description>Neu und geplant Version 1.0.1.3 Korrekturen Integration zu Connector 365 Easy Batch Geplante Funktionen für zukünftige Versionen Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Wechsel von Kosit auf 2.01 </description>
       </item>
       
       <item>
@@ -2718,15 +2709,6 @@ Bei der Stapelverarbeitung wurden im Jobmodus Druck die zusätzlichen Drucker au
       </item>
       
       <item>
-        <title>V1.0.0.1 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
-        <description>Neu und geplant Version 1.0.0.1 Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll Geplante Funktionen für zukünftige Versionen Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s </description>
-      </item>
-      
-      <item>
         <title>V1.0.0.4 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2736,12 +2718,30 @@ Bei der Stapelverarbeitung wurden im Jobmodus Druck die zusätzlichen Drucker au
       </item>
       
       <item>
+        <title>V1.0.0.6 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</guid>
+        <description>Neu und geplant Version 1.0.0.6 Logik bei der Auswahl des Berichtslayouts an den Standard angeglichen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
+      </item>
+      
+      <item>
         <title>V1.0.1.0 &amp; Roadmap</title>
         <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</guid>
         <description>Neu und geplant Version 1.0.1.0 Versand weiterer Belegarten Geb. Verkaufsgutschriften Registrierte Mahnungen Angebote Verkaufsaufträge Versand von Duplexbriefen Versandstatus (Jobliste) in der Factbox am Vorgang in der Übersicht Zwei Boxen für die Jobliste im Rollencenter Die Connector 365 XRechnung App stützt nun auf unsere Basis App Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Bestellungen </description>
+      </item>
+      
+      <item>
+        <title>V1.0.1.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</guid>
+        <description>Neu und geplant Version 1.0.1.0 Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s XRechnungsversion angepasst Geplante Funktionen für zukünftige Versionen Service Rechnungen und Service Gutschriften Erweiterung und Verbesserung der XRechnungseinstellung am Debitor Leitweg ID 1:N Verbesserung Dimension Events Wechsel von Kosit auf 2.01 </description>
       </item>
       
       <item>
@@ -2793,6 +2793,24 @@ Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in unserer Ko
         <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/error_analysis/</guid>
         <description>Validierungsergebnisse bei Fehler analysieren Bei der Validierung der XRechnung-Datei kann es natürlich auch vorkommen, dass eine XRechnung als nicht konform eingestuft wird. Dies passiert dann, wenn wichtige Informationen in der Rechnung fehlen. Beispielsweise wird eine Validierung schon dann fehlschlagen, wenn die Stadt des Debitors nicht angegeben wurde.
 Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir das obige Vorgehen so um, dass wir „vergessen“ eine Leitweg-ID anzugeben. Dazu rufen wir wieder für unsere Beispielrechnung 103003 die Kommunikationsmatrix auf, und entfernen in unserem Eintrag den Wert für die Spalte Leitweg-ID.</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</guid>
+        <description>Neu und geplant Version 1.0.0.0 Intelligente Prozesssteuerung Stapelverarbeitung von Belegen Steuerung via Belegsendeprofilen Geplante Funktionen für zukünftige Versionen Integration von kreditorischen Belegen. Hintergrunderzeugung und Versand der Belege </description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.1 &amp; Roadmap</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</guid>
+        <description>Neu und geplant Version 1.0.0.1 Erstellen einer XRechnung XML-Datei Versand der XRechnung per Mail mit dem Standard BC Mail - Dialog Versand eines Prüfberichts, welcher dem Empfänger die Konformität der Rechnung bestätigt. Anzeigen des Prüfberichts für den Nutzer bei “Nicht-Konformität” Abbruch des Versands bei &amp;ldquo;Nicht-Konformität Verbesserung der WebService Abfrage / DLL für das Prüfprotokoll Geplante Funktionen für zukünftige Versionen Statusverfolgung im Rollencenter Rechnungsbegleitende Anhänge Überarbeiteter XRechnungs-Dialog Syntaxüberprüfung der Leitweg-ID Erweiterung der Eingabe für Leitweg ID&amp;rsquo;s </description>
       </item>
       
       <item>

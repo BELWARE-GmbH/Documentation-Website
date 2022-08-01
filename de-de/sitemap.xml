@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.23/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</loc>
     <lastmod>2022-05-16T15:07:00+09:00</lastmod>
     <xhtml:link
@@ -14,21 +29,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</loc>
-    <lastmod>2022-05-16T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/"
                 />
   </url>
   
@@ -1478,36 +1478,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.18/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.1.0.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1648,17 +1618,17 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</loc>
-    <lastmod>2022-05-16T12:44:00+09:00</lastmod>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.7/"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.22/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.22/"
                 />
   </url>
   
@@ -2883,21 +2853,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.8/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3563,6 +3518,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.18/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.18/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/new-and-planned/v1.0.1.3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3578,21 +3548,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/connectornav/sms/send_via_receipts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3604,6 +3559,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/sms/send_via_receipts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/</loc>
+    <lastmod>2022-05-16T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.8/"
                 />
   </url>
   
@@ -4218,21 +4188,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.8/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4263,22 +4218,37 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.11/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/</loc>
+    <lastmod>2022-05-16T12:44:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.7/"
                 />
   </url>
   
@@ -4538,6 +4508,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.5/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4703,23 +4688,23 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <loc>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.3/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.1/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -4908,21 +4893,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/mail_attachment_plus/new-and-planned/v1.0.0.4/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4938,8 +4908,38 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.6/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/new-and-planned/v1.0.1.0/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.1.0/"
+                />
   </url>
   
   <url>
@@ -5014,6 +5014,36 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/error_analysis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easybatch/new-and-planned/v1.0.0.0/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/v1.0.0.1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/v1.0.0.1/"
                 />
   </url>
   
