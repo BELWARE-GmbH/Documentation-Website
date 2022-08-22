@@ -15,20 +15,20 @@
     
       
       <item>
-        <title>First Steps</title>
-        <link>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/</guid>
-        <description></description>
-      </item>
-      
-      <item>
         <title>New and planned</title>
         <link>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>First Steps</title>
+        <link>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/</guid>
         <description></description>
       </item>
       
@@ -53,7 +53,7 @@ You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog o
 For general things you can reach us under:
 E-Mail: info@belware.de
 alternatively
-Phone: +49 2362 788 90 55
+Phone: +49 2362 788 90 55 0
 Fax: +49 2362 788 90 56</description>
       </item>
       
