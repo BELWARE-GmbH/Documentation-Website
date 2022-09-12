@@ -86,6 +86,14 @@
         "content_html" : "\u003ch3 id=\"connector-365-xrechnung-online-hilfe\"\u003eConnector 365 XRechnung Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource XRechnungs App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/connector-on-appsource/xrechnung/support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
+        "title" : "Entwicklerdokumentation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/developer-docu/",
+        "url" : "https://docs.belware.de/de-de/apps/developer-docu/",
+        "content_html" : "\u003ch3 id=\"connector-365-entwicklerdokumentation\"\u003eConnector 365 Entwicklerdokumentation\u003c/h3\u003e\n\u003cp\u003eAls Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unseren Apps eigenhändig vornehmen können.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/pdfpaper/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "Unterstützte Länder",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
