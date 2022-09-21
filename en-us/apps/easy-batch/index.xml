@@ -20,10 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-batch/new-and-planned/</guid>
-        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.0.0.0 Improvements:
-Implementation of background processing Adapting the standard when retrieving the E-Mail address of the recipient Automated sending after posting documents Sending documents from purchase(purchase orders, posted return shipments) Version 1.0.0.17 Corrections:
-Correction when passing records to Easy Batch function
-&amp;ndash; Fixes possible multiple selection error Version 1.0.0.13 Improvements:</description>
+        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.1.0.0 Improvements:
+Implementation of rety functionality for open tasks, which ran into an error. Navigation to the document from the list of open tasks. Error message now included as a text field in the table for open tasks. Version 2.0.0.0 Improvements:
+Implementation of background processing Adapting the standard when retrieving the E-Mail address of the recipient Automated sending after posting documents Sending documents from purchase(purchase orders, posted return shipments) Version 1.</description>
       </item>
       
       <item>

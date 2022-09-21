@@ -20,10 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.0.0.0 Verbesserungen:
-Implementierung Hintergrundverarbeitung Adaptieren des Standards zum Heranziehen der E-Mailadresse des Empfängers Automatisierter Versand nach Abschluss des Buchungsprozesses Versand von Belegen aus dem Einkaufsbereich (Einkaufsbestellungen, Gebuchte Einkaufsrücklieferungen) Weiteres:
-Abhängigkeit zur neuen Version der App Connector 365 Base (2.0.0.0) Überführung der Tabelle &amp;ldquo;Joblist Entry&amp;rdquo; in &amp;ldquo;Activity Entry&amp;rdquo; Version 1.0.0.17 Korrekturen:
-Korrektur bei Übergabe von Datensätzen an Easy Batch Funktion</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.1.0.0 Verbesserungen:
+Implementierung der Funktionalität zum erneuten starten offener Aufgaben, welche auf einen Fehler gestoßen sind. Navigation zum Beleg aus der Liste offener Aufgaben. fehlernachricht nun als Textfeld in die Tabelle der offenen AUfgaben integriert. Version 2.0.0.0 Verbesserungen:
+Implementierung Hintergrundverarbeitung Adaptieren des Standards zum Heranziehen der E-Mailadresse des Empfängers Automatisierter Versand nach Abschluss des Buchungsprozesses Versand von Belegen aus dem Einkaufsbereich (Einkaufsbestellungen, Gebuchte Einkaufsrücklieferungen) Weiteres:</description>
       </item>
       
       <item>

@@ -1360,7 +1360,7 @@ Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order
         <description>Working with Easy Batch Automated Processing If you activated the automated processing in the Easy Batch Setup, documents which are posted, will be processed automatically afterwards.
 To do this, open one of the desired document pages: e.g. sales orders.
 After navigating to the page you can post the selected documents as usual using the action Post&amp;hellip;.
-Afterwards the created posted sales invoice and/or posted sales shipment will be enqueued tob be processed, as long as the automated processing is enabled for this document type in the Easy Batch Setup.</description>
+Afterwards the created posted sales invoice and/or posted sales shipment will be enqueued to be processed, as long as the automated processing is enabled for this document type in the Easy Batch Setup.</description>
       </item>
       
       <item>
@@ -1838,7 +1838,7 @@ Web: www.message-mobile.de</description>
         <description>Working with Easy Batch Open Tasks The page Open Tasks offers you a overview for every document, that is enqueued for processing, but was not succesfully processed yet.
 Besides the planned processing time you can check the field Error Message for reasons why the processing failed.
 Using the action Cancel Processing the processing can be stopped for individual documents.
-After the processing succeeded the tasks will be removed from this list and afterwardsarchived in the Connector 365 Activities.</description>
+The action Retry Task enqueues the selected tasks to be processed again.</description>
       </item>
       
       <item>
