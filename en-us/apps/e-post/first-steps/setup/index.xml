@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/e-post/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>E-POSTBUSINESS API</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+Field Desciption EKP This is your customer number that you have received from Deutsche Post Secret The secret is created automatically after you set your password Password Here is your encrypted password Save File in Joblist Determines whether sent files are archived in the job list Show dialog Determines whether another dialog for changing/checking the options is opened before sending Testmode If this option is enabled, the data of the letters will not be sent to the printing center Test Email Address If the test mode is enabled, this email address will receive a notification about the shipment Show restricted area Displays the restricted areas required by Deutsche Post on test letters While the test mode is activated, no invoices are sent.</description>
+      </item>
+      
+      <item>
+        <title>Report selection</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/</guid>
+        <description>First steps Report selection Before sending the first letter, the reports for sending with E-POST must be defined in the report selection. Currently, this option is available in &amp;ldquo;Report selection sales&amp;rdquo; and &amp;ldquo;Report selection reminder&amp;rdquo;.
+Only reports with a check mark in the &amp;ldquo;Use for E-POST&amp;rdquo; option are taken into account.
+*The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
+      </item>
+      
+      <item>
+        <title>Automatisierte Rückmeldungen</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/</guid>
+        <description>Einrichtung Automated Fedback Besides the manual status rqeuest for E-POST letters, status requests can also be automated.
+For this there is a pre configured job queue entry.
+The pre configured settings can be changed as xou like.
+Via search you can navigate to the job queue entries.
+By double clicking the line you can navigate to the setting of the selected queue entry.
+To make changes to these settings, you first have to set the job qeueu entry on hold.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

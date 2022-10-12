@@ -65,6 +65,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/installation/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/installation/appsource/"
+                />
   </url>
   
   <url>
@@ -390,11 +400,31 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/"
+                />
   </url>
   
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/"
+                />
   </url>
   
   <url>
@@ -460,6 +490,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/introduction/"
+                />
   </url>
   
   <url>
@@ -1095,6 +1135,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/new-and-planned/"
+                />
   </url>
   
   <url>
@@ -1435,6 +1485,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/"
+                />
   </url>
   
   <url>
@@ -1650,6 +1710,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/appsource/"
+                />
   </url>
   
   <url>
@@ -1760,6 +1830,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/"
+                />
   </url>
   
   <url>
@@ -1870,6 +1950,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/"
+                />
   </url>
   
   <url>
@@ -2025,6 +2115,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/"
+                />
   </url>
   
   <url>
@@ -2300,11 +2400,31 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/"
+                />
   </url>
   
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/onprem/"
+                />
   </url>
   
   <url>
@@ -2610,6 +2730,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/"
+                />
   </url>
   
   <url>
@@ -2960,6 +3090,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/automated-feedback/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/automated-feedback/"
+                />
   </url>
   
   <url>
@@ -3325,6 +3465,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/registration/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/registration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/registration/"
+                />
   </url>
   
   <url>
@@ -3480,6 +3630,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/working-with-e-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/working-with-e-post/"
+                />
   </url>
   
   <url>
@@ -3845,6 +4005,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/installation/"
+                />
   </url>
   
   <url>
@@ -4080,6 +4250,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/"
+                />
   </url>
   
   <url>
@@ -4115,6 +4295,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/help-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/help-support/"
+                />
   </url>
   
   <url>
@@ -4420,6 +4610,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/videos/"
+                />
   </url>
   
   <url>

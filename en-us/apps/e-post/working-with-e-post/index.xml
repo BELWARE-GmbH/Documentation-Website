@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with the E-POST on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/</link>
+    <description>Recent content in Working with the E-POST on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/e-post/working-with-e-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Sending</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
+        <description>Working with E-POST Sending With our Connector 365 E-POST App* you can send different types of documents. However, in our application example we will focus on invoices.
+The other document types can be send in the same way.
+First select the document you want to send.
+The function for sending letters by post can be found under Print/Send in the menu bar. Open it and select Send as letter to open the dialog for sending letters.</description>
+      </item>
+      
+      <item>
+        <title>Archive</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
+        <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
+In the factbox area of the documents you can find the Connector 365 Activities. There you find the brief overview to each process.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

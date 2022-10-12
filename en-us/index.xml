@@ -93,6 +93,17 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/easy-batch/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -231,6 +242,16 @@ Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note
       </item>
       
       <item>
+        <title>E-POSTBUSINESS API</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
+        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+Field Desciption EKP This is your customer number that you have received from Deutsche Post Secret The secret is created automatically after you set your password Password Here is your encrypted password Save File in Joblist Determines whether sent files are archived in the job list Show dialog Determines whether another dialog for changing/checking the options is opened before sending Testmode If this option is enabled, the data of the letters will not be sent to the printing center Test Email Address If the test mode is enabled, this email address will receive a notification about the shipment Show restricted area Displays the restricted areas required by Deutsche Post on test letters While the test mode is activated, no invoices are sent.</description>
+      </item>
+      
+      <item>
         <title>Ident ID</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -269,6 +290,15 @@ The phone number of the person calling is stored in a contact. If this is not th
         <description>First steps Introduction Controlling the telephone activities of your employees can be time-consuming. A constant switching between the STARFACE client and the Microsoft Dynamics 365 Business Central environment causes a break in the workflow. But this break can be prevented.
 Full control over your STARFACE CTI
 With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365 Business Central environment into your CTI center. We offer you many options that help you to fully utilize your STARFACE solution.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/introduction/</guid>
+        <description>First steps Fast hybrid sending with the Connector 365 E-POST App The need to receive invoices by mail is still ubiquitous. What does this mean for my ERP Microsoft Dynamics 365 Business Central, which can be used from anywhere? Document processing in the traditional sense - printing, inserting, franking and posting at the post office - can delay the process - especially if the document creator is not on-site. Depending on the volume of documents to be sent, this process can become even more time-consuming - time that could be used more productively.</description>
       </item>
       
       <item>
@@ -516,6 +546,18 @@ First you have to fill the emty fields with information:</description>
       
       <item>
         <title>Sending</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
+        <description>Working with E-POST Sending With our Connector 365 E-POST App* you can send different types of documents. However, in our application example we will focus on invoices.
+The other document types can be send in the same way.
+First select the document you want to send.
+The function for sending letters by post can be found under Print/Send in the menu bar. Open it and select Send as letter to open the dialog for sending letters.</description>
+      </item>
+      
+      <item>
+        <title>Sending</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/sending/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -732,6 +774,20 @@ After the Connector 365 CTI for STARFACE app is installed, you have the option t
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; purchase AppSource The Connector 365 E-POST App* is available on Microsoft AppSource.
+After the download you have the following test options:
+No registered E-POST customer
+You will receive a message when testing the app stating that there would be a letter dispatch at this point. If you want to register, you can find a guide here
+Registered E-POST customer
+The following options are available to you as a registered E-POST customer:</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/easy-batch/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -825,6 +881,16 @@ After downloading, the app is available to you free of charge for 5 processes.
 Once these are reached, you have the option to order the app directly.
 Your costs:
 Monthly subscription incl. maintenance per environment with annual payment and term* 19,90€ Monthly subscription incl. maintenance per environment with monthly payment and term* 25,90€ *The subscription is for one environment within a tenant.</description>
+      </item>
+      
+      <item>
+        <title>Archive</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
+        <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
+In the factbox area of the documents you can find the Connector 365 Activities. There you find the brief overview to each process.</description>
       </item>
       
       <item>
@@ -1013,6 +1079,26 @@ Publishing of the Connector 365 Base &amp;amp; CTI for STARFACE App the publishi
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 CTI for STARFACE App without obligation or to purchase it directly. For this we need some information from you.
+To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; E-POST App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; E-POST App the publishing of the Connector Base &amp;amp; E-POST App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 E-POST App* without obligation or to purchase it directly. For this we need some information from you.
 To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
@@ -1213,6 +1299,17 @@ Start by opening the report selection of the report you want, in this example we
       </item>
       
       <item>
+        <title>Report selection</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/</guid>
+        <description>First steps Report selection Before sending the first letter, the reports for sending with E-POST must be defined in the report selection. Currently, this option is available in &amp;ldquo;Report selection sales&amp;rdquo; and &amp;ldquo;Report selection reminder&amp;rdquo;.
+Only reports with a check mark in the &amp;ldquo;Use for E-POST&amp;rdquo; option are taken into account.
+*The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
+      </item>
+      
+      <item>
         <title>Sending via e-mail</title>
         <link>https://docs.belware.de/en-us/connectornav/data-exchange/peppol/send_email/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1364,6 +1461,20 @@ Afterwards the created posted sales invoice and/or posted sales shipment will be
       </item>
       
       <item>
+        <title>Automatisierte Rückmeldungen</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/</guid>
+        <description>Einrichtung Automated Fedback Besides the manual status rqeuest for E-POST letters, status requests can also be automated.
+For this there is a pre configured job queue entry.
+The pre configured settings can be changed as xou like.
+Via search you can navigate to the job queue entries.
+By double clicking the line you can navigate to the setting of the selected queue entry.
+To make changes to these settings, you first have to set the job qeueu entry on hold.</description>
+      </item>
+      
+      <item>
         <title>Body text</title>
         <link>https://docs.belware.de/en-us/connectornav/html-word/bodytexts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1491,6 +1602,16 @@ The Vendor Selection &amp;amp; Contact Selection pages built into the templates,
 New field Use PEPPOL in communication matrix.
 The new field allows you to specify which type of document PEPPOL is used for. Non/invoice/credit memo
 More information can be found in the corresponding documentation.</description>
+      </item>
+      
+      <item>
+        <title>Registration</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/registration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/registration/</guid>
+        <description>First steps Registration To fully use the Connector 365 E-POST App*, prior registration with Deutsche Post is required. The registration page can be found here (only available in German) but also directly in the Connector 365 E-POST App.
+We will be happy to assist you in registering the E-POSTBUSINESS API with the Deutsche Post. To do so, simply contact support@belware.de.In the registration form you will be asked for various contact information.</description>
       </item>
       
       <item>
@@ -1801,6 +1922,17 @@ Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
+        <title>Installation</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/installation/</guid>
+        <description>First steps Installation Using the search function, open the Marketplace for Extensions and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 E-POST. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
         <title>Job files and feedback massages</title>
         <link>https://docs.belware.de/en-us/connectornav/fax/jobs/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2004,6 +2136,20 @@ As soon as one of the above buttons has been activated, an XRechnung will be gen
 Setup of the PDF level In the &amp;ldquo;pdfPaper setup&amp;rdquo; the intended PDF level is stored, which one would like to apply per client by default. This setup directly accesses all reports/documents in a client that are processed with Connector NAV / 365 BC.
 Window „pdfPaper setup“
 You can choose between &amp;ldquo;Empty&amp;rdquo;, &amp;ldquo;PDF/A- 1b&amp;rdquo; and &amp;ldquo;PDF/A- 3b&amp;rdquo; in the &amp;ldquo;PDF Level&amp;rdquo; field and thus define your default setting per client.</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55 0
+Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
@@ -2218,6 +2364,16 @@ There you will find 2 fields, Printer for the process Printout or Printout Serve
         <description>Setting up a task queue for background processing The task queue setup is located in the menu under Administration-&amp;gt; IT Administration-&amp;gt; Application Setup-&amp;gt; Task Queue.
 Microsoft Dynamics NAV, task queue
 To execute Connector NAV server jobs, a task queue item is created with the corresponding code unit 5402516. For this item to run, a task queue with corresponding service must be created. There are several ways to do this. In the following example, a task queue is created with the administrator user without any further setup on the server.</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Connector 365 E-POST App, each video covers a special topic
+Connector 365 E-POST - Quick Overview - English *The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
       </item>
       
       <item>
