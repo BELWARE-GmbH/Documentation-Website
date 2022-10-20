@@ -2586,6 +2586,18 @@ To illustrate it, we have also prepared a video for you from our latest webcast 
       </item>
       
       <item>
+        <title>Individual subject lines</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/subject/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/subject/</guid>
+        <description>Application area A large number of combinations can result from the various settings for the job mode, the report name and others.
+If specific subject lines are required in the generated documents for individual combinations, these can be implemented using this field.
+For this purpose, placeholders to be defined by the user are used, which are replaced with assigned values from the database. They are set up as follows:
+In the communication matrix there is a column &amp;ldquo;Subject&amp;rdquo;.</description>
+      </item>
+      
+      <item>
         <title>October</title>
         <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2019/october/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

@@ -95,6 +95,18 @@ How exactly the respective document should be processed, you can set up in our c
 Field Name Function 1 Stack mode specifies whether the entry also applies to batch mode processing 2 SpreadsheetID specifies to which spreadsheet the entry refers (deb./credit/contact) 3 Spreadsheet name automatically filled with the spreasheet name 4 No. Lot.</description>
       </item>
       
+      <item>
+        <title>Individual subject lines</title>
+        <link>https://docs.belware.de/en-us/connectornav/matrix/subject/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/matrix/subject/</guid>
+        <description>Application area A large number of combinations can result from the various settings for the job mode, the report name and others.
+If specific subject lines are required in the generated documents for individual combinations, these can be implemented using this field.
+For this purpose, placeholders to be defined by the user are used, which are replaced with assigned values from the database. They are set up as follows:
+In the communication matrix there is a column &amp;ldquo;Subject&amp;rdquo;.</description>
+      </item>
+      
     
   </channel>
 </rss>
