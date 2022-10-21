@@ -3587,7 +3587,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/">
     <a href="https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Subject Plus
+        Working with Connector 365 Mail Subject Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -7177,7 +7177,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/">
     <a href="https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Subject Plus
+        Working with Connector 365 Mail Subject Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -8029,6 +8029,26 @@ if (!doNotTrack) {
 <p><strong>Creating a new placeholder</strong><br />
 First, enter the placeholder you want to use in the <strong>Placeholder</strong> field. We recommend using placeholders here which could not accidentally appear in the subject, for example, if you define the placeholder <strong>Inv</strong> for the invoice number and the subject contains the word <strong>Invoice</strong>, the <strong>Inv</strong> part of the word would be replaced in the subject. It is best to use a combination of special characters and numbers or adjust placeholders so that they do not accidentally appear in words.</p>
 <p>Now you have to define the field to which the placeholder refers. Here you have all the respective fields from the report you are currently in at your disposal.</p>
+<p>Now you have to define the field to which the placeholder refers. To do this, click on the assist button of the <strong>Definition</strong> field. <br />
+Now another window opens, in which all fields from the company information, as well as all fields from the header data of the underlying report are available to you. You can select a field assignment for each placeholder.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail_subject_field_lookup.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<div class="notices info" data-title="Technical note">
+  To determine the table for the header data, the report metadata of the respective report is examined for its property: <strong>FirstDataItemTableID</strong>. <br />
+The standard reports in Business Central store the underlying header for this respective first element (FirstDataItemTableId). Example: Report 1306 -&gt; Sales Invoice Header. <br />
+If customized reports have a different structure, i.e. a different table is in the first place, it will also be taken over into the table filter, whereby possibly useless fields will be displayed, or important fields could be missed.<br />
+For such cases the next app release will provied the possibility to set the correct target table via an event subscriber depending on the report id.</p>
+<!-- More about this can be found at [Events](/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events).-->
+</div>
+<br>
+<br>
 <p>Repeat this process for all fields/placeholders you want to use in your subject.</p>
 <p><p class="md__image">
   <img src="/images/apps/subjectdocplacefillen.PNG" alt=""  />
