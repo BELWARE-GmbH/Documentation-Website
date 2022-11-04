@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Weitere E-Mail Empfänger (CC/BCC)</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/weitere-empf%C3%A4nger/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/weitere-empf%C3%A4nger/</guid>
+        <description>Weitere E-Mail-Empfänger einrichten Neben der Funktionalität, Zieladressen pro Jobmodus und Verwendung einzurichten,
+bietet Connector 365 Addressee Control eine weitere Funktion an, die es erlaubt, pro Debitor und Verwendung noch weitere E-Mail-Empfänger festzulegen. Wie Sie dies einrichten können, erfahren Sie im Folgenden.
+Einrichtung Weitere Debitor-Zieladressen können Sie in den Dokumentlayouts des gewünschten Debitors hinterlegen.
+Die Connector 365 Addressee Control App erweitert die Dokumentlayouts um ein weiteres Feld: Weitere Ziele.
+Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt eingerichtet sind.</description>
+      </item>
+      
+      <item>
+        <title>Zieladressen</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/zieladdressen/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/zieladdressen/</guid>
+        <description>Einrichtung Um die Zieladressen-Logik über die Connector 365 Addresse Control App nach Belieben einzustellen, öffnen Sie
+eine der Seiten Berichtsauswahlen.
+Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahl-Pages um eine
+Subpage.
+Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:
+Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik einzustellen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
