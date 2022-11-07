@@ -1813,11 +1813,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/appsource/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2363,11 +2358,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2785,11 +2775,6 @@
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>

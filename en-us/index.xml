@@ -796,16 +796,6 @@ Actions Mailen This action sends the e-mail. PDF This action creates the PDF. St
       
       <item>
         <title>AppSource</title>
-        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1102,16 +1092,6 @@ In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as a
         <description>Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
 There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
 There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the setup</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 CTI for STARFACE App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
-Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
       <item>

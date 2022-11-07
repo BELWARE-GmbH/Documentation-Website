@@ -14,14 +14,6 @@
         "content_html" : "\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003cp\u003eWith the Connector 365 Address Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is the standard.\u003c/p\u003e\n\u003cp\u003eFurthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also determine\u003cbr /\u003e\nwhether a recipient is to be reached via CC or BCC.\u003c/p\u003e\n"
     },
     {
-        "title" : "Test \u0026 Kauf",
-        "date_published" : "2020-02-28T10:08:56+09:00",
-        "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/",
-        "url" : "https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/",
-        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-cti-for-starface-app\"\u003eTesten und kaufen der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
-    },
-    {
         "title" : "Setup",
         "date_published" : "2020-02-28T00:00:00+09:00",
         "date_modified" : "2020-02-28T00:00:00+09:00",
