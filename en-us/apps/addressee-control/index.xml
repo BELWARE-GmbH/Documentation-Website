@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addresse Control on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/addressee-control/</link>
+    <description>Recent content in Addresse Control on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 -0500</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/addressee-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>New and planned</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/</guid>
+        <description>New and Planned Here you will find all the important information and instructions on how to install the Connector 365 Addresse Control App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the support page.</description>
+      </item>
+      
+      <item>
+        <title>First Steps</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/</guid>
+        <description>Installing the Connector 365 Addresse Control App. Here you will find all the important information and instructions on how to install the Connector 365 Addresse Control App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Working with Connector 365 Addresse Control</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/</link>
+        <pubDate>Mon, 04 Jul 2022 11:12:42 -0500</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/</guid>
+        <description>Working with the Connector 365 Addresse Control App Here you can find all important information and hints for the correct use of the Connector 365 Addresse Control App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered, we will be happy to help you personally.
+The necessary contact information can be found on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55 0
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Connector 365 Address Control App, each video covers a specific topic:
+Brief overview of the app </description>
+      </item>
+      
+    
+  </channel>
+</rss>

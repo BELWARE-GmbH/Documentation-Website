@@ -284,6 +284,17 @@ The phone number of the person calling is stored in a contact. If this is not th
       
       <item>
         <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/introduction/</guid>
+        <description>Introduction With the Connector 365 Address Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is the standard.
+Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also determine
+whether a recipient is to be reached via CC or BCC.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
         <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -721,6 +732,26 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
+        <title>Target addresses</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</guid>
+        <description>Setup To set the destination address logic as desired via the Connector 365 Addresse Control app, open one of the Report Selections pages.
+Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge Bank Account The Connector 365 Addressee Control app adds a subpage to supported report selection pages.
+Example from the sales area -&amp;gt; Report Selection - Sales:</description>
+      </item>
+      
+      <item>
+        <title>V1.0.0.0</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/v1.0.0.0/</link>
+        <pubDate>Mon, 04 Jul 2022 11:02:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/v1.0.0.0/</guid>
+        <description>Version 1.0.0.0 from 04.11.2022 First release </description>
+      </item>
+      
+      <item>
         <title>Add contacts</title>
         <link>https://docs.belware.de/en-us/connectornav/segment/add_contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -761,6 +792,16 @@ Actions Fax Use this action to send the fax. PDF With this action you create the
         <description>Application example Sending e-mails from Dynamics NAV is possible from any page, in the following an offer is used as an example.
 Extract sample offer Connector NAV Integration
 Actions Mailen This action sends the e-mail. PDF This action creates the PDF. Status This action takes you to the job list and the corresponding entry. History In addition to the Status action, job entries that have been assigned to the document are also displayed here.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
       </item>
       
       <item>
@@ -1061,6 +1102,16 @@ In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as a
         <description>Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
 There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
 There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the setup</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 CTI for STARFACE App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
       <item>
@@ -1450,6 +1501,18 @@ Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order
       </item>
       
       <item>
+        <title>Multiple e-mail recipients</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/further_targets/</link>
+        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/further_targets/</guid>
+        <description>Working with multiple e-mail recipients After you have successfully set up additional target addresses for a customer, you can simply send your desired voucher, for a customer/vendor that you have set up, by e-mail.
+To do this, first go to the desired document page. Example: Posted Sales Invoices.
+At the top of the action bar, go to Print/Send, and then Send by Email:
+The e-mail dialog window opens as usual:</description>
+      </item>
+      
+      <item>
         <title>Automated Processing</title>
         <link>https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/automated_processing/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1799,6 +1862,19 @@ You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog o
       </item>
       
       <item>
+        <title>Target addresses</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</link>
+        <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
+        <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices.
+It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
+Connector 365 Addressee Control app:
+Assume that an invoice is to be sent where the invoice recipient and the buyer are different:
+For simplicity, Bill-To-Customer@mail.de has been set up below for the invoice recipient, and Sell-To-Customer@mail.</description>
+      </item>
+      
+      <item>
         <title>April</title>
         <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2019/april/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1892,6 +1968,20 @@ Example:</description>
         <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/example_password/</guid>
         <description>Example progress password assignment By assigning passwords, you can protect sentitive content when it is sent. Because an unprotected PDF file is comparable to a postcard - anyone who has access can read it. You have various options for assigning passwords.
 Function „Show password“ Of course, it is important that passwords remain protected - however, it can happen that passwords are forgotten or misplaced. For this case there is a function &amp;ldquo;Show password&amp;rdquo; - this function, which can be assigned on a user basis, allows to view the password of PDF files.</description>
+      </item>
+      
+      <item>
+        <title>Help &amp; Support</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/help-support/</guid>
+        <description>Help &amp;amp; Support We are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.
+For general things you can reach us under:
+E-Mail: info@belware.de
+alternatively
+Phone: +49 2362 788 90 55 0
+Fax: +49 2362 788 90 56</description>
       </item>
       
       <item>
@@ -2276,6 +2366,16 @@ Here you should now fill the field “Tax category” with the respective design
       
       <item>
         <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Connector 365 Address Control App, each video covers a specific topic:
+Brief overview of the app </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
         <link>https://docs.belware.de/en-us/apps/cti-for-starface/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2292,6 +2392,18 @@ Connector 365 CTI for STARFACE - Quick Overview </description>
         <guid>https://docs.belware.de/en-us/apps/xrechnung/videos/</guid>
         <description>Videos Here you can find some informative videos about our XRechnung, each video covers a special topic
 Setup &amp;amp; Sending </description>
+      </item>
+      
+      <item>
+        <title>Additional e-mail recipients (CC/BCC)</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/multiple_recipients/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/multiple_recipients/</guid>
+        <description>Set up additional e-mail recipients In addition to the functionality to set up destination addresses per job mode and usage,
+Connector 365 Addressee Control offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
+Setup You can store additional customer destination addresses in the document layouts of the desired customer.
+The Connector 365 Addressee Control app adds another field to the Document Layouts: Additional Destinations.</description>
       </item>
       
       <item>

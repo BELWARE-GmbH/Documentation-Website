@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Target addresses</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</guid>
+        <description>Setup To set the destination address logic as desired via the Connector 365 Addresse Control app, open one of the Report Selections pages.
+Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge Bank Account The Connector 365 Addressee Control app adds a subpage to supported report selection pages.
+Example from the sales area -&amp;gt; Report Selection - Sales:</description>
+      </item>
+      
+      <item>
+        <title>Additional e-mail recipients (CC/BCC)</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/multiple_recipients/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/multiple_recipients/</guid>
+        <description>Set up additional e-mail recipients In addition to the functionality to set up destination addresses per job mode and usage,
+Connector 365 Addressee Control offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
+Setup You can store additional customer destination addresses in the document layouts of the desired customer.
+The Connector 365 Addressee Control app adds another field to the Document Layouts: Additional Destinations.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

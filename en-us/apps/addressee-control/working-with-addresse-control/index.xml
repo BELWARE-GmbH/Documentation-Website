@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with Connector 365 Addresse Control on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/</link>
+    <description>Recent content in Working with Connector 365 Addresse Control on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Mon, 04 Jul 2022 11:12:42 -0500</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Multiple e-mail recipients</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/further_targets/</link>
+        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/further_targets/</guid>
+        <description>Working with multiple e-mail recipients After you have successfully set up additional target addresses for a customer, you can simply send your desired voucher, for a customer/vendor that you have set up, by e-mail.
+To do this, first go to the desired document page. Example: Posted Sales Invoices.
+At the top of the action bar, go to Print/Send, and then Send by Email:
+The e-mail dialog window opens as usual:</description>
+      </item>
+      
+      <item>
+        <title>Target addresses</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</link>
+        <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
+        <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices.
+It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
+Connector 365 Addressee Control app:
+Assume that an invoice is to be sent where the invoice recipient and the buyer are different:
+For simplicity, Bill-To-Customer@mail.de has been set up below for the invoice recipient, and Sell-To-Customer@mail.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

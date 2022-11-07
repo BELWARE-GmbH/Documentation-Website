@@ -1443,10 +1443,10 @@ Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die
       
       <item>
         <title>Weitere E-Mail-Empfänger</title>
-        <link>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/weitere_zieladressen/</link>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/</link>
         <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/weitere_zieladressen/</guid>
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/</guid>
         <description>Arbeiten mit weiteren E-Mail-Empfängern Nachdem Sie erfoglreich weitere Zieladressen für einen Debitor eingerichtet haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
 Dazu gehen Sie zunächst auf die gewünschte Beleg-Seite.
 Beispiel: Gebuchte Verkaufsrechnungen.
@@ -1813,10 +1813,10 @@ Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Konta
       
       <item>
         <title>Zieladressen</title>
-        <link>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/zieladressen/</link>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</link>
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/zieladressen/</guid>
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
         <description>Arbeiten mit festgelegten Zieladressen Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der
 Connector 365 Addressee Control als Zieladresse eingerichtet wurde:
 Angenommen es soll eine Rechnung verschickt werden, bei welchem der Rechnungsempfänger und der Käufer verschieden sind:
@@ -2333,6 +2333,16 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
       
       <item>
         <title>Videos</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer Connector 365 Addresse Control App, jedes Video behandelt ein spezielles Thema:
+kurze Übersicht der App </description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/videos/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2364,10 +2374,10 @@ Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der
       
       <item>
         <title>Weitere E-Mail Empfänger (CC/BCC)</title>
-        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/weitere-empf%C3%A4nger/</link>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/further_targets/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/weitere-empf%C3%A4nger/</guid>
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/further_targets/</guid>
         <description>Weitere E-Mail-Empfänger einrichten Neben der Funktionalität, Zieladressen pro Jobmodus und Verwendung einzurichten,
 bietet Connector 365 Addressee Control eine weitere Funktion an, die es erlaubt, pro Debitor und Verwendung noch weitere E-Mail-Empfänger festzulegen. Wie Sie dies einrichten können, erfahren Sie im Folgenden.
 Einrichtung Weitere Debitor-Zieladressen können Sie in den Dokumentlayouts des gewünschten Debitors hinterlegen.
@@ -2377,10 +2387,10 @@ Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt ei
       
       <item>
         <title>Zieladressen</title>
-        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/zieladdressen/</link>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/zieladdressen/</guid>
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Einrichtung Um die Zieladressen-Logik über die Connector 365 Addresse Control App nach Belieben einzustellen, öffnen Sie
 eine der Seiten Berichtsauswahlen.
 Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahl-Pages um eine

@@ -20,6 +20,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/new-and-planned/v1.0.0.0/</loc>
     <lastmod>2022-07-04T11:02:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/v1.0.0.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/new-and-planned/v1.0.0.0/"
+                />
   </url>
   
   <url>
@@ -40,6 +50,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/</loc>
     <lastmod>2020-07-04T11:13:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/"
+                />
   </url>
   
   <url>
@@ -1630,11 +1650,31 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/introduction/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/first-steps/introduction/"
+                />
   </url>
   
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/new-and-planned/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/new-and-planned/"
+                />
   </url>
   
   <url>
@@ -2960,16 +3000,46 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/first-steps/"
+                />
   </url>
   
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/</loc>
     <lastmod>2022-07-04T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/"
+                />
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/weitere_zieladressen/</loc>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/</loc>
     <lastmod>2022-07-04T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/further_targets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/"
+                />
   </url>
   
   <url>
@@ -3603,8 +3673,18 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/zieladressen/</loc>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</loc>
     <lastmod>2022-10-20T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/"
+                />
   </url>
   
   <url>
@@ -4015,6 +4095,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/help-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/help-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/help-support/"
+                />
   </url>
   
   <url>
@@ -4265,6 +4355,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/"
+                />
   </url>
   
   <url>
@@ -4523,6 +4623,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/videos/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/videos/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/videos/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4568,13 +4683,23 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/weitere-empf%C3%A4nger/</loc>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/further_targets/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/zieladdressen/</loc>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/"
+                />
   </url>
   
   <url>
