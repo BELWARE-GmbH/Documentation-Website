@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.105.0">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/">
@@ -8421,7 +8421,7 @@ if (!doNotTrack) {
 <strong>Definition</strong> - Diseses Feld definiert, auf welches Feld sich ihr zuvor eingegebener Platzhalter bezieht.</p>
 <p><strong>Anlegen eines neuen Platzhalters</strong><br />
 Geben Sie zunächst in das Feld <strong>Platzhalter</strong> den gewünschten Platzhalter ein. Wir empfehlen hier Platzhalter zu nutzen, welche nicht versehentlich im Betreff stehen könnten, wenn Sie beispielsweise den Platzhalter <strong>Rech</strong> für die Rechnungsnummer definieren und im Betreff das Wort <strong>Rechnung</strong> steht, würde der <strong>Rech</strong>-Teil des Wortes im Betreff ersetzt. Nutzen Sie am besten eine Kombination aus Sonderzeichen und Zahlen oder passen Sie Platzhalter so an, dass Sie nicht versehentlich in Worten vorkommen.</p>
-<p>Nun müssen Sie noch das Feld definieren, auf dass sich der Platzhalter bezieht. Klicken Sie hierzu auf den Assist-Button des Feldes Definition.<br />
+<p>Nun müssen Sie noch das Feld definieren, auf dass sich der Platzhalter bezieht. Klicken Sie hierzu auf den Assist-Button des Feldes Definition. <br />
 Es öffnet sich nun ein weiteres Fenster, in denen Ihnen alle Felder aus den Firmendaten, sowie alle Felder aus den Kopfdaten des zugrundeliegenden Berichts zur Verfügung stehen. Sie können für jeden Platzhalter eine Feldzuordnung wählen.</p>
 <table>
 <thead>
@@ -8433,7 +8433,7 @@ Es öffnet sich nun ein weiteres Fenster, in denen Ihnen alle Felder aus den Fir
 </thead>
 </table>
 <div class="notices info" data-title="Technischer hinweis">
-  Um die Tabelle für die Kopfdaten zu bestimmen, werden die Report-Metadaten des jeweiligen Berichts auf dessen Eigenschaft: <strong>FirstDataItemTableID</strong> untersucht. Die Standard-Berichte in Business Central hinterlegen für dieses jeweils erste Element (FirstDataItemTableId) den zugrundeliegenden Header. Beispiel: Report 1306 -&gt; Sales Invoice Header.<br />
+  Um die Tabelle für die Kopfdaten zu bestimmen, werden die Report-Metadaten des jeweiligen Berichts auf dessen Eigenschaft: <strong>FirstDataItemTableID</strong> untersucht. Die Standard-Berichte in Business Central hinterlegen für dieses jeweils erste Element (FirstDataItemTableId) den zugrundeliegenden Header. Beispiel: Report 1306 -&gt; Sales Invoice Header. <br />
 Wenn anpepasste Berichte eine andere Sturktur vorweisen, also eine andere Tabelle an erster Stelle steht, so<br />
 wird dieser auch in den Tabellenfilter übernommen, wodurch möglicherweise unbrauchbare Felder angezeigt werden, beziehungsweise wichtige Felder vermisst werden könnten.<br />
 Für solche Fälle wird es in dem nächsten release die Möglichkeit geben, über einen Event-Subscriber abhängig von der Berichts-Id die richtige Zieltabelle zu setzen.</p>

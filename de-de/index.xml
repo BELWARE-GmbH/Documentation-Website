@@ -164,8 +164,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
-Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt.
-Diese können Sie hier bestellen. Die Funktion ist OnPrem inklusive.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen. Die Funktion ist OnPrem inklusive.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
       </item>
       
       <item>
@@ -719,8 +718,7 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Mit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.
-Desweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls
-bestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.</description>
+Desweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls bestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.</description>
       </item>
       
       <item>
@@ -1817,8 +1815,7 @@ Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Konta
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
-        <description>Arbeiten mit festgelegten Zieladressen Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der
-Connector 365 Addressee Control als Zieladresse eingerichtet wurde:
+        <description>Arbeiten mit festgelegten Zieladressen Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der Connector 365 Addressee Control als Zieladresse eingerichtet wurde:
 Angenommen es soll eine Rechnung verschickt werden, bei welchem der Rechnungsempfänger und der Käufer verschieden sind:
 Zur Vereinfachung wurden im Folgenden für den Rechnungsempfänger Bill-To-Customer@mail.de eingerichtet, für den Käufer Sell-To-Customer@mail.de.Bei Ausführen der Aktion: Per E-Mail senden, wird im Standard normalerweise die E-Mail-Adresse des Rechnungsempfängers im E-Mail-Dialog eingetragen:</description>
       </item>
@@ -2391,8 +2388,7 @@ Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt ei
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</guid>
-        <description>Einrichtung Um die Zieladressen-Logik über die Connector 365 Addresse Control App nach Belieben einzustellen, öffnen Sie
-eine der Seiten Berichtsauswahlen.
+        <description>Einrichtung Um die Zieladressen-Logik über die Connector 365 Addresse Control App nach Belieben einzustellen, öffnen Sie eine der Seiten Berichtsauswahlen.
 Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahl-Pages um eine
 Subpage.
 Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:
