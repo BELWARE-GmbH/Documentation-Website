@@ -3923,6 +3923,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/mail-subject-plus/working-with-mail-subject-plus/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/events/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link

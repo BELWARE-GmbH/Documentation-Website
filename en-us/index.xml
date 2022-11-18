@@ -238,7 +238,8 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
-Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required.
+You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
       </item>
       
       <item>
@@ -288,7 +289,8 @@ The phone number of the person calling is stored in a contact. If this is not th
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/introduction/</guid>
         <description>Introduction With the Connector 365 Address Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is the standard.
-Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also determine whether a recipient is to be reached via CC or BCC.</description>
+Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also determine
+whether a recipient is to be reached via CC or BCC.</description>
       </item>
       
       <item>
@@ -1836,7 +1838,8 @@ You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog o
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
-        <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices. It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
+        <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices.
+It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
 Connector 365 Addressee Control app:
 Assume that an invoice is to be sent where the invoice recipient and the buyer are different:
 For simplicity, Bill-To-Customer@mail.de has been set up below for the invoice recipient, and Sell-To-Customer@mail.</description>
@@ -1913,6 +1916,17 @@ Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which y
         <guid>https://docs.belware.de/en-us/connectornav/epost/status/</guid>
         <description>E-Post status request As soon as you have made a dispatch by E-Post, you will notice that there is no status for the corresponding entry in the job list yet.
 To get the status for sent E-Post API letters, it is recommended to set up a task queue for it as well. This requires a similar procedure as for the E-Post Summary queue. To do this, open the Task Queue Item page and create a new queue item.</description>
+      </item>
+      
+      <item>
+        <title>Events</title>
+        <link>https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/events/</guid>
+        <description>Connector 365 Mail Subject Plus Events The following events of the Connector 365 Mail Subject Plus app are available:
+OnBeforeSetRecordFilterForEmailPlaceholders 1 2 - var TargetTableNumber: Integer - ReportId: Integer As described in the setup, for reports which use as first DataItem not the header of the respective report usage, unusable fields may appear in the lookup of each placeholder.
+Using the event from the BELMSP EmailSubjectPlaceholder page, you can set the correct target table yourself for the respective used report.</description>
       </item>
       
       <item>

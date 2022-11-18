@@ -24,6 +24,18 @@
 Öffnen Sie zunächst einen der Belege die Sie eingerichtet haben und anschließend den gewünschten Beleg (ggf. den eines eingerichteten Debitor/Kreditor). Klicken Sie nun auf &amp;ldquo;Drucken/Senden&amp;rdquo; -&amp;gt; &amp;ldquo;Per E-Mail senden&amp;rdquo;. Es öffnet sich der Dialog für den Mailversand und an Stelle des Standardbetreffs finden Sie nun den neuen von Ihnen definierte Betreff stehen.</description>
       </item>
       
+      <item>
+        <title>Events</title>
+        <link>https://docs.belware.de/de-de/apps/mail-subject-plus/working-with-mail-subject-plus/events/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mail-subject-plus/working-with-mail-subject-plus/events/</guid>
+        <description>Connector 365 Mail Subject Plus Events Folgende Events der Connector 365 Mail Subject Plus App stehen zur Verfügung:
+OnBeforeSetRecordFilterForEmailPlaceholders 1 2 - var TargetTableNumber: Integer - ReportId: Integer Wie in der Einrichtung beschrieben, können bei Berichten, welche als Erstes DataItem nicht den Header der jeweiligen Berichts-Verwendung
+nutzen, unbrauchbare Felder im Lookup der einzelnen Platzhalter auftauchen.
+Mithilfe des Events aus der Page BELMSP EmailSubjectPlaceholder können Sie selbst die richtige Zieltabelle für den jeweiligen</description>
+      </item>
+      
     
   </channel>
 </rss>
