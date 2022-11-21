@@ -11,7 +11,7 @@
         "date_modified" : "2020-02-28T00:00:00+09:00",
         "id" : "https://docs.belware.de/de-de/apps/addressee-control/first-steps/introduction/",
         "url" : "https://docs.belware.de/de-de/apps/addressee-control/first-steps/introduction/",
-        "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eMit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.\u003c/p\u003e\n\u003cp\u003eDesweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls\u003cbr /\u003e\nbestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eMit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.\u003c/p\u003e\n\u003cp\u003eDesweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls \u003cbr /\u003e\nbestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.\u003c/p\u003e\n"
     },
     {
         "title" : "Einrichtung",
