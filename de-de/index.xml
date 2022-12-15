@@ -713,6 +713,18 @@ Desweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere
       </item>
       
       <item>
+        <title>Gebuchte Verkaufsrechnungen</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</guid>
+        <description>SMTP2FAX in Gebuchte Verkaufsrechnungen Auf der Seite der gebuchten Verkaufsrechnungen ist die Funktion im Menü &amp;ldquo;Drucken/Senden&amp;rdquo; zu finden.
+Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
+Ist in einer Rechnung ein abweichender Rechnungsempfänger angegeben, wird in dessen Dokumentlayouts nach einer Faxnummer gesucht, die für die Verwendung mit Rechnungen eingetragen wurde. Wird dort keine gefunden, wird die in der Karte des Rechnungsempfängers eingetragene Faxnummer verwendet.
+Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisierung für den Debitor.</description>
+      </item>
+      
+      <item>
         <title>Anpassen der Tabellen</title>
         <link>https://docs.belware.de/de-de/connectornav/rapidstart/adjust/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1431,6 +1443,39 @@ Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die
       </item>
       
       <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/introduction/</guid>
+        <description>Erste Schritte Einleitung Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.
+Voraussetzung ist, dass Sie einen Fax-Server betreiben, den Sie für den Versand adressieren können. Dann wird durch diese App der zu versendende Bericht zunächst als E-Mail erstellt, die dann per SMTP an den Fax-Server gesendet wird. Von dort aus wird die ursprüngliche E-Mail dann als Fax zugestellt.
+In der ersten Version von SMTP2FAX ist die Funktionalität verfügbar für die Seiten:</description>
+      </item>
+      
+      <item>
+        <title>Gebuchte Verkaufsgutschriften</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</guid>
+        <description>SMTP2FAX in Gebuchte Verkaufsgutschriften Auf der Seite der gebuchten Verkaufsgutschriften ist die Funktion im Menü &amp;ldquo;Drucken/Senden&amp;rdquo; zu finden.
+Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
+Ist in einer Verkaufsgutschrift ein abweichender Rechnungsempfänger angegeben, wird in dessen Dokumentlayouts nach einer Faxnummer gesucht, die für die Verwendung mit Verkaufsgutschriften eingetragen wurde. Wird dort keine gefunden, wird die in der Karte des Rechnungsempfängers eingetragene Faxnummer verwendet.
+Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisierung für den Debitor.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; SMTP2FAX App per Mail. Damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App Das veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
         <title>Weitere E-Mail-Empfänger</title>
         <link>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/</link>
         <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
@@ -1801,6 +1846,29 @@ Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Konta
       </item>
       
       <item>
+        <title>Connector 365 Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</guid>
+        <description>SMTP2FAX in der Connector 365 Einrichtung Um zur SMTP2FAX Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 Einrichtung ein. Dort finden Sie die Rubrik SMTP2FAX Setup.
+An dieser Stelle ist lediglich die Domain des Fax-Servers anzugeben. Die Adresse, an die ein Fax versandt wird, wird automatisch zusammengesetzt aus der Faxnummer des Empfängers, dem @-Zeichen und der angegebenen Domain.
+Eine weitere Stelle, an der Einstellungen zur Nutzung von SMTP2FAX vorgenommen werden können, sind die Dokumentlayouts der Debitoren und Kreditoren.</description>
+      </item>
+      
+      <item>
+        <title>Registrierte Mahnungen</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</guid>
+        <description>SMTP2FAX in Registrierte Mahnungen Auf der Seite der registrierten Mahnungen ist die Funktion abhängig von der Business Central Version in verschiedenen Menüs zu finden, z. B. unter &amp;ldquo;Verarbeiten&amp;rdquo; oder wie im Screenshot im Menü &amp;ldquo;Start&amp;rdquo;.
+Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
+Zunächst wird in den Dokumentlayouts des Debitors, der als Empfänger angegeben ist, nach einer Faxnummer gesucht, die für die Verwendung mit Mahnungen eingetragen wurde.
+Wird dort keine gefunden, wird die in der Karte des Mahnungsempfängers eingetragene Faxnummer verwendet.</description>
+      </item>
+      
+      <item>
         <title>Zieladressen</title>
         <link>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</link>
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
@@ -2148,6 +2216,28 @@ Ab Dynamics NAV 2016 PEPPOL 2.0 Ab Dynamics NAV 2016 PEPPOL 2.1 Ab Business Cent
       </item>
       
       <item>
+        <title>Dokumentlayouts</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/doclayout/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/doclayout/</guid>
+        <description>SMTP2FAX in den Dokumentlayouts Für die Angabe der Faxnummer des Empfängers steht zum einen das im Business Central Standard vorhandene Feld in der Karte des Kreditors oder Debitors zur Verfügung. Die App SMTP2FAX fügt aber auch der Tabelle der Dokumentlayouts ein weiteres Feld hinzu, in dem Sie die Faxnummer für verschiedene Anwendungsfälle angeben können.
+Die Nutzung im Arbeitsablauf wird unter Arbeiten mit SMTP2FAX erklärt.</description>
+      </item>
+      
+      <item>
+        <title>Einkaufsbestellungen</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</guid>
+        <description>SMTP2FAX in Einkaufsbestellungen Auf der Seite der Einkaufsbestellungen ist die Funktion im Menü &amp;ldquo;Drucken/Senden&amp;rdquo; zu finden.
+Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
+Zunächst wird in den Dokumentlayouts des Lieferanten, der als Empfänger angegeben ist, nach einer Faxnummer gesucht, die für die Verwendung mit Bestellungen eingetragen wurde. Wird dort keine gefunden, wird die in der Karte des Lieferanten eingetragene Faxnummer verwendet.
+Auch auf der Seite einer einzelnen Einkaufsbestellung findet sich die Funktion im Menü &amp;ldquo;Drucken/Senden&amp;rdquo;.</description>
+      </item>
+      
+      <item>
         <title>Archivierung</title>
         <link>https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2373,6 +2463,30 @@ Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der
       </item>
       
       <item>
+        <title>Hilfe &amp; Support</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/help-support/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/help-support/</guid>
+        <description>Hilfe &amp;amp; Support Wir freuen uns darauf, uns um Ihre Anliegen kümmern zu dürfen. Egal, ob es allgemeine Fragen zu der BELWARE GmbH und unseren Produkten oder spezifische Fragen sind. Melden Sie sich einfach per Telefon oder Mail bei uns. Auf Ihre Anfragen reagieren wir innerhalb von 1 - 2 Werktagen.
+Für Allgemeines sind wir zu erreichen über:
+E-Mail: info@belware.de
+Alternativ
+Tel.: +49 2362 788 90 55 0
+Fax: +49 2362 788 90 56</description>
+      </item>
+      
+      <item>
+        <title>SMTP2FAX Dialog</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</guid>
+        <description>Der SMTP2FAX-Dialog Wurde für einen Bericht der Versand als Fax über SMTP ausgewählt, so erscheint zur weiteren Bearbeitung ein für die Faxanwendung angepasster Mail-Dialog.
+Hier kann nachträglich die Empfängeradresse geändert und der Anhang auf Richtigkeit geprüft werden. Dann kann der Bericht über den jeweiligen Button im oberen Menü versandt oder verworfen werden. Wird der Dialog über das X oder den Schließen-Button beendet, kann noch ausgewählt werden, ob die Nachricht als Enwurf im Mail-Ausgang gespeichert oder verworfen werden soll.</description>
+      </item>
+      
+      <item>
         <title>Weitere E-Mail Empfänger (CC/BCC)</title>
         <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/further_targets/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
@@ -2549,6 +2663,17 @@ Einrichtung der App </description>
       </item>
       
       <item>
+        <title>Connector 365 Archiv</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/archive/</guid>
+        <description>SMTP2FAX in der Connector 365 Aktivitätenliste Wurde ein Fax erfolgreich versandt, erfolgt ein entsprechender Eintrag in die Connector 365 Aktivitätenliste.
+Durch Klick auf die Statusmarkierung können genauere Informtionen zum Status aufgerufen werden.
+Ist der Versand fehlgeschlagen, wird der Status in der Aktivitätenliste negativ markiert. Im entsprechenden Feedbackeintrag wird dann der Statustext wiedergegeben, der im E-Mail-Ausgang zu dieser Nachricht abgelegt ist.</description>
+      </item>
+      
+      <item>
         <title>Der Stapelmodus</title>
         <link>https://docs.belware.de/de-de/connectornav/matrix/stack_mode/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2589,6 +2714,17 @@ Optimierungen: Outlook N-Empfänger Adressen
 Beim hinterlegen von zusätzlichen Zieladressen, welche weder als CC noch BCC angelegt wurde bisher die Adresse als CC genommen statt wie wünscht gleichwertig im &amp;ldquo;An&amp;rdquo;-Feld. Das ist nun korrigiert.
 Berücksichtigung von Matrix-Druckern
 Bei der Stapelverarbeitung wurden im Jobmodus Druck die zusätzlichen Drucker aus der Kommunikationsmatrix nicht berücksichtigt.</description>
+      </item>
+      
+      <item>
+        <title>E-Mail-Ausgang</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</guid>
+        <description>SMTP2FAX im E-Mail-Ausgang Wurde ein Fax über den Dialog als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen.
+Dort kann die Nachricht dann gelöscht oder erneut versandt werden.
+Ist die Nachricht dagegen erfolgreich verschickt worden, wird sie in die Liste der gesendeten Mails eingetragen.</description>
       </item>
       
       <item>
@@ -2640,6 +2776,16 @@ Wie genau der jeweilige Beleg verarbeitet werden soll, können Sie in in der Con
         <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/error_analysis/</guid>
         <description>Validierungsergebnisse bei Fehler analysieren Bei der Validierung der XRechnung-Datei kann es natürlich auch vorkommen, dass eine XRechnung als nicht konform eingestuft wird. Dies passiert dann, wenn wichtige Informationen in der Rechnung fehlen. Beispielsweise wird eine Validierung schon dann fehlschlagen, wenn die Stadt des Debitors nicht angegeben wurde.
 Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir das obige Vorgehen so um, dass wir „vergessen“ eine Leitweg-ID anzugeben. Dazu rufen wir wieder für unsere Beispielrechnung 103003 die Kommunikationsmatrix auf, und entfernen in unserem Eintrag den Wert für die Spalte Leitweg-ID.</description>
+      </item>
+      
+      <item>
+        <title>Gesendete E-Mails</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/sentemails/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/sentemails/</guid>
+        <description>SMTP2FAX in Gesendete E-Mails Wurde ein Fax erfolgreich verschickt, findet sich ein entsprechender Eintrag in der Liste der gesendeten E-Mails, die standardmäßig in Business Central enthalten ist.
+Falls nötig, kann die Nachricht an dieser Stelle gelöscht oder erneut versandt werden.</description>
       </item>
       
       <item>
