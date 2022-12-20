@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arbeiten mit Connector 365 Addresse Control on Connector 365 Online Hilfe</title>
+    <title>Arbeiten mit Connector 365 Addressee Control on Connector 365 Online Hilfe</title>
     <link>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/</link>
-    <description>Recent content in Arbeiten mit Connector 365 Addresse Control on Connector 365 Online Hilfe</description>
+    <description>Recent content in Arbeiten mit Connector 365 Addressee Control on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,7 +20,7 @@
         <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/</guid>
-        <description>Arbeiten mit weiteren E-Mail-Empfängern Nachdem Sie erfoglreich weitere Zieladressen für einen Debitor eingerichtet haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
+        <description>Arbeiten mit weiteren E-Mail-Empfängern Nachdem Sie erfolgreich weitere Zieladressen für einen Debitor eingerichtet haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
 Dazu gehen Sie zunächst auf die gewünschte Beleg-Seite.
 Beispiel: Gebuchte Verkaufsrechnungen.
 Gehen Sie oben in der Aktionsleiste auf Drucken/Senden, und dann auf Per E-Mail senden:

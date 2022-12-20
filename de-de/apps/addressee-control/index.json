@@ -1,7 +1,7 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Addresse Control on Connector 365 Online Hilfe",
-    "description": "Recent content in Addresse Control on Connector 365 Online Hilfe",
+    "title" : "Addressee Control on Connector 365 Online Hilfe",
+    "description": "Recent content in Addressee Control on Connector 365 Online Hilfe",
     "home_page_url" : "https://docs.belware.de/",
     "feed_url" : "https://docs.belware.de/de-de/apps/addressee-control/index.json",
     "items" : [
@@ -11,7 +11,7 @@
         "date_modified" : "2020-02-28T00:00:00+09:00",
         "id" : "https://docs.belware.de/de-de/apps/addressee-control/new-and-planned/",
         "url" : "https://docs.belware.de/de-de/apps/addressee-control/new-and-planned/",
-        "content_html" : "\u003ch3 id=\"neue-und-geplante-features-der-connector-365-addressee-control-app\"\u003eNeue und geplante Features der \u003cstrong\u003eConnector 365 Addressee Control\u003c/strong\u003e App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 Addresse Control App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/addressee-control/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1001---17112022\"\u003eVersion 1.0.0.1 - 17.11.2022\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eHerstellung der Kompatibilität mit zukünftigen BC-Versionen.\u003c/li\u003e\n\u003cli\u003eAnpassung der Links zur Dokumentation\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"version-1000---04112022\"\u003eVersion 1.0.0.0 - 04.11.2022\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eErste Veröffentlichung\u003c/li\u003e\n\u003c/ul\u003e\n"
+        "content_html" : "\u003ch3 id=\"neue-und-geplante-features-der-connector-365-addressee-control-app\"\u003eNeue und geplante Features der \u003cstrong\u003eConnector 365 Addressee Control\u003c/strong\u003e App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 Addressee Control App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1001---17112022\"\u003eVersion 1.0.0.1 - 17.11.2022\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eHerstellung der Kompatibilität mit zukünftigen BC-Versionen.\u003c/li\u003e\n\u003cli\u003eAnpassung der Links zur Dokumentation\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"version-1000---04112022\"\u003eVersion 1.0.0.0 - 04.11.2022\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eErste Veröffentlichung\u003c/li\u003e\n\u003c/ul\u003e\n"
     },
     {
         "title" : "Erste Schritte",
@@ -19,15 +19,15 @@
         "date_modified" : "2020-02-28T00:00:00+09:00",
         "id" : "https://docs.belware.de/de-de/apps/addressee-control/first-steps/",
         "url" : "https://docs.belware.de/de-de/apps/addressee-control/first-steps/",
-        "content_html" : "\u003ch3 id=\"erste-schritte-mit-der-connector-365-cti-for-starface-app\"\u003eErste Schritte mit der Connector 365 CTI for STARFACE App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"erste-schritte-mit-der-connector-365-addressee-control-app\"\u003eErste Schritte mit der Connector 365 Addressee Control App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 Addressee Control App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
-        "title" : "Arbeiten mit Connector 365 Addresse Control",
+        "title" : "Arbeiten mit Connector 365 Addressee Control",
         "date_published" : "2022-07-04T00:00:00-05:00",
         "date_modified" : "2022-07-04T00:00:00-05:00",
         "id" : "https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/",
         "url" : "https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/",
-        "content_html" : "\u003ch3 id=\"arbeiten-mit-der-connector-365-addresse-control\"\u003eArbeiten mit der Connector 365 Addresse Control\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur korrekten Anwendung der Connector 365 Addresse Control App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/cti-for-starface/help-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"arbeiten-mit-der-connector-365-addressee-control\"\u003eArbeiten mit der Connector 365 Addressee Control\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur korrekten Anwendung der Connector 365 Addressee Control App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Hilfe \u0026 Support",
@@ -43,7 +43,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/de-de/apps/addressee-control/videos/",
         "url" : "https://docs.belware.de/de-de/apps/addressee-control/videos/",
-        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zur unserer Connector 365 Addresse Control App, jedes Video behandelt ein spezielles Thema:\u003c/p\u003e\n\u003ch4 id=\"kurze-übersicht-der-app\"\u003ekurze Übersicht der App\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vOm5bokQu6U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zu unserer Connector 365 Addressee Control App, jedes Video behandelt ein spezielles Thema:\u003c/p\u003e\n\u003ch4 id=\"kurze-übersicht-der-app\"\u003ekurze Übersicht der App\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vOm5bokQu6U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
     }
     ]
 }

@@ -20,8 +20,30 @@
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Mit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.
-Desweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls bestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.</description>
+        <description>Erste Schritte Einleitung Mit der Connector 365 Addressee Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht, wie im Standard üblich, an den Rechnungsempfänger.
+Des Weiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls bestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.</description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Kauf</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/</guid>
+        <description>Testen und kaufen der Connector 365 Addressee Control App Hier finden Sie alle wichtigen Informationen und Hinweise zum Testen und Kaufen der Connector 365 Addressee Control App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/</guid>
+        <description>Installation der Connector 365 Addressee Control App Hier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Addressee Control App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
       </item>
       
       <item>
@@ -30,7 +52,7 @@ Desweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/</guid>
-        <description>Einrichtungen der Connector 365 Addresse Control App Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 Addresse Control App.
+        <description>Einrichtung der Connector 365 Addressee Control App Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 Addressee Control App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
       </item>

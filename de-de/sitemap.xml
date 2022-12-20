@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1753,6 +1758,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2428,6 +2438,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2770,6 +2785,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -3704,6 +3724,11 @@
   
   <url>
     <loc>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
   </url>
   
@@ -5145,6 +5170,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/error_analysis/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/help-and-support/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>

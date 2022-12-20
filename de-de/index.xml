@@ -51,6 +51,17 @@ Darstellung einer Kontaktübersicht, Firma und Mitarbeiter. Beispiel Möbel-Mell
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Addressee Control zu finden. Klicken Sie auf Get it now um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -708,8 +719,8 @@ Hier setzen Sie den Haken bei Aktiviert. Als Pfad geben Sie den Pfad ein, den Si
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Mit der Connector 365 Address Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht wie im Standard üblich, an den Rechnungsempfänger.
-Desweiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls bestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.</description>
+        <description>Erste Schritte Einleitung Mit der Connector 365 Addressee Control App können Sie flexibel bestimmen, welche Zieladressen für den Belegversand herangezogen werden sollen. Möglicherweise möchte man einen Beleg standardmäßig an den Kunden schicken und nicht, wie im Standard üblich, an den Rechnungsempfänger.
+Des Weiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weitere Zieladressen hinzuzufügen. Dabei können Sie ebenfalls bestimmen, ob ein Empfänger per CC oder auch BCC erreicht werden soll.</description>
       </item>
       
       <item>
@@ -777,6 +788,16 @@ Aktionen Faxen Mit dieser Aktion versenden Sie das Fax. PDF Mit dieser Aktion er
         <description>Anwendungsbeispiel Das Senden von E-Mails aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
 Ausschnitt Beispielangebot Connector NAV Integration
 Aktionen Mailen Mit dieser Aktion versenden Sie die E-Mail. PDF Mit dieser Aktion erstellen Sie das PDF. Status Mit dieser Aktion gelangen Sie in die Jobliste und dem entsprechenden Eintrag. Historie Zusätzlich zur Aktion Status werden hier auch Jobeinträge angezeigt, die dem Beleg zugeordnet wurden.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die Connector 365 Addressee Control App steht Ihnen in der Microsoft AppSource zur Verfügung.
+Nachdem die Connector 365 Addressee Control App installiert wurde, haben Sie die Möglichkeit, sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
       </item>
       
       <item>
@@ -1167,6 +1188,16 @@ Es gibt viele Stellen, die dazu führen, dass eine XRechnung nicht dem Schema en
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Addresse Control App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Addresse Control App Das veröffentlichen der Connector 365 Base &amp;amp; Addresse Control App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1481,7 +1512,7 @@ Veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App Das veröffentlic
         <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/</guid>
-        <description>Arbeiten mit weiteren E-Mail-Empfängern Nachdem Sie erfoglreich weitere Zieladressen für einen Debitor eingerichtet haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
+        <description>Arbeiten mit weiteren E-Mail-Empfängern Nachdem Sie erfolgreich weitere Zieladressen für einen Debitor eingerichtet haben, können Sie Ihren gewünschten Beleg, für einen Debitor/Kreditor, den Sie eingerichtet haben, einfach per E-Mail senden.
 Dazu gehen Sie zunächst auf die gewünschte Beleg-Seite.
 Beispiel: Gebuchte Verkaufsrechnungen.
 Gehen Sie oben in der Aktionsleiste auf Drucken/Senden, und dann auf Per E-Mail senden:
@@ -2427,7 +2458,7 @@ Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung ge
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/videos/</guid>
-        <description>Videos Hier finden Sie einige informative Videos zur unserer Connector 365 Addresse Control App, jedes Video behandelt ein spezielles Thema:
+        <description>Videos Hier finden Sie einige informative Videos zu unserer Connector 365 Addressee Control App, jedes Video behandelt ein spezielles Thema:
 kurze Übersicht der App </description>
       </item>
       
@@ -2505,11 +2536,9 @@ Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt ei
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</guid>
-        <description>Einrichtung Um die Zieladressen-Logik über die Connector 365 Addresse Control App nach Belieben einzustellen, öffnen Sie eine der Seiten Berichtsauswahlen.
-Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahl-Pages um eine
-Subpage.
-Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:
-Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik einzustellen.</description>
+        <description>Einrichtung Zieladressen pro Bericht Um die Zieladressen-Logik über die Connector 365 Addressee Control App nach Belieben einzustellen, öffnen Sie eine der Seiten Berichtsauswahlen.
+Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
+Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:</description>
       </item>
       
       <item>
