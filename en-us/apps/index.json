@@ -11,7 +11,7 @@
         "date_modified" : "2022-07-04T00:00:00-05:00",
         "id" : "https://docs.belware.de/en-us/apps/addressee-control/",
         "url" : "https://docs.belware.de/en-us/apps/addressee-control/",
-        "content_html" : "\u003ch3 id=\"connector-365-addresse-control-online-help\"\u003eConnector 365 Addresse Control Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Connecto 365 Addresse Control App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered for you, we will be happy to help you personally. The necessary contact information can be found on the \u003ca href=\"/en-us/apps/addressee-control/help-support\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-addresse-control-online-help\"\u003eConnector 365 Addresse Control Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Connecto 365 Addresse Control App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered for you, we will be happy to help you personally. The necessary contact information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "CTI for STARFACE",
@@ -19,7 +19,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/cti-for-starface/",
         "url" : "https://docs.belware.de/en-us/apps/cti-for-starface/",
-        "content_html" : "\u003ch3 id=\"connector-365-cti-for-starface-online-help\"\u003eConnector 365 CTI for STARFACE Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/cti-for-starface/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-cti-for-starface-online-help\"\u003eConnector 365 CTI for STARFACE Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Connector 365 CTI for STARFACE App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "E-POST",
@@ -27,7 +27,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/e-post/",
         "url" : "https://docs.belware.de/en-us/apps/e-post/",
-        "content_html" : "\u003ch3 id=\"connector-365-e-post-online-help\"\u003eConnector 365 E-POST Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Connector 365 E-POST App*.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/e-post/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e*\u003cstrong\u003eThe Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post\u003c/strong\u003e\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-e-post-online-help\"\u003eConnector 365 E-POST Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Connector 365 E-POST App*.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e*\u003cstrong\u003eThe Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post\u003c/strong\u003e\u003c/p\u003e\n"
     },
     {
         "title" : "Easy Batch",
@@ -35,7 +35,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/easy-batch/",
         "url" : "https://docs.belware.de/en-us/apps/easy-batch/",
-        "content_html" : "\u003ch3 id=\"connector-365-easy-batch-online-help\"\u003eConnector 365 Easy Batch Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Easy Batch App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/easy-batch/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-easy-batch-online-help\"\u003eConnector 365 Easy Batch Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Easy Batch App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Easy Document Pin",
@@ -43,7 +43,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/easy-document-pin/",
         "url" : "https://docs.belware.de/en-us/apps/easy-document-pin/",
-        "content_html" : "\u003ch3 id=\"connector-365-easy-document-pin-online-help\"\u003eConnector 365 Easy Document Pin Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Easy Document Pin App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/easy-document-pin/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-easy-document-pin-online-help\"\u003eConnector 365 Easy Document Pin Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Easy Document Pin App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Mail Attachments Plus",
@@ -51,7 +51,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/mail-attachments-plus/",
         "url" : "https://docs.belware.de/en-us/apps/mail-attachments-plus/",
-        "content_html" : "\u003ch3 id=\"connector-365-mail-attachments-plus-online-help\"\u003eConnector 365 Mail Attachments Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Attachment Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/mail-attachments-plus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-mail-attachments-plus-online-help\"\u003eConnector 365 Mail Attachments Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Attachment Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Mail Experience Plus",
@@ -67,7 +67,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/mail-sender-plus/",
         "url" : "https://docs.belware.de/en-us/apps/mail-sender-plus/",
-        "content_html" : "\u003ch3 id=\"connector-365-mail-sender-plus-online-help\"\u003eConnector 365 Mail Sender Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/mail-sender-plus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-mail-sender-plus-online-help\"\u003eConnector 365 Mail Sender Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Sender Plus App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Mail Subject Plus",
@@ -75,7 +75,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/mail-subject-plus/",
         "url" : "https://docs.belware.de/en-us/apps/mail-subject-plus/",
-        "content_html" : "\u003ch3 id=\"connector-365-mail-subject-plus-online-help\"\u003eConnector 365 Mail Subject Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Subject Plus App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You can find the necessary Konktatin information on the \u003ca href=\"/en-us/apps/mail-subject-plus/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-mail-subject-plus-online-help\"\u003eConnector 365 Mail Subject Plus Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource Mail Subject Plus App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You can find the necessary Konktatin information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "PdfPaper",
@@ -83,7 +83,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/pdfpaper/",
         "url" : "https://docs.belware.de/en-us/apps/pdfpaper/",
-        "content_html" : "\u003ch3 id=\"connector-365-pdfpaper-online-help\"\u003eConnector 365 PdfPaper Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource PdfPaper app.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/pdfpaper/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-pdfpaper-online-help\"\u003eConnector 365 PdfPaper Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all the help and learning resources, for our Microsoft AppSource PdfPaper app.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "XRechnung",
@@ -91,7 +91,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/xrechnung/",
         "url" : "https://docs.belware.de/en-us/apps/xrechnung/",
-        "content_html" : "\u003ch3 id=\"connector-365-xrechnung-online-help\"\u003eConnector 365 XRechnung Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Microsoft AppSource XRechnung App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/connector-on-appsource/xrechnung/support/\"\u003eSupport Page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"connector-365-xrechnung-online-help\"\u003eConnector 365 XRechnung Online Help\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources, for our Microsoft AppSource XRechnung App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003eSupport Page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Developer Documentation",
@@ -99,7 +99,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/developer-docu/",
         "url" : "https://docs.belware.de/en-us/apps/developer-docu/",
-        "content_html" : "\u003ch3 id=\"developer-documentation\"\u003eDeveloper Documentation\u003c/h3\u003e\n\u003cp\u003eAs a developer in the area of Dynamics 365 Business Central, you will find information here on how you can make adjustments in connection with our apps yourself.\u003c/p\u003e\n\u003cp\u003eIn the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/pdfpaper/help-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"developer-documentation\"\u003eDeveloper Documentation\u003c/h3\u003e\n\u003cp\u003eAs a developer in the area of Dynamics 365 Business Central, you will find information here on how you can make adjustments in connection with our apps yourself.\u003c/p\u003e\n\u003cp\u003eIn the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Supported Countries",
@@ -108,6 +108,14 @@
         "id" : "https://docs.belware.de/en-us/apps/countries/",
         "url" : "https://docs.belware.de/en-us/apps/countries/",
         "content_html" : "\u003ch3 id=\"our-solutions-currently-support-the-following-markets\"\u003eOur Solutions currently support the following markets:\u003c/h3\u003e\n\u003cp\u003eAlgeria\u003cbr /\u003e\nArgentina\u003cbr /\u003e\nAustralia\u003cbr /\u003e\nAustria\u003cbr /\u003e\nBangladesh\u003cbr /\u003e\nBelgium\u003cbr /\u003e\nBrazil\u003cbr /\u003e\nBulgaria\u003cbr /\u003e\nCanada\u003cbr /\u003e\nChile\u003cbr /\u003e\nColombia\u003cbr /\u003e\nCroatia\u003cbr /\u003e\nCzechia\u003cbr /\u003e\nDenmark\u003cbr /\u003e\nEgypt\u003cbr /\u003e\nEstonia\u003cbr /\u003e\nFaroe Islands\u003cbr /\u003e\nFinland\u003cbr /\u003e\nFrance\u003cbr /\u003e\nGermany\u003cbr /\u003e\nGreece\u003cbr /\u003e\nGreenland\u003cbr /\u003e\nHong Kong SAR\u003cbr /\u003e\nHungary\u003cbr /\u003e\nIceland\u003cbr /\u003e\nIndia\u003cbr /\u003e\nIndonesia\u003cbr /\u003e\nIreland\u003cbr /\u003e\nItaly\u003cbr /\u003e\nJapan\u003cbr /\u003e\nKenya\u003cbr /\u003e\nKorea\u003cbr /\u003e\nLatvia\u003cbr /\u003e\nLebanon\u003cbr /\u003e\nLithuania\u003cbr /\u003e\nLuxembourg\u003cbr /\u003e\nMalaysia\u003cbr /\u003e\nMalta\u003cbr /\u003e\nMexico\u003cbr /\u003e\nMorocco\u003cbr /\u003e\nMyanmar\u003cbr /\u003e\nNetherlands\u003cbr /\u003e\nNew Zealand\u003cbr /\u003e\nNigeria\u003cbr /\u003e\nNorway\u003cbr /\u003e\nPeru\u003cbr /\u003e\nPhilippines\u003cbr /\u003e\nPoland\u003cbr /\u003e\nPortugal\u003cbr /\u003e\nPuerto Rico\u003cbr /\u003e\nQatar\u003cbr /\u003e\nRomania\u003cbr /\u003e\nSaudi Arabia\u003cbr /\u003e\nSerbia\u003cbr /\u003e\nSingapore\u003cbr /\u003e\nSlovakia\u003cbr /\u003e\nSlovenia\u003cbr /\u003e\nSouth Africa\u003cbr /\u003e\nSpain\u003cbr /\u003e\nSri Lanka\u003cbr /\u003e\nSweden\u003cbr /\u003e\nSwitzerland\u003cbr /\u003e\nTaiwan\u003cbr /\u003e\nThailand\u003cbr /\u003e\nTunisia\u003cbr /\u003e\nTurkey\u003cbr /\u003e\nUkraine\u003cbr /\u003e\nUnited Arab Emirates\u003cbr /\u003e\nUnited Kingdom\u003cbr /\u003e\nUnited States\u003cbr /\u003e\nVietnam\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Help \u0026 Support",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/help-and-support/",
+        "url" : "https://docs.belware.de/en-us/apps/help-and-support/",
+        "content_html" : "\u003ch3 id=\"help--support\"\u003eHelp \u0026amp; Support\u003c/h3\u003e\n\u003cp\u003eWe are always happy to take care of your requests, regardless if they are general questions about the BELWARE GmbH and our products or specific questions. Just contact us either via phone or mail. We will get back to you within 1 to 2 business days.\u003c/p\u003e\n\u003cp\u003eFor general things you can reach us under:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"/mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ealternatively\u003c/p\u003e\n\u003cp\u003ePhone: +49 2362 788 90 55 0\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003eWe offer reliable and prompt support to both partners and customers. To assure the best possible analysis and solution of your problem, we request you to send in the error message via mail together with a description and screenshots.\u003c/p\u003e\n\u003cp\u003eYou can reach our support under:\u003c/p\u003e\n\u003cp\u003eE-Mail: \u003ca href=\"/mailto:support@belware.de\"\u003esupport@belware.de\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ealternatively\u003c/p\u003e\n\u003cp\u003ePhone: +49 2362 788 90 55 0\u003cbr /\u003e\nFax: +49 2362 788 90 56\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/Support/TeamviewerTeams.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eWe use both TeamViewer or Microsoft Teams for Support, if you are not using TeamViewer yet you can download it \u003ca href=\"https://get.teamviewer.com/belware\" target=\"_blank\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOffice Hours:\u003c/strong\u003e\u003cbr /\u003e\nMon - Thu: 08:00 - 17:00 UTC+2\u003cbr /\u003e\nFri: 08:00 - 16:00 UTC+2\u003c/p\u003e\n\u003ch3 id=\"statement-of-direction-und-support-lifecycle\"\u003eStatement of Direction und Support-Lifecycle\u003c/h3\u003e\n\u003cp\u003eBELWARE GmbH is continuously working on the further development of Connector NAV to ensure that the product can always be used for the same ERP solution or version for which Microsoft Dynamics NAV provides support. This includes ensuring that Connector NAV is always compatible with the current version of Microsoft Dynamics NAV. For customers with a maintenance contract, the new versions and hotfixes are provided free of charge and are included in support. Excluded are services such as merging objects or individual adjustments. Due to regular updates of Connector NAV, support for older Connector NAV may be discontinued. This will be announced in advance. If you are affected by this, you are welcome to inform yourself about further steps via \u003ca href=\"/mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }
