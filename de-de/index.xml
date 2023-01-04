@@ -170,6 +170,16 @@ Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 
       </item>
       
       <item>
+        <title>Berechtigungssätze zuweisen</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/</guid>
+        <description>Einrichtung Berechtigungssätze Sie können Nutzern 3 verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
+C365, Setup - Erlaubt dem Nutzer Änderungen in der Connector 365 Einrichtung vorzunehmen C365, Edit - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches. C365, View - Erlaubt dem Nutzer die App grundsätzlich zu nutzen </description>
+      </item>
+      
+      <item>
         <title>Berichtsauswahl</title>
         <link>https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -534,16 +544,6 @@ Anhänge, die bei Versand einer XRechnung mitgegeben werden, werden nun in die X
         <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/</guid>
         <description>Einrichtung Leitweg-ID Die Leitweg-ID ist auf jeder elektronischen Rechnung an öffentliche Auftraggeber der Bundesverwaltung anzugeben.
 Die Leitweg-ID soll die Adressierung und ggf. Weiterleitung der eingegangenen elektronischen Rechnung zu den nachgelagerten Rechnungsbearbeitungssystemen der angeschlossenen Verwaltungseinheiten ermöglichen. Um die Akzeptanz und Handhabbarkeit sowohl für öffentliche Auftraggeber als auch für ihre Dienstleister und deren Serviceanbieter zu optimieren, haben sich Bund und Länder im Rahmen des Betriebs des Standards XRechnung auf eine einheitliche Systematik geeinigt.</description>
-      </item>
-      
-      <item>
-        <title>Lizenz zuweisen</title>
-        <link>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/allocating-license/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/allocating-license/</guid>
-        <description>Einrichtung Einem Nutzer die Lizenz zuweisen Damit ein Nutzer die Funktionen der Mail Attachments Plus App nutzen kann, muss diesem zunächst eine Lizenz zugewiesen werden. Diese können Sie in der Benutzer Einrichtung einstellen. Gehen Sie in die Suche und suchen Sie nach &amp;ldquo;Benutzer Einrichtung&amp;rdquo;, falls der Nutzer noch nicht vorhanden ist, fügen Sie ihn der Einrichtung hinzu. Setzen Sie anschließend noch einen Haken im Feld &amp;ldquo;Attachment Plus&amp;rdquo;.
-Wiederholen Sie diesen Prozess solange bis Ihre Lizenzkapazität aufgebraucht ist.</description>
       </item>
       
       <item>
@@ -1479,7 +1479,7 @@ Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/introduction/</guid>
-        <description>Erste Schritte Einleitung Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.
+        <description>Einleitung Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.
 Voraussetzung ist, dass Sie einen Fax-Server betreiben, den Sie für den Versand adressieren können. Dann wird durch diese App der zu versendende Bericht zunächst als E-Mail erstellt, die dann per SMTP an den Fax-Server gesendet wird. Von dort aus wird die ursprüngliche E-Mail dann als Fax zugestellt.
 In der ersten Version von SMTP2FAX ist die Funktionalität verfügbar für die Seiten:</description>
       </item>
@@ -1882,9 +1882,9 @@ Es öffnet sich wieder der SMS-Dialog wie auch schon bei dem Versand über Konta
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</guid>
-        <description>SMTP2FAX in der Connector 365 Einrichtung Um zur SMTP2FAX Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 Einrichtung ein. Dort finden Sie die Rubrik SMTP2FAX Setup.
-An dieser Stelle ist lediglich die Domain des Fax-Servers anzugeben. Die Adresse, an die ein Fax versandt wird, wird automatisch zusammengesetzt aus der Faxnummer des Empfängers, dem @-Zeichen und der angegebenen Domain.
-Eine weitere Stelle, an der Einstellungen zur Nutzung von SMTP2FAX vorgenommen werden können, sind die Dokumentlayouts der Debitoren und Kreditoren.</description>
+        <description>SMTP2FAX in der Connector 365 Einrichtung Um die App Connector 365 SMTP2FAX einzurichten, nutzen Sie zunächst die Suchfunktion von Business Central und öffnen die Connector 365 Einrichtung. Dort finden Sie die Rubrik SMTP2FAX Einrichtung.
+Durch Klick auf den Eintrag öffnet sich der Reiter mit den für die Einrichtung benötigten Eingabefeldern.
+An dieser Stelle ist lediglich die Domain Ihres Fax-Servers anzugeben, der die Zustellung der E-Mails an die betreffenden Faxempfänger handhabt. Die Adresse, an die ein Fax versandt wird, wird automatisch zusammengesetzt aus der Faxnummer des Empfängers, dem @-Zeichen und der angegebenen Domain.</description>
       </item>
       
       <item>
@@ -2210,7 +2210,7 @@ Ab Dynamics NAV 2016 PEPPOL 2.0 Ab Dynamics NAV 2016 PEPPOL 2.1 Ab Business Cent
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/doclayout/</guid>
-        <description>SMTP2FAX in den Dokumentlayouts Für die Angabe der Faxnummer des Empfängers steht zum einen das im Business Central Standard vorhandene Feld in der Karte des Kreditors oder Debitors zur Verfügung. Die App SMTP2FAX fügt aber auch der Tabelle der Dokumentlayouts ein weiteres Feld hinzu, in dem Sie die Faxnummer für verschiedene Anwendungsfälle angeben können.
+        <description>SMTP2FAX in den Dokumentlayouts Für die Angabe der Faxnummer des Empfängers steht zum einen das im Business Central Standard vorhandene Feld in der Karte des Kreditors oder Debitors zur Verfügung. Die App SMTP2FAX fügt aber auch der Tabelle der Dokumentlayouts ein weiteres Feld hinzu, in dem Sie die Zielfaxnummern für verschiedene Anwendungsfälle angeben können.
 Die Nutzung im Arbeitsablauf wird unter Arbeiten mit SMTP2FAX erklärt.</description>
       </item>
       
@@ -2529,9 +2529,10 @@ Einrichtung der App </description>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/archive/</guid>
-        <description>SMTP2FAX in der Connector 365 Aktivitätenliste Wurde ein Fax erfolgreich versandt, erfolgt ein entsprechender Eintrag in die Connector 365 Aktivitätenliste.
+        <description>SMTP2FAX in der Connector 365 Aktivitätenliste Wurde im SMTP2FAX-Dialog das Versenden der Nachricht gewählt, erfolgt ein entsprechender Eintrag in die Connector 365 Aktivitätenliste, der durch die Kennzeichnung Fax im Feld Jobmodus erkennbar ist.
+Ob das Versenden erfolgreich war oder fehlgeschlagen ist, wird durch eine entsprechende Markierung im Feld Status gekennzeichnet.
 Durch Klick auf die Statusmarkierung können genauere Informtionen zum Status aufgerufen werden.
-Ist der Versand fehlgeschlagen, wird der Status in der Aktivitätenliste negativ markiert. Im entsprechenden Feedbackeintrag wird dann der Statustext wiedergegeben, der im E-Mail-Ausgang zu dieser Nachricht abgelegt ist.</description>
+Ist der Versand fehlgeschlagen, wird der Status in der Aktivitätenliste negativ markiert.</description>
       </item>
       
       <item>
@@ -2583,7 +2584,7 @@ Bei der Stapelverarbeitung wurden im Jobmodus Druck die zusätzlichen Drucker au
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</guid>
-        <description>SMTP2FAX im E-Mail-Ausgang Wurde ein Fax über den Dialog als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen.
+        <description>SMTP2FAX im E-Mail-Ausgang Wurde ein Fax über den Dialog als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen, auch hier zu erkennen an der Kennzeichnung Fax im Feld Jobmodus.
 Dort kann die Nachricht dann gelöscht oder erneut versandt werden.
 Ist die Nachricht dagegen erfolgreich verschickt worden, wird sie in die Liste der gesendeten Mails eingetragen.</description>
       </item>
@@ -2645,7 +2646,7 @@ Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir d
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/sentemails/</guid>
-        <description>SMTP2FAX in Gesendete E-Mails Wurde ein Fax erfolgreich verschickt, findet sich ein entsprechender Eintrag in der Liste der gesendeten E-Mails, die standardmäßig in Business Central enthalten ist.
+        <description>SMTP2FAX in Gesendete E-Mails Wurde ein Fax erfolgreich verschickt, findet sich ein entsprechender Eintrag in der Liste der gesendeten E-Mails, die standardmäßig in Business Central enthalten ist. Der Eintrag ist ebenfalls zu erkennen an der Kennzeichnung als Fax im Feld Jobmodus.
 Falls nötig, kann die Nachricht an dieser Stelle gelöscht oder erneut versandt werden.</description>
       </item>
       

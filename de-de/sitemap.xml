@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/base/</loc>
+    <lastmod>2020-07-04T11:13:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connectornav/matrix/contacts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -224,6 +239,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/first-steps/setup/allocating-permission-sets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/"
                 />
   </url>
   
@@ -964,21 +994,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/allocating-license/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/allocating-license/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/allocating-license/"
                 />
   </url>
   
@@ -3063,6 +3078,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/base/first-steps/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
   </url>
@@ -4443,6 +4473,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/base/first-steps/setup/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/archive/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4934,21 +4979,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/updates/to-31-12-2020/july/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/countries/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/countries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/countries/"
                 />
   </url>
   

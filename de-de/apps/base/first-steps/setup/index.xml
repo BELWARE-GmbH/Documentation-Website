@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/base/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Berechtigungssätze zuweisen</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/</guid>
+        <description>Einrichtung Berechtigungssätze Sie können Nutzern 3 verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
+C365, Setup - Erlaubt dem Nutzer Änderungen in der Connector 365 Einrichtung vorzunehmen C365, Edit - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches. C365, View - Erlaubt dem Nutzer die App grundsätzlich zu nutzen </description>
+      </item>
+      
+    
+  </channel>
+</rss>

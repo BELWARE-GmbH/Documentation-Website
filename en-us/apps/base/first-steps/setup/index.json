@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Setup on Connector 365 Online Help",
+    "description": "Recent content in Setup on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/base/first-steps/setup/index.json",
+    "items" : [
+    {
+        "title" : "Assigning Permission Sets",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/base/first-steps/setup/allocating-permission-sets/",
+        "url" : "https://docs.belware.de/en-us/apps/base/first-steps/setup/allocating-permission-sets/",
+        "content_html" : "\u003ch3 id=\"setup\"\u003eSetup\u003c/h3\u003e\n\u003ch3 id=\"permission-sets\"\u003ePermission Sets\u003c/h3\u003e\n\u003cp\u003eYou can assign 3 different types of permission sets to users. Each grants the user a different level of access to the app:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eC365, Setup\u003c/strong\u003e - Enables the user to make changes to the Connector 365 Setup.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eC365, Edit\u003c/strong\u003e - Enables the user to further setup the app. For example managing email attachments, email subjects and similar.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eC365, View\u003c/strong\u003e - ENables the user to simply use the app.\u003c/li\u003e\n\u003c/ul\u003e\n"
+    }
+    ]
+}

@@ -20,9 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</guid>
-        <description>SMTP2FAX in der Connector 365 Einrichtung Um zur SMTP2FAX Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 Einrichtung ein. Dort finden Sie die Rubrik SMTP2FAX Setup.
-An dieser Stelle ist lediglich die Domain des Fax-Servers anzugeben. Die Adresse, an die ein Fax versandt wird, wird automatisch zusammengesetzt aus der Faxnummer des Empfängers, dem @-Zeichen und der angegebenen Domain.
-Eine weitere Stelle, an der Einstellungen zur Nutzung von SMTP2FAX vorgenommen werden können, sind die Dokumentlayouts der Debitoren und Kreditoren.</description>
+        <description>SMTP2FAX in der Connector 365 Einrichtung Um die App Connector 365 SMTP2FAX einzurichten, nutzen Sie zunächst die Suchfunktion von Business Central und öffnen die Connector 365 Einrichtung. Dort finden Sie die Rubrik SMTP2FAX Einrichtung.
+Durch Klick auf den Eintrag öffnet sich der Reiter mit den für die Einrichtung benötigten Eingabefeldern.
+An dieser Stelle ist lediglich die Domain Ihres Fax-Servers anzugeben, der die Zustellung der E-Mails an die betreffenden Faxempfänger handhabt. Die Adresse, an die ein Fax versandt wird, wird automatisch zusammengesetzt aus der Faxnummer des Empfängers, dem @-Zeichen und der angegebenen Domain.</description>
       </item>
       
       <item>
@@ -31,7 +31,7 @@ Eine weitere Stelle, an der Einstellungen zur Nutzung von SMTP2FAX vorgenommen w
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/doclayout/</guid>
-        <description>SMTP2FAX in den Dokumentlayouts Für die Angabe der Faxnummer des Empfängers steht zum einen das im Business Central Standard vorhandene Feld in der Karte des Kreditors oder Debitors zur Verfügung. Die App SMTP2FAX fügt aber auch der Tabelle der Dokumentlayouts ein weiteres Feld hinzu, in dem Sie die Faxnummer für verschiedene Anwendungsfälle angeben können.
+        <description>SMTP2FAX in den Dokumentlayouts Für die Angabe der Faxnummer des Empfängers steht zum einen das im Business Central Standard vorhandene Feld in der Karte des Kreditors oder Debitors zur Verfügung. Die App SMTP2FAX fügt aber auch der Tabelle der Dokumentlayouts ein weiteres Feld hinzu, in dem Sie die Zielfaxnummern für verschiedene Anwendungsfälle angeben können.
 Die Nutzung im Arbeitsablauf wird unter Arbeiten mit SMTP2FAX erklärt.</description>
       </item>
       

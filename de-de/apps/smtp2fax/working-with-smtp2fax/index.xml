@@ -78,9 +78,10 @@ Hier kann nachträglich die Empfängeradresse geändert und der Anhang auf Richt
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/archive/</guid>
-        <description>SMTP2FAX in der Connector 365 Aktivitätenliste Wurde ein Fax erfolgreich versandt, erfolgt ein entsprechender Eintrag in die Connector 365 Aktivitätenliste.
+        <description>SMTP2FAX in der Connector 365 Aktivitätenliste Wurde im SMTP2FAX-Dialog das Versenden der Nachricht gewählt, erfolgt ein entsprechender Eintrag in die Connector 365 Aktivitätenliste, der durch die Kennzeichnung Fax im Feld Jobmodus erkennbar ist.
+Ob das Versenden erfolgreich war oder fehlgeschlagen ist, wird durch eine entsprechende Markierung im Feld Status gekennzeichnet.
 Durch Klick auf die Statusmarkierung können genauere Informtionen zum Status aufgerufen werden.
-Ist der Versand fehlgeschlagen, wird der Status in der Aktivitätenliste negativ markiert. Im entsprechenden Feedbackeintrag wird dann der Statustext wiedergegeben, der im E-Mail-Ausgang zu dieser Nachricht abgelegt ist.</description>
+Ist der Versand fehlgeschlagen, wird der Status in der Aktivitätenliste negativ markiert.</description>
       </item>
       
       <item>
@@ -89,7 +90,7 @@ Ist der Versand fehlgeschlagen, wird der Status in der Aktivitätenliste negativ
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</guid>
-        <description>SMTP2FAX im E-Mail-Ausgang Wurde ein Fax über den Dialog als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen.
+        <description>SMTP2FAX im E-Mail-Ausgang Wurde ein Fax über den Dialog als Entwurf gespeichert oder ist der Versand fehlgeschlagen, wird es entsprechend in den E-Mail-Ausgang von Business Central eingetragen, auch hier zu erkennen an der Kennzeichnung Fax im Feld Jobmodus.
 Dort kann die Nachricht dann gelöscht oder erneut versandt werden.
 Ist die Nachricht dagegen erfolgreich verschickt worden, wird sie in die Liste der gesendeten Mails eingetragen.</description>
       </item>
@@ -100,7 +101,7 @@ Ist die Nachricht dagegen erfolgreich verschickt worden, wird sie in die Liste d
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/sentemails/</guid>
-        <description>SMTP2FAX in Gesendete E-Mails Wurde ein Fax erfolgreich verschickt, findet sich ein entsprechender Eintrag in der Liste der gesendeten E-Mails, die standardmäßig in Business Central enthalten ist.
+        <description>SMTP2FAX in Gesendete E-Mails Wurde ein Fax erfolgreich verschickt, findet sich ein entsprechender Eintrag in der Liste der gesendeten E-Mails, die standardmäßig in Business Central enthalten ist. Der Eintrag ist ebenfalls zu erkennen an der Kennzeichnung als Fax im Feld Jobmodus.
 Falls nötig, kann die Nachricht an dieser Stelle gelöscht oder erneut versandt werden.</description>
       </item>
       

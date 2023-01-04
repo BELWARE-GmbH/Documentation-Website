@@ -14,6 +14,14 @@
         "content_html" : "\u003ch3 id=\"connector-365-addressee-control-online-hilfe\"\u003eConnector 365 Addressee Control Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 Addressee Control App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
+        "title" : "Base",
+        "date_published" : "2020-07-04T11:13:47-05:00",
+        "date_modified" : "2020-07-04T11:13:47-05:00",
+        "id" : "https://docs.belware.de/de-de/apps/base/",
+        "url" : "https://docs.belware.de/de-de/apps/base/",
+        "content_html" : "\u003ch3 id=\"connector-365-base-online-hilfe\"\u003eConnector 365 Base Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 Base App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "CTI for STARFACE",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
@@ -108,14 +116,6 @@
         "id" : "https://docs.belware.de/de-de/apps/developer-docu/",
         "url" : "https://docs.belware.de/de-de/apps/developer-docu/",
         "content_html" : "\u003ch3 id=\"connector-365-entwicklerdokumentation\"\u003eConnector 365 Entwicklerdokumentation\u003c/h3\u003e\n\u003cp\u003eAls Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unseren Apps eigenhändig vornehmen können.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
-    },
-    {
-        "title" : "Unterstützte Länder",
-        "date_published" : "2020-02-28T10:08:56+09:00",
-        "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/countries/",
-        "url" : "https://docs.belware.de/de-de/apps/countries/",
-        "content_html" : "\u003ch3 id=\"unsere-lösunge-unterstützt-zur-zeit-die-folgenden-märkte\"\u003eUnsere Lösunge unterstützt zur Zeit die folgenden Märkte:\u003c/h3\u003e\n\u003cp\u003eAlgerien\u003cbr /\u003e\nArgentinien\u003cbr /\u003e\nAustralien\u003cbr /\u003e\nÖsterreich\u003cbr /\u003e\nBangladesch\u003cbr /\u003e\nBelgien\u003cbr /\u003e\nBrasilien\u003cbr /\u003e\nBulgarien\u003cbr /\u003e\nKanada\u003cbr /\u003e\nChile\u003cbr /\u003e\nKolumbien\u003cbr /\u003e\nKroatien\u003cbr /\u003e\nTschechische Republik\u003cbr /\u003e\nDänemark\u003cbr /\u003e\nÄgypten\u003cbr /\u003e\nEstland\u003cbr /\u003e\nFäröer Inseln\u003cbr /\u003e\nFinnland\u003cbr /\u003e\nFrankreich\u003cbr /\u003e\nDeutschland\u003cbr /\u003e\nGriechenland\u003cbr /\u003e\nGrönland\u003cbr /\u003e\nHongkong SAR\u003cbr /\u003e\nUngarn\u003cbr /\u003e\nIsland\u003cbr /\u003e\nIndien\u003cbr /\u003e\nIndonesien\u003cbr /\u003e\nIrland\u003cbr /\u003e\nItalien\u003cbr /\u003e\nJapan\u003cbr /\u003e\nKenia\u003cbr /\u003e\nKorea\u003cbr /\u003e\nLettland\u003cbr /\u003e\nLibanon\u003cbr /\u003e\nLitauen\u003cbr /\u003e\nLuxemburg\u003cbr /\u003e\nMalaysia\u003cbr /\u003e\nMalta\u003cbr /\u003e\nMexiko\u003cbr /\u003e\nMarokko\u003cbr /\u003e\nMyanmar\u003cbr /\u003e\nNiederlande\u003cbr /\u003e\nNeuseeland\u003cbr /\u003e\nNigeria\u003cbr /\u003e\nNorwegen\u003cbr /\u003e\nPeru\u003cbr /\u003e\nPhilippinen\u003cbr /\u003e\nPolen\u003cbr /\u003e\nPortugal\u003cbr /\u003e\nPuerto Rico\u003cbr /\u003e\nKatar\u003cbr /\u003e\nRumänien\u003cbr /\u003e\nSaudi-Arabien\u003cbr /\u003e\nSerbien\u003cbr /\u003e\nSingapur\u003cbr /\u003e\nSlowakei\u003cbr /\u003e\nSlowenien\u003cbr /\u003e\nSüd-Afrika\u003cbr /\u003e\nSpanien\u003cbr /\u003e\nSri Lanka\u003cbr /\u003e\nSchweden\u003cbr /\u003e\nSchweiz\u003cbr /\u003e\nTaiwan\u003cbr /\u003e\nThailand\u003cbr /\u003e\nTunesien\u003cbr /\u003e\nTürkei\u003cbr /\u003e\nUkraine\u003cbr /\u003e\nVereinigte Arabische Emirate\u003cbr /\u003e\nVereinigtes Königreich\u003cbr /\u003e\nVereinigte Staaten\u003cbr /\u003e\nVietnam\u003c/p\u003e\n"
     },
     {
         "title" : "Hilfe und Support",
