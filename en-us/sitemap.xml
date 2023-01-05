@@ -1738,6 +1738,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -1749,6 +1764,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/addressee-control/new-and-planned/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/"
                 />
   </url>
   
@@ -3123,6 +3168,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/base/first-steps/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -3134,6 +3194,46 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/base/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/"
                 />
   </url>
   
@@ -3863,6 +3963,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/smtp2fax-setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/smtp2fax-setup/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -3874,6 +3989,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/issuedreminders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/"
                 />
   </url>
   
@@ -4433,6 +4578,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/doclayout/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/doclayout/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/doclayout/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/purchaseorders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -4688,6 +4863,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/added_documents/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4898,6 +5088,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/archive/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/archive/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/send_via_mail/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4959,6 +5164,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/matrix/stack_mode/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/emailoutbox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/emailoutbox/"
                 />
   </url>
   
@@ -5049,6 +5269,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/help-and-support/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/sentemails/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/sentemails/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/sentemails/"
                 />
   </url>
   

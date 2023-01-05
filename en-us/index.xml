@@ -741,6 +741,16 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
+        <title>Posted Sales Invoices</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</guid>
+        <description>SMTP2FAX in Posted Sales Invoices On the posted sales invoices page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in an invoice, a search is made in its document layouts for a fax number entered for use with invoices. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+      </item>
+      
+      <item>
         <title>Target addresses</title>
         <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
@@ -1491,6 +1501,35 @@ Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order
       </item>
       
       <item>
+        <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</guid>
+        <description>Introduction For cases in which you want to send created reports as a fax, this app offers a solution. The prerequisite is that you operate a fax server that you can address for sending. Then this app first creates the report to be sent as an email, which is then sent to the fax server via SMTP. From there, the original email is then delivered as a fax. In the first version of SMTP2FAX, the functionality is available for the pages:</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; SMTP2FAX App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing the Connector 365 Base &amp;amp; SMTP2FAX App Publishing the Connector Base &amp;amp; SMTP2FAX App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>Posted Sales Credit Memos</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</guid>
+        <description>SMTP2FAX in Posted Sales Credit Memos On the posted sales credit memos page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in a sales credit memo, a search is made in its document layouts for a fax number entered for use with sales credit memos. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+      </item>
+      
+      <item>
         <title>Multiple e-mail recipients</title>
         <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/further_targets/</link>
         <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
@@ -1852,6 +1891,28 @@ You will notice a new &amp;ldquo;Email Sender&amp;rdquo; field once the dialog o
       </item>
       
       <item>
+        <title>Connector 365 Setup</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</guid>
+        <description>SMTP2FAX in Connector 365 Setup To get to SMTP2FAX setup, first use the Business Central search function and open the Connector 365 Setup. There you will find the section SMTP2FAX Setup.
+Clicking on the entry opens the tab with the input fields required for the setup.
+Here you only need to specify the domain of your fax server, which handles the delivery of the e-mails to the fax recipients concerned. The address to which a fax is sent is automatically composed of the recipient&amp;rsquo;s fax number, the @ sign and the specified domain.</description>
+      </item>
+      
+      <item>
+        <title>Issued Reminders</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</guid>
+        <description>SMTP2FAX in Issued Reminders On the issued reminders page, the function can be found in different menus depending on the Business Central version, e.g. in the &amp;ldquo;Home&amp;rdquo; menu as shown in the screenshot.
+The fax number used is selected according to the following logic: First, the document layouts of the customer specified as the recipient are searched for a fax number entered for use with reminders.
+If none is found there, the fax number entered in the card of the dunning recipient is used.</description>
+      </item>
+      
+      <item>
         <title>Target addresses</title>
         <link>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</link>
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
@@ -2171,6 +2232,27 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) This function c
       </item>
       
       <item>
+        <title>Document layouts</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/doclayout/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/doclayout/</guid>
+        <description>SMTP2FAX in the document layouts For specifying the recipient&amp;rsquo;s fax number, there&amp;rsquo;s an according field available in the Business Central Standard on the card page of the creditor or debtor. However, the SMTP2FAX app also adds another field to the document layouts table, where you can specify the fax number for different use cases.
+Its use in the workflow is explained in Working with SMTP2FAX.</description>
+      </item>
+      
+      <item>
+        <title>Purchase Orders</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</guid>
+        <description>SMTP2FAX in Purchase Orders On the purchase orders page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
+The fax number used is selected according to the following logic: First, the document layouts of the vendor specified as the recipient are searched for a fax number entered for use with purchase orders. If none is found there, the fax number entered in the supplier&amp;rsquo;s card is used.
+The function can also be found on the page of a single purchase order in the &amp;ldquo;Print/Send&amp;rdquo; menu.</description>
+      </item>
+      
+      <item>
         <title>Archive</title>
         <link>https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2396,6 +2478,16 @@ The Connector 365 Addressee Control app adds another field to the Document Layou
       </item>
       
       <item>
+        <title>SMTP2FAX Dialog</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</guid>
+        <description>The SMTP2FAX Dialog If for a report the delivery as a fax via SMTP was activated, a mail dialog adapted for the fax application appears for further processing.
+Here the recipient address can be changed and the attachment can be checked for correctness. Then the report can be sent or discarded via the respective button in the upper menu. If the dialog is closed via the X or the close button, it is still possible to select whether the message is to be saved as a draft in the mail outbox or discarded.</description>
+      </item>
+      
+      <item>
         <title>Accompanying documents</title>
         <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/added_documents/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2546,6 +2638,17 @@ Setup of the App </description>
       </item>
       
       <item>
+        <title>Connector 365 Archive</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/archive/</guid>
+        <description>SMTP2FAX in the Connector 365 activity list If sending the message was selected in the SMTP2FAX dialog, a corresponding entry is made in the Connector 365 activity list, which can be identified by the Fax label in the Job Mode field.
+Whether the sending was successful or failed is indicated by a corresponding mark in the Status field.
+By clicking on the status marker you can get more detailed information about the status.</description>
+      </item>
+      
+      <item>
         <title>Direct shipping via e-mail</title>
         <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/send_via_mail/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -2584,6 +2687,17 @@ During batch processing, the additional printers from the communication matrix w
         <guid>https://docs.belware.de/en-us/connectornav/matrix/stack_mode/</guid>
         <description>The Batch - Using the matrix to control the shipping method In some of our templates you will notice the button &amp;ldquo;Batch&amp;rdquo;, with this function selected documents can be processed according to a previously defined scheme. This scheme can be set up via the communication matrix.
 In oder for an entry in the communication matrix to be used for the stacking run the &amp;ldquo;Stacking mode&amp;rdquo; check mark must be set in front of the respective entrys.</description>
+      </item>
+      
+      <item>
+        <title>e-mail outbox</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</guid>
+        <description>SMTP2FAX in E-Mail Outbox If a fax was saved as a draft via the dialog or if the transmission failed, it is entered accordingly in the Business Central e-mail outbox, recognizable here by the Fax label in the Job mode field.
+There the message can be deleted or resent.
+If, on the other hand, the message has been sent successfully, it is entered in the list of sent e-mails.</description>
       </item>
       
       <item>
@@ -2635,6 +2749,16 @@ In the communication matrix, the destination address field is now automatically 
         <guid>https://docs.belware.de/en-us/connectornav/matrix/book_and_process/</guid>
         <description>Book and process functions Similar to the standard functions post &amp;amp; send and post &amp;amp; print, the post &amp;amp; process function allows you to process a document after posting. In contrast to the standard, the function allows you to process the document through all Connector NAV interfaces. In addition, you have the possibility to send a document multiple times via different channels, e.g. letter &amp;amp; e-mail.
 How exactly the respective document should be processed, you can set up in our communication matrix.</description>
+      </item>
+      
+      <item>
+        <title>Sent E-Mails</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/sentemails/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/sentemails/</guid>
+        <description>SMTP2FAX in Sent E-Mails If a fax was sent successfully, there is a corresponding entry in the list of sent e-mails, which is included in Business Central by default. The entry can be recognized by the marking as fax in the Job mode field.
+If necessary, the message can be deleted or resent at this point.</description>
       </item>
       
       <item>

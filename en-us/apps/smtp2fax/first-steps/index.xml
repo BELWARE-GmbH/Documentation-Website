@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First steps on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/</link>
+    <description>Recent content in First steps on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Installation</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/</guid>
+        <description>Installation of the Connector 365 SMTP2FAX App Here you will find all the important information and instructions on how to install the Connector 365 SMTP2FAX App. Just use either the bottom or left navigation menu. In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</guid>
+        <description>Introduction For cases in which you want to send created reports as a fax, this app offers a solution. The prerequisite is that you operate a fax server that you can address for sending. Then this app first creates the report to be sent as an email, which is then sent to the fax server via SMTP. From there, the original email is then delivered as a fax. In the first version of SMTP2FAX, the functionality is available for the pages:</description>
+      </item>
+      
+      <item>
+        <title>Setup</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/</guid>
+        <description>Setup of the Connector 365 SMTP2FAX App Here you will find all the important information and instructions on how to set up the Connector 365 SMTP2FAX App. Just use either the bottom or left navigation menu. In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the support page.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

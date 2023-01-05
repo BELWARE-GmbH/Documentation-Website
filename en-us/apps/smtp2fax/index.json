@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "SMTP2FAX on Connector 365 Online Help",
+    "description": "Recent content in SMTP2FAX on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/smtp2fax/index.json",
+    "items" : [
+    {
+        "title" : "First steps",
+        "date_published" : "2020-02-28T00:00:00+09:00",
+        "date_modified" : "2020-02-28T00:00:00+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/",
+        "url" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/",
+        "content_html" : "\u003ch3 id=\"getting-started-with-the-connector-365-smtp2fax-app\"\u003eGetting Started with the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to install the Connector 365 SMTP2FAX App. \u003cbr /\u003e\nJust use either the bottom or left navigation menu. \u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Working with SMTP2FAX",
+        "date_published" : "2020-02-28T00:00:00+09:00",
+        "date_modified" : "2020-02-28T00:00:00+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/",
+        "url" : "https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/",
+        "content_html" : "\u003ch3 id=\"working-with-the-connector-365-smtp2fax-app\"\u003eWorking with the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all important information and hints on how to use the Connector 365 SMTP2FAX App correctly. \u003cbr /\u003e\nJust use either the bottom or left navigation menu. \u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

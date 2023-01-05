@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SMTP2FAX on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/smtp2fax/</link>
+    <description>Recent content in SMTP2FAX on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/smtp2fax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>First steps</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/</guid>
+        <description>Getting Started with the Connector 365 SMTP2FAX App Here you will find all the important information and instructions on how to install the Connector 365 SMTP2FAX App. Just use either the bottom or left navigation menu. In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Working with SMTP2FAX</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/</guid>
+        <description>Working with the Connector 365 SMTP2FAX App Here you will find all important information and hints on how to use the Connector 365 SMTP2FAX App correctly. Just use either the bottom or left navigation menu. In case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the support page.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

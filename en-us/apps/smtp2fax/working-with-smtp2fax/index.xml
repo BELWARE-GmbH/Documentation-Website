@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with SMTP2FAX on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/</link>
+    <description>Recent content in Working with SMTP2FAX on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Posted Sales Invoices</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</guid>
+        <description>SMTP2FAX in Posted Sales Invoices On the posted sales invoices page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in an invoice, a search is made in its document layouts for a fax number entered for use with invoices. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+      </item>
+      
+      <item>
+        <title>Posted Sales Credit Memos</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</guid>
+        <description>SMTP2FAX in Posted Sales Credit Memos On the posted sales credit memos page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in a sales credit memo, a search is made in its document layouts for a fax number entered for use with sales credit memos. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+      </item>
+      
+      <item>
+        <title>Issued Reminders</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</guid>
+        <description>SMTP2FAX in Issued Reminders On the issued reminders page, the function can be found in different menus depending on the Business Central version, e.g. in the &amp;ldquo;Home&amp;rdquo; menu as shown in the screenshot.
+The fax number used is selected according to the following logic: First, the document layouts of the customer specified as the recipient are searched for a fax number entered for use with reminders.
+If none is found there, the fax number entered in the card of the dunning recipient is used.</description>
+      </item>
+      
+      <item>
+        <title>Purchase Orders</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</guid>
+        <description>SMTP2FAX in Purchase Orders On the purchase orders page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
+The fax number used is selected according to the following logic: First, the document layouts of the vendor specified as the recipient are searched for a fax number entered for use with purchase orders. If none is found there, the fax number entered in the supplier&amp;rsquo;s card is used.
+The function can also be found on the page of a single purchase order in the &amp;ldquo;Print/Send&amp;rdquo; menu.</description>
+      </item>
+      
+      <item>
+        <title>SMTP2FAX Dialog</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</guid>
+        <description>The SMTP2FAX Dialog If for a report the delivery as a fax via SMTP was activated, a mail dialog adapted for the fax application appears for further processing.
+Here the recipient address can be changed and the attachment can be checked for correctness. Then the report can be sent or discarded via the respective button in the upper menu. If the dialog is closed via the X or the close button, it is still possible to select whether the message is to be saved as a draft in the mail outbox or discarded.</description>
+      </item>
+      
+      <item>
+        <title>Connector 365 Archive</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/archive/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/archive/</guid>
+        <description>SMTP2FAX in the Connector 365 activity list If sending the message was selected in the SMTP2FAX dialog, a corresponding entry is made in the Connector 365 activity list, which can be identified by the Fax label in the Job Mode field.
+Whether the sending was successful or failed is indicated by a corresponding mark in the Status field.
+By clicking on the status marker you can get more detailed information about the status.</description>
+      </item>
+      
+      <item>
+        <title>e-mail outbox</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/emailoutbox/</guid>
+        <description>SMTP2FAX in E-Mail Outbox If a fax was saved as a draft via the dialog or if the transmission failed, it is entered accordingly in the Business Central e-mail outbox, recognizable here by the Fax label in the Job mode field.
+There the message can be deleted or resent.
+If, on the other hand, the message has been sent successfully, it is entered in the list of sent e-mails.</description>
+      </item>
+      
+      <item>
+        <title>Sent E-Mails</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/sentemails/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/sentemails/</guid>
+        <description>SMTP2FAX in Sent E-Mails If a fax was sent successfully, there is a corresponding entry in the list of sent e-mails, which is included in Business Central by default. The entry can be recognized by the marking as fax in the Job mode field.
+If necessary, the message can be deleted or resent at this point.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

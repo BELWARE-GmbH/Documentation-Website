@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "First steps on Connector 365 Online Help",
+    "description": "Recent content in First steps on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Installation",
+        "date_published" : "2020-02-28T00:00:00+09:00",
+        "date_modified" : "2020-02-28T00:00:00+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/",
+        "url" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-of-the-connector-365-smtp2fax-app\"\u003eInstallation of the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to install the Connector 365 SMTP2FAX App. \u003cbr /\u003e\nJust use either the bottom or left navigation menu. \u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Introduction",
+        "date_published" : "2020-02-28T00:00:00+09:00",
+        "date_modified" : "2020-02-28T00:00:00+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/",
+        "url" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/",
+        "content_html" : "\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003cp\u003eFor cases in which you want to send created reports as a fax, this app offers a solution. \u003cbr /\u003e\nThe prerequisite is that you operate a fax server that you can address for sending. Then this app first creates the report to be sent as an email, which is then sent to the fax server via SMTP. From there, the original email is then delivered as a fax. \u003cbr /\u003e\nIn the first version of SMTP2FAX, the functionality is available for the pages:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePosted Sales Invoices\u003c/li\u003e\n\u003cli\u003ePosted Sales Credit Memos\u003c/li\u003e\n\u003cli\u003eIssued Reminders\u003c/li\u003e\n\u003cli\u003ePurchase Orders\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Setup",
+        "date_published" : "2020-02-28T00:00:00+09:00",
+        "date_modified" : "2020-02-28T00:00:00+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/",
+        "url" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/",
+        "content_html" : "\u003ch3 id=\"setup-of-the-connector-365-smtp2fax-app\"\u003eSetup of the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to set up the Connector 365 SMTP2FAX App. \u003cbr /\u003e\nJust use either the bottom or left navigation menu. \u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

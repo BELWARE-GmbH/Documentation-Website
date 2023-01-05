@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Connector 365 Setup</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/smtp2fax-setup/</guid>
+        <description>SMTP2FAX in Connector 365 Setup To get to SMTP2FAX setup, first use the Business Central search function and open the Connector 365 Setup. There you will find the section SMTP2FAX Setup.
+Clicking on the entry opens the tab with the input fields required for the setup.
+Here you only need to specify the domain of your fax server, which handles the delivery of the e-mails to the fax recipients concerned. The address to which a fax is sent is automatically composed of the recipient&amp;rsquo;s fax number, the @ sign and the specified domain.</description>
+      </item>
+      
+      <item>
+        <title>Document layouts</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/doclayout/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/setup/doclayout/</guid>
+        <description>SMTP2FAX in the document layouts For specifying the recipient&amp;rsquo;s fax number, there&amp;rsquo;s an according field available in the Business Central Standard on the card page of the creditor or debtor. However, the SMTP2FAX app also adds another field to the document layouts table, where you can specify the fax number for different use cases.
+Its use in the workflow is explained in Working with SMTP2FAX.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
