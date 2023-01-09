@@ -28,17 +28,6 @@ All posted document types which can be processed using the app are recorded in t
       </item>
       
       <item>
-        <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</link>
-        <pubDate>Mon, 16 May 2022 15:07:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
-        <description>New and planned Version 1.0.0.3 New features:
-Merge multiple PDF files into one Automatic rotation of PDF files if they are in landscape format Action buttons to remove stationery at the touch of a button Stationery can be set up globally under company data Corrections:
-Correction for file name when previewing pdf stationery Planned functions for future versions Integration of PDF/A functionality </description>
-      </item>
-      
-      <item>
         <title>Additional notes Faxmaker</title>
         <link>https://docs.belware.de/en-us/connectornav/fax/faxmaker/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1489,15 +1478,6 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
         <description>Working with the PdfPaper App Using the stationery Once stored, the stationery is automatically remembered when PDFs are created. In doing so, we support any operation where a PDF is provided.
 We support the following reports
 Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order Blanket sales order Post. sales invoice Sales purchase invoice Post. sales credit memo Post. purchase credit memo Reg. Reminder Our other apps that involve PDF creation also support the Connector 365 PdfPaper app:</description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0 Setting of stationery per report &amp;amp; customer Create multiple stationery Preview function Planned functions for future versions Additional functions from PdfPaper module Global stationery in company data Stationery per company </description>
       </item>
       
       <item>
