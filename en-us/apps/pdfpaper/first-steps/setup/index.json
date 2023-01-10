@@ -36,6 +36,14 @@
         "id" : "https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/documentlayouts/",
         "url" : "https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/documentlayouts/",
         "content_html" : "\u003ch3 id=\"setup\"\u003eSetup\u003c/h3\u003e\n\u003ch3 id=\"stationery-in-the-document-layout\"\u003eStationery in the document layout\u003c/h3\u003e\n\u003cp\u003eYou also have the option to store a stationery per customer \u0026amp; report, this is done in the respective document layouts.\u003c/p\u003e\n\u003cp\u003eOpen the card of the customer for which you want to store a stationery. Then click on \u003cstrong\u003e\u0026ldquo;Navigate\u0026rdquo;\u003c/strong\u003e and \u003cstrong\u003e\u0026ldquo;Document layouts\u0026rdquo;\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eNow set up the corresponding report and use the \u003cstrong\u003e\u0026ldquo;Stationery\u0026rdquo;\u003c/strong\u003e field to store your stationery.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Stationery per Responsibilty Center",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/",
+        "url" : "https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/",
+        "content_html" : "\u003ch3 id=\"einrichtung\"\u003eEinrichtung\u003c/h3\u003e\n\u003ch3 id=\"stationery-per-responsibilty-center\"\u003eStationery per Responsibilty Center\u003c/h3\u003e\n\u003cp\u003eYou can set up stationeries per responsibility center as well.\u003cbr /\u003e\nThis can be done using the selection of a responsibility center in the customer card.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/pdfPaper/en-us/setup_responsibility_center.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eReaching the responsibility center selection you can select a stationery by clicking the field \u003cstrong\u003estationery\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/pdfPaper/en-us/setup_responsibility_center_stationery.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eIn the now open page you can choose from already existing stationeries or add new ones. This can be done by clicking the three dots within the field \u003cstrong\u003estationery name\u003c/strong\u003e. Afterwards you have to confirm the selected line with OK in order to assign the stationery.\u003c/p\u003e\n\u003cp\u003eThe selected stationery will be picked for the dispatch of all documents where this custonmer is set up as recipient - unless a different stationery is set up in the document layout of this customer.\u003c/p\u003e\n"
     }
     ]
 }
