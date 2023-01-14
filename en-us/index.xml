@@ -28,17 +28,6 @@ All posted document types which can be processed using the app are recorded in t
       </item>
       
       <item>
-        <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</link>
-        <pubDate>Mon, 16 May 2022 15:07:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
-        <description>New and planned Version 1.0.0.3 New features:
-Merge multiple PDF files into one Automatic rotation of PDF files if they are in landscape format Action buttons to remove stationery at the touch of a button Stationery can be set up globally under company data Corrections:
-Correction for file name when previewing pdf stationery Planned functions for future versions Integration of PDF/A functionality </description>
-      </item>
-      
-      <item>
         <title>Additional notes Faxmaker</title>
         <link>https://docs.belware.de/en-us/connectornav/fax/faxmaker/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1492,15 +1481,6 @@ Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order
       </item>
       
       <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/</guid>
-        <description>New and planned Version 1.0.0.0 Setting of stationery per report &amp;amp; customer Create multiple stationery Preview function Planned functions for future versions Additional functions from PdfPaper module Global stationery in company data Stationery per company </description>
-      </item>
-      
-      <item>
         <title>Introduction</title>
         <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
@@ -2269,6 +2249,18 @@ In selected templates you will now find the function Post &amp;amp; Process, it 
 **Stacking function
 Using the batch run, documents can be processed at the push of a button, the respective dispatch type can be defined in advance per customer in the communication matrix.
 More information on both points can be found in the documentation for the communication matrix</description>
+      </item>
+      
+      <item>
+        <title>Stationery per Responsibilty Center</title>
+        <link>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/</guid>
+        <description>Einrichtung Stationery per Responsibilty Center You can set up stationeries per responsibility center as well.
+This can be done using the selection of a responsibility center in the customer card.
+Reaching the responsibility center selection you can select a stationery by clicking the field stationery.
+In the now open page you can choose from already existing stationeries or add new ones. This can be done by clicking the three dots within the field stationery name.</description>
       </item>
       
       <item>

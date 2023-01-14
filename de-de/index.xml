@@ -28,17 +28,6 @@ In der Easy Batch Einrichtung sind alle gebuchten Belegarten hinterlegt, welche 
       </item>
       
       <item>
-        <title>V1.0.0.3 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</link>
-        <pubDate>Mon, 16 May 2022 15:07:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/</guid>
-        <description>Neu und geplant Version 1.0.0.3 Neue Funktionen:
-Mergen von mehreren PDF-Dateien zu einer einzigen Automatisches Drehen von PDF-Dateien, wenn diese im Querformat vorhanden sind Aktionsknöpfe, um Briefpapier per Knopfdruck wieder zu entfernen Briefpapier global unter Firmendaten einrichtbar Korrekturen:
-Korrekter Dateiname bei der Vorschau von Briefpapieren Geplante Funktionen für zukünftige Versionen Integration von PDF/A-Funktion </description>
-      </item>
-      
-      <item>
         <title>Anlegen von Kontakten</title>
         <link>https://docs.belware.de/de-de/connectornav/matrix/contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -67,7 +56,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 CTI for STARFACE zu finden. Klicken Sie auf Get it now um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 CTI for STARFACE zu finden. Klicken Sie auf Get it now um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -175,8 +164,8 @@ Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/</guid>
-        <description>Einrichtung Berechtigungssätze Sie können Nutzern 3 verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
-C365, Setup - Erlaubt dem Nutzer Änderungen in der Connector 365 Einrichtung vorzunehmen C365, Edit - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches. C365, View - Erlaubt dem Nutzer die App grundsätzlich zu nutzen </description>
+        <description>Einrichtung Berechtigungssätze Sie können Nutzern drei verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
+C365, Setup - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung vorzunehmen und zu ändern C365, Edit - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches. C365, View - Erlaubt dem Nutzer, die App grundsätzlich zu nutzen </description>
       </item>
       
       <item>
@@ -206,9 +195,8 @@ Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalte
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</guid>
-        <description>Arbeiten mit CTI for STARFACE Click to dial Mit unserer App haben Sie die Möglichkeit direkt aus Ihren Kontakten Anrufe zu starten. Öffnen Sie den entsprechenden Kontakt mit dem Sie telefonieren möchten und
-klappen Sie den Bereich &amp;ldquo;Kommunikation&amp;rdquo; auf. Neben der Telefonnr. befinden sich nun eine Schaltfläche mit 3 Punkten. Mit einem Klick auf die Schaltfläche wird ein Telefonat ausgelöst.
-Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Browsers ausschalten oder Ihren STARFACE-Client zum öffnen von Telefonnr.</description>
+        <description>Arbeiten mit CTI for STARFACE Click to dial Mit unserer App haben Sie die Möglichkeit, direkt aus Ihren Kontakten Anrufe zu starten. Öffnen Sie den entsprechenden Kontakt, mit dem Sie telefonieren möchten und klappen Sie den Bereich Kommunikation auf. Neben der Telefonnummer befindet sich nun eine Schaltfläche mit 3 Punkten. Mit einem Klick auf die Schaltfläche wird ein Telefonat ausgelöst.
+Sollte kein Anruf ausgelöst werden, müssen Sie ggf. den Popup-Blocker Ihres Browsers ausschalten oder Ihren STARFACE-Client zum Öffnen von Telefonnr.</description>
       </item>
       
       <item>
@@ -293,7 +281,7 @@ Die Telefonnr. der anrufenden Person ist in einem Kontakt hinterlegt. Sollte die
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Die Telefonaktivitäten Ihrer Mitarbeiter zu kontrollieren kann aufwendig sein, ein ständiges Wechseln zwischen dem STARFACE Client und der Microsoft Dynamics 365 Business Central Umgebung verursacht einen Bruch im Workflow. Dieser Bruch lässt sich aber vehindern.
+        <description>Erste Schritte Einleitung Die Telefonaktivitäten Ihrer Mitarbeiter zu kontrollieren kann aufwendig sein, ein ständiges Wechseln zwischen dem STARFACE Client und der Microsoft Dynamics 365 Business Central Umgebung verursacht einen Bruch im Workflow. Dieser Bruch lässt sich aber verhindern.
 Volle Kontrolle über Ihre STARFACE CTI
 Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365 Business Central Umgebung zu Ihrer CTI-Zentrale zu machen. Wir bieten Ihnen viele Möglichkeiten die Sie dabei unterstützt Ihre STARFACE-Lösung vollständig zu nutzen.</description>
       </item>
@@ -582,6 +570,16 @@ Beschreibung Kurzbeschreibung bzw. Titel des Segments. Verkäufercode Der Verkä
       </item>
       
       <item>
+        <title>STARFACE Modul</title>
+        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <description>Einrichtung Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf dieser Seite downloaden können.
+Informationsquellen Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter &amp;ldquo;Benutzer&amp;rdquo; in der jeweiligen &amp;ldquo;Benutzerkarte&amp;rdquo;. Die Webdienst-URL finden Sie in Business Central unter &amp;ldquo;Webdienste&amp;rdquo;, OData V4-URL.</description>
+      </item>
+      
+      <item>
         <title>Under Construction</title>
         <link>https://docs.belware.de/de-de/under-construction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -807,7 +805,7 @@ Nachdem die Connector 365 Addressee Control App installiert wurde, haben Sie die
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
+Nachdem die Connector 365 CTI for STARFACE App installiert wurde, haben Sie die Möglichkeit sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf einen einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
       </item>
       
       <item>
@@ -1425,31 +1423,12 @@ Sobald Sie einen oder mehrere Belege für den Versand ausgewählt haben, können
       </item>
       
       <item>
-        <title>STARFACE Modul</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Einrichtung Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch hier eine Einrichtung stattfinden. Dazu benötigen Sie ein Modul welches Sie auf dieser Seite downloaden können.
-Informationsquellen Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter &amp;ldquo;Benutzer&amp;rdquo; in der jeweiligen &amp;ldquo;Benutzerkarte&amp;rdquo;. Die Webdienst-URL finden Sie in Business Central unter &amp;ldquo;Webdienste&amp;rdquo;, OData V4-URL.</description>
-      </item>
-      
-      <item>
         <title>Ungebuchte Belege</title>
         <link>https://docs.belware.de/de-de/connectornav/templates.md/unbooked_receipts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/templates.md/unbooked_receipts/</guid>
         <description>Ungebuchte Belege </description>
-      </item>
-      
-      <item>
-        <title>V1.0.0.0 &amp; Roadmap</title>
-        <link>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/</guid>
-        <description>Neu und geplant Version 1.0.0.0 Hinterlegen von Briefpapier pro Bericht &amp;amp; Debitor Anlegen von mehreren Briefpapieren Vorschaufunktion Geplante Funktionen für zukünftige Versionen Weitere Funktionen aus Modul PdfPaper Globales Briefpapier in Firmendaten Briefpapier je Mandant </description>
       </item>
       
       <item>
@@ -1471,6 +1450,17 @@ Es öffnet sich ein neues Fenster, in dem Sie mit einer Übersicht mit allen wic
         <description>Versenden einer PEPPOL-XML via E-Mail Nachdem Sie die gewünschten Einstellungen vorgenommen haben, können Sie Ihre PEPPOL-Dateien versenden. In unserem Beispiel verwenden wir Geb. Verkaufsrechnungen. Dort wählen Sie zunächst eine Rechnung für einen Kunden aus für den PEPPOL aktiviert ist.
 Übersicht Dialog Mail
 Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die Möglichkeit zu überprüfen ob die PEPPOL-Datei erfolgreich erzeugt wurde. Klicken Sie hierzu auf die Fläche „Dateien Anzeigen“ im Menüband.</description>
+      </item>
+      
+      <item>
+        <title>Connector 365 Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</guid>
+        <description>CTI for STARFACE in der Connector 365 Einrichtung Um die App Connector 365 CTI for STARFACE einzurichten, nutzen Sie zunächst die Suchfunktion von Business Central und öffnen die Connector 365 Einrichtung. Dort finden Sie die Rubrik CTI for STARFACE Einrichtung.
+An dieser Stelle können globale Einstellungen für die Funktionsweise der App vorgenommen werden.
+Über das Feld CTI-Seite öffnen kann gewählt werden, ob bei Anrufen das CTI-Fenster geöffnet wird und für welche Anrufrichtung dies gelten soll: eingehend, ausgehend oder beide Richtungen.</description>
       </item>
       
       <item>
@@ -1796,9 +1786,9 @@ Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entspreche
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
-        <description>Einrichtung Gruppen Gruppen bieten Ihnen die Möglichkeit Ihre Nutzer zu sortieren egal ob es eine Unterteilung pro Abteilung oder pro Team ist, es lässt sich mit Gruppen abbilden. Nutzer die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI Client. Die Benutzung von Gruppen ist optional.
-Öffnen Sie über die Suchfunktion die &amp;ldquo;CTI Gruppen&amp;rdquo;, hier findet sich eine Tabelle mit zwei Spalten.
-Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf &amp;ldquo;Neu&amp;rdquo; um die Bearbeitung zu aktivieren.</description>
+        <description>Einrichtung von Gruppen Gruppen bieten Ihnen die Möglichkeit, Ihre Nutzer zu sortieren. Dies kann zum Beispiel anhand der Zugehörigkeit zu einer Abteilung oder einem Team erfolgen. Nutzer, die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI-Client. Die Benutzung von Gruppen ist optional.
+Öffnen Sie über die Suchfunktion die CTI-Gruppen, hier findet sich eine Tabelle mit zwei Spalten.
+Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf Neu, um die Bearbeitung zu aktivieren.</description>
       </item>
       
       <item>
@@ -1862,8 +1852,8 @@ Es öffnet sich nun ein zusätzliches Fenster mit verschiedenen Informationen zu
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</guid>
-        <description>Arbeiten mit CTI for STARFACE Erstellen von Telefonnotizen Nach Ihrem Telefonat haben Sie die Möglichkeit eigene Notizen zum Inhalt des Gesprächs zu verfassen. Dies können Sie direkt aus der &amp;ldquo;Kontaktkarte&amp;rdquo;, welche nach dem Telefonat noch offen sein sollte, vornehmen.
-Wählen Sie zunächst den entsprechenden Eintrag in den &amp;ldquo;CTI-Einträgen&amp;rdquo; aus, schauen Sie nun im rechten Bereich in die Factbox. Dort finden Sie den Bereich &amp;ldquo;CTI-Notizen&amp;rdquo;, mit einem klick auf den Feldnamen, haben Sie die Möglichkeit eine neue Notiz zu verfassen, diese kann maximal 1024 Zeichen lang sein.</description>
+        <description>Arbeiten mit CTI for STARFACE Erstellen von Telefonnotizen Nach Ihrem Telefonat haben Sie die Möglichkeit, eigene Notizen zum Inhalt des Gesprächs zu verfassen. Dies können Sie direkt aus der Kontaktkarte vornehmen, welche nach dem Telefonat noch offen sein sollte.
+Wählen Sie zunächst den entsprechenden Eintrag in den CTI-Einträgen aus. Schauen Sie nun im rechten Bereich in die Factbox CTI-Notizen. Per Klick auf den Titel öffnet sich ein Menü, über das neue Notizen angelegt oder bestehende Notizen angezeigt werden können.</description>
       </item>
       
       <item>
@@ -1926,8 +1916,8 @@ Die Wichtigsten Felder hier sind „Verwendung“, „Berichts-ID“ und unser n
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/call-list/</guid>
-        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an drei Stellen erfasst. Entweder direkt in den Kontakten oder auf globaler Ebene in der Jobliste.
-CTI-Einträge In Ihren Kontakten können Sie die &amp;ldquo;CTI-Einträge&amp;rdquo; finden, diese befinden sich am Ende der Kontaktkarte. Dort finden Sie die Details zu allen Telefonaten die mit diesem Kontakt gefürht wurden, wie z.B. ob es ein- oder ausgehende war, Wer das Telefonat geführt hat, wann das Telefonat angenommen wurde und wie lange es gedauert hat.</description>
+        <description>Arbeiten mit CTI for STARFACE Die Anrufliste Ein- und ausgehende Anrufe werden an drei Stellen erfasst. Kontaktspezifisch auf den Seiten der einzelnen Kontakte, allgemein in der Jobliste und auszugsweise im Rollencenter.
+CTI-Einträge Auf den Seiten Ihrer Kontakte finden Sie die CTI-Einträge in einer Liste im unteren Bereich der jeweiligen Seite. Dort finden Sie die Details zu allen Telefonaten, die mit diesem Kontakt geführt wurden, wie z.B. Anrufrichtung, Benutzer-ID des Gesprächspartners, Zeitpunkt und Dauer.</description>
       </item>
       
       <item>
@@ -2238,6 +2228,18 @@ Diese finden Sie direkt in der Factbox rechts neben Ihren Belegen.
 In den globalen Aktivitäten
 Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach Connector 365 Aktivitäten.
 In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden.</description>
+      </item>
+      
+      <item>
+        <title>Briefpapier je Zuständigkeitseinheit</title>
+        <link>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/responsibility_center/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/responsibility_center/</guid>
+        <description>Einrichtung Briefpapier je Zuständigkeitseinheit Sie haben auch die Möglichkeit ein Briefpapier je Zuständigkeitseinheit zu hinterlegen.
+Dies können Sie über die Auswahl des Zuständigkeitseinheitecode in der Debitorenkarte vornehmen.
+Dort angelangt können Sie durch Klick auf das Feld Briefpapier der Zuständigkeitseinheit ein Briefpapier auswählen.
+In der sich öffnenden Seite können Sie aus bereits vorhandenen Briefpapieren auswählen oder auch neue hochladen. Dies funktioniert durch Klick auf die drei Punkte im Feld Briefpapier-Name. Anschließend müssen Sie die selektierte Zeile mit OK bestätigen, um das Briefpapier zuzuweisen.</description>
       </item>
       
       <item>

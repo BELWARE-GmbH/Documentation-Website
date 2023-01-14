@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/</loc>
-    <lastmod>2022-05-16T15:07:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.3/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/base/</loc>
     <lastmod>2020-07-04T11:13:47-05:00</lastmod>
     <xhtml:link
@@ -3138,21 +3123,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/pdfpaper/new-and-planned/v1.0.0.0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/v1.0.0.0/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4743,6 +4713,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/responsibility_center/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -5090,11 +5075,6 @@
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/july/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/countries/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>

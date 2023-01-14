@@ -61,6 +61,18 @@ Open the card of the customer for which you want to store a stationery. Then cli
 Now set up the corresponding report and use the &amp;ldquo;Stationery&amp;rdquo; field to store your stationery.</description>
       </item>
       
+      <item>
+        <title>Stationery per Responsibilty Center</title>
+        <link>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/responsibility_center/</guid>
+        <description>Einrichtung Stationery per Responsibilty Center You can set up stationeries per responsibility center as well.
+This can be done using the selection of a responsibility center in the customer card.
+Reaching the responsibility center selection you can select a stationery by clicking the field stationery.
+In the now open page you can choose from already existing stationeries or add new ones. This can be done by clicking the three dots within the field stationery name.</description>
+      </item>
+      
     
   </channel>
 </rss>

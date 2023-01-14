@@ -25,14 +25,25 @@ Informationsquellen Den Namen der Microsoft Dynamics 365 Business Central Benutz
       </item>
       
       <item>
+        <title>Connector 365 Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</guid>
+        <description>CTI for STARFACE in der Connector 365 Einrichtung Um die App Connector 365 CTI for STARFACE einzurichten, nutzen Sie zunächst die Suchfunktion von Business Central und öffnen die Connector 365 Einrichtung. Dort finden Sie die Rubrik CTI for STARFACE Einrichtung.
+An dieser Stelle können globale Einstellungen für die Funktionsweise der App vorgenommen werden.
+Über das Feld CTI-Seite öffnen kann gewählt werden, ob bei Anrufen das CTI-Fenster geöffnet wird und für welche Anrufrichtung dies gelten soll: eingehend, ausgehend oder beide Richtungen.</description>
+      </item>
+      
+      <item>
         <title>Nutzer &amp; Gruppen</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/</guid>
-        <description>Einrichtung Gruppen Gruppen bieten Ihnen die Möglichkeit Ihre Nutzer zu sortieren egal ob es eine Unterteilung pro Abteilung oder pro Team ist, es lässt sich mit Gruppen abbilden. Nutzer die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI Client. Die Benutzung von Gruppen ist optional.
-Öffnen Sie über die Suchfunktion die &amp;ldquo;CTI Gruppen&amp;rdquo;, hier findet sich eine Tabelle mit zwei Spalten.
-Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf &amp;ldquo;Neu&amp;rdquo; um die Bearbeitung zu aktivieren.</description>
+        <description>Einrichtung von Gruppen Gruppen bieten Ihnen die Möglichkeit, Ihre Nutzer zu sortieren. Dies kann zum Beispiel anhand der Zugehörigkeit zu einer Abteilung oder einem Team erfolgen. Nutzer, die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI-Client. Die Benutzung von Gruppen ist optional.
+Öffnen Sie über die Suchfunktion die CTI-Gruppen, hier findet sich eine Tabelle mit zwei Spalten.
+Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf Neu, um die Bearbeitung zu aktivieren.</description>
       </item>
       
     
