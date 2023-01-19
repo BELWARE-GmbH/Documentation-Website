@@ -11,7 +11,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/mail-experience-plus/new-and-planned/",
         "url" : "https://docs.belware.de/en-us/apps/mail-experience-plus/new-and-planned/",
-        "content_html" : ""
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1100---19012023\"\u003eVersion 1.1.0.0 - 19.01.2023\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMail Sender Plus replaced by Addressee Control.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIntelligent control of sender address per report via Mail Sender Plus\u003c/li\u003e\n\u003cli\u003eIntelligent control of attachments at different levels via Mail Attachments Plus\u003c/li\u003e\n\u003cli\u003eIntelligent control of subject line with placeholders via Mail Subject Plus\u003c/li\u003e\n\u003c/ul\u003e\n"
     },
     {
         "title" : "First Steps",
