@@ -41,8 +41,7 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/registration/</guid>
-        <description>Erste Schritte Registrierung Um die Connector 365 E-POST App* zu nutzen ist eine vorherige Registrierung bei der Deutschen Post nötig. Die Seite zur Registrierung finden Sie hier aber auch direkt in der Connector 365 E-POST App.
-Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der Deutschen Post. Wenden Sie sich dafür einfach an service@belware.de.Im Formular für die Registrierung werden verschiedene Kontaktinformationen abgefragt. Füllen Sie das Formular aus, stellen Sie aber vorher sicher, dass Sie sich als Geschäftskunde registrieren.</description>
+        <description>Erste Schritte Registrierung als Geschäftskunde der Deutschen Post Um die Connector 365 E-POST App* zu nutzen, ist eine vorherige Registrierung bei der Deutschen Post nötig. Diese erfolgt in zwei Schritten: zum Einen die Registrierung als Geschäftskunde, um ein Kundenkonto bei der Deutschen Post zu erhalten, zum Anderen die Registrierung für die Nutzung der E-Post API an sich. Die Seite zur Registrierung als Geschäftskunde finden Sie hier, aber auch direkt in der Connector 365 E-POST App.</description>
       </item>
       
       <item>
