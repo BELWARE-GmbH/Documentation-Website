@@ -15,17 +15,6 @@
     
       
       <item>
-        <title>AppSource</title>
-        <link>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Sender Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
-      </item>
-      
-      <item>
         <title>OnPrem</title>
         <link>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
