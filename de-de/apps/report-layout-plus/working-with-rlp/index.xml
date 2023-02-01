@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbeiten mit Report Layout plus on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/</link>
+    <description>Recent content in Arbeiten mit Report Layout plus on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Berichtslayouts Übersteuern</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/override-report-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/override-report-layouts/</guid>
+        <description>Arbeiten mit Report Layout Plus Nachdem Sie in der Berichtslayoutauswahl die gewünschten Berichtslayout für die jeweiligen Bedingungen hinzugefügt haben, können Sie mit dem E-Mailversand oder Druck der Berichte beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Berichtslayoutauswahl finden.
+Für dieses Beispiel haben wir die Berichtslayouts im Rechnungsversand wie folgt eingerichtet:
+Das Standard-Berichtslayout wird also für den Sprachcode ENU durch das Layout mit dem Code MS-1306-EMAIL_RED ersetzt.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

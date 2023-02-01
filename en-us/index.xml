@@ -160,6 +160,17 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 Report Layout Plus. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -378,6 +389,19 @@ The Connector 365 PdfPaper App allows you to store your own stationery for each 
       
       <item>
         <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/introduction/</guid>
+        <description>First steps Introduction This app enables you to ovveride the default report layout depending on conditions that can be set up for each document type.
+The conditions can be defined by entering values that must be given for each field within the document.
+You can even combine multiple conditions to be met altogether.
+The setup can be easily done from within the report selection fo each department.
+After you completed the initial setup, every time a document will be output the defined report layout will be used instead of the default one.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -529,6 +553,17 @@ Default An address per user An address per report An address per customer This d
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Report Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
 For this example, we have set up the default attachments in invoice shipping as follows:
 In this example we have attached two PDFs and a time-limited image.</description>
+      </item>
+      
+      <item>
+        <title>Report Layout Selection</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/report-layout-selection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/report-layout-selection/</guid>
+        <description>Setup Report Layout Selection You can reach the setup of different report layouts through the particular report selection. Currently the following report selections are supported:
+Sales Purchase Reminder/Finance Charge After reaching the report selection you will find the field Report Layout Selection in the lines.
+The number there, shows how many different report layouts are setup for the specific report ID. By clicking the number you reach the Report Layout Selection.</description>
       </item>
       
       <item>
@@ -890,6 +925,19 @@ After downloading, the app can be tested free of charge for 30 days.
 In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
 Your costs:
 Monthly subscription incl. maintenance per environment with annual payment and term* 0,90€ Monthly Subscription incl. maintenance per environment with monthly payment and term* 1,20€ *The subscription is for one environment within a tenant.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
+The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
+If you like the app you order licenses using our order form.
+The licensing is based on the user count, regarding all users with either a TEam Member or Essentials license will be counted.
+order now</description>
       </item>
       
       <item>
@@ -1276,6 +1324,27 @@ Zum FormularIf you wish a test phase, you will receive the desired objects for 
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Report Layout Plus App from us by mail. In order to be able to use the App, they must first be published and then installed.
+Publishing of the Connector 365 Base &amp;amp; Report Layout Plus App the publishing of the Connector Base &amp;amp; Report Layout Plus App is done via the Business Central Administration Shell. First transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Report Layout App without obligation or to purchase it directly. For this we need some information from you.
+To the formThe app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
+If you like the app you order licenses using our order form.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1647,6 +1716,17 @@ After submitting your contact information, you will be prompted to choose a lang
       </item>
       
       <item>
+        <title>Installation</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/</guid>
+        <description>First steps Installation Use the search function to open the Marketplace for Extensions and open it.
+The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 Report Layout Plus. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app.</description>
+      </item>
+      
+      <item>
         <title>March</title>
         <link>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2019/march/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1666,6 +1746,17 @@ The Vendor Selection &amp;amp; Contact Selection pages built into the templates,
 New field Use PEPPOL in communication matrix.
 The new field allows you to specify which type of document PEPPOL is used for. Non/invoice/credit memo
 More information can be found in the corresponding documentation.</description>
+      </item>
+      
+      <item>
+        <title>Override Report Layouts</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/override-report-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/override-report-layouts/</guid>
+        <description>Working with Report Layout Plus After you set up the desired report layouts for the specific conditions, you can now start with the sending of emails or printing of reports. If you have not finished this you can got to First Steps an begin with the setup of the Report Layout Selection.
+For this example we set up the report layouts as follows:
+The default report layout for the language code ENU will be overridden by the layout with the code MS-1306-EMAIL_RED.</description>
       </item>
       
       <item>
@@ -2464,6 +2555,16 @@ Setup of the App </description>
         
         <guid>https://docs.belware.de/en-us/apps/pdfpaper/videos/</guid>
         <description>Videos Here you can find some informative videos about our PdfPaper app, each video covers a special topic</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/videos/</guid>
+        <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
+Using the App </description>
       </item>
       
       <item>

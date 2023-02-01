@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with Mail Attachments Plus on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/</link>
+    <description>Recent content in Working with Mail Attachments Plus on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Override Report Layouts</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/override-report-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/override-report-layouts/</guid>
+        <description>Working with Report Layout Plus After you set up the desired report layouts for the specific conditions, you can now start with the sending of emails or printing of reports. If you have not finished this you can got to First Steps an begin with the setup of the Report Layout Selection.
+For this example we set up the report layouts as follows:
+The default report layout for the language code ENU will be overridden by the layout with the code MS-1306-EMAIL_RED.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

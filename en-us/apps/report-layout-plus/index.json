@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Mail Attachments Plus on Connector 365 Online Help",
+    "description": "Recent content in Mail Attachments Plus on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/report-layout-plus/index.json",
+    "items" : [
+    {
+        "title" : "New and planned",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/report-layout-plus/new-and-planned/",
+        "url" : "https://docs.belware.de/en-us/apps/report-layout-plus/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1000---31012023\"\u003eVersion 1.0.0.0 - 31.01.2023\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFirst release\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "First Steps",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/",
+        "url" : "https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Working with Mail Attachments Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/",
+        "url" : "https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/report-layout-plus/videos/",
+        "url" : "https://docs.belware.de/en-us/apps/report-layout-plus/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic\u003c/p\u003e\n\u003ch4 id=\"using-the-app\"\u003eUsing the App\u003c/h4\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\n\u003ciframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/rTufnaeAYtw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\r\n\u003c/p\u003e"
+    }
+    ]
+}
