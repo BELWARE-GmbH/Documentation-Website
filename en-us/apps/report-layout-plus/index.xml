@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mail Attachments Plus on Connector 365 Online Help</title>
+    <title>Report Layout Plus on Connector 365 Online Help</title>
     <link>https://docs.belware.de/en-us/apps/report-layout-plus/</link>
-    <description>Recent content in Mail Attachments Plus on Connector 365 Online Help</description>
+    <description>Recent content in Report Layout Plus on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -33,22 +33,12 @@
       </item>
       
       <item>
-        <title>Working with Mail Attachments Plus</title>
-        <link>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/</link>
+        <title>Working with Report Layout Plus</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/</guid>
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/</guid>
         <description></description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>https://docs.belware.de/en-us/apps/report-layout-plus/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/videos/</guid>
-        <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
-Using the App </description>
       </item>
       
     

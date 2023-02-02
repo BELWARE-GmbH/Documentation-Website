@@ -933,8 +933,7 @@ Monthly subscription incl. maintenance per environment with annual payment and t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
+        <description>Test &amp;amp; purchase AppSource The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
 If you like the app you order licenses using our order form.
 The licensing is based on the user count, regarding all users with either a TEam Member or Essentials license will be counted.
 order now</description>
@@ -1750,10 +1749,10 @@ More information can be found in the corresponding documentation.</description>
       
       <item>
         <title>Override Report Layouts</title>
-        <link>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/override-report-layouts/</link>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/override-report-layouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/override-report-layouts/</guid>
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/override-report-layouts/</guid>
         <description>Working with Report Layout Plus After you set up the desired report layouts for the specific conditions, you can now start with the sending of emails or printing of reports. If you have not finished this you can got to First Steps an begin with the setup of the Report Layout Selection.
 For this example we set up the report layouts as follows:
 The default report layout for the language code ENU will be overridden by the layout with the code MS-1306-EMAIL_RED.</description>
@@ -2555,16 +2554,6 @@ Setup of the App </description>
         
         <guid>https://docs.belware.de/en-us/apps/pdfpaper/videos/</guid>
         <description>Videos Here you can find some informative videos about our PdfPaper app, each video covers a special topic</description>
-      </item>
-      
-      <item>
-        <title>Videos</title>
-        <link>https://docs.belware.de/en-us/apps/report-layout-plus/videos/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/videos/</guid>
-        <description>Videos Here you can find some informative videos about our Mail Attachments Plus App, each video covers a special topic
-Using the App </description>
       </item>
       
       <item>

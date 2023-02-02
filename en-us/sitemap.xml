@@ -898,21 +898,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/report-layout-plus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/report-layout-plus/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/mail-experience-plus/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1344,6 +1329,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-report/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/"
                 />
   </url>
   
@@ -3693,8 +3693,18 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/override-report-layouts/</loc>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/override-report-layouts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/override-report-layouts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/override-report-layouts/"
+                />
   </url>
   
   <url>
@@ -3998,11 +4008,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-map/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/mail-experience-plus/working-with-mep/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4044,6 +4049,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/pdfpaper/working-with-pdfpaper/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/"
                 />
   </url>
   
@@ -5174,21 +5194,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/pdfpaper/videos/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/videos/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/report-layout-plus/videos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/report-layout-plus/videos/"
                 />
   </url>
   
