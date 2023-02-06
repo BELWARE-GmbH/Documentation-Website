@@ -67,8 +67,8 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 E-POST zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die Connector 365 E-POST App zu wählen.</description>
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 E-POST zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert, eine Sprache für die Connector 365 E-POST App zu wählen.</description>
       </item>
       
       <item>
@@ -128,6 +128,17 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Report Layout Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -166,6 +177,17 @@ C365, Setup - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung
         <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf &amp;amp; Mahnung unterstützt.
 in der Berichtsauswahl finden Sie das neue Feld &amp;ldquo;E-Mail Betreff&amp;rdquo;, dieses können Sie nutzen um Ihren Betreff zu definieren. Dieser ist frei definierbar, jedoch statisch.
 Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalter festlegen.</description>
+      </item>
+      
+      <item>
+        <title>Berichtslayoutauswahl</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/report-layout-selection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/report-layout-selection/</guid>
+        <description>Einrichtung Berichtslayoutauswahl Die Einrichtung der abweichenden Berichtslayouts erreichen Sie über die jeweilige Berichtsauswahl. Zurzeit werden folgende Berichtsauswahlen unterstützt:
+Verkauf Einkauf Mahnung/Zinsrechnung In der Berichtsauswahl angelangt finden Sie in den Zeilen das Feld Berichtslayoutauswahl.
+Die dort zu sehende Zahl gibt an, wie viele abweichende Layouts für jeweilige Berichts-ID bereits eingerichtet sind. Durch Klick auf diese Zahl in diesem Feld gelangen Sie zur Berichtslayoutauswahl. Dort angelangt finden Sie die Übersicht der bereits hinterlegten abweichenden Berichtslayouts, sofern vorhanden.</description>
       </item>
       
       <item>
@@ -250,7 +272,7 @@ Feldbeschreibung &amp;lt;&amp;gt; Kein Rückmeldungsversand Immer Rückmeldung u
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
-        <description>Einrichtung E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Einrichtung&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden, hier setzen Sie alle nötigen Informationen um sicherzustellen, dass die App ohne Probleme funktioniert.
+        <description>Einrichtung E-POSTBUSINESS API Über die Suche unter &amp;ldquo;Connector 365 Einrichtung&amp;rdquo; können Sie die Einrichtung für die Connector 365 E-POST App* finden. Hier werden alle für eine korrekte Funktion notwendigen Daten eingetragen.
 Feld Beschreibung EKP Dies ist Ihre Kundennummer die Sie von der Deutschen Post erhalten haben. Geheimnis Das Geheimnis wird automatisch erstellt, nachdem Sie Ihr Passwort gesetzt haben. Passwort Hier steht Ihr verschlüsseltes Passwort. Belege in Jobliste speichern Legt fest ob versendete Dateien in der Jobliste archiviert werden.</description>
       </item>
       
@@ -281,7 +303,7 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/introduction/</guid>
-        <description>Erste Schritte Schneller hybrider Versand mit der Connector 365 E-POST App Der Bedarf an postalischen Belegempfang ist immer noch allgegenwärtig. Was heißt das für meine ERP Microsoft Dynamics 365 Business Central, die von überall nutzbar ist? Die Verarbeitung der Belege im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Prozess hinauszögern - ganz besonders dann, wenn der Ersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist. Je nach Menge der zu versendenden Belege kann dieser Prozess noch zeitaufwändiger werden - Zeit, die produktiver genutzt werden könnte.</description>
+        <description>Erste Schritte Schneller hybrider Versand mit der Connector 365 E-POST App Der Bedarf an postalischem Belegempfang ist immer noch allgegenwärtig. Was heißt das bei Nutzung des ERP Microsoft Dynamics 365 Business Central, mit dem auch mobiles Arbeiten möglich ist? Die Verarbeitung der Belege im traditionellen Sinn, also das Drucken, Kuvertieren, Frankieren und Einliefern bei der Post, kann den Arbeitsprozess hinauszögern - ganz besonders dann, wenn der Ersteller nicht &amp;ldquo;vor Ort&amp;rdquo; ist.</description>
       </item>
       
       <item>
@@ -350,6 +372,16 @@ Mit der Connector 365 Mail Subject Plus App ist es möglich, Ihre eigenen Standa
         <guid>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/introduction/</guid>
         <description>Erste Schritte Einleitung Mit der Connector 365 PdfPaper App bringen Sie Ihr hochwertiges Briefpapier mit Ihrer CI auf Ihre digitale Belege und das ohne aufwendige Reportanpassungen - diese fallen weg.
 Die Connector 365 PdfPaper App erlaubt Ihnen pro Bericht ein eigenes Briefpapier zu hinterlegen und darüber hinaus ebenfalls auch pro Debitor. Vor dem Versand Ihrer Belege können Sie noch per Vorschaufunktion das Endergebnis prüfen.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Die App Connector 365 Report Layouts Plus ermöglicht es Ihnen abweichende Berichtslayout für verschiedene Szenarien zu hinterlegen. Die Bedingungen, wann welches Berichtslayout verwendet werden soll, können Sie in Abhängigkeit der Feldwerte im Beleg beliebig definieren. So lassen sich bspw. für verschiedene Sprachcodes abweichende Berichtslayouts definieren.
+Die Funktionalität ergänzt hier die Layoutauswahl des Standards um eine zusätzliche Prioritätsebene. Sollte die von Ihnen definierte Bedingung zutreffen wird das abweichende Layout verwendet, ansonsten greift das Standardberichtslayout.</description>
       </item>
       
       <item>
@@ -605,7 +637,7 @@ Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Ve
         <guid>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
         <description>Arbeiten mit der Connector 365 E-POST App Versand Mit unserer Connector 365 E-POST App* können Sie Geb. Verkaufsrechnungen, Geb. Verkaufsgutschriften, Reg. Mahnungen, Verkaufsangebote und Verkaufsaufträge versenden. In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
-Die Funktion zum versenden von postalischen Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste.</description>
+Die Funktion zum Versenden von postalischen Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste.</description>
       </item>
       
       <item>
@@ -775,7 +807,9 @@ Aktionen Mailen Mit dieser Aktion versenden Sie die E-Mail. PDF Mit dieser Aktio
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die Connector 365 Addressee Control App steht Ihnen in der Microsoft AppSource zur Verfügung.
-Nachdem die Connector 365 Addressee Control App installiert wurde, haben Sie die Möglichkeit, sofort loszulegen und die App kostenlos zu nutzen. In der kostenlosen Version sind Sie jedoch auf eine einzigen Benutzer in der Einrichtung limitiert. Außerhalb dieser Limitation können Sie die Optionen der Connector 365 CTI for STARFACE App jedoch voll nutzen.</description>
+Nachdem die Connector 365 Addressee Control App installiert wurde, haben Sie die Möglichkeit, sofort loszulegen und die App in vollem Umfang für 30 Tage kostenlos zu nutzen.
+Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.</description>
       </item>
       
       <item>
@@ -847,10 +881,11 @@ Zum FormularConnector 365 XRechnung steht Ihnen für die folgende BC Lizensieru
         
         <guid>https://docs.belware.de/de-de/apps/mail-experience-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach dem Download kann ein Nutzer die App komplett frei benutzen.
-Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
+Die einzelnen Apps haben einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
+Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
 Ihre Kosten:
-Monatliche Subscription mit jährlicher Abrechnung inkl. Wartung* 2,50€/Nutzer Monatliche Subscription mit monatlicher Abrechnung inkl. Wartung* 3,25€/Nutzer Preisänderungen bei Funktionserweiterungen beahlten wir uns vor.</description>
+Monatliche Subscription mit jährlicher Abrechnung inkl.</description>
       </item>
       
       <item>
@@ -864,6 +899,18 @@ Nach dem Download kann die App 30 Tage kostenlos getestet werden.
 Für den Fall, dass weitere Nutzer die Funktionen der App nutzen sollen, können Sie über unser Formular kostenpflichtig weitere Lizenzen erwerben.
 Ihre Kosten:
 Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und Laufzeit* 0,90€ Monatliche Subscription inkl. Wartung pro Umgebung bei monatlicher Zahlung und Laufzeit* 1,20€ *Das Abo bezieht sich auf eine Umgebungs innerhalb eines Tenant.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
+Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Zur Bestellung</description>
       </item>
       
       <item>
@@ -885,7 +932,7 @@ Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und L
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</guid>
-        <description>Arbeiten mit der Connector 365 E-POST App Archiv Nachdem Versand der Belege können Sie den Versand-Status an verschiedenen Stellen Dynamics 365 Business Central prüfen:
+        <description>Arbeiten mit der Connector 365 E-POST App Archiv Nach dem Versand der Belege können Sie den Versandstatus an verschiedenen Stellen in Dynamics 365 Business Central prüfen:
 Im Factbox-Bereich der Belege finden Sie die &amp;ldquo;Connector 365 Aktivitäten&amp;rdquo;. Dort finden Sie die Kurzübersicht zu jedem einzelnen Vorgang. Diese Factbox finden Sie sowohl in der Übersicht als auch in der Karte der jeweiligen Belege.
 Durch Klicken des Feldes &amp;ldquo;Angenommen um&amp;rdquo; gelangen Sie in zur vollständigen Übersicht.</description>
       </item>
@@ -975,8 +1022,8 @@ Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/reportselection/</guid>
-        <description>Einrichtung Berichtsauswahl Vor dem ersten Versand, muss in der Berichtsauswahl ausgewählt werden, welche Berichte für den E-POST Versand verwendet werden sollen. Aktuell gibt es diese Möglichkeit in &amp;ldquo;Berichtsauswahl Verkauf&amp;rdquo; und &amp;ldquo;Berichtsauswahl Mahnung&amp;rdquo;
-Nur Berichte bei denen der Haken in der Option &amp;ldquo;Für E-POST verwenden&amp;rdquo; gesetzt ist, werden berücksichtigt.</description>
+        <description>Einrichtung Berichtsauswahl Vor dem ersten Versand muss in der Berichtsauswahl ausgewählt werden, welche Berichte für den E-POST Versand verwendet werden sollen. Aktuell gibt es diese Möglichkeit in &amp;ldquo;Berichtsauswahl Verkauf&amp;rdquo; und &amp;ldquo;Berichtsauswahl Mahnung&amp;rdquo;
+Nur Berichte, bei denen der Haken in der Option &amp;ldquo;Für E-POST verwenden&amp;rdquo; gesetzt ist, werden berücksichtigt.</description>
       </item>
       
       <item>
@@ -1162,6 +1209,19 @@ Veröffentlichen der Connector 365 Base &amp;amp; Addresse Control App Das verö
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit, unsere Connector 365 Addressee Control App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die nötigen Apps für einen Testzeitraum von 30 Tagen.
+Wünschen Sie einen sofortigen Kauf, erhalten Sie von uns die dazu nötigen Apps.
+Ihre Kosten:
+Kauflizenz + 18% Wartung/Jahr Monatliche Subscription inkl.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1186,8 +1246,8 @@ Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem Sie erhalten von uns die Dateien für die Apps Connector 365 Base &amp;amp; Connector 365 E-POST* App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; E-POST App Das veröffentlichen der Connector 365 Base &amp;amp; E-POST App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+        <description>Installation OnPrem Sie erhalten von uns die Dateien für die Apps Connector 365 Base &amp;amp; Connector 365 E-POST* App per Mail. Damit Sie die Apps nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Apps Connector 365 Base &amp;amp; E-POST Das Veröffentlichen der Apps Connector 365 Base &amp;amp; E-POST erfolgt über die Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server, auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
@@ -1196,7 +1256,7 @@ Veröffentlichen der Connector 365 Base &amp;amp; E-POST App Das veröffentliche
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 E-POST App* unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit, unsere Connector 365 E-POST App* unverbindlich vorab zu testen oder auch direkt zu erwerben. Hierfür benötigen wir einige Informationen von Ihnen.
 Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
@@ -1338,6 +1398,26 @@ Veröffentlichen der Connector 365 Base &amp;amp; PdfPaper App Das veröffentlic
         <guid>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 PdfPaper App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
 Zum FormularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Report Layout Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Report Layout Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Report Layout Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 Report Layout Plus App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zur BestellungDie App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen. Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.</description>
       </item>
       
       <item>
@@ -1506,9 +1586,10 @@ Sie werden bemerken, dass die angemahnten Rechnungen automatisch an die Mahnung 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mail-experience-plus/working-with-mep/</guid>
-        <description>Arbeiten mit Mail Experience Plus Die Connector 365 Mail Experience Plus App verbindet die 3 Apps aus unserer Mail Plus-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche verwenden.
+        <description>Einrichten der einzelnen Module Die Connector 365 Mail Experience Plus App verbindet die 3 Apps aus unserer Mail Plus-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche einrichten.
 Bereich Mail Subject Plus Der Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Betreffzeilen je Bericht oder Debitor hinzuzufügen. Dabei unterstützen Sie Platzhalter um eigene Inhalte zu definieren.
-Verwendung Subject</description>
+Einrichtung Subject
+Bereich Mail Attachments Plus Mit Mail Attachments Plus können Sie Ihre Mail-Anhänge auf verschiedenen Ebenen steuern und Anhänge festlegen, welche standardmäßig immer bei Versand an bestimmte Berichte angehängt werden.</description>
       </item>
       
       <item>
@@ -1527,12 +1608,12 @@ Sobald sich der Dialog öffnet, wird Ihnen das neue &amp;ldquo;E-Mail Sender&amp
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/automated-feedback/</guid>
-        <description>Einrichtung Automatisierte Rückmeldungen Neben der manuellen Statusabfrage zu E-POST-Vorgänge, gibt es auch die Möglichkeit die Statusabfrage zu automatisieren.
+        <description>Einrichtung Automatisierte Rückmeldungen Neben der manuellen Statusabfrage zu E-POST-Vorgängen gibt es auch die Möglichkeit, die Statusabfrage zu automatisieren.
 Hierzu gibt es einen bereits vorkonfigurierten Aufgabenwarteschlangenposten.
-Die vorkonfigurierten Einstellungen können Sie nach belieben anpassen.
+Die vorkonfigurierten Einstellungen können Sie nach Belieben anpassen.
 Über die Suche gelangen Sie zu den &amp;ldquo;Aufgabenwarteschlangenposten&amp;rdquo;.
 Durch Doppelklick auf die Zeile gelangen Sie in die Einstellung des entsprechenden Warteschlangenpostens.
-Um hier Anpassungen vorzunehmen müssen Sie zunächst den Aufgabenwarteschlangenposten auf &amp;ldquo;Abwarten&amp;rdquo; setzen.</description>
+Um hier Anpassungen vorzunehmen, müssen Sie zunächst den Aufgabenwarteschlangenposten auf &amp;ldquo;Abwarten&amp;rdquo; setzen.</description>
       </item>
       
       <item>
@@ -1583,6 +1664,17 @@ Aktionenbeschreibung Bodytext/SMS Bodytext
 Anhangsdatei 1 - 4 Über diese Aktionen kann das gewünschte Dokument angezeigt werden. Briefpapier Client/Server
 Briefpapier für den Vorgang Ausdruck
 Client/Server Über diese Aktionen kann das Briefpapier angezeigt werden.</description>
+      </item>
+      
+      <item>
+        <title>Berichtslayouts Übersteuern</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/override-report-layouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/override-report-layouts/</guid>
+        <description>Arbeiten mit Report Layout Plus Nachdem Sie in der Berichtslayoutauswahl die gewünschten Berichtslayout für die jeweiligen Bedingungen hinzugefügt haben, können Sie mit dem E-Mailversand oder Druck der Berichte beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Berichtslayoutauswahl finden.
+Für dieses Beispiel haben wir die Berichtslayouts im Rechnungsversand wie folgt eingerichtet:
+Das Standard-Berichtslayout wird also für den Sprachcode ENU durch das Layout mit dem Code MS-1306-EMAIL_RED ersetzt.</description>
       </item>
       
       <item>

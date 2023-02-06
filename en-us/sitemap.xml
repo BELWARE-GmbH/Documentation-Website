@@ -218,6 +218,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -728,6 +743,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/introduction/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1063,6 +1093,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/new-and-planned/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/new-and-planned/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1284,6 +1329,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-report/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/report-layout-selection/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/report-layout-selection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/report-layout-selection/"
                 />
   </url>
   
@@ -1943,6 +2018,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/appsource/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/appsource/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/appsource/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/appsource/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2318,6 +2408,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/html-word/link_pics/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2653,6 +2758,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2919,6 +3054,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/"
                 />
   </url>
   
@@ -3478,6 +3628,26 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3519,6 +3689,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/march/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/override-report-layouts/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/override-report-layouts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/override-report-layouts/"
                 />
   </url>
   
@@ -3864,6 +4049,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/pdfpaper/working-with-pdfpaper/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/working-with-rlp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/"
                 />
   </url>
   
@@ -4389,6 +4589,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/"
                 />
   </url>
   

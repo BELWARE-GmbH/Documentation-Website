@@ -38,9 +38,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mail-experience-plus/working-with-mep/</guid>
-        <description>Arbeiten mit Mail Experience Plus Die Connector 365 Mail Experience Plus App verbindet die 3 Apps aus unserer Mail Plus-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche verwenden.
+        <description>Einrichten der einzelnen Module Die Connector 365 Mail Experience Plus App verbindet die 3 Apps aus unserer Mail Plus-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche einrichten.
 Bereich Mail Subject Plus Der Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Betreffzeilen je Bericht oder Debitor hinzuzufügen. Dabei unterstützen Sie Platzhalter um eigene Inhalte zu definieren.
-Verwendung Subject</description>
+Einrichtung Subject
+Bereich Mail Attachments Plus Mit Mail Attachments Plus können Sie Ihre Mail-Anhänge auf verschiedenen Ebenen steuern und Anhänge festlegen, welche standardmäßig immer bei Versand an bestimmte Berichte angehängt werden.</description>
       </item>
       
       <item>

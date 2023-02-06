@@ -22,7 +22,7 @@
         <guid>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
         <description>Arbeiten mit der Connector 365 E-POST App Versand Mit unserer Connector 365 E-POST App* können Sie Geb. Verkaufsrechnungen, Geb. Verkaufsgutschriften, Reg. Mahnungen, Verkaufsangebote und Verkaufsaufträge versenden. In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
-Die Funktion zum versenden von postalischen Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste.</description>
+Die Funktion zum Versenden von postalischen Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste.</description>
       </item>
       
       <item>
@@ -31,7 +31,7 @@ Die Funktion zum versenden von postalischen Briefen finden Sie unter &amp;ldquo;
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/archive/</guid>
-        <description>Arbeiten mit der Connector 365 E-POST App Archiv Nachdem Versand der Belege können Sie den Versand-Status an verschiedenen Stellen Dynamics 365 Business Central prüfen:
+        <description>Arbeiten mit der Connector 365 E-POST App Archiv Nach dem Versand der Belege können Sie den Versandstatus an verschiedenen Stellen in Dynamics 365 Business Central prüfen:
 Im Factbox-Bereich der Belege finden Sie die &amp;ldquo;Connector 365 Aktivitäten&amp;rdquo;. Dort finden Sie die Kurzübersicht zu jedem einzelnen Vorgang. Diese Factbox finden Sie sowohl in der Übersicht als auch in der Karte der jeweiligen Belege.
 Durch Klicken des Feldes &amp;ldquo;Angenommen um&amp;rdquo; gelangen Sie in zur vollständigen Übersicht.</description>
       </item>

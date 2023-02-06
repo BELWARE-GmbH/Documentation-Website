@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Report Layout Plus on Connector 365 Online Help",
+    "description": "Recent content in Report Layout Plus on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/report-layout-plus/index.json",
+    "items" : [
+    {
+        "title" : "New and planned",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/report-layout-plus/new-and-planned/",
+        "url" : "https://docs.belware.de/en-us/apps/report-layout-plus/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1000---31012023\"\u003eVersion 1.0.0.0 - 31.01.2023\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFirst release\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "First Steps",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/",
+        "url" : "https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Working with Report Layout Plus",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/",
+        "url" : "https://docs.belware.de/en-us/apps/report-layout-plus/working-with-rlp/",
+        "content_html" : ""
+    }
+    ]
+}

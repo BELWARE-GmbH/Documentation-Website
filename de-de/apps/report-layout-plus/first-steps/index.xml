@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erste Schritte on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/</link>
+    <description>Recent content in Erste Schritte on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Die App Connector 365 Report Layouts Plus ermöglicht es Ihnen abweichende Berichtslayout für verschiedene Szenarien zu hinterlegen. Die Bedingungen, wann welches Berichtslayout verwendet werden soll, können Sie in Abhängigkeit der Feldwerte im Beleg beliebig definieren. So lassen sich bspw. für verschiedene Sprachcodes abweichende Berichtslayouts definieren.
+Die Funktionalität ergänzt hier die Layoutauswahl des Standards um eine zusätzliche Prioritätsebene. Sollte die von Ihnen definierte Bedingung zutreffen wird das abweichende Layout verwendet, ansonsten greift das Standardberichtslayout.</description>
+      </item>
+      
+      <item>
+        <title>Test &amp; Kauf</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/</guid>
+        <description>Testen und kaufen der Connector 365 Report Layout Plus App Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Report Layout Plus App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/</guid>
+        <description>Installation der Connector 365 Report Layout Plus App Hier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Report Layout Plus App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
