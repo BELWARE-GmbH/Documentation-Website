@@ -100,7 +100,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Sender Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Attachments Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -134,6 +134,17 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Report Layout Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 SMTP2FAX zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -734,6 +745,17 @@ Des Weiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weiter
       </item>
       
       <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/introduction/</guid>
+        <description>Einleitung Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.
+Voraussetzung ist, dass Sie einen Fax-Server betreiben, den Sie für den Versand adressieren können. Dann wird durch diese App der zu versendende Bericht zunächst als E-Mail erstellt, die dann per SMTP an den Fax-Server gesendet wird. Von dort aus wird die ursprüngliche E-Mail dann als Fax zugestellt.
+In der ersten Version von SMTP2FAX ist die Funktionalität verfügbar für die Seiten:</description>
+      </item>
+      
+      <item>
         <title>Gebuchte Verkaufsrechnungen</title>
         <link>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
@@ -907,10 +929,23 @@ Monatliche Subscription inkl. Wartung pro Umgebung bei jährlicher Zahlung und L
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Die App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
 Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
 Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
 Zur Bestellung</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
+Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt je Produktivumgebung. In einer Lizenz enthalten sind zusätzlich 3 Sanbox-Umgebungen.
+Zum Formular</description>
       </item>
       
       <item>
@@ -1422,6 +1457,18 @@ Zur BestellungDie App hat einen Testzeitraum von 30 Tagen, ab der ersten Instal
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 SMTP2FAX App unverbindlich vorab zu testen oder auch direkt zu erwerben. Hier für benötigen wir einige Informationen von Ihnen.
+Zum FormularDie App hat einen Testzeitraum von 30 Tagen, ab der ersten Installation. Innerhalb dieses Zeitraums können Sie die Apps in vollem Umfang nutzen.
+Wenn Ihnen die App gefällt können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt je Produktivumgebung.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1507,17 +1554,6 @@ Klicken Sie nun auf den Knopf für einen E-Mail Versand. Nun haben Sie schon die
         <description>CTI for STARFACE in der Connector 365 Einrichtung Um die App Connector 365 CTI for STARFACE einzurichten, nutzen Sie zunächst die Suchfunktion von Business Central und öffnen die Connector 365 Einrichtung. Dort finden Sie die Rubrik CTI for STARFACE Einrichtung.
 An dieser Stelle können globale Einstellungen für die Funktionsweise der App vorgenommen werden.
 Über das Feld CTI-Seite öffnen kann gewählt werden, ob bei Anrufen das CTI-Fenster geöffnet wird und für welche Anrufrichtung dies gelten soll: eingehend, ausgehend oder beide Richtungen.</description>
-      </item>
-      
-      <item>
-        <title>Einleitung</title>
-        <link>https://docs.belware.de/de-de/apps/smtp2fax/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/smtp2fax/introduction/</guid>
-        <description>Einleitung Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.
-Voraussetzung ist, dass Sie einen Fax-Server betreiben, den Sie für den Versand adressieren können. Dann wird durch diese App der zu versendende Bericht zunächst als E-Mail erstellt, die dann per SMTP an den Fax-Server gesendet wird. Von dort aus wird die ursprüngliche E-Mail dann als Fax zugestellt.
-In der ersten Version von SMTP2FAX ist die Funktionalität verfügbar für die Seiten:</description>
       </item>
       
       <item>

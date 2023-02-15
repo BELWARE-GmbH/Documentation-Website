@@ -15,14 +15,25 @@
     
       
       <item>
-        <title>Installation</title>
-        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        <title>Test &amp; Kauf</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/test-purchase/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/</guid>
-        <description>Installation der Connector 365 SMTP2FAX App Hier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 SMTP2FAX App.
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/test-purchase/</guid>
+        <description>Testen und kaufen der Connector 365 SMTP2FAX App Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 SMTP2FAX App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/introduction/</guid>
+        <description>Einleitung Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.
+Voraussetzung ist, dass Sie einen Fax-Server betreiben, den Sie für den Versand adressieren können. Dann wird durch diese App der zu versendende Bericht zunächst als E-Mail erstellt, die dann per SMTP an den Fax-Server gesendet wird. Von dort aus wird die ursprüngliche E-Mail dann als Fax zugestellt.
+In der ersten Version von SMTP2FAX ist die Funktionalität verfügbar für die Seiten:</description>
       </item>
       
       <item>
@@ -32,6 +43,17 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
         
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/setup/</guid>
         <description>Einrichtung der Connector 365 SMTP2FAX App Hier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 SMTP2FAX App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/</guid>
+        <description>Installation der Connector 365 SMTP2FAX App Hier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 SMTP2FAX App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
       </item>

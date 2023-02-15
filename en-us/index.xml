@@ -171,6 +171,17 @@ After submitting your contact information, you will be prompted to choose a lang
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 SMTP2FAX. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -756,6 +767,15 @@ Please return at a later date, when we will have added further informative conte
       </item>
       
       <item>
+        <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</guid>
+        <description>Introduction For cases in which you want to send created reports as a fax, this app offers a solution. The prerequisite is that you operate a fax server that you can address for sending. Then this app first creates the report to be sent as an email, which is then sent to the fax server via SMTP. From there, the original email is then delivered as a fax. In the first version of SMTP2FAX, the functionality is available for the pages:</description>
+      </item>
+      
+      <item>
         <title>Posted Sales Invoices</title>
         <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
@@ -933,9 +953,22 @@ Monthly subscription incl. maintenance per environment with annual payment and t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; purchase AppSource The app is available on Microsoft AppSource.
+The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
+If you like the app you order licenses using our order form.
+The licensing is based on the user count, regarding all users with either a Team Member or Essentials license will be counted.
+order now</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
 If you like the app you order licenses using our order form.
-The licensing is based on the user count, regarding all users with either a TEam Member or Essentials license will be counted.
+The licensing is made per production environment. 3 additional sandbox environment are encluded as well.
 order now</description>
       </item>
       
@@ -1344,6 +1377,18 @@ If you like the app you order licenses using our order form.</description>
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 SMTP2FAX App without obligation or to purchase it directly. For this we need some information from you.
+To the formThe app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
+If you like the app you order licenses using our order form.
+The licensing is made per production environment.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1537,15 +1582,6 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
         <description>Working with the PdfPaper App Using the stationery Once stored, the stationery is automatically remembered when PDFs are created. In doing so, we support any operation where a PDF is provided.
 We support the following reports
 Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order Blanket sales order Post. sales invoice Sales purchase invoice Post. sales credit memo Post. purchase credit memo Reg. Reminder Our other apps that involve PDF creation also support the Connector 365 PdfPaper app:</description>
-      </item>
-      
-      <item>
-        <title>Introduction</title>
-        <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</guid>
-        <description>Introduction For cases in which you want to send created reports as a fax, this app offers a solution. The prerequisite is that you operate a fax server that you can address for sending. Then this app first creates the report to be sent as an email, which is then sent to the fax server via SMTP. From there, the original email is then delivered as a fax. In the first version of SMTP2FAX, the functionality is available for the pages:</description>
       </item>
       
       <item>

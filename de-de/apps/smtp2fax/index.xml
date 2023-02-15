@@ -15,14 +15,15 @@
     
       
       <item>
-        <title>Einleitung</title>
-        <link>https://docs.belware.de/de-de/apps/smtp2fax/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        <title>Neu und geplant</title>
+        <link>https://docs.belware.de/de-de/apps/smtp2fax/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/smtp2fax/introduction/</guid>
-        <description>Einleitung Für Fälle, in denen Sie erstellte Berichte per Fax zustellen wollen, bietet diese App eine Lösung.
-Voraussetzung ist, dass Sie einen Fax-Server betreiben, den Sie für den Versand adressieren können. Dann wird durch diese App der zu versendende Bericht zunächst als E-Mail erstellt, die dann per SMTP an den Fax-Server gesendet wird. Von dort aus wird die ursprüngliche E-Mail dann als Fax zugestellt.
-In der ersten Version von SMTP2FAX ist die Funktionalität verfügbar für die Seiten:</description>
+        <guid>https://docs.belware.de/de-de/apps/smtp2fax/new-and-planned/</guid>
+        <description>Neu und geplant Neue und geplante Features der Connector 365 SMTP2FAX App Hier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 SMTP2FAX App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.
+Version 1.0.0.0 - 08.02.2023 Erste Veröffentlichung </description>
       </item>
       
       <item>
