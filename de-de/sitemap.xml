@@ -488,6 +488,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-post/developer-docu/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/developer-docu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/developer-docu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-post/developer-docu/sending-external-documents/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/developer-docu/sending-external-documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/developer-docu/sending-external-documents/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-post/first-steps/setup/epostbusiness-api/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3320,6 +3350,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/"
+                />
   </url>
   
   <url>

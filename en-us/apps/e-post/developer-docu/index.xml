@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-POST on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/e-post/developer-docu/</link>
+    <description>Recent content in E-POST on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/e-post/developer-docu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Sending external Documents</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/developer-docu/sending-external-documents/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/developer-docu/sending-external-documents/</guid>
+        <description>Sending external Documents If you want to send external documents from Business Central using the App, because for instance you want to use the contact data from Business Central, you can easily implement the function call by yourself.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 codeunit 50200 EPostApiExt { trigger OnRun() var Contact: Record Contact; DocumentAttachment: Record &amp;#34;Document Attachment&amp;#34;; EPostAPI: Codeunit &amp;#34;BEL365 E-POST Api&amp;#34;; LetterFileTempBlob: Codeunit &amp;#34;Temp Blob&amp;#34;; ContactDataJson: JsonObject; DocNo: Code[20]; DocumentTypes: Enum &amp;#34;BEL365 Document Types&amp;#34;; OStream: OutStream; begin // Fill document no and document type if letter document is linked to an existing document within Business Central, otherwise leave this empty DocNo := &amp;#39;10000&amp;#39;; DocumentTypes := DocumentTypes::&amp;#34;Posted Sales Invoice&amp;#34;; // Fill TempBlob Codeunit with a document that was previsouly imported to Business Central DocumentAttachment.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -15,13 +15,23 @@
     
       
       <item>
+        <title>E-POST</title>
+        <link>https://docs.belware.de/de-de/apps/e-post/developer-docu/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-post/developer-docu/</guid>
+        <description>Connector 365 E-POST Entwicklerdokumentation Als Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unserer App eigenhändig vornehmen können.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
         <title>Neu und geplant</title>
         <link>https://docs.belware.de/de-de/apps/e-post/new-and-planned/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Erweiterungen der Sendungsstatus-Informationen Bearbeitungsstatus im Zielgebiet FrankierID Vereinfachung für &amp;lsquo;Einschreiben Rückschein&amp;rsquo; Version 2.3.0.0 - 19.01.2023 Integration der Connector 365 Berechtigungssätze View, Edit und Setup. Fehlerkorrekturen:
-Korrektur des Datumfilters der Statuskacheln im Rollencenter. Die Absenderadresse wird nun korrekt aus den Firmendaten übernommen. Version 2.2.0.0 - 06.01.2023 Implementierung der neuen Lizenzprüfung.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Weitere Belegarten Geb. Service-Rechnungen Geb. Service-Gutschriften Erweiterungen der Sendungsstatus-Informationen Bearbeitungsstatus im Zielgebiet FrankierID Vereinfachung für &amp;lsquo;Einschreiben Rückschein&amp;rsquo; Version 2.4.0.0 - 16.02.2023 Funktion zum Versand von externen Dokumenten hinzugefügt Version 2.3.1.0 - 15.02.2023 Hotfix: Notwendige Anpassungen an die zu E-Post-API übertragenen Daten Format aufgrund von Änderungen der E-Post-Api-Schnittstelle
+-&amp;gt; Korrigiert Meldung über fehlerhafte Konvertierung von Daten Version 2.</description>
       </item>
       
       <item>
