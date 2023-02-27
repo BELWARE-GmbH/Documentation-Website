@@ -186,8 +186,8 @@ C365, Setup - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung
         
         <guid>https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/</guid>
         <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf &amp;amp; Mahnung unterstützt.
-in der Berichtsauswahl finden Sie das neue Feld &amp;ldquo;E-Mail Betreff&amp;rdquo;, dieses können Sie nutzen um Ihren Betreff zu definieren. Dieser ist frei definierbar, jedoch statisch.
-Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalter festlegen.</description>
+In der Berichtsauswahl finden Sie das Feld &amp;ldquo;Betreff&amp;rdquo;, durch Klicken des Feldes gelangen Sie zur Seite E-Mail-Betreff.
+Hier können Sie nun je Sprachcode einen beliebigen Betreff definieren. Über die [&amp;hellip;]-Schaltfläche im Feld Betrefftext gelangen Sie zur Seite E-Mail-Betreff-Platzhalter, welche es Ihnen zusätzlich ermöglicht dynamische Platzhalter zu definieren.</description>
       </item>
       
       <item>
