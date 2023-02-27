@@ -15,13 +15,23 @@
     
       
       <item>
+        <title>E-POST</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/developer-docu/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/developer-docu/</guid>
+        <description>Connector 365 E_POST Entwicklerdokumentation Als Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unserer App eigenhändig vornehmen können.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
         <title>New and Planned</title>
         <link>https://docs.belware.de/en-us/apps/e-post/new-and-planned/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/</guid>
-        <description>New and planned Planned functions for future versions Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos) Pos. service invoices Pos. service credit memos Version 2.3.0.0 - 19.01.2023 Integration of Connector 365 permission sets View, Edit und Setup. Corrections:
-Correction of the date filter of status cues in the role center. The sender address will be correctly taken from the company information from now on. Version 2.</description>
+        <description>New and planned Planned functions for future versions Reactivation of negative jobs Contacts editable in dialog Other report types (service invoices/credit memos) Pos. service invoices Pos. service credit memos Version 2.4.0.0 - 16.02.2023 Added function for sending of external documents Version 2.3.1.0 - 15.02.2023 Hotfix: Necessary adjustments to the data format transferred to E-Post-API due to changes in the E-Post-Api interface.
+-&amp;gt; Corrects message about incorrect conversion of data Version 2.</description>
       </item>
       
       <item>

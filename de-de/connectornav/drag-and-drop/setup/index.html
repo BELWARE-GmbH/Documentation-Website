@@ -4962,15 +4962,17 @@ Anschließend können Sie auf einer beliebigen Card Page im Bereich FactBoxArea 
 <p><p class="md__image">
   <img src="/images/connectornav/dragdrop/einr5.png" alt=""  />
 </p></p>
-<p>Schreiben Sie auf der gleichen Page im trigger „OnAfterGetCurrRecord“ am Ende des trigger den folgenden Code:</p>
-<pre tabindex="0"><code>
-//&gt;&gt;DragDropEVN Start
+<p>Schreiben Sie auf der gleichen Page folgenden Code am Ende der entsprechenden Trigger:</p>
+<pre tabindex="0"><code>OnNewRecord(BelowxRec : Boolean)
+CurrPage.DragAndDrop.PAGE.SetRecordID(Rec.RECORDID);
+CurrPage.DragAndDrop.PAGE.SetFilterRecordID(Rec.RECORDID);
 
-CurrPage.DragAndDrop.PAGE.SetRecordPage(RECORDID);
+OnInsertRecord(BelowxRec : Boolean) : Boolean
+CurrPage.UPDATE(FALSE);
 
-CurrPage.DragAndDrop.PAGE.RefreshPage();
-
-//&lt;&lt;DragDropEVN End
+OnAfterGetCurrRecord()
+CurrPage.DragAndDrop.PAGE.SetRecordID(Rec.RECORDID);
+CurrPage.DragAndDrop.PAGE.SetFilterRecordID(Rec.RECORDID);
 </code></pre><p>Speichern und kompilieren Sie das Objekt.<br />
 Nachdem Sie das Objekt gespeichert und kompiliert haben, sind Sie fertig.</p>
 

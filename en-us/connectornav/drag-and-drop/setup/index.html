@@ -5046,12 +5046,18 @@ After that you can create a new part on any Card Page in the FactBoxArea area wh
 <p><p class="md__image">
   <img src="/images/connectornav/dragdrop/einr5.png" alt=""  />
 </p></p>
-<p>On the same Page, in the &ldquo;OnAfterGetCurrRecord&rdquo; trigger at the end of the trigger, write the following code:</p>
-<p>//&gt;&gt;DragDropEVN Start</p>
-<p>CurrPage.DragAndDrop.PAGE.SetRecordPage(RECORDID);</p>
-<p>CurrPage.DragAndDrop.PAGE.RefreshPage();</p>
-<p>//&lt;&lt;DragDropEVN End</p>
-<p>Save and compile the object.<br />
+<p>On the same Page add the following code to the end of each mentioned trigger:</p>
+<pre tabindex="0"><code>OnNewRecord(BelowxRec : Boolean)
+CurrPage.DragAndDrop.PAGE.SetRecordID(Rec.RECORDID);
+CurrPage.DragAndDrop.PAGE.SetFilterRecordID(Rec.RECORDID);
+
+OnInsertRecord(BelowxRec : Boolean) : Boolean
+CurrPage.UPDATE(FALSE);
+
+OnAfterGetCurrRecord()
+CurrPage.DragAndDrop.PAGE.SetRecordID(Rec.RECORDID);
+CurrPage.DragAndDrop.PAGE.SetFilterRecordID(Rec.RECORDID);
+</code></pre><p>Save and compile the object.<br />
 After you save and compile the object, you are done.</p>
 
   </article>
