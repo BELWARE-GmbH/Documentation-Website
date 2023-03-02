@@ -20,12 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.4.0.0 - 16.02.2023 Aufrufen des Aufrufstapels für fehlerhafte Easy Batch Aufgaben. Version 2.3.0.0 - 06.01.2023 Implementierung der neuen Lizenzprüfung:
-Ab sofort werden alle Business Central Nutzer der Produktivumgebung zur Lizenzierung berücksichtigt und abgrechnet.
-Einkaufsbereich um Einkaufsanfragen erweitert.
-Automatisierter Versand für Einkaufsbestellungen und Einkaufsanfragen.
-Fehlerkorrektur beim Setzen des E-Mailabsenders.
-Der E-mailabsender wurde für die einzelnen Szenarios nicht korrekt gesetzt.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.5.0.0 - 02.03.2023 Sofortige Information beim Auführen der Aktion Als Stapel senden, dass die Belege zur Verarbeitung eingestellt wurden. Sofortige Information beim Wiederholen von Aufgaben, dass die selektierten Aufgaben wiederholt werden. E-Mailrückmeldungen bei fehlerhaften Versand sind nun in den Connector 365 Aktivitäten zu sehen. Belege werden nur noch in den Connector 365 Aktivitäten gespeichert, wenn dies in der Basis-Einrichtung angehakt ist.</description>
       </item>
       
       <item>
