@@ -20,10 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-batch/new-and-planned/</guid>
-        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.4.0.0 - 16.02.2023 Compatibility with Connector 365 SMTP2FAX App View callstack for failed Easy Batch tasks Version 2.3.0.0 - 06.01.2023 Implementation of new license check:
-From now on all Business Central users within the production environment will be considerd for licensing and billing.
-Extended purchasing department with purchase quotes.
-Autamted processing of purchase orders and purchadse quotes.</description>
+        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.5.0.0 - 02.03.2023 Immediate information that the documents are enqueued for processing, when executing the action Send via Batch. Immediate information that the selected tasks are enqueued for retry, when tasks are retried. Email status for failed dispatch can now be viewed in Connector 365 Activities. Documents will now only be saved in Connector 365 Activities, when this setting is checked in Base Setup.</description>
       </item>
       
       <item>

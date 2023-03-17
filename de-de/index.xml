@@ -186,8 +186,8 @@ C365, Setup - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung
         
         <guid>https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/</guid>
         <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus, für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte aus dem Bereichen Verkauf, Einkauf &amp;amp; Mahnung unterstützt.
-in der Berichtsauswahl finden Sie das neue Feld &amp;ldquo;E-Mail Betreff&amp;rdquo;, dieses können Sie nutzen um Ihren Betreff zu definieren. Dieser ist frei definierbar, jedoch statisch.
-Damit Sie einen dynamischen Betreff setzen können, müssen Sie zuvor Platzhalter festlegen.</description>
+In der Berichtsauswahl finden Sie das Feld &amp;ldquo;Betreff&amp;rdquo;, durch Klicken des Feldes gelangen Sie zur Seite E-Mail-Betreff.
+Hier können Sie nun je Sprachcode einen beliebigen Betreff definieren. Über die [&amp;hellip;]-Schaltfläche im Feld Betrefftext gelangen Sie zur Seite E-Mail-Betreff-Platzhalter, welche es Ihnen zusätzlich ermöglicht dynamische Platzhalter zu definieren.</description>
       </item>
       
       <item>
@@ -1884,6 +1884,17 @@ Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entspreche
         <description>Einrichtung von Gruppen Gruppen bieten Ihnen die Möglichkeit, Ihre Nutzer zu sortieren. Dies kann zum Beispiel anhand der Zugehörigkeit zu einer Abteilung oder einem Team erfolgen. Nutzer, die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI-Client. Die Benutzung von Gruppen ist optional.
 Öffnen Sie über die Suchfunktion die CTI-Gruppen, hier findet sich eine Tabelle mit zwei Spalten.
 Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf Neu, um die Bearbeitung zu aktivieren.</description>
+      </item>
+      
+      <item>
+        <title>Optionen Berichtsanfrageseite</title>
+        <link>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/request_page_options/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/request_page_options/</guid>
+        <description>Platzhalter in der Optionen Berichtsanfrageseite Wird in der Benutzerbericht Einrichtung im Register Steuerung der Haken für die Optionen Berichtsanfrageseite gesetzt,
+öffnet sich das Fenster zur Einrichtung der Berichtsoptionen.
+Relevant ist hier der Filter &amp;ldquo;Und Nr. ist&amp;rdquo;, in dem als Wert der Platzhalter %1 für die Belegnummer zu setzen ist.</description>
       </item>
       
       <item>

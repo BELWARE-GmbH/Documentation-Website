@@ -3350,16 +3350,6 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/"
-                />
   </url>
   
   <url>
@@ -3944,6 +3934,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/user-groups/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/request_page_options/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/request_page_options/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/request_page_options/"
                 />
   </url>
   

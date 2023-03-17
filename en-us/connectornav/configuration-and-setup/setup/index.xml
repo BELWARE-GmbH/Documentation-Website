@@ -39,6 +39,17 @@ For IncaMail, the e-mail of the IncaMail account is entered.</description>
       </item>
       
       <item>
+        <title>Request Page Options</title>
+        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/request_page_options/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/request_page_options/</guid>
+        <description>Placeholder in Request Page Options If the checkmark for request page options is set in the Control tab of the User report setup,
+the window for setting up the report options opens.
+Relevant here is the filter &amp;ldquo;And no. is&amp;rdquo;, in which the placeholder %1 for the document number is to be set as the value.</description>
+      </item>
+      
+      <item>
         <title>User report setup</title>
         <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

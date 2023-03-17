@@ -584,8 +584,8 @@ The number there, shows how many different report layouts are setup for the spec
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/setup/reportselection/</guid>
         <description>Setup Report selection Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report, for our example we use invoices, however, reports from the areas of sales, purchasing &amp;amp; reminder are supported.
-in the report selection you will find the new field &amp;ldquo;Email subject&amp;rdquo;, you can use this to define your subject. This is freely definable, but static.
-In order to set a dynamic subject, you must first define placeholders.</description>
+In the report selection you will find the field Subject, by clikcing the field you navigate to the page Email Subject.
+Here you can define different subjects for each language.</description>
       </item>
       
       <item>
@@ -1814,6 +1814,17 @@ We will be happy to assist you in registering the E-POSTBUSINESS API with the De
         <description>Set up an SMTP address per report You also have the option to set a specific address per report. First, open the Mail Sender Plus setup again. There we will now store an address that will always be used in the invoice dispatch.
 The Mail Sender Plus setup, a new entry was created
 Now open the User Reports setup and open the settings for the intended report, in our case Invoices.</description>
+      </item>
+      
+      <item>
+        <title>Request Page Options</title>
+        <link>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/request_page_options/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/request_page_options/</guid>
+        <description>Placeholder in Request Page Options If the checkmark for request page options is set in the Control tab of the User report setup,
+the window for setting up the report options opens.
+Relevant here is the filter &amp;ldquo;And no. is&amp;rdquo;, in which the placeholder %1 for the document number is to be set as the value.</description>
       </item>
       
       <item>

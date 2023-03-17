@@ -54,6 +54,17 @@ Client/Server Über diese Aktionen kann das Briefpapier angezeigt werden.</descr
       </item>
       
       <item>
+        <title>Optionen Berichtsanfrageseite</title>
+        <link>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/request_page_options/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/request_page_options/</guid>
+        <description>Platzhalter in der Optionen Berichtsanfrageseite Wird in der Benutzerbericht Einrichtung im Register Steuerung der Haken für die Optionen Berichtsanfrageseite gesetzt,
+öffnet sich das Fenster zur Einrichtung der Berichtsoptionen.
+Relevant ist hier der Filter &amp;ldquo;Und Nr. ist&amp;rdquo;, in dem als Wert der Platzhalter %1 für die Belegnummer zu setzen ist.</description>
+      </item>
+      
+      <item>
         <title>Auswahl der Zieladressen</title>
         <link>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/address_chooser/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
