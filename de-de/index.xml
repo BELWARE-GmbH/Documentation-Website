@@ -1084,6 +1084,17 @@ Verkauf Einkauf Angebote Anfragen Aufträge Bestellungen Rahmenaufträge Rahmenb
       </item>
       
       <item>
+        <title>Connector 365 Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/connector365-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/connector365-setup/</guid>
+        <description>Einrichtung Base App in der Connector 365 Einrichung Über die Suchfunktion von Business Central können Sie die Connector 365 Einrichung aufrufen:
+Dort finden Sie zur Einstellung der Base App zwei Schalter:
+Über den Schalter &amp;ldquo;Dateien in Jobliste speichern&amp;rdquo; wird festgelegt, ob Belege, die mit dem Connector 365 erstellt werden, in der Aktivitätenliste des Connector 365 gespeichert werden. Ist der Schalter aktiviert, werden die Belege als Dateien in der Business Central Datenbank abgelegt und sind über die Aktivitätenliste abrufbar.</description>
+      </item>
+      
+      <item>
         <title>Debitor</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1926,6 +1937,17 @@ Nun öffnen Sie die Einrichtung der Benutzerberichte und öffnen Sie den Einstel
         <description>Connector NAV für den Segmenten-Versand einrichten Nachdem die Liste mit den Kontakten, die das Segment empfangen sollen vorbereitet wurde, geht es nun an die Einrichtung der Mail mit dem Connector NAV. Über „Benutzerbericht“ richten Sie nun folgende Parameter ein:
 Berichts-ID: Ist fix – diese ist nicht zu ändern
 Sprache: Sollten Sie mehrsprachige Kunden haben und Ihre Mails dementsprechend in verschiedenen Sprachen versenden wollen. Ist die Benutzerberichts-Einrichtung pro Sprachcode zu definieren.</description>
+      </item>
+      
+      <item>
+        <title>Speicherbedarf reduzieren</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/delete-activity-files/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/delete-activity-files/</guid>
+        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst. Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
+Bei Öffnen des Menüs erscheint die Funktion &amp;ldquo;Aktivitätendateien löschen&amp;rdquo;.
+Nach Auswahl der Funktion erscheint ein Eingabefenster, in dem das Startdatum (älteres Datum) für die Löschaktion gewählt werden kann:</description>
       </item>
       
       <item>

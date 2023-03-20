@@ -1022,6 +1022,17 @@ Field describtion Fax-, Mail-, SMS-, PDF-, CTI-, IncaMail-, Archiv Codeunit For 
       </item>
       
       <item>
+        <title>Connector 365 Einrichtung</title>
+        <link>https://docs.belware.de/en-us/apps/base/first-steps/setup/connector365-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/base/first-steps/setup/connector365-setup/</guid>
+        <description>Setup Base App in the Connector 365 Setup You can use the search function of Business Central to access the Connector 365 setup:
+There you will find two switches to set up the Base App:
+The switch &amp;ldquo;Save Files in Joblist&amp;rdquo; determines whether documents created with the Connector 365 are saved in the activity list of the Connector 365. If the switch is activated, the reports are stored as files in the Business Central database and can be accessed via the activity list.</description>
+      </item>
+      
+      <item>
         <title>Customer</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-customer/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1793,6 +1804,17 @@ More information can be found in the corresponding documentation.</description>
         <description>Working with Report Layout Plus After you set up the desired report layouts for the specific conditions, you can now start with the sending of emails or printing of reports. If you have not finished this you can got to First Steps an begin with the setup of the Report Layout Selection.
 For this example we set up the report layouts as follows:
 The default report layout for the language code ENU will be overridden by the layout with the code MS-1306-EMAIL_RED.</description>
+      </item>
+      
+      <item>
+        <title>Reduction of Memory Usage</title>
+        <link>https://docs.belware.de/en-us/apps/base/first-steps/setup/delete-activity-files/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/base/first-steps/setup/delete-activity-files/</guid>
+        <description>Delete action for archived files Saving the report files in the activity list initially comes with the disadvantage of constantly increasing memory usage of the Business Central database. To counteract this, as of version 2.4.0.0 of the Base app, the Actions menu can be seen in the Connector 365 setup.
+When the menu is opened, the function &amp;ldquo;Delete Activity Files&amp;rdquo; is showing.
+After triggering the function, an input window appears where the start date (older date) for the delete action can be selected:</description>
       </item>
       
       <item>

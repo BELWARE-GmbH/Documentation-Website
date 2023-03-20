@@ -24,6 +24,28 @@
 C365, Setup - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung vorzunehmen und zu ändern C365, Edit - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches. C365, View - Erlaubt dem Nutzer, die App grundsätzlich zu nutzen </description>
       </item>
       
+      <item>
+        <title>Connector 365 Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/connector365-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/connector365-setup/</guid>
+        <description>Einrichtung Base App in der Connector 365 Einrichung Über die Suchfunktion von Business Central können Sie die Connector 365 Einrichung aufrufen:
+Dort finden Sie zur Einstellung der Base App zwei Schalter:
+Über den Schalter &amp;ldquo;Dateien in Jobliste speichern&amp;rdquo; wird festgelegt, ob Belege, die mit dem Connector 365 erstellt werden, in der Aktivitätenliste des Connector 365 gespeichert werden. Ist der Schalter aktiviert, werden die Belege als Dateien in der Business Central Datenbank abgelegt und sind über die Aktivitätenliste abrufbar.</description>
+      </item>
+      
+      <item>
+        <title>Speicherbedarf reduzieren</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/delete-activity-files/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/delete-activity-files/</guid>
+        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst. Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
+Bei Öffnen des Menüs erscheint die Funktion &amp;ldquo;Aktivitätendateien löschen&amp;rdquo;.
+Nach Auswahl der Funktion erscheint ein Eingabefenster, in dem das Startdatum (älteres Datum) für die Löschaktion gewählt werden kann:</description>
+      </item>
+      
     
   </channel>
 </rss>
