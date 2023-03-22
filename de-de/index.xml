@@ -2498,7 +2498,7 @@ Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt ei
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Einrichtung Zieladressen pro Bericht Um die Zieladressen-Logik über die Connector 365 Addressee Control App nach Belieben einzustellen, öffnen Sie eine der Seiten Berichtsauswahlen.
-Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
+Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung ab Version 1.2.0.0 Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
 Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:</description>
       </item>
       
