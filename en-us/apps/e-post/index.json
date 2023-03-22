@@ -6,14 +6,6 @@
     "feed_url" : "https://docs.belware.de/en-us/apps/e-post/index.json",
     "items" : [
     {
-        "title" : "E-POST",
-        "date_published" : "2020-02-28T10:08:56+09:00",
-        "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/en-us/apps/e-post/developer-docu/",
-        "url" : "https://docs.belware.de/en-us/apps/e-post/developer-docu/",
-        "content_html" : "\u003ch3 id=\"connector-365-e_post-entwicklerdokumentation\"\u003eConnector 365 E_POST Entwicklerdokumentation\u003c/h3\u003e\n\u003cp\u003eAls Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unserer App eigenhändig vornehmen können.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
-    },
-    {
         "title" : "New and Planned",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
@@ -36,6 +28,14 @@
         "id" : "https://docs.belware.de/en-us/apps/e-post/working-with-e-post/",
         "url" : "https://docs.belware.de/en-us/apps/e-post/working-with-e-post/",
         "content_html" : "\u003ch3 id=\"working-with-the-connector-365-e-post-app\"\u003eWorking with the Connector 365 E-POST App\u003c/h3\u003e\n\u003cp\u003eHere you will find all help and learning resources for the correct usage of the Connector 365 E-POST App*.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e*\u003cstrong\u003eThe Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post\u003c/strong\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Developer Documentation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/e-post/developer-docu/",
+        "url" : "https://docs.belware.de/en-us/apps/e-post/developer-docu/",
+        "content_html" : "\u003ch3 id=\"developer-documentation\"\u003eDeveloper Documentation\u003c/h3\u003e\n\u003cp\u003eAs a developer in the area of Dynamics 365 Business Central, you will find information here on how you can make adjustments in connection with our apps yourself.\u003c/p\u003e\n\u003cp\u003eIn the event that a question could not be answered for you, we will be happy to help you personally. the necessary conctat information can be found on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Videos",
