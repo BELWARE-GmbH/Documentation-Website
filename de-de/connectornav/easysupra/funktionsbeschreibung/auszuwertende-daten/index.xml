@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auszuwertende Daten on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/</link>
+    <description>Recent content in Auszuwertende Daten on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Harte Kriterien - Warenwirtschaft</title>
+        <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</guid>
+        <description>Harte Kriterien - Warenwirtschaft „Harte“ Kriterien sind Informationen, die bereits im System vorhanden sind und durch „zählen“, „messen“ oder „wiegen“ zu Stande kommen, beispielsweise im Bestellprozess. Beispiele
+für harte Kriterien sind die Liefertreue und die Reklamationsrate.
+Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ auswerten. Ein oft
+genutztes Beispiel ist die Mengentreue. Dabei wird geprüft, ob der Lieferant die Menge liefert,
+die er dem Einkäufer zugesagt hat.</description>
+      </item>
+      
+      <item>
+        <title>Reklamationen</title>
+        <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</guid>
+        <description>Reklamationen Mit dem Modul easySUPRA wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über
+das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich
+nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird
+für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.</description>
+      </item>
+      
+      <item>
+        <title>Wareneingangs-/Qualitätsprotokoll</title>
+        <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</guid>
+        <description>Wareneingangs-/Qualitätsprotokoll Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt easySUPRA eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in easySUPRA mitgelieferten Felder
+eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
+eigenständig oder durch den zuständigen Microsoft-Partner durchgeführt werden.
+Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevanten Informationen im Bestellvorgang übertragen werden.</description>
+      </item>
+      
+      <item>
+        <title>Weiche Kriterien - Kontaktprofile</title>
+        <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</guid>
+        <description>Weiche Kriterien - Kontaktprofile Die „weichen“ Kriterien können in der Einrichtung frei definiert werden (vgl. 3.1.3). In den
+Kontaktprofilen werden die Informationen am Lieferanten hinterlegt. Beispiele für weiche Kriterien können der Werbewert des Lieferanten oder auch die Transportanbindung sein, also
+Faktoren, welche subjektiv vergeben und mit Hilfe der in Abschnitt 3.1.3 beschriebenen Fragen evaluiert werden müssen.
+Über die Lieferantenübersicht („Abteilungen“ – „Lieferbewertung“ – „Einrichtung“ – „Lieferantenübersicht“) können Sie die „weichen“ Kriterien, die einem Lieferanten zugeordnet wurden,</description>
+      </item>
+      
+    
+  </channel>
+</rss>

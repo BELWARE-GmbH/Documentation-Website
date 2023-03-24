@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup Wizard on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/</link>
+    <description>Recent content in Setup Wizard on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Level 1</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</guid>
+        <description>Level 1 Figure 3: Setup wizard - level 1
+Use the field next to the description &amp;ldquo;What do you want to rate? (cf. Figure 3) to select an existing rating or create a new one in the list that now opens (cf. Figure 4).
+new rating via &amp;ldquo;New&amp;rdquo; (see Figure 4).
+Figure 4: Existing ratings
+Create a validity period for the valuation using the &amp;ldquo;Valid from&amp;rdquo; and &amp;ldquo;Valid to&amp;rdquo; fields. The validity period also takes into account the posting periods of the existing business processes.</description>
+      </item>
+      
+      <item>
+        <title>Level 2</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</guid>
+        <description>Level 2 Figure 6: Setup wizard - level 2
+The colored red digits correspond to the selected weighting of the respective criteria category and function as a button (cf. Figure 6). One click takes you to the
+to set up the desired criteria. The following figure 7 shows an example
+the setup of the &amp;ldquo;hard&amp;rdquo; factors.
+Figure 7: Criteria selection using the example of the &amp;ldquo;hard&amp;rdquo; criteria
+Define all relevant criteria in this mask.</description>
+      </item>
+      
+      <item>
+        <title>Level 3</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
+        <description>Level 3 In stage 3, you define the scoring of the hard and soft criteria by clicking
+on the fields marked in red.
+Figure 13: Setup Wizard - Level 3.
+(Control/Modification of the Point Allocation)
+First click on the red number of the hard criteria. A mask opens in which
+all assigned criteria appear. In this mask, distribute the 100 points to be assigned over any key.
+points using any key (cf.</description>
+      </item>
+      
+      <item>
+        <title>Level 4</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/</guid>
+        <description>Level 4 Assign the desired vendors to the vendor evaluation (cf. Figure 15). To do this, click on the italic red text &amp;ldquo;Vendor assignment not completed&amp;rdquo;.
+Figure 15: Setup Wizard - Level 4 (Assign Vendors)
+An overview of the already assigned vendors opens. Here you have the possibility to assign further vendors or to remove already assigned vendors via the buttons &amp;ldquo;Add Vendor&amp;rdquo; and &amp;ldquo;Delete Vendor&amp;rdquo; (cf. Figure 16).
+Figure 16: List of assigned vendors</description>
+      </item>
+      
+      <item>
+        <title>Level 5</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
+        <description>Level 5 Confirm with &amp;ldquo;Next&amp;rdquo; in the wizard to proceed to the last setup step.
+In the window, set up the classification of the assessment (cf. Figure 17). Click
+the red italicized text &amp;ldquo;Classification not completed&amp;rdquo;.
+Figure 17: Setup Wizard - Level 5.
+(Definition of classification)
+Press the &amp;ldquo;New&amp;rdquo; button to create a new classification. In the following, the evaluation code &amp;ldquo;TEST VALUED&amp;rdquo; is selected as an example. The creditors</description>
+      </item>
+      
+    
+  </channel>
+</rss>

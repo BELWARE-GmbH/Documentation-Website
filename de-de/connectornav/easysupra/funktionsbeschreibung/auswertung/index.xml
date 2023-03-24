@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auswertungen on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/</link>
+    <description>Recent content in Auswertungen on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Bewertung - Einrichtung</title>
+        <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</guid>
+        <description>Bewertung - Einrichtung Die Auswertung „Bewertung – Einrichtung“ zeigt die Zusammenstellung und Einrichtung der
+Lieferantenbewertung. Wählen Sie hierzu zunächst die jeweilige Lieferantenbewertung über
+die „Lookup“-Schaltfläche aus.
+Abbildung 39 : Optionsmaske für den Bericht
+Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Kriterien, sowie die genutzten Klassifizierungen und stellt diese anschaulich dar (vgl. Abbildung 40). Damit ist für jeden
+Anwender nachvollziehbar, aus welchen Details sich die ausgewählte Lieferantenbewertung
+zusammensetzt. Diese Übersicht, kann sich von einer eingerichteten Lieferantenbewertung</description>
+      </item>
+      
+      <item>
+        <title>Bewertung - Kreditor Liste</title>
+        <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/</guid>
+        <description>Bewertung - Kreditor Liste Über diesen Bericht erhalten Sie eine Liste aller Kreditoren zu einer bestimmten Lieferantenbewertung
+Abbildung 41: Optionsmaske für den Bericht
+„Bewertung – Kreditor Liste“
+Die Liste gibt folgende Informationen aus: Kreditoren-Nr., Kreditoren-Name, Ergebnis bei harten und weichen Kriterien, den entsprechend erreichten Punktebereich inkl. „Klassifizierung“
+und schlussendlich die erreichte Gesamtpunktzahl als „Endergebnis“ pro Lieferant.
+Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Bei einem Klick
+auf die unterstrichene Kreditoren-Nr.</description>
+      </item>
+      
+      <item>
+        <title>Bewertung - Kreditor einzeln</title>
+        <link>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
+        <description>Bewertung - Kreditor einzeln Der Bericht „Bewertung – Kreditor einzeln“ basiert auf dem Bericht „Bewertung - Einrichtung“
+und liefert Detailinformationen zu einer bestimmten Lieferantenbewertung für einen ausgewählten Lieferanten.
+Abbildung 43: Optionsmaske für den Bericht –
+„Bewertung – Kreditor einzeln“
+Der Bericht liefert detaillierte Informationen zu jedem bewerteten Kriterium. Am Beispiel von
+Abbildung 44 lassen sich alle Lieferungen identifizieren, die einer „pünktlichen Lieferung“ entsprechend sind. Sobald Datensätze (z. B. Lieferungen) in die Bewertung eines Kriteriums</description>
+      </item>
+      
+    
+  </channel>
+</rss>

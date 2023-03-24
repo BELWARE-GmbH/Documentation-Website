@@ -1,0 +1,89 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Brief description / overview on Connector 365 Online Help",
+    "description": "Recent content in Brief description / overview on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/index.json",
+    "items" : [
+    {
+        "title" : "Core functionalities",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kernfunktionalitaeten/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kernfunktionalitaeten/",
+        "content_html" : "\u003ch3 id=\"core-functionalities\"\u003eCore functionalities\u003c/h3\u003e\n\u003cp\u003eThe core functionalities can be summarized as follows:\u003cbr /\u003e\nComplete integration in Microsoft Dynamics 365 Business Central (from NAV 4.x)\u003cbr /\u003e\nFlexible evaluation of \u0026ldquo;hard\u0026rdquo; facts from the enterprise resource planning area\u003cbr /\u003e\nEvaluation of freely definable \u0026ldquo;soft\u0026rdquo; criteria\u003cbr /\u003e\nFree weighting of all criteria and criteria groups\u003cbr /\u003e\nDefinition and delimitation of different supplier groups\u003cbr /\u003e\nDelimitation of the articles to be evaluated from category to variant\u003cbr /\u003e\nDetermination and evaluation of a complaint rate through the integration of the complaint module\u003cbr /\u003e\nInclusion of qualitative, quantitative and other product characteristics, which can be determined at the\u003cbr /\u003e\ngoods receipt via the integrated quality log.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Weighting",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/",
+        "content_html" : "\u003ch3 id=\"weighting\"\u003eWeighting\u003c/h3\u003e\n\u003cp\u003eThe weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In\u003cbr /\u003e\nIn total, 100 % is assigned in each case (cf. Figure 1).\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/easysupra/Abb1.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFigure 1: Methods for supplier evaluation\u003c/strong\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Criteria",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/",
+        "content_html" : "\u003ch3 id=\"criteria\"\u003eCriteria\u003c/h3\u003e\n\u003cp\u003eThe selection of the relevant evaluation criteria of an object is summarized in a criteria pool.\u003cbr /\u003e\nsummarized. Such objects can be, for example, suppliers, supplier groups,\u003cbr /\u003e\narticles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft\u003cbr /\u003e\nor hard. Hard\u0026quot; criteria are automatically determined and included from the merchandise management\u003cbr /\u003e\nand included. \u0026ldquo;Soft\u0026rdquo; criteria, on the other hand, are freely defined and assigned values. In\u003cbr /\u003e\nhard\u0026quot; and \u0026ldquo;soft\u0026rdquo; factors add up to 100 % each (see level 1 in Figure 1).\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Selection of evaluation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/",
+        "content_html" : "\u003ch3 id=\"selection-of-evaluation\"\u003eSelection of evaluation\u003c/h3\u003e\n\u003cp\u003eFollowing the definition of the criteria, the evaluation per criterion can be defined individually.\u003cbr /\u003e\ncan be defined individually for each criterion. All fields from the tables \u0026ldquo;Purchasing line\u0026rdquo;, \u0026ldquo;Purchasing delivery line\u0026rdquo;, \u0026ldquo;Purchasing line archive\u0026rdquo; and \u0026ldquo;Quality log\u0026rdquo; are available for selection. You can also\u003cbr /\u003e\ncompare newly added fields in the named tables. How you relate the fields to each other\u003cbr /\u003e\nto each other is freely definable and is represented by a formula. The table\u003cbr /\u003e\n\u0026ldquo;table is a new table that is included in the supplier evaluation and integrated into the purchasing process.\u003cbr /\u003e\nand is integrated into the purchasing process.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Scoring",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/punktevergabe/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/punktevergabe/",
+        "content_html" : "\u003ch3 id=\"scoring\"\u003eScoring\u003c/h3\u003e\n\u003cp\u003ePoints are assigned per evaluation. For this purpose, a value range and its total number of points must be specified or set up.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Keying",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/schluesselung/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/schluesselung/",
+        "content_html" : "\u003ch3 id=\"keying\"\u003eKeying\u003c/h3\u003e\n\u003cp\u003eThe \u0026ldquo;soft\u0026rdquo; and \u0026ldquo;hard\u0026rdquo; evaluation criteria deposited at the evaluation are weighted. The evaluation shows how the soft and hard criteria are included in the overall evaluation (see Figure 1).\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Evaluation requirements",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/",
+        "content_html" : "\u003ch3 id=\"evaluation-requirements\"\u003eEvaluation requirements\u003c/h3\u003e\n\u003cp\u003eOptionally, the evaluation requirement for the sales minimum,\u003cbr /\u003e\nthe purchase order item minimum, the delivery item minimum and the archive item minimum. This means, for example, that suppliers with a certain minimum\u003cbr /\u003e\nminimum sales can be taken into account in the evaluation.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Classification",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/",
+        "content_html" : "\u003ch3 id=\"classification\"\u003eClassification\u003c/h3\u003e\n\u003cp\u003eThe classification is made on the basis of the defined evaluation criteria and their weighting.\u003cbr /\u003e\nis carried out. In the process, the supplier achieves a number of points by which its classification is defined.\u003cbr /\u003e\n(achieved class) is defined.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Evaluation",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/",
+        "content_html" : "\u003ch3 id=\"evaluation\"\u003eEvaluation\u003c/h3\u003e\n"
+    },
+    {
+        "title" : "Ratings setup",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/",
+        "content_html" : "\u003ch3 id=\"ratings-setup\"\u003eRatings setup\u003c/h3\u003e\n\u003cp\u003eEach rating can be conveniently set up via a 5-step wizard and changed afterwards.\u003cbr /\u003e\nand can be changed afterwards. With the help of a setup wizard, the user is guided through all the necessary\u003cbr /\u003e\nnecessary steps for a successful setup. The entries made are partially subjected to a plausibility check.\u003c/p\u003e\n"
+    }
+    ]
+}

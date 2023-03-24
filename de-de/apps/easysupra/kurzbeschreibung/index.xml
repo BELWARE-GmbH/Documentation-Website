@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kurzbeschreibung / Überblick on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/</link>
+    <description>Recent content in Kurzbeschreibung / Überblick on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Kernfunktionalitäten</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/kernfunktionalitaeten/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/kernfunktionalitaeten/</guid>
+        <description>Kernfunktionalitäten Die Kernfunktionalitäten können wie folgt stichpunktartig zusammengefasst werden:
+Vollständige Integration in Microsoft Dynamics 365 Business Central (ab NAV 4.x) Flexible Auswertung der „harten“ Fakten aus dem Bereich der Warenwirtschaft Auswertung von frei definierbaren „weichen“ Kriterien Freie Gewichtung aller Kriterien und Kriteriengruppen Definition und Abgrenzung verschiedener Lieferantengruppen Abgrenzung der zu bewertenden Artikel von Kategorie bis zur Variante Ermittlung und Bewertung einer Reklamationsquote durch die Integration des Reklamationsmoduls Einbeziehen von qualitativen, quantitativen und sonstigen Produktmerkmalen, die beim</description>
+      </item>
+      
+      <item>
+        <title>Gewichtung</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/gewichtung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/gewichtung/</guid>
+        <description>Gewichtung Die Gewichtung der ausgewählten Faktoren zur Klassifizierung erfolgt über zwei Gewichtungsstufen: Zum einen werden die einzelnen definierten Kriterien einer Gewichtung unterzogen, zum anderen werden die Kriteriengruppen (hart/weich) gegeneinander gewichtet. In
+Summe werden damit jeweils 100 % vergeben (vgl. Abbildung 1).
+Abbildung 1: Methoden zur Lieferantenbewertung</description>
+      </item>
+      
+      <item>
+        <title>Kriterien</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/kriterien/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/kriterien/</guid>
+        <description>Kriterien Die Auswahl der relevanten Bewertungskriterien eines Objektes, wird in einem Kriterien-Pool
+zusammengefasst. Solche Objekte können beispielsweise Lieferanten, Lieferantengruppen,
+Artikel, Artikelkategorien etc. sein. Der Geltungsbereich dieser Auswahl wird an der Bewertung selbst eingerichtet. Nach Auswahl des Kriteriums wird definiert, ob das Kriterium weich
+oder hart ist. Dabei werden „harte“ Kriterien automatisch aus der Warenwirtschaft ermittelt
+und einbezogen. „Weiche“ Kriterien hingegen werden frei definiert und mit Werten belegt. In
+Summe ergeben „harte“ und „weiche“ Faktoren jeweils 100 % (vgl.</description>
+      </item>
+      
+      <item>
+        <title>Auswahl der Auswertung</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswahl-der-auswertung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswahl-der-auswertung/</guid>
+        <description>Auswahl der Auswertung Im Anschluss an die Definition der Kriterien kann die Auswertung pro Kriterium individuell
+festgelegt werden. Hierfür stehen alle Felder aus den Tabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ zur Auswahl. Dabei können Sie auch
+neu hinzugefügte Felder in den benannten Tabellen vergleichen. Wie Sie die Felder in Bezug
+zueinander setzen, ist frei definierbar und wird durch eine Formel dargestellt. Bei der Tabelle
+„Qualitätsprotokoll“ handelt es sich um eine neue Tabelle, die in der Lieferantenbewertung</description>
+      </item>
+      
+      <item>
+        <title>Punktevergabe</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/punktevergabe/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/punktevergabe/</guid>
+        <description>Punktevergabe Pro Auswertung werden Punkte vergeben. Dazu muss ein Wertebereich und dessen Gesamtpunktzahl angegeben bzw. eingerichtet werden.</description>
+      </item>
+      
+      <item>
+        <title>Schlüsselung</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/schluesselung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/schluesselung/</guid>
+        <description>Schlüsselung Die an der Bewertung hinterlegten „weichen“ und „harten“ Bewertungskriterien werden gewichtet. An der Bewertung wird hinterlegt, wie die weichen und harten Kriterien in die Gesamtbewertung einfließen (vgl. Abbildung 1).</description>
+      </item>
+      
+      <item>
+        <title>Bewertungsvorraussetzungen</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/</guid>
+        <description>Bewertungsvorraussetzungen Optional kann an der Bewertung die Auswertungsvoraussetzung für das Umsatzminimum,
+das Bestellungspositionsminimum, das Lieferpositionsminimum und das Archivpositionsminimum definiert werden. Dadurch können beispielsweise Lieferanten mit einem bestimmten
+Mindestumsatz in der Auswertung berücksichtigt werden.</description>
+      </item>
+      
+      <item>
+        <title>Klassifizierung</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/klassifizierung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/klassifizierung/</guid>
+        <description>Klassifizierung Die Klassifizierung wird anhand der definierten Bewertungskriterien und deren Gewichtung
+vorgenommen. Dabei erreicht der Lieferant eine Punktzahl über die sich dessen Einstufung
+(erreichte Klasse) definiert.</description>
+      </item>
+      
+      <item>
+        <title>Auswertung</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswertung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswertung/</guid>
+        <description>Auswertung Zur Ergebnisermittlung stehen drei Auswertungen in Form von Reports stufenartig zur Verfügung:</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung der Bewertungen</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</guid>
+        <description>Einrichtung der Bewertungen Jede Bewertung lässt sich über einen 5-stufigen Assistenten komfortabel einrichten und im
+Nachhinein verändern. Der Anwender wird mit Hilfe eines Einrichtungsassistenten durch alle
+notwendigen Schritte zu einer erfolgreichen Einrichtung geführt. Die getätigten Eingaben werden dabei teilweise einer Plausibilitätsprüfung unterzogen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

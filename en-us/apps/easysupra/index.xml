@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>easySUPRA on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/easysupra/</link>
+    <description>Recent content in easySUPRA on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/easysupra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Brief description / overview</title>
+        <link>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/</guid>
+        <description>Brief description / overview This documentation contains explanations on the integration, functionality and
+use of easySUPRA in a Microsoft Dynamics™ 365 Business Central environment. The product can also be used for earlier versions (from NAV 4.x).
+Please contact your Microsoft Dynamics partner in this regard.
+The supplier evaluation enables the execution of a company-specific and
+independent classification of suppliers. Here it is possible to define several evaluations over a flexible validity period for certain vendors, so that</description>
+      </item>
+      
+      <item>
+        <title>User rights to be extended / Changed objects</title>
+        <link>https://docs.belware.de/en-us/apps/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/</guid>
+        <description>User rights to be extended / Changed objects The user rights are to be extended according to the object tables.
+Type ID Name Table 23 Vendor Table 27 Item Table 39 Purchase Line Table 121 Purch. Rcpt. Line Table 5058 Contact Industry Group Table 5110 Purchase Line Archive Table 5319462 SUP Vendor Rating Table 5319463 SUP Vendor Rating Relation Table 5319464 SUP Criteria Relation Table 5319465 SUP Criteria Table 5319466 SUP Criteria Detail Hard Table 5319467 SUP Report Buffer Table 5319468 SUP Classification Table 5319469 SUP Quality Protocol Page 26 Vendor Card Page 27 Vendor List Page 30 Item Card Page 50 Purchase Order Page 54 Purchase Order Subform Page 137 Posted Purchase Rcpt.</description>
+      </item>
+      
+      <item>
+        <title>Function description</title>
+        <link>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/</guid>
+        <description>Function description In Microsoft Dynamics 365 Business Central, supplier rating has its own menu item.
+menu item in the Administration section. Below that, the reports (evaluations), the setup (wizard) and the history are integrated.
+Figure 2: easySUPRA in the main menu.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

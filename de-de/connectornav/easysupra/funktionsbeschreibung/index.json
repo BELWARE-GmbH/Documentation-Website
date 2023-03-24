@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Funktionsbeschreibung on Connector 365 Online Hilfe",
+    "description": "Recent content in Funktionsbeschreibung on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/index.json",
+    "items" : [
+    {
+        "title" : "Auswertungen",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/",
+        "url" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/",
+        "content_html" : "\u003ch3 id=\"auswertungen\"\u003eAuswertungen\u003c/h3\u003e\n\u003cp\u003eAlle verfügbaren Auswertungen sind über den Menüpunkt „Lieferantenbewertung“ – „Berichte“ zu finden.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Auszuwertende Daten",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/",
+        "url" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/",
+        "content_html" : "\u003ch3 id=\"auszuwertende-daten\"\u003eAuszuwertende Daten\u003c/h3\u003e\n\u003cp\u003eNachdem die Einrichtung der Lieferantenbewertung(en) abgeschlossen ist, wird in diesem\u003cbr /\u003e\nKapitel dargestellt, wie und an welchen Stellen in Dynamics 365 Business Central die Daten\u003cbr /\u003e\nentstehen, die später anhand der eingerichteten Bewertungen ausgewertet werden. Bei der\u003cbr /\u003e\nErhebung von „weichen“ und „harten“ Faktoren wird auf unterschiedliche Faktoren zurückgegriffen.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Einrichtungsassistent",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/",
+        "url" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/",
+        "content_html" : "\u003ch3 id=\"einrichtungsassistent\"\u003eEinrichtungsassistent\u003c/h3\u003e\n\u003cp\u003eDer Einrichtungsassistent dient zur Erstellung neuer und zur Bearbeitung bestehender Lieferantenbewertungen. Geöffnet wird dieser über den Menüpunkt „Lieferantenbewertungen“ –\u003cbr /\u003e\n„Einrichtung“ – „Lieferantenbewertung erstellen/bearbeiten“. Anwender werden mit Hilfe des\u003cbr /\u003e\nAssistenten in fünf Stufen durch die Einrichtung geführt. Diese fünf Stufen werden in den\u003cbr /\u003e\nfolgenden Abschnitten in Form eines Tätigkeitsleitfadens näher beschrieben.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Import / Export",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/import-u-export/",
+        "url" : "https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/import-u-export/",
+        "content_html" : "\u003ch3 id=\"import--export\"\u003eImport / Export\u003c/h3\u003e\n\u003cp\u003eUnter „Abteilungen“ – „Lieferantenbewertung“ – „Verwaltung“ – „Im-/Export easySUPRA\u003cbr /\u003e\nEinrichtungsdaten“ können Daten als .txt-Dateien exportiert oder importiert werden (vgl. Abbildung 46). Dadurch kann die Einrichtung der Bewertungen Mandanten- oder Datenbankübergreifend genutzt werden.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/easysupra/Abb46.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAbbildung 46: Import von Daten (Import / Export)\u003c/strong\u003e\u003c/p\u003e\n"
+    }
+    ]
+}

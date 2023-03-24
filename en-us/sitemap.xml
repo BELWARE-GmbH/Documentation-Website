@@ -293,6 +293,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -368,6 +398,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/kernfunktionalitaeten/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/kernfunktionalitaeten/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/kernfunktionalitaeten/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kernfunktionalitaeten/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/kernfunktionalitaeten/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kernfunktionalitaeten/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/html-word/create_file/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -409,6 +469,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/cti-for-starface/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/"
                 />
   </url>
   
@@ -533,6 +623,66 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auswertung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/fax/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -544,6 +694,66 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/fax/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/"
                 />
   </url>
   
@@ -894,6 +1104,81 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/legalnotice/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/"
                 />
   </url>
   
@@ -1348,6 +1633,66 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-report/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1603,6 +1948,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/sms/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1614,6 +1989,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/sms/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/"
                 />
   </url>
   
@@ -1803,6 +2208,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/zu-erweiternde-benutzerrechte-u-ge%C3%A4nderte-objekte/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1814,6 +2249,51 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail-sender-plus/new-and-planned/v1.0.0.2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/willkommen/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/willkommen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/willkommen/"
                 />
   </url>
   
@@ -2513,6 +2993,81 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/html-word/link_pics/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3043,6 +3598,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/test-purchase/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3343,6 +3928,96 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/gewichtung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/gewichtung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/gewichtung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/gewichtung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3390,16 +4065,6 @@
   <url>
     <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/"
-                />
   </url>
   
   <url>
@@ -3553,6 +4218,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/kriterien/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/kriterien/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/kriterien/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/kriterien/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/cti-notes/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3624,6 +4319,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/pdfpaper/example_print/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/import-u-export/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/import-u-export/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/import-u-export/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/import-u-export/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/import-u-export/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/import-u-export/"
                 />
   </url>
   
@@ -4054,6 +4779,66 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/user_report_setup_connectornav/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/"
                 />
   </url>
   
@@ -4613,6 +5398,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswahl-der-auswertung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswahl-der-auswertung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswahl-der-auswertung/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/setup/customer-vendor/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4943,6 +5758,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/punktevergabe/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/punktevergabe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/punktevergabe/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/configuration-and-setup/setup/communication_matrix/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -5044,6 +5874,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/may/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/punktevergabe/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/punktevergabe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/punktevergabe/"
                 />
   </url>
   
@@ -5199,6 +6044,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2020/june/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/schluesselung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/schluesselung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/schluesselung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/schluesselung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/schluesselung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/schluesselung/"
                 />
   </url>
   
@@ -5398,6 +6273,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/updates/to-31-12-2019/july/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -5533,6 +6438,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/klassifizierung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/klassifizierung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/klassifizierung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/klassifizierung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/help-and-support/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -5574,6 +6509,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/matrix/options/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswertung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/auswertung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/"
                 />
   </url>
   
@@ -5664,6 +6629,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/updates/to-31-12-2019/october/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/"
                 />
   </url>
   
