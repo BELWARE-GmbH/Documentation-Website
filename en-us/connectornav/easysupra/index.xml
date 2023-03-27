@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>easySUPRA on Connector 365 Online Help</title>
+    <title>Easy Supra on Connector 365 Online Help</title>
     <link>https://docs.belware.de/en-us/connectornav/easysupra/</link>
-    <description>Recent content in easySUPRA on Connector 365 Online Help</description>
+    <description>Recent content in Easy Supra on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,11 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/</guid>
-        <description>Brief description / overview This documentation contains explanations on the integration, functionality and use of easySUPRA in a Microsoft Dynamics™ 365 Business Central environment.
-use of easySUPRA in a Microsoft Dynamics™ 365 Business Central environment. The product can also be used for earlier versions (from NAV 4.x).
-Please contact your Microsoft Dynamics partner in this regard.
-The supplier evaluation enables the execution of a company-specific and
-independent classification of suppliers. Here it is possible to define several evaluations over a flexible validity period for certain vendors, so that</description>
+        <description>Brief description / overview This documentation contains explanations on the integration, functionality and use of Easy Supra in a Microsoft Dynamics™ 365 Business Central environment. use of Easy Supra in a Microsoft Dynamics™ 365 Business Central environment. The product can also be used for earlier versions (from NAV 4.x). Please contact your Microsoft Dynamics partner in this regard.
+The supplier evaluation enables the execution of a company-specific and independent classification of suppliers.</description>
       </item>
       
       <item>
@@ -43,10 +40,8 @@ Type ID Name Table 23 Vendor Table 27 Item Table 39 Purchase Line Table 121 Purc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/</guid>
-        <description>Functional description Supplier rating is given its own menu item in Microsoft Dynamics 365 Business Central.
-menu item. Below this, the reports (evaluations), the setup (wizard) and the history are integrated.
-history are integrated.
-Figure 2: easySUPRA in the main menu</description>
+        <description>Functional description Supplier rating is given its own menu item in Microsoft Dynamics 365 Business Central. menu item. Below this, the reports (evaluations), the setup (wizard) and the history are integrated. history are integrated.
+Figure 2: Easy Supra in the main menu</description>
       </item>
       
     

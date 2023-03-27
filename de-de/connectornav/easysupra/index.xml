@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>easySUPRA on Connector 365 Online Hilfe</title>
+    <title>Easy Supra on Connector 365 Online Hilfe</title>
     <link>https://docs.belware.de/de-de/connectornav/easysupra/</link>
-    <description>Recent content in easySUPRA on Connector 365 Online Hilfe</description>
+    <description>Recent content in Easy Supra on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,11 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/</guid>
-        <description>Kurzbeschreibung / Überblick Die vorliegende Dokumentation enthält Erläuterungen zur Integration, Funktionsweise und
-Verwendung von easySUPRA in einer Microsoft Dynamics™ 365 Business Central Umgebung. Das Produkt kann ebenfalls für frühere Versionen (ab NAV 4.x) eingesetzt werden.
-Kontaktieren Sie diesbezüglich bitte Ihren Microsoft Dynamics Partner.
-Die Lieferantenbewertung ermöglicht die Durchführung einer unternehmensindividuellen und
-eigenständigen Klassifizierung von Lieferanten. Hierbei wird es möglich, mehrere Bewertungen über einen flexiblen Gültigkeitszeitraum für bestimmte Kreditoren zu definieren, sodass</description>
+        <description>Kurzbeschreibung / Überblick Die vorliegende Dokumentation enthält Erläuterungen zur Integration, Funktionsweise und Verwendung von Easy Supra in einer Microsoft Dynamics™ 365 Business Central Umgebung. Das Produkt kann ebenfalls für frühere Versionen (ab NAV 4.x) eingesetzt werden. Kontaktieren Sie diesbezüglich bitte Ihren Microsoft Dynamics Partner.
+Die Lieferantenbewertung ermöglicht die Durchführung einer unternehmensindividuellen und eigenständigen Klassifizierung von Lieferanten. Hierbei wird es möglich, mehrere Bewertungen über einen flexiblen Gültigkeitszeitraum für bestimmte Kreditoren zu definieren, sodass Kreditorengruppen unterschiedlich bewertet werden können.</description>
       </item>
       
       <item>
@@ -43,10 +40,8 @@ Type ID Name Tabelle 23 Vendor Tabelle 27 Item Tabelle 39 Purchase Line Tabelle 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/</guid>
-        <description>Funktionsbeschreibung Die Lieferantenbewertung erhält in Microsoft Dynamics 365 Business Central einen eigenen
-Menüpunkt. Darunter sind die Berichte (Auswertungen), die Einrichtung (Assistent) und die
-Historie eingebunden.
-Abbildung 2: easySUPRA im Hauptmenü</description>
+        <description>Funktionsbeschreibung Die Lieferantenbewertung erhält in Microsoft Dynamics 365 Business Central einen eigenen Menüpunkt. Darunter sind die Berichte (Auswertungen), die Einrichtung (Assistent) und die Historie eingebunden.
+Abbildung 2: Easy Supra im Hauptmenü</description>
       </item>
       
     

@@ -30,13 +30,9 @@ To import a sample setup, this field must be selected.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
-        <description>Level 3 In Level 3, you define the scoring of the hard and soft criteria by clicking
-on the fields marked in red.
-Figure 14: Setup Wizard - Level 3.
-(Control/Modification d. Point allocation).
-First, click on the red number of the hard criteria. A mask opens in which
-all assigned criteria appear. In this mask, distribute the 100 points to be assigned using any key (cf.
-points over any key (see Figure 15).</description>
+        <description>Level 3 In Level 3, you define the scoring of the hard and soft criteria by clicking on the fields marked in red.
+Figure 14: Setup Wizard - Level 3. (Control/Modification d. Point allocation).
+First, click on the red number of the hard criteria. A mask opens in which all assigned criteria appear. In this mask, distribute the 100 points to be assigned using any key (cf. points over any key (see Figure 15).</description>
       </item>
       
       <item>
@@ -57,12 +53,9 @@ An overview of the already assigned vendors opens. Here you have the possibility
         
         <guid>https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
         <description>Level 5 Confirm with &amp;ldquo;Next&amp;rdquo; in the wizard to proceed to the last setup step.
-Set up the rating classification in the window (see Figure 18). Click
-the text &amp;ldquo;Classification not completed&amp;rdquo; in red italics.
-Figure 18: Setup Wizard - Level 5.
-(Classification definition)
-Press the &amp;ldquo;New&amp;rdquo; button to create a new classification. The following is an example of how to select the &amp;ldquo;TEST VALUED&amp;rdquo; valuation code. The creditors
-will be marked with the classification codes &amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, &amp;ldquo;C&amp;rdquo; or &amp;ldquo;D&amp;rdquo;, according to the achieved rating.</description>
+Set up the rating classification in the window (see Figure 18). Click the text &amp;ldquo;Classification not completed&amp;rdquo; in red italics.
+Figure 18: Setup Wizard - Level 5. (Classification definition)
+Press the &amp;ldquo;New&amp;rdquo; button to create a new classification. The following is an example of how to select the &amp;ldquo;TEST VALUED&amp;rdquo; valuation code. The creditors will be marked with the classification codes &amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, &amp;ldquo;C&amp;rdquo; or &amp;ldquo;D&amp;rdquo;, according to the achieved rating.</description>
       </item>
       
       <item>

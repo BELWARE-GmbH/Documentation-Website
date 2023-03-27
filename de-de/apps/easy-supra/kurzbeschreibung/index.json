@@ -1,0 +1,89 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Kurzbeschreibung / Überblick on Connector 365 Online Hilfe",
+    "description": "Recent content in Kurzbeschreibung / Überblick on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/index.json",
+    "items" : [
+    {
+        "title" : "Kernfunktionalitäten",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/kernfunktionalitaeten/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/kernfunktionalitaeten/",
+        "content_html" : "\u003ch3 id=\"kernfunktionalitäten\"\u003eKernfunktionalitäten\u003c/h3\u003e\n\u003cp\u003eDie Kernfunktionalitäten können wie folgt stichpunktartig zusammengefasst werden:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eVollständige Integration in Microsoft Dynamics 365 Business Central (ab NAV 4.x)\u003c/li\u003e\n\u003cli\u003eFlexible Auswertung der „harten“ Fakten aus dem Bereich der Warenwirtschaft\u003c/li\u003e\n\u003cli\u003eAuswertung von frei definierbaren „weichen“ Kriterien\u003c/li\u003e\n\u003cli\u003eFreie Gewichtung aller Kriterien und Kriteriengruppen\u003c/li\u003e\n\u003cli\u003eDefinition und Abgrenzung verschiedener Lieferantengruppen\u003c/li\u003e\n\u003cli\u003eAbgrenzung der zu bewertenden Artikel von Kategorie bis zur Variante\u003c/li\u003e\n\u003cli\u003eErmittlung und Bewertung einer Reklamationsquote durch die Integration des Reklamationsmoduls\u003c/li\u003e\n\u003cli\u003eEinbeziehen von qualitativen, quantitativen und sonstigen Produktmerkmalen, die beim \u003cbr /\u003e\nWareneingang über das integrierte Qualitätsprotokoll erfasst werden\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Gewichtung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/gewichtung/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/gewichtung/",
+        "content_html" : "\u003ch3 id=\"gewichtung\"\u003eGewichtung\u003c/h3\u003e\n\u003cp\u003eDie Gewichtung der ausgewählten Faktoren zur Klassifizierung erfolgt über zwei Gewichtungsstufen: Zum einen werden die einzelnen definierten Kriterien einer Gewichtung unterzogen, zum anderen werden die Kriteriengruppen (hart/weich) gegeneinander gewichtet. In \u003cbr /\u003e\nSumme werden damit jeweils 100 % vergeben (vgl. Abbildung 1).\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/easysupraWeb/Abb1.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAbbildung 1: Methoden zur Lieferantenbewertung\u003c/strong\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Kriterien",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/kriterien/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/kriterien/",
+        "content_html" : "\u003ch3 id=\"kriterien\"\u003eKriterien\u003c/h3\u003e\n\u003cp\u003eDie Auswahl der relevanten Bewertungskriterien eines Objektes, wird in einem Kriterien-Pool\u003cbr /\u003e\nzusammengefasst. Solche Objekte können beispielsweise Lieferanten, Lieferantengruppen, \u003cbr /\u003e\nArtikel, Artikelkategorien etc. sein. Der Geltungsbereich dieser Auswahl wird an der Bewertung selbst eingerichtet. Nach Auswahl des Kriteriums wird definiert, ob das Kriterium weich \u003cbr /\u003e\noder hart ist. Dabei werden „harte“ Kriterien automatisch aus der Warenwirtschaft ermittelt\u003cbr /\u003e\nund einbezogen. „Weiche“ Kriterien hingegen werden frei definiert und mit Werten belegt. In \u003cbr /\u003e\nSumme ergeben „harte“ und „weiche“ Faktoren jeweils 100 % (vgl. Stufe 1 in Abbildung 1).\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Auswahl der Auswertung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswahl-der-auswertung/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswahl-der-auswertung/",
+        "content_html" : "\u003ch3 id=\"auswahl-der-auswertung\"\u003eAuswahl der Auswertung\u003c/h3\u003e\n\u003cp\u003eIm Anschluss an die Definition der Kriterien kann die Auswertung pro Kriterium individuell \u003cbr /\u003e\nfestgelegt werden. Hierfür stehen alle Felder aus den Tabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ zur Auswahl. Dabei können Sie auch \u003cbr /\u003e\nneu hinzugefügte Felder in den benannten Tabellen vergleichen. Wie Sie die Felder in Bezug \u003cbr /\u003e\nzueinander setzen, ist frei definierbar und wird durch eine Formel dargestellt. Bei der Tabelle \u003cbr /\u003e\n„Qualitätsprotokoll“ handelt es sich um eine neue Tabelle, die in der Lieferantenbewertung \u003cbr /\u003e\nenthalten und in den Einkaufsprozess integriert ist.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Punktevergabe",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/punktevergabe/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/punktevergabe/",
+        "content_html" : "\u003ch3 id=\"punktevergabe\"\u003ePunktevergabe\u003c/h3\u003e\n\u003cp\u003ePro Auswertung werden Punkte vergeben. Dazu muss ein Wertebereich und dessen Gesamtpunktzahl angegeben bzw. eingerichtet werden.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Schlüsselung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/schluesselung/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/schluesselung/",
+        "content_html" : "\u003ch3 id=\"schlüsselung\"\u003eSchlüsselung\u003c/h3\u003e\n\u003cp\u003eDie an der Bewertung hinterlegten „weichen“ und „harten“ Bewertungskriterien werden gewichtet. An der Bewertung wird hinterlegt, wie die weichen und harten Kriterien in die Gesamtbewertung einfließen (vgl. Abbildung 1).\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Bewertungsvorraussetzungen",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/bewertungsvorraussetzungen/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/bewertungsvorraussetzungen/",
+        "content_html" : "\u003ch3 id=\"bewertungsvorraussetzungen\"\u003eBewertungsvorraussetzungen\u003c/h3\u003e\n\u003cp\u003eOptional kann an der Bewertung die Auswertungsvoraussetzung für das Umsatzminimum,\u003cbr /\u003e\ndas Bestellungspositionsminimum, das Lieferpositionsminimum und das Archivpositionsminimum definiert werden. Dadurch können beispielsweise Lieferanten mit einem bestimmten\u003cbr /\u003e\nMindestumsatz in der Auswertung berücksichtigt werden.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Klassifizierung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/klassifizierung/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/klassifizierung/",
+        "content_html" : "\u003ch3 id=\"klassifizierung\"\u003eKlassifizierung\u003c/h3\u003e\n\u003cp\u003eDie Klassifizierung wird anhand der definierten Bewertungskriterien und deren Gewichtung \u003cbr /\u003e\nvorgenommen. Dabei erreicht der Lieferant eine Punktzahl über die sich dessen Einstufung \u003cbr /\u003e\n(erreichte Klasse) definiert.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Auswertung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswertung/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswertung/",
+        "content_html" : "\u003ch3 id=\"auswertung\"\u003eAuswertung\u003c/h3\u003e\n\u003cp\u003eZur Ergebnisermittlung stehen drei Auswertungen in Form von Reports stufenartig zur Verfügung:\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Einrichtung der Bewertungen",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/einrichtung-der-bewertungen/",
+        "url" : "https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/einrichtung-der-bewertungen/",
+        "content_html" : "\u003ch3 id=\"einrichtung-der-bewertungen\"\u003eEinrichtung der Bewertungen\u003c/h3\u003e\n\u003cp\u003eJede Bewertung lässt sich über einen 5-stufigen Assistenten komfortabel einrichten und im \u003cbr /\u003e\nNachhinein verändern. Der Anwender wird mit Hilfe eines Einrichtungsassistenten durch alle \u003cbr /\u003e\nnotwendigen Schritte zu einer erfolgreichen Einrichtung geführt. Die getätigten Eingaben werden dabei teilweise einer Plausibilitätsprüfung unterzogen.\u003c/p\u003e\n"
+    }
+    ]
+}

@@ -36,8 +36,7 @@ Determination and evaluation of a complaint rate through the integration of the 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/</guid>
-        <description>Weighting The weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In
-In total, 100 % is assigned in each case (cf. Figure 1).
+        <description>Weighting The weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In In total, 100 % is assigned in each case (cf. Figure 1).
 Figure 1: Methods for supplier evaluation</description>
       </item>
       
@@ -48,9 +47,7 @@ Figure 1: Methods for supplier evaluation</description>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/</guid>
         <description>Criteria The selection of the relevant evaluation criteria of an object is summarized in a criteria pool.
-summarized. Such objects can be, for example, suppliers, supplier groups,
-articles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft
-or hard. Hard&amp;quot; criteria are automatically determined and included from the merchandise management
+summarized. Such objects can be, for example, suppliers, supplier groups, articles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft or hard. Hard&amp;quot; criteria are automatically determined and included from the merchandise management
 and included. &amp;ldquo;Soft&amp;rdquo; criteria, on the other hand, are freely defined and assigned values.</description>
       </item>
       
@@ -60,10 +57,7 @@ and included. &amp;ldquo;Soft&amp;rdquo; criteria, on the other hand, are freely
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/</guid>
-        <description>Selection of evaluation Following the definition of the criteria, the evaluation per criterion can be defined individually.
-can be defined individually for each criterion. All fields from the tables &amp;ldquo;Purchasing line&amp;rdquo;, &amp;ldquo;Purchasing delivery line&amp;rdquo;, &amp;ldquo;Purchasing line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo; are available for selection. You can also
-compare newly added fields in the named tables. How you relate the fields to each other
-to each other is freely definable and is represented by a formula.</description>
+        <description>Selection of evaluation Following the definition of the criteria, the evaluation per criterion can be defined individually. can be defined individually for each criterion. All fields from the tables &amp;ldquo;Purchasing line&amp;rdquo;, &amp;ldquo;Purchasing delivery line&amp;rdquo;, &amp;ldquo;Purchasing line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo; are available for selection. You can also compare newly added fields in the named tables. How you relate the fields to each other to each other is freely definable and is represented by a formula.</description>
       </item>
       
       <item>
@@ -101,9 +95,7 @@ minimum sales can be taken into account in the evaluation.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/</guid>
-        <description>Classification The classification is made on the basis of the defined evaluation criteria and their weighting.
-is carried out. In the process, the supplier achieves a number of points by which its classification is defined.
-(achieved class) is defined.</description>
+        <description>Classification The classification is made on the basis of the defined evaluation criteria and their weighting. is carried out. In the process, the supplier achieves a number of points by which its classification is defined. (achieved class) is defined.</description>
       </item>
       
       <item>
@@ -121,9 +113,7 @@ is carried out. In the process, the supplier achieves a number of points by whic
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</guid>
-        <description>Ratings setup Each rating can be conveniently set up via a 5-step wizard and changed afterwards.
-and can be changed afterwards. With the help of a setup wizard, the user is guided through all the necessary
-necessary steps for a successful setup. The entries made are partially subjected to a plausibility check.</description>
+        <description>Ratings setup Each rating can be conveniently set up via a 5-step wizard and changed afterwards. and can be changed afterwards. With the help of a setup wizard, the user is guided through all the necessary necessary steps for a successful setup. The entries made are partially subjected to a plausibility check.</description>
       </item>
       
     

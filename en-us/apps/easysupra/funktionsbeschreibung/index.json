@@ -11,7 +11,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/",
         "url" : "https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/auszuwertende-daten/",
-        "content_html" : "\u003ch3 id=\"data-to-be-evaluated\"\u003eData to be evaluated\u003c/h3\u003e\n\u003cp\u003eAfter the setup of the supplier evaluation(s) is completed, this\u003cbr /\u003e\nchapter describes how and at which points in Dynamics 365 Business Central the data is\u003cbr /\u003e\nthat will later be evaluated based on the ratings that have been set up. During the\u003cbr /\u003e\nCollection of \u0026ldquo;soft\u0026rdquo; and \u0026ldquo;hard\u0026rdquo; factors, different factors are used.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"data-to-be-evaluated\"\u003eData to be evaluated\u003c/h3\u003e\n\u003cp\u003eAfter the setup of the supplier evaluation(s) is completed, this \u003cbr /\u003e\nchapter describes how and at which points in Dynamics 365 Business Central the data is \u003cbr /\u003e\nthat will later be evaluated based on the ratings that have been set up. During the \u003cbr /\u003e\nCollection of \u0026ldquo;soft\u0026rdquo; and \u0026ldquo;hard\u0026rdquo; factors, different factors are used.\u003c/p\u003e\n"
     },
     {
         "title" : "Evaluation",
@@ -27,7 +27,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/",
         "url" : "https://docs.belware.de/en-us/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/",
-        "content_html" : "\u003ch3 id=\"setup-wizard\"\u003eSetup Wizard\u003c/h3\u003e\n\u003cp\u003eThe setup wizard is used to create new and edit existing supplier evaluations. It is opened via the menu item \u0026ldquo;easySUPRA setup wizard\u0026rdquo;. Users are guided through the setup process in five steps with the help of the wizard. These five steps are described in more detail in the following sections in the form of an activity guide.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"setup-wizard\"\u003eSetup Wizard\u003c/h3\u003e\n\u003cp\u003eThe setup wizard is used to create new and edit existing supplier evaluations. It is opened via the menu item \u0026ldquo;Easy Supra setup wizard\u0026rdquo;. Users are guided through the setup process in five steps with the help of the wizard. These five steps are described in more detail in the following sections in the form of an activity guide.\u003c/p\u003e\n"
     },
     {
         "title" : "Import / Export",
