@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Evaluation on Connector 365 Online Help",
+    "description": "Recent content in Evaluation on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/index.json",
+    "items" : [
+    {
+        "title" : "Rating - Setup",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/",
+        "content_html" : "\u003ch3 id=\"rating---setup\"\u003eRating - Setup\u003c/h3\u003e\n\u003cp\u003eThis evaluation shows the compilation of the supplier evaluation and thus provides you with an overview of the entire facility. \u003cbr /\u003e\nyou an overview of the entire facility. The breakdown of the \u0026ldquo;hard\u0026rdquo; and \u003cbr /\u003e\nof the \u0026ldquo;hard\u0026rdquo; and \u0026ldquo;soft\u0026rdquo; criteria is clearly displayed. This makes it possible for every user to\u003cbr /\u003e\ncomprehensible how the selected supplier rating is composed. This \u003cbr /\u003e\noverview can vary from one supplier rating to another (e.g. service provider \u003cbr /\u003e\n(e.g. service provider, carrier, hardware manufacturer, software manufacturer). This report \u003cbr /\u003e\ncan be used to train new employees, to inform audits about current processes or to present the composition of their rating to certain suppliers.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Valuation - Vendor list",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/",
+        "content_html" : "\u003ch3 id=\"valuation---vendor-list\"\u003eValuation - Vendor list\u003c/h3\u003e\n\u003cp\u003eAn overview shows the classification of all assigned suppliers per supplier rating. \u003cbr /\u003e\nsuppliers. This clarifies the performance of an individual supplier, as well as illustrating the achieved ratio to others.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Valuation - Vendor individual",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/",
+        "url" : "https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/",
+        "content_html" : "\u003ch3 id=\"valuation---vendor-individual\"\u003eValuation - Vendor individual\u003c/h3\u003e\n\u003cp\u003eHere, the focus is on the exact composition of the classification. In this way \u003cbr /\u003e\ncan be traced in detail how the classification was arrived at. This \u003cbr /\u003e\nevaluation illustrates the strengths and weaknesses of an individual supplier, \u003cbr /\u003e\nrelated to individual business processes.\u003c/p\u003e\n"
+    }
+    ]
+}

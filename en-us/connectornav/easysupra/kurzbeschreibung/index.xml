@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brief description / overview on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/</link>
+    <description>Recent content in Brief description / overview on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Core functionalities</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kernfunktionalitaeten/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kernfunktionalitaeten/</guid>
+        <description>Core functionalities The core functionalities can be summarized as follows:
+Complete integration in Microsoft Dynamics 365 Business Central (from NAV 4.x)
+Flexible evaluation of &amp;ldquo;hard&amp;rdquo; facts from the enterprise resource planning area
+Evaluation of freely definable &amp;ldquo;soft&amp;rdquo; criteria
+Free weighting of all criteria and criteria groups
+Definition and delimitation of different supplier groups
+Delimitation of the articles to be evaluated from category to variant
+Determination and evaluation of a complaint rate through the integration of the complaint module</description>
+      </item>
+      
+      <item>
+        <title>Weighting</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/</guid>
+        <description>Weighting The weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In In total, 100 % is assigned in each case (cf. Figure 1).
+Figure 1: Methods for supplier evaluation</description>
+      </item>
+      
+      <item>
+        <title>Criteria</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/</guid>
+        <description>Criteria The selection of the relevant evaluation criteria of an object is summarized in a criteria pool.
+summarized. Such objects can be, for example, suppliers, supplier groups, articles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft or hard. Hard&amp;quot; criteria are automatically determined and included from the merchandise management
+and included. &amp;ldquo;Soft&amp;rdquo; criteria, on the other hand, are freely defined and assigned values.</description>
+      </item>
+      
+      <item>
+        <title>Selection of evaluation</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/</guid>
+        <description>Selection of evaluation Following the definition of the criteria, the evaluation per criterion can be defined individually. can be defined individually for each criterion. All fields from the tables &amp;ldquo;Purchasing line&amp;rdquo;, &amp;ldquo;Purchasing delivery line&amp;rdquo;, &amp;ldquo;Purchasing line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo; are available for selection. You can also compare newly added fields in the named tables. How you relate the fields to each other to each other is freely definable and is represented by a formula.</description>
+      </item>
+      
+      <item>
+        <title>Scoring</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/punktevergabe/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/punktevergabe/</guid>
+        <description>Scoring Points are assigned per evaluation. For this purpose, a value range and its total number of points must be specified or set up.</description>
+      </item>
+      
+      <item>
+        <title>Keying</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/schluesselung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/schluesselung/</guid>
+        <description>Keying The &amp;ldquo;soft&amp;rdquo; and &amp;ldquo;hard&amp;rdquo; evaluation criteria deposited at the evaluation are weighted. The evaluation shows how the soft and hard criteria are included in the overall evaluation (see Figure 1).</description>
+      </item>
+      
+      <item>
+        <title>Evaluation requirements</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/bewertungsvorraussetzungen/</guid>
+        <description>Evaluation requirements Optionally, the evaluation requirement for the sales minimum,
+the purchase order item minimum, the delivery item minimum and the archive item minimum. This means, for example, that suppliers with a certain minimum
+minimum sales can be taken into account in the evaluation.</description>
+      </item>
+      
+      <item>
+        <title>Classification</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/</guid>
+        <description>Classification The classification is made on the basis of the defined evaluation criteria and their weighting. is carried out. In the process, the supplier achieves a number of points by which its classification is defined. (achieved class) is defined.</description>
+      </item>
+      
+      <item>
+        <title>Evaluation</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/</guid>
+        <description>Evaluation </description>
+      </item>
+      
+      <item>
+        <title>Ratings setup</title>
+        <link>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</guid>
+        <description>Ratings setup Each rating can be conveniently set up via a 5-step wizard and changed afterwards. and can be changed afterwards. With the help of a setup wizard, the user is guided through all the necessary necessary steps for a successful setup. The entries made are partially subjected to a plausibility check.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
