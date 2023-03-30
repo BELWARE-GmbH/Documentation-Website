@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaluations on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/</link>
+    <description>Recent content in Evaluations on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Valuation - Setup</title>
+        <link>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/</guid>
+        <description>Valuation - Setup This evaluation shows the compilation of the supplier evaluation and thus provides you with an overview of the entire facility. you an overview of the entire facility. The breakdown of the &amp;ldquo;hard&amp;rdquo; and of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria is clearly displayed. This makes it possible for every user to
+comprehensible how the selected supplier rating is composed. This overview can vary from one supplier rating to another (e.</description>
+      </item>
+      
+      <item>
+        <title>Valuation - Vendor List</title>
+        <link>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</guid>
+        <description>Valuation - Vendor List An overview gives per supplier rating the classification of all assigned suppliers. This clarifies the performance of an individual supplier, as well as illustrating the achieved ratio to others.</description>
+      </item>
+      
+      <item>
+        <title>Valuation - Vendor individual</title>
+        <link>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
+        <description>Valuation - Vendor individual Here the focus is on the exact composition of the classification. So it is possible to detailed understanding of how the classification was arrived at. This evaluation illustrates the strengths and weaknesses of an individual vendor, related to individual business processes.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

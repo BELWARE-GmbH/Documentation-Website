@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtungsassistent on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/</link>
+    <description>Recent content in Einrichtungsassistent on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Willkommen</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/willkommen/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/willkommen/</guid>
+        <description>Willkommen Abbildung 3: Einrichtungsassistent - Willkommen
+Um sich eine Beispiel-Einrichtung zu importieren, muss dieses Feld ausgewählt
+werden.</description>
+      </item>
+      
+      <item>
+        <title>Stufe 1</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</guid>
+        <description>Stufe 1 Abbildung 4: Einrichtungsassistent - Stufe 1
+Wählen Sie über den Assis Edit neben der Beschreibung „Was wollen Sie bewerten?“ (vgl. Abbildung 4) eine bestehende Bewertung aus oder legen Sie, in der nun geöffneten Liste eine neue Bewertung via „Neu“ an (vgl. Abbildung 5).
+Abbildung 5: Vorhandene Bewertungen
+Legen Sie für die Bewertung einen Gültigkeitszeitraum über die Felder „Gültig von“ und „Gültig bis“ an. Der Gültigkeitszeitraum berücksichtigt ebenfalls die Buchungszeiträume der vorhandenen Geschäftsprozesse.</description>
+      </item>
+      
+      <item>
+        <title>Stufe 2</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</guid>
+        <description>Stufe 2 Abbildung 7: Einrichtungsassistent – Stufe 2
+Die farblich rot gehaltenen Ziffern entsprechen der gewählten Gewichtung der jeweiligen Kriterienkategorie (vgl. Abbildung 7). Mit einem Klick auf den AssistEdit gelangen Sie zur Einrichtung der gewünschten Kriterien. Die folgende Abbildung 8 zeigt exemplarisch die Einrichtung der „harten“ Faktoren.
+Abbildung 8: Kriterienauswahl am Beispiel der „harten“ Kriterien
+Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen Kriteriencode,
+eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</description>
+      </item>
+      
+      <item>
+        <title>Stufe 3</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
+        <description>Stufe 3 In Stufe 3 definieren Sie die Punktevergabe der harten und weichen Kriterien mit einem Klick
+auf die rot gekennzeichneten Felder.
+Abbildung 14: Einrichtungsassistent – Stufe 3
+(Kontrolle/Modifikation d. Punktvergabe)
+Klicken Sie zunächst auf die rote Zahl der harten Kriterien. Es öffnet sich eine Maske, in der
+alle zugeteilten Kriterien erscheinen. Verteilen Sie in dieser Maske die zu vergebenden 100
+Punkte über einen beliebigen Schlüssel (vgl. Abbildung 15).
+Abbildung 15: Zuweisung von 100 Punkten</description>
+      </item>
+      
+      <item>
+        <title>Stufe 4</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-4/</guid>
+        <description>Stufe 4 eisen Sie der Lieferantenbewertung die gewünschten Kreditoren zu (vgl. Abbildung 16). Klicken Sie hierzu auf den kursiv roten Text „Kreditorzuweisung nicht abgeschlossen“.
+Abbildung 16: Einrichtungsassistent – Stufe 4 (Zuweisung Kreditoren)
+Es öffnet sich eine Übersicht der bereits zugeordneten Kreditoren. Sie haben hier die Möglichkeit, über die Schaltflächen „Kreditor hinzufügen“ und „Kreditor löschen“ weitere Kreditoren zuzuordnen oder bereits zugeordnete Kreditoren zu entfernen (vgl. Abbildung 17).
+Abbildung 17: Liste der zugeordneten Kreditoren</description>
+      </item>
+      
+      <item>
+        <title>Stufe 5</title>
+        <link>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
+        <description>Stufe 5 Bestätigen Sie im Assistenten mit „Weiter“, um zum letzten Einrichtungsschritt zu gelangen.
+Richten Sie in dem Fenster die Klassifizierung der Bewertung ein (vgl. Abbildung 18). Klicken
+Sie hierzu auf den rot kursiven Text „Klassifizierung nicht abgeschlossen“.
+Abbildung 18: Einrichtungsassistent – Stufe 5
+(Definition der Klassifizierung)
+Drücken Sie auf die Schaltfläche „Neu“, um eine neue Klassifizierung anzulegen. Nachfolgend wird exemplarisch der Bewertungscode „TESTBEWERT“ ausgewählt. Die Kreditoren
+werden hier nun beispielhaft mit den eingerichteten Klassifizierungscodes „A“, „B“, „C“ oder</description>
+      </item>
+      
+    
+  </channel>
+</rss>
