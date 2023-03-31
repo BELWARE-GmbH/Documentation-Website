@@ -21,10 +21,10 @@
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, the app can be tested free of charge for 30 days.
-In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
-Your costs:
-Monthly subscription incl. maintenance per environment with annual payment and term* 0,90€ Monthly Subscription incl. maintenance per environment with monthly payment and term* 1,20€ *The subscription is for one environment within a tenant.</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -33,8 +33,10 @@ Monthly subscription incl. maintenance per environment with annual payment and t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; purchase OnPrem You have the possibility to test our Connector 365 Mail Subject Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
     

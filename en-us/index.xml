@@ -1026,7 +1026,7 @@ The fax number used is selected according to the following logic: If a different
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</guid>
-        <description>Setup To set the destination address logic as desired via the Connector 365 Addresse Control app, open one of the Report Selections pages.
+        <description>Setup To set the destination address logic as desired via the Connector 365 Addressee Control app, open one of the Report Selections pages.
 Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
       </item>
       
@@ -1075,12 +1075,28 @@ Actions Mailen This action sends the e-mail. PDF This action creates the PDF. St
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; purchase AppSource The Connector 365 Addressee Control App is available in the Microsoft AppSource.
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The Connector 365 CTI for STARFACE App is available in the Microsoft AppSource.
-After the Connector 365 CTI for STARFACE app is installed, you have the option to get started immediately and use the app for free. However, in the free version you are limited to a single user in the setup. Outside of this limitation, however, you can take full advantage of the Connector 365 CTI for STARFACE App options.</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1104,10 +1120,10 @@ The following options are available to you as a registered E-POST customer:</des
         
         <guid>https://docs.belware.de/en-us/apps/easy-batch/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, the app can be tested free of charge for 30 days.
-In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
-Your costs:
-Monthly subscription incl. maintenance per environment with annual payment and term* 5,90€ Monthly subscription incl. maintenance per environment with monthly payment and term* 7,70€ *The subscription is for one environment within a tenant.</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1117,11 +1133,10 @@ Monthly subscription incl. maintenance per environment with annual payment and t
         
         <guid>https://docs.belware.de/en-us/apps/easy-document-pin/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, a user can use the App completely free.
-In case that more Users want to use the function, you can simply order more licenses via our form.
-Your costs:
-Subscription incl. maintenance* 6,90€/User Subscription incl. maintenance* 8,30€/User We reserve the right to change prices in the event of functional enhancements.
-To the formConnector 365 Easy Document Pin is available for the following BC licensing:</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1131,12 +1146,10 @@ To the formConnector 365 Easy Document Pin is available for the following BC li
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, a user can use the App completely free.
-In case that more Users want to use the function, you can simply order more licenses via our form.
-Your costs:
-Subscription incl. maintenance* 0,90€ *billed either monthly, quarterly or annually
-To the formConnector 365 Mail Sender Plus is available for the following BC licensing:
-SaaS Essential SaaS Premium </description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1146,11 +1159,10 @@ SaaS Essential SaaS Premium </description>
         
         <guid>https://docs.belware.de/en-us/apps/mail-experience-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, a user can use the App completely free.
-In case that more Users want to use the function, you can simply order more licenses via our form.
-Your costs:
-Subscription incl. maintenance* 2,50€/User Subscription incl. maintenance* 3,25€/User We reserve the right to change prices in the event of functional enhancements.
-To the formConnector 365 Mail Experience Plus is available for the following BC licensing:</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1160,12 +1172,10 @@ To the formConnector 365 Mail Experience Plus is available for the following BC
         
         <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, a user can use the App completely free.
-In case that more Users want to use the function, you can simply order more licenses via our form.
-Your costs:
-Subscription incl. maintenance* 0,90€/Sender *billed either monthly, quarterly or annually
-To the formConnector 365 Mail Sender Plus is available for the following BC licensing:
-SaaS Essential SaaS Premium </description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1175,10 +1185,10 @@ SaaS Essential SaaS Premium </description>
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available in the Microsoft AppSource.
-After downloading, the app can be tested free of charge for 30 days.
-In case you want more users to use the app&amp;rsquo;s features, you can purchase additional licenses for a fee using our form.
-Your costs:
-Monthly subscription incl. maintenance per environment with annual payment and term* 0,90€ Monthly Subscription incl. maintenance per environment with monthly payment and term* 1,20€ *The subscription is for one environment within a tenant.</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1188,10 +1198,10 @@ Monthly subscription incl. maintenance per environment with annual payment and t
         
         <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available on Microsoft AppSource.
-The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
-If you like the app you order licenses using our order form.
-The licensing is based on the user count, regarding all users with either a Team Member or Essentials license will be counted.
-order now</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1201,10 +1211,10 @@ order now</description>
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The app is available on Microsoft AppSource.
-The app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
-If you like the app you order licenses using our order form.
-The licensing is done per production environment. 3 additional sandbox environment are encluded as well.
-order now</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1214,10 +1224,10 @@ order now</description>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; purchase AppSource The App is available on Microsoft AppSource.
-After downloading, the app is available to you free of charge for 5 processes.
-Once these are reached, you have the option to order the app directly.
-Your costs:
-Monthly subscription incl. maintenance per environment with annual payment and term* 19,90€ Monthly subscription incl. maintenance per environment with monthly payment and term* 25,90€ *The subscription is for one environment within a tenant.</description>
+After installation the full functionality of the app can be used for 30 days free of charge.
+If the app suits your requirements you can purchase full licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -1450,8 +1460,19 @@ There are many places that cause an XRechnung to not conform to the schema. For 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addresse Control App from us by mail, so that you can use the app, these must first be published and then installed.
-Publish the Connector 365 Base &amp;amp; Address Control App Publishing the Connector 365 Base &amp;amp; Address Control App is done via the Business Central Administration Shell. First, transfer the files we send you to the server where your Business Central instance is running.</description>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addressee Control App from us by mail. These must first be published and then installed.
+Publish the Connector 365 Base &amp;amp; Addressee Control app Publishing the Connector 365 Base &amp;amp; Addressee Control app is done via the Business Central Administration Shell. First, transfer the files we send you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a trial period you will receive the necessary runtime packages from us for a trial period of 30 days.
+If you want to buy the software immediately we will send you the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1470,8 +1491,9 @@ Publishing of the Connector 365 Base &amp;amp; CTI for STARFACE App the publishi
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 CTI for STARFACE App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1490,8 +1512,9 @@ Publishing of the Connector 365 Base &amp;amp; E-POST App the publishing of the 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 E-POST App* without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1510,8 +1533,10 @@ Publishing of the Connector 365 Base &amp;amp; Easy Batch App the publishing of 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-batch/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Easy Batch App without obligation or to purchase it directly. For this we need some information from you..
-To the formIf you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1530,8 +1555,9 @@ Publishing of the Connector 365 Base &amp;amp; Easy Document Pin App the publish
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-document-pin/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Easy Document Pin App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1550,8 +1576,10 @@ Publishing of the Connector 365 Base &amp;amp; Mail Attachment Plus App the publ
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1570,8 +1598,10 @@ Publishing of the Connector 365 Base &amp;amp; Mail Experience Plus App the publ
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-experience-plus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Experience Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1590,8 +1620,10 @@ Publishing of the Connector 365 Base &amp;amp; Mail Sender Plus App the publishi
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-sender-plus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Mail Sender Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1610,8 +1642,10 @@ Publishing of the Connector 365 Base &amp;amp; Mail Subject Plus App the publish
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; purchase OnPrem You have the possibility to test our Connector 365 Mail Subject Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1630,8 +1664,10 @@ Publishing of the Connector 365 Base &amp;amp; PdfPaper App the publishing of th
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 PdfPaper App without obligation or to purchase it directly. For this we need some information from you.
-Zum FormularIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1650,9 +1686,10 @@ Publishing of the Connector 365 Base &amp;amp; Report Layout Plus App the publis
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 Report Layout App without obligation or to purchase it directly. For this we need some information from you.
-To the formThe app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
-If you like the app you order licenses using our order form.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1661,10 +1698,10 @@ If you like the app you order licenses using our order form.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem Test You have the possibility to test our Connector 365 SMTP2FAX App without obligation or to purchase it directly. For this we need some information from you.
-To the formThe app has a testing period of 30 days, from first installation. Within this period you can use the app in its entirety.
-If you like the app you order licenses using our order form.
-The licensing is made per production environment.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>
@@ -1683,8 +1720,10 @@ Publishing of the Connector 365 Base &amp;amp; XRechnung App the publishing of t
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Mail Attachment Plus App without obligation or to purchase it directly. For this we need some information from you.
-To the formIf you wish a test phase, you will receive the desired objects for one user and for a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+Before ordering, you can find the costs incurred in the price list provided on our website.
+To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
+If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
       
       <item>

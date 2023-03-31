@@ -31,8 +31,8 @@ After submitting your contact information, you will be prompted to choose a lang
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addresse Control App from us by mail, so that you can use the app, these must first be published and then installed.
-Publish the Connector 365 Base &amp;amp; Address Control App Publishing the Connector 365 Base &amp;amp; Address Control App is done via the Business Central Administration Shell. First, transfer the files we send you to the server where your Business Central instance is running.</description>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addressee Control App from us by mail. These must first be published and then installed.
+Publish the Connector 365 Base &amp;amp; Addressee Control app Publishing the Connector 365 Base &amp;amp; Addressee Control app is done via the Business Central Administration Shell. First, transfer the files we send you to the server where your Business Central instance is running.</description>
       </item>
       
     
