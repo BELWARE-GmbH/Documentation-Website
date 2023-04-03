@@ -5851,7 +5851,7 @@ if (!doNotTrack) {
 <p>Mit der Default-Funktion werden die Felder com_job bis com_form mittels des Servernamens automatisch eingetragen. Die Funktion DocImport erzeugt für alle Dokumente, die im Dokumenteneingangsverzeichnis hinterlegt sind, einen Eintrag in der Jobliste. Somit können externe Dokumente in Microsoft Dynamics NAV zugänglich gemacht werden.</p>
 <h5 id="register-allgemein">Register Allgemein</h5>
 <p><p class="md__image">
-  <img src="/images/connectornav/einrichtung_register_allgemein.png" alt=""  />
+  <img src="/images/connectornav/einrichtung_register_allgemein2.png" alt=""  />
 </p><center><em>Connector NAV Einrichtung, Register Allgemein</em></center></p>
 <p>In der Connector NAV-Einrichtung werden alle wichtigen Einstellungen einmalig hinterlegt.</p>
 <table>
@@ -5897,6 +5897,10 @@ if (!doNotTrack) {
 <tr>
 <td>Pfad (com_form)</td>
 <td>Briefpapiere (PDF-Hintergrund-Layout) können hier abgelegt werden um mit dem Mergeprogramm einem Dokument beigefügt zu werden. Gültig beim Einsatz des Produktes iPaper.</td>
+</tr>
+<tr>
+<td>Dateiablageort</td>
+<td>Über die Auswahl wird festgelegt, ob und wo die über den Connector erzeugten Belegdateien gespeichert werden. Optionen sind:<br />- leer: Belegdateien werden nicht archiviert<br />- Dateisystem: Belegdateien werden im lokalen Dateisystem gespeichert<br />- Datenbank: Belegdateien werden in der NAV-Datenbank gespeichert<br />- Datenbank + Dateisystem: Belegdateien werden im lokalen Dateisystem und der NAV-Datenbank archiviert</td>
 </tr>
 <tr>
 <td>Jobkennung</td>

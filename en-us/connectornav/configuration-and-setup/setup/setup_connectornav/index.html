@@ -5935,7 +5935,7 @@ if (!doNotTrack) {
 <p>Using the default funktion the fields com_job to com_form are via the server name automatically listed. The funktion DocImport creates for all documents listed in the document entry register an entry in the job list. This way external documents can be made acessable in Microsoft Dynamics NAV.</p>
 <h5 id="register-general">Register general</h5>
 <p><p class="md__image">
-  <img src="/images/connectornav/einrichtung_register_allgemein.png" alt=""  />
+  <img src="/images/connectornav/einrichtung_register_allgemein2.png" alt=""  />
 </p><center><em>Connector NAV setup, Register general</em></center></p>
 <p>All imporant settings are deposited in the Connector NAV setup once.</p>
 <table>
@@ -5983,7 +5983,11 @@ if (!doNotTrack) {
 <td>Letter papers (PDF background layout) can be stored here to be attached to a document with the merge programm. Valid when using a product iPaper.</td>
 </tr>
 <tr>
-<td>JobId</td>
+<td>Document File Location</td>
+<td>The selection determines where report files created by the Connector are archived. Options are:<br />- void: the files don&rsquo;t get archived<br />- Filesystem: the files get stored in the local filesystem<br />- Database: the files get stored in the NAV database<br />- Database + Filesystem: the files get archived in both the NAV database and the local filesystem</td>
+</tr>
+<tr>
+<td>Jobmark</td>
 <td>The extension of the job file that your communication software suppoerts is stored here. (OfficeMaster, Twinfax, Faxmaker, Tobit, C3000)</td>
 </tr>
 <tr>
