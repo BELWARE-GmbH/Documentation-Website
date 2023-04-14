@@ -6,6 +6,14 @@
     "feed_url" : "https://docs.belware.de/de-de/apps/base/index.json",
     "items" : [
     {
+        "title" : "Neu und geplant",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/base/new-and-planned/",
+        "url" : "https://docs.belware.de/de-de/apps/base/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-2500---13042023\"\u003eVersion 2.5.0.0 - 13.04.2023\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImplementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.\u003c/li\u003e\n\u003cli\u003eImplementierung von API Seiten zur Nutzung von Power Automate.\u003c/li\u003e\n\u003cli\u003eUnterstützung der App Mail Scenarios Plus\u003c/li\u003e\n\u003cli\u003eAnpassung der Berechtigungssätze:\n\u003cul\u003e\n\u003cli\u003eCON365, Edit enthält nun den Berechtigungsstz CON365, View\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
         "title" : "Erste Schritte",
         "date_published" : "2020-02-28T00:00:00+09:00",
         "date_modified" : "2020-02-28T00:00:00+09:00",
