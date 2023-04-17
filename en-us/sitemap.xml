@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/</loc>
+    <lastmod>2020-07-04T11:13:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/fax/faxmaker/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2328,6 +2343,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -3178,6 +3208,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/installation/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/onprem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/onprem/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/test-purchase/onprem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/onprem/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3853,6 +3913,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/test-purchase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/epost/dialog/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4123,6 +4198,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
   </url>
@@ -4184,6 +4274,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/further_targets/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</loc>
+    <lastmod>2022-07-04T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/</loc>
+    <lastmod>2022-07-04T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/"
                 />
   </url>
   
@@ -5113,6 +5233,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/installation/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -5803,6 +5938,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/archive/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -6045,6 +6195,21 @@
   <url>
     <loc>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/multiple_recipients/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/connector-setup/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/connector-setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/connector-setup/"
+                />
   </url>
   
   <url>

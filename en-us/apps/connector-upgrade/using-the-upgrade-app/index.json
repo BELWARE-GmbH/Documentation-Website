@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Using the Connector 365 Upgrade App on Connector 365 Online Help",
+    "description": "Recent content in Using the Connector 365 Upgrade App on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/index.json",
+    "items" : [
+    {
+        "title" : "Transfer process",
+        "date_published" : "2022-07-04T00:00:00-05:00",
+        "date_modified" : "2022-07-04T00:00:00-05:00",
+        "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/",
+        "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/",
+        "content_html" : "\u003ch3 id=\"performing-the-transfer-process\"\u003ePerforming the transfer process\u003c/h3\u003e\n\u003cp\u003ePressing the Transfer button starts the transfer of data from the Connector NAV/BC feedback table to the Connector 365 Apps feedback table, the transfer of the old job list to the new activity list and the porting of the contents of the communication matrix to the document layouts.\u003cbr /\u003e\nThe process runs in the background. A message informs about the successful completion.\u003c/p\u003e\n\u003cp\u003eIf the process is terminated prematurely, e.g. due to server problems, it can be continued by pressing the button again. I.e. the process is not completely restarted, but continues after the last successfully transferred data set. Even in case of multiple unexpected aborts, this procedure can be repeated until all data sets have been successfully transferred.\u003c/p\u003e\n\u003cp\u003eIf the transfer of all data records from the legacy system has already been carried out successfully, the button has no function.\u003c/p\u003e\n"
+    }
+    ]
+}

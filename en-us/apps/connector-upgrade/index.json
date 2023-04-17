@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Connector Upgrade on Connector 365 Online Help",
+    "description": "Recent content in Connector Upgrade on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/connector-upgrade/index.json",
+    "items" : [
+    {
+        "title" : "First Steps",
+        "date_published" : "2020-02-28T00:00:00+09:00",
+        "date_modified" : "2020-02-28T00:00:00+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/",
+        "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/",
+        "content_html" : "\u003ch3 id=\"getting-started-with-the-connector-365-upgrade-app\"\u003eGetting started with the Connector 365 Upgrade App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to install the Connector 365 Upgrade App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Using the Connector 365 Upgrade App",
+        "date_published" : "2022-07-04T00:00:00-05:00",
+        "date_modified" : "2022-07-04T00:00:00-05:00",
+        "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/",
+        "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/",
+        "content_html" : "\u003ch3 id=\"using-the-connector-365-upgrade-app\"\u003eUsing the Connector 365 Upgrade App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to use the Connector 365 Upgrade App correctly.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

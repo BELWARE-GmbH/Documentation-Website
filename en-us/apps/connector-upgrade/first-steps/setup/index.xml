@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Connector 365 Setup</title>
+        <link>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/connector-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/connector-setup/</guid>
+        <description>Upgrade from the Connector 365 setup Setup in the usual sense is not necessary for the Upgrade App. However, the control that triggers the data transfer is located in the Connector 365 setup.
+You can use the Business Central search function to access the Connector 365 setup:
+In the &amp;ldquo;Actions&amp;rdquo; menu on this page
+the button &amp;ldquo;Transfer&amp;rdquo;
+The exact functionality of this button is explained in Using the Connector 365 Upgrade App.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

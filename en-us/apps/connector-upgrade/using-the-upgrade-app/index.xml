@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Using the Connector 365 Upgrade App on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/</link>
+    <description>Recent content in Using the Connector 365 Upgrade App on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 -0500</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Transfer process</title>
+        <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</link>
+        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</guid>
+        <description>Performing the transfer process Pressing the Transfer button starts the transfer of data from the Connector NAV/BC feedback table to the Connector 365 Apps feedback table, the transfer of the old job list to the new activity list and the porting of the contents of the communication matrix to the document layouts.
+The process runs in the background. A message informs about the successful completion.
+If the process is terminated prematurely, e.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

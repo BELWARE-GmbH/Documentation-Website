@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Testing & Purchasing on Connector 365 Online Help",
+    "description": "Recent content in Testing & Purchasing on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/index.json",
+    "items" : [
+    {
+        "title" : "OnPrem",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/onprem/",
+        "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/onprem/",
+        "content_html" : "\u003ch3 id=\"test--purchase\"\u003eTest \u0026amp; Purchase\u003c/h3\u003e\n\u003ch3 id=\"onprem\"\u003eOnPrem\u003c/h3\u003e\n\u003cp\u003eIt is not necessary to purchase the app, as it is only suitable for existing customers who had a system in use up to BC14, already used Connector NAV/BC on it and then switched to a newer system with Connector 365 apps.\u003cbr /\u003e\nFor this customer group, the use of the app is included in the maintenance costs.\u003cbr /\u003e\nThis also eliminates the need for a test phase, especially since the app is ideally only used once.\u003c/p\u003e\n\u003cp\u003eIf required, the app will be made available to you as a runtime package suitable for your system.\u003c/p\u003e\n\u003cp\u003eAfter that, you can start with the \u003ca href=\"/en-us/apps/connector-upgrade/first-steps/installation/onprem/\"\u003einstallation\u003c/a\u003e of the Connector 365 Upgrade App.\u003c/p\u003e\n\u003cp\u003eIf any questions arise in advance, please contact \u003ca href=\"/mailto:support@belware.de\"\u003esupport@belware.de\u003c/a\u003e for technical inquiries and \u003ca href=\"/mailto:Info@belware.de\"\u003eInfo@belware.de\u003c/a\u003e for general inquiries such as pricing, expiration or similar.\u003c/p\u003e\n"
+    }
+    ]
+}
