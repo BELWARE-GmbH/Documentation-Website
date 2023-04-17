@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Einrichtung on Connector 365 Online Hilfe",
+    "description": "Recent content in Einrichtung on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/index.json",
+    "items" : [
+    {
+        "title" : "Connector 365 Einrichtung",
+        "date_published" : "2020-02-28T00:00:00+09:00",
+        "date_modified" : "2020-02-28T00:00:00+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/connector-setup/",
+        "url" : "https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/connector-setup/",
+        "content_html" : "\u003ch3 id=\"upgrade-aus-der-connector-365-einrichtung\"\u003eUpgrade aus der Connector 365 Einrichtung\u003c/h3\u003e\n\u003cp\u003eEine Einrichtung im üblichen Sinne ist für die Upgrade App nicht notwendig. Das Bedienelement, das den Datentransfer auslöst, ist allerdings in der Connector 365 Einrichtung untergebracht.\u003c/p\u003e\n\u003cp\u003eÜber die Suchfunktion von Business Central können Sie die Connector 365 Einrichung aufrufen:\u003cbr /\u003e\n\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/Base/suche_connector_einr_de.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eHier finden Sie im Menü \u0026ldquo;Aktionen\u0026rdquo;\u003cbr /\u003e\n\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/Upgrade%20App/connector_einrichtung_aktionen.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eden Button \u0026ldquo;Transfer\u0026rdquo;\u003cbr /\u003e\n\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/Upgrade%20App/connector_einrichtung_transfer.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eDie genaue Funktionsweise dieses Buttons wird erklärt unter \u003ca href=\"/de-de/apps/connector-upgrade/using-the-upgrade-app/\"\u003eNutzung der Connector 365 Upgrade App\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

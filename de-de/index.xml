@@ -986,6 +986,16 @@ Des Weiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weiter
       
       <item>
         <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Entwickelt wurde die Upgrade App für Kunden, die von einem System bis BC14 auf eine neuere Business Central Version umsteigen und dabei auch vom Connector NAV/BC auf die Connector 365 Apps upgraden.
+Da es zwischen dem Connector NAV/BC und den Connector 365 Apps Unterschiede in der technischen Realisierung gibt, ist es nötig, die zum Connector NAV/BC gehörenden Tabellendaten in die neuen Tabellen der Connector 365 Apps zu transferieren.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
         <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
@@ -1561,6 +1571,27 @@ Danach können Sie mit der Installation der Connector 365 Addressee Control App 
       
       <item>
         <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Connector 365 Upgrade App als für Ihr System passendes Runtime-Paket per Mail. Damit Sie die App nutzen können, muss diese zunächst veröffentlicht und anschließend installiert werden.
+Da die App nur notwendig ist, wenn Sie von einem Altsystem mit Connector NAV/BC auf ein System mit Connector 365 Apps umsteigen, wird hier davon ausgegangen, dass die Connector 365 Base App bereits auf Ihrem System installiert ist.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Ein Kauf der App ist nicht notwendig, da sie nur für Bestandskunden geeignet ist, die ein System bis BC14 im Einsatz hatten, darauf bereits den Connector NAV/BC genutzt haben und dann auf ein neueres System mit Connector 365 Apps umgestiegen sind.
+Für diese Kundengruppe ist die Nutzung der App in den Wartungskosten enthalten.
+Eine Testphase erübrigt sich damit ebenfalls, zumal die App im Idealfall nur einmal zum Einsatz kommt.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
         <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/onprem/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1940,6 +1971,17 @@ Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisier
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; SMTP2FAX App per Mail. Damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App Das veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>Transferprozess</title>
+        <link>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</link>
+        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</guid>
+        <description>Durchführen des Transferprozesses Die Betätigung des Transfer-Buttons startet die Übertragung der Daten aus der Rückmeldungstabelle des Connector NAV/BC in die Rückmeldungstabelle der Connector 365 Apps, die Übertragung der alten Jobliste in die neue Aktivitätenliste und die Portierung der Inhalte der Kommunikationsmatrix in die Dokumentlayouts.
+Der Prozess läuft im Hintergrund ab. Über den erfolgreichen Abschluss wird mit einer entsprechenden Meldung informiert.
+Sollte der Prozess z. B. durch Serverprobleme vorzeitig abgebrochen werden, kann er durch nochmalige Betätigung des Buttons fortgesetzt werden.</description>
       </item>
       
       <item>
@@ -2939,6 +2981,19 @@ Einrichtung und Versand </description>
         <description>XRechnung erzeugen Da wir nun den **XRechnungs-**Eintrag für Gilde Jupiter Versicherungs AG für den Jobmodus PDF angelegt haben, können wir aus der markierten Rechnung 103003 über die Schaltfläche PDF eine XRechnung erzeugen.
 Alternativ geht dies auch über die Schaltfläche Stapellauf, insofern der betreffende Eintrag in der Kommunikationsmatrix für den Stapelmodus markiert worden ist:
 Sobald eine der oben genannten Schaltflächen aktiviert worden ist, wird aus der markierten Rechnung eine XRechnung erzeugt.</description>
+      </item>
+      
+      <item>
+        <title>Connector 365 Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/connector-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/connector-setup/</guid>
+        <description>Upgrade aus der Connector 365 Einrichtung Eine Einrichtung im üblichen Sinne ist für die Upgrade App nicht notwendig. Das Bedienelement, das den Datentransfer auslöst, ist allerdings in der Connector 365 Einrichtung untergebracht.
+Über die Suchfunktion von Business Central können Sie die Connector 365 Einrichung aufrufen:
+Hier finden Sie im Menü &amp;ldquo;Aktionen&amp;rdquo;
+den Button &amp;ldquo;Transfer&amp;rdquo;
+Die genaue Funktionsweise dieses Buttons wird erklärt unter Nutzung der Connector 365 Upgrade App.</description>
       </item>
       
       <item>

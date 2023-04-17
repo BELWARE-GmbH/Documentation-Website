@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Nutzung der Connector 365 Upgrade App on Connector 365 Online Hilfe",
+    "description": "Recent content in Nutzung der Connector 365 Upgrade App on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/index.json",
+    "items" : [
+    {
+        "title" : "Transferprozess",
+        "date_published" : "2022-07-04T00:00:00-05:00",
+        "date_modified" : "2022-07-04T00:00:00-05:00",
+        "id" : "https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/",
+        "url" : "https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/",
+        "content_html" : "\u003ch3 id=\"durchführen-des-transferprozesses\"\u003eDurchführen des Transferprozesses\u003c/h3\u003e\n\u003cp\u003eDie Betätigung des Transfer-Buttons startet die Übertragung der Daten aus der Rückmeldungstabelle des Connector NAV/BC in die Rückmeldungstabelle der Connector 365 Apps, die Übertragung der alten Jobliste in die neue Aktivitätenliste und die Portierung der Inhalte der Kommunikationsmatrix in die Dokumentlayouts.\u003cbr /\u003e\nDer Prozess läuft im Hintergrund ab. Über den erfolgreichen Abschluss wird mit einer entsprechenden Meldung informiert.\u003c/p\u003e\n\u003cp\u003eSollte der Prozess z. B. durch Serverprobleme vorzeitig abgebrochen werden, kann er durch nochmalige Betätigung des Buttons fortgesetzt werden. D. h. der Prozess wird nicht komplett neu gestartet, sondern nach dem zuletzt erfolgreich übertragenen Datensatz weitergeführt. Auch bei mehrfachen unerwarteten Abbrüchen kann dieses Vorgehen so oft wiederholt werden, bis alle Datensätze erfolgreich übertragen wurden.\u003c/p\u003e\n\u003cp\u003eWurde die Übertragung aller Datensätze aus dem Altsystem bereits erfolgreich durchgeführt, ist der Button ohne Funktion.\u003c/p\u003e\n"
+    }
+    ]
+}
