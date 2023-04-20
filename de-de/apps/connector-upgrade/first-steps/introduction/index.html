@@ -11077,11 +11077,14 @@ Im Einzelnen werden folgende Daten übertragen:</p>
 <li>Einträge der alten Jobliste in die neue Aktivitätenliste, um archivierte Vorgänge weiterhin verfügbar zu haben</li>
 <li>Einstellungen aus der Kommunikationsmatrix des Connector NAV/BC in die Dokumentlayouts des Business Central Standards</li>
 </ul>
+<p>Dabei wird vorausgesetzt, dass die Tabellendaten des Connector NAV/BC (Tabellen: <em><strong>CON *</strong></em>) aus der Navision/Business Central (&lt;=BC14) in die Datenbank der aktuellen BC-Version übertragen worden sind.</p>
 <h3 id="voraussetzungen">Voraussetzungen</h3>
 <p>Folgende Vorraussetzungen sind für die Installation und Ausführung der <em><strong>Connector-Upgrade</strong></em> Anwendung erforderlich:</p>
 <ul>
-<li>Die <em><strong>Connector 365 Base</strong></em> App ist erfolgreich installiert</li>
-<li>Alle Connector NAV/BC Tabellen der älteren NAV/BC Installation (&lt;=BC14) sind in der SQL-Datenbank der neuen Business Central Version enthalten</li>
+<li>Mindestens die <em><strong>Connector 365 Base</strong></em> App ist erfolgreich installiert. (Empfohlen ist die Installation aller zukünftig zu nutzenden <em><strong>Connector 365 Apps</strong></em> vor dem Upgrade)</li>
+<li>Alle Connector NAV/BC Tabellen der älteren NAV/BC Installation (&lt;=BC14) sind in der SQL-Datenbank der neuen Business Central Version enthalten.</li>
+<li>Der Mandant oder die Mandanten aus der älteren NAV/BC Installation, für die Daten übernommen werden sollen, sind in der neuen Business Central Version vorhanden.</li>
+<li>Bei Wunsch der Übernahme der Connector NAV/BC Kommunikationsmatrix, sollten Debitoren und Kreditoren der älteren Versionen auch in Business Central vorhanden und über die gleichen Nummern ansprechbar sein</li>
 </ul>
 
   </article>
