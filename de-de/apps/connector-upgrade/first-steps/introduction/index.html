@@ -1072,7 +1072,9 @@
 <link rel="stylesheet" href="/css/main.min.css">
 
 
-    <meta name="description" content="" />
+    <link rel="alternate" type="application/rss&#43;xml" title="RSS" href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/index.xml">
+<link rel="alternate" type="application/json" title="JSON" href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/index.json">
+<meta name="description" content="" />
 <meta name="keywords" content="">
 <meta name="created" content="2020-02-28T00:00:00&#43;0900">
 <meta name="modified" content="2020-02-28T00:00:00&#43;0900">
@@ -1081,7 +1083,7 @@
 <meta property="og:site_name" content="Connector 365 Online Hilfe">
 <meta property="og:title" content="Einleitung">
 <meta property="og:url" content="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/">
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 
 <meta name="generator" content="Hugo 0.105.0">
 <meta name="msapplication-TileColor" content="#ffffff">
@@ -1110,11 +1112,8 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "headline": "Einleitung",
-    "datePublished": "2020-02-28T00:00:00+09:00",
-    "dateModified": "2020-02-28T00:00:00+09:00",
     "url" : "https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/",
-    "description": "Erste Schritte Einleitung Entwickelt wurde die Upgrade App für Kunden, die von einem System bis BC14 auf eine neuere Business Central Version umsteigen und dabei auch vom …",
+    "name": "Einleitung",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://docs.belware.de/"
@@ -6118,20 +6117,6 @@ if (!doNotTrack) {
         
       
     
-      
-      
-        
-      
-        
-        
-          
-            
-              <a href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/" data-lang="en-us" class="lang__dropdown--item">English</a>
-            
-          
-        
-      
-    
   </div>
 </div>
 
@@ -6287,11 +6272,11 @@ if (!doNotTrack) {
 
         
   
-
+  
 <div class="mid">
   <div class="divider">
-    
-    <nav id="single-menu" class="l" data-dir="ltr">
+
+    <nav id="list-menu" class="l" data-dir="ltr">
       
         <div class="menu">
   <h6 class="menu__label">
@@ -11051,6 +11036,28 @@ if (!doNotTrack) {
 </div>
 
 
+
+<script>
+  var menuTitle = document.querySelectorAll('.menu__title');
+  var modal = document.getElementById("myModal");
+  var drawer = document.getElementById('myDrawer');
+
+  var closeDrawer = function () {
+    setTimeout(function () {
+      modal.style.opacity = 0;
+      drawer.style.left = '-100%';
+      modal.style.left = '-100%';
+    }, 250);
+  }
+
+  menuTitle ? 
+  menuTitle.forEach(function(elem) {
+    elem.onclick = function() {
+      closeDrawer();
+      localStorage.setItem('isDrawerOpen', 'false');
+    }
+  }) : null;
+</script>
       
     </nav>
 
@@ -11080,12 +11087,11 @@ Im Einzelnen werden folgende Daten übertragen:</p>
   </article>
 </div>
       
+      
 
-      
     </article>
-    
+
     <section id="list-side" class="hide" data-dir="ltr">
-      
     </section>
 
   </div>
@@ -11247,7 +11253,7 @@ Im Einzelnen werden folgende Daten übertragen:</p>
     
     if (lib && lib.includes('flowchartjs')) {
       
-      var options = JSON.parse("{\"arrow-end\":\"block\",\"element-color\":\"black\",\"fill\":\"white\",\"flowstate\":{\"approved\":{\"fill\":\"#58C4A3\",\"font-size\":12,\"no-text\":\"n/a\",\"yes-text\":\"APPROVED\"},\"current\":{\"fill\":\"yellow\",\"font-color\":\"red\",\"font-weight\":\"bold\"},\"future\":{\"fill\":\"#FFFF99\"},\"invalid\":{\"fill\":\"#444444\"},\"past\":{\"fill\":\"#CCCCCC\",\"font-size\":12},\"rejected\":{\"fill\":\"#C45879\",\"font-size\":12,\"no-text\":\"REJECTED\",\"yes-text\":\"n/a\"},\"request\":{\"fill\":\"blue\"}},\"font-color\":\"black\",\"font-size\":14,\"line-color\":\"black\",\"line-length\":50,\"line-width\":3,\"no-text\":\"no\",\"scale\":1,\"symbols\":{\"end\":{\"class\":\"end-element\"},\"start\":{\"element-color\":\"green\",\"fill\":\"yellow\",\"font-color\":\"red\"}},\"text-margin\":10,\"x\":0,\"y\":0,\"yes-text\":\"yes\"}");
+      var options = JSON.parse("null");
       var jsonContent = null;
 
       var flowchartPrefix = "language-flowchart";
@@ -11337,65 +11343,66 @@ Im Einzelnen werden folgende Daten übertragen:</p>
 </script>
 
 <script>
-  var listSide = document.getElementById('list-side');
+  var listMenu = document.getElementById('list-menu');
   var listMain = document.getElementById('list-main');
-  var singleMenu = document.getElementById('single-menu');
+  var listSide = document.getElementById('list-side');
   var switchElem = document.querySelector('.switch');
   var wideViewAsDefault = JSON.parse("true");
-  
+
   enquire.register("screen and (max-width:1280px)", {
     match: function () {
       if (wideViewAsDefault) {
-        singleMenu.className = 'l';  
+        listMenu.className = 'l';
         listMain.className = 'mr';
         listSide.className = 'hide';
       } else {
-        singleMenu.className = 'l';
+        listMenu.className = 'l';
         listMain.className = 'm';
         listSide.className = 'r';
       }
     },
     unmatch: function () {
       if (wideViewAsDefault) {
-        singleMenu.className = 'l';
+        listMenu.className = 'l';
         listMain.className = 'mr';
         listSide.className = 'hide';
       } else {
+        listMenu.className = 'l';
         listSide.className = 'r';
         listMain.className = 'm';
-        singleMenu.className = 'l';
       }
     },
   }).register("screen and (max-width:960px)", {
     match: function () {
-      singleMenu.className = 'l';
+      listMenu.className = 'l';
       listMain.className = 'mr';
       listSide.className = 'hide';
       switchElem.className = 'hide';
     },
     unmatch: function () {
       if (wideViewAsDefault) {
-        singleMenu.className = 'l';
+        listMenu.className = 'l';
         listMain.className = 'mr';
         listSide.className = 'hide';
       } else {
-        singleMenu.className = 'l';
+        listMenu.className = 'l';
         listMain.className = 'm';
         listSide.className = 'r';
       }
+      
       switchElem.className = 'switch';
     },
   }).register("screen and (max-width:600px)", {
     match: function () {
-      listSide.className = 'hide';
+      listMenu.className = 'hide';
       listMain.className = 'lmr';
-      singleMenu.className = 'hide';
+      listSide.className = 'hide';
       switchElem.className = 'hide';
     },
     unmatch: function () {
-      listSide.className = 'hide';
+      listMenu.className = 'l';
       listMain.className = 'mr';
-      singleMenu.className = 'l';
+      listSide.className = 'hide';
       switchElem.className = 'hide';
     },
   });

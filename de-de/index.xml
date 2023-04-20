@@ -1035,16 +1035,6 @@ Des Weiteren haben Sie die Möglichkeit, bequem pro Debitor bzw. Kreditor weiter
       
       <item>
         <title>Einleitung</title>
-        <link>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Entwickelt wurde die Upgrade App für Kunden, die von einem System bis BC14 auf eine neuere Business Central Version umsteigen und dabei auch vom Connector NAV/BC auf die Connector 365 Apps upgraden.
-Da es zwischen dem Connector NAV/BC und den Connector 365 Apps Unterschiede in der technischen Realisierung gibt, ist es nötig, die zum Connector NAV/BC gehörenden Tabellendaten in die neuen Tabellen der Connector 365 Apps zu transferieren.</description>
-      </item>
-      
-      <item>
-        <title>Einleitung</title>
         <link>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
