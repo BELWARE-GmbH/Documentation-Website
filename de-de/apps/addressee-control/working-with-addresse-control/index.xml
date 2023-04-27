@@ -35,8 +35,7 @@ Die eingerichteten weiteren E-Mail-Adressen sind direkt in die zugehörigen Zeil
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
-        <description>Arbeiten mit festgelegten Zieladressen Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der
-Connector 365 Addressee Control als Zieladresse eingerichtet wurde:
+        <description>Arbeiten mit festgelegten Zieladressen Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der Connector 365 Addressee Control als Zieladresse eingerichtet wurde:
 Angenommen es soll eine Rechnung verschickt werden, bei welchem der Rechnungsempfänger und der Käufer verschieden sind:
 Zur Vereinfachung wurden im Folgenden für den Rechnungsempfänger Bill-To-Customer@mail.de eingerichtet, für den Käufer Sell-To-Customer@mail.de.Bei Ausführen der Aktion: Per E-Mail senden, wird im Standard normalerweise die E-Mail-Adresse des Rechnungsempfängers im E-Mail-Dialog eingetragen:</description>
       </item>
