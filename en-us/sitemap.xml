@@ -6788,6 +6788,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup_validator/</loc>
+    <lastmod>2023-04-14T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup_validator/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/matrix/subject/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link

@@ -127,6 +127,19 @@ Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir d
         <description>Weitere Informationen zur Fehlersuche In dieser Dokumentation wurde beispielhaft ein möglicher Fall einer fehlerhaften Validierung aufgezeigt. Neben der dort gezeigten Problematik mit der Leitweg-ID, gibt es noch einige andere Fehlerquellen. Daher ist es enorm vorteilhaft, einen Validierungsdienst zu verwenden, da ansonsten Fehler möglicherweise erst in einem der Rechnungsportale oder beim Rechnungsempfänger auffallen. Anhand des Validierungsberichts und mithilfe der PEPPOL BIS Billing 3.0 Code Lists lassen sich die meisten Fehler schnell beseitigen.</description>
       </item>
       
+      <item>
+        <title>Aufsetzen eines eigenen Validators</title>
+        <link>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/</link>
+        <pubDate>Fri, 14 Apr 2023 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/</guid>
+        <description>Einen eigenen Validator aufsetzen Wie im Bereich XRechnung der Dokumentation bereits erwähnt, nutzt das XRechnungs-Modul von BELWARE einen Dienst
+zum Validieren von Rechnungen und Gutschriften im XRechnung-Format.
+Hierbei wird auf ein konfigurierbares XML-Prüftool zurückgegriffen, welches die KoSIT (Koordinierungsstelle für IT) erstmalig veröffentlichte.
+In Kombination mit der passenden Konfiguration, ist der Validator in der Lage,
+die Syntax, sowie diverse Regeln und Anforderungen, welche an eine XRechnung gestellt werden, auf dessen Richtigkeit zu prüfen und</description>
+      </item>
+      
     
   </channel>
 </rss>
