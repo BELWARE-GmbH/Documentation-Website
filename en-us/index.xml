@@ -1038,16 +1038,6 @@ To import a sample setup, this field must be selected.</description>
       
       <item>
         <title>Introduction</title>
-        <link>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/</guid>
-        <description>First steps Introduction The Upgrade App was developed for customers who are upgrading from a system up to BC14 to a newer Business Central version and who are also upgrading from the Connector NAV/BC to the Connector 365 Apps.
-Since there are differences in the technical implementation between the Connector NAV/BC and the Connector 365 Apps, it is necessary to transfer the table data belonging to the Connector NAV/BC to the new tables of the Connector 365 Apps.</description>
-      </item>
-      
-      <item>
-        <title>Introduction</title>
         <link>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
@@ -1537,8 +1527,8 @@ If you want to buy the software immediately we will send you the necessary runti
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the Connector 365 Upgrade App from us by mail as a runtime package suitable for your system. In order for you to use the app, it must first be published and then installed.
-Since the app is only necessary if you are moving from a legacy system with Connector NAV/BC to a system with Connector 365 Apps, it is assumed here that the Connector 365 Base App is already installed on your system.</description>
+        <description>Installation OnPrem You will receive the Connector 365 Upgrade App from us by mail as a runtime package suitable for your system. In order for you to be able to use the app, it must first be published and then installed.
+As the app is only necessary if you switch from a legacy system with Connector NAV/BC to a system with Connector 365 Apps, it is assumed here that the Connector 365 Base App is already installed on your system.</description>
       </item>
       
       <item>
@@ -1547,9 +1537,9 @@ Since the app is only necessary if you are moving from a legacy system with Conn
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem It is not necessary to purchase the app, as it is only suitable for existing customers who had a system in use up to BC14, already used Connector NAV/BC on it and then switched to a newer system with Connector 365 apps.
+        <description>Test &amp;amp; Purchase OnPrem It is not necessary to purchase the app, as it is only suitable for existing customers who used a system up to BC14, already used Connector NAV/BC on it and then switched to a newer system with Connector 365 apps.
 For this customer group, the use of the app is included in the maintenance costs.
-This also eliminates the need for a test phase, especially since the app is ideally only used once.</description>
+A test phase is therefore also unnecessary, especially as the app is ideally only used once.</description>
       </item>
       
       <item>
@@ -2108,17 +2098,6 @@ If a different invoice recipient is specified in a sales credit memo, a search i
 To do this, first go to the desired document page. Example: Posted Sales Invoices.
 At the top of the action bar, go to Print/Send, and then Send by Email:
 The e-mail dialog window opens as usual:</description>
-      </item>
-      
-      <item>
-        <title>Transfer process</title>
-        <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</link>
-        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</guid>
-        <description>Performing the transfer process Pressing the Transfer button starts the transfer of data from the Connector NAV/BC feedback table to the Connector 365 Apps feedback table, the transfer of the old job list to the new activity list and the porting of the contents of the communication matrix to the document layouts.
-The process runs in the background. A message informs about the successful completion.
-If the process is terminated prematurely, e.</description>
       </item>
       
       <item>
@@ -3104,19 +3083,6 @@ The Connector 365 Addressee Control app adds another field to the Document Layou
       </item>
       
       <item>
-        <title>Connector 365 Setup</title>
-        <link>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/connector-setup/</link>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/connector-setup/</guid>
-        <description>Upgrade from the Connector 365 setup Setup in the usual sense is not necessary for the Upgrade App. However, the control that triggers the data transfer is located in the Connector 365 setup.
-You can use the Business Central search function to access the Connector 365 setup:
-In the &amp;ldquo;Actions&amp;rdquo; menu on this page
-the button &amp;ldquo;Transfer&amp;rdquo;
-The exact functionality of this button is explained in Using the Connector 365 Upgrade App.</description>
-      </item>
-      
-      <item>
         <title>SMTP2FAX Dialog</title>
         <link>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</link>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
@@ -3124,6 +3090,19 @@ The exact functionality of this button is explained in Using the Connector 365 U
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</guid>
         <description>The SMTP2FAX Dialog If for a report the delivery as a fax via SMTP was activated, a mail dialog adapted for the fax application appears for further processing.
 Here the recipient address can be changed and the attachment can be checked for correctness. Then the report can be sent or discarded via the respective button in the upper menu. If the dialog is closed via the X or the close button, it is still possible to select whether the message is to be saved as a draft in the mail outbox or discarded.</description>
+      </item>
+      
+      <item>
+        <title>Upgrade of joblist(CON Joblist)</title>
+        <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</guid>
+        <description>Upgrade from Connector 365 setup Please check the prerequisites before proceeding.
+The Joblist logs all activities performed as part of the Connector NAV/BC functions.
+The Connector 365 Apps use a similar table (Connector 365 Activities) to record any activities.
+However, as the two tables are not identical, a process is required to transfer the data from the Joblist to the Connector 365 Activities list.
+The Connector 365 Upgrade app provides a function for data synchronisation.</description>
       </item>
       
       <item>
@@ -3303,6 +3282,18 @@ Setup of the App </description>
         <description>SMTP2FAX in the Connector 365 activity list If sending the message was selected in the SMTP2FAX dialog, a corresponding entry is made in the Connector 365 activity list, which can be identified by the Fax label in the Job Mode field.
 Whether the sending was successful or failed is indicated by a corresponding mark in the Status field.
 By clicking on the status marker you can get more detailed information about the status.</description>
+      </item>
+      
+      <item>
+        <title>Upgrade of communication matrix (CON Communication Matrix)</title>
+        <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</guid>
+        <description>Upgrade of communication matrix (CON Communication Matrix) Introduction Please check the prerequisites before proceeding.
+The communication matrix of the Connector NAV/BC contains, if maintained, setup data that determines if and how documents for individual customers, vendors or contacts are processed.
+In the product series Connector 365 (Business Central versions &amp;gt; 14), the communication matrix is no longer available as a separate table.
+Instead, the Document Layouts are used for similar facilities.</description>
       </item>
       
       <item>

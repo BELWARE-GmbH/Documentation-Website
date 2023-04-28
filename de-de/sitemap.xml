@@ -2295,6 +2295,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/introduction/"
+                />
   </url>
   
   <url>
@@ -6140,6 +6150,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/"
+                />
   </url>
   
   <url>
@@ -6420,6 +6440,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/"
+                />
   </url>
   
   <url>

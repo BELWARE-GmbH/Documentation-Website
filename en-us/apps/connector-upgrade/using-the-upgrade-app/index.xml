@@ -15,14 +15,28 @@
     
       
       <item>
-        <title>Transfer process</title>
-        <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</link>
-        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
+        <title>Upgrade of joblist(CON Joblist)</title>
+        <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</guid>
-        <description>Performing the transfer process Pressing the Transfer button starts the transfer of data from the Connector NAV/BC feedback table to the Connector 365 Apps feedback table, the transfer of the old job list to the new activity list and the porting of the contents of the communication matrix to the document layouts.
-The process runs in the background. A message informs about the successful completion.
-If the process is terminated prematurely, e.</description>
+        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</guid>
+        <description>Upgrade from Connector 365 setup Please check the prerequisites before proceeding.
+The Joblist logs all activities performed as part of the Connector NAV/BC functions.
+The Connector 365 Apps use a similar table (Connector 365 Activities) to record any activities.
+However, as the two tables are not identical, a process is required to transfer the data from the Joblist to the Connector 365 Activities list.
+The Connector 365 Upgrade app provides a function for data synchronisation.</description>
+      </item>
+      
+      <item>
+        <title>Upgrade of communication matrix (CON Communication Matrix)</title>
+        <link>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</guid>
+        <description>Upgrade of communication matrix (CON Communication Matrix) Introduction Please check the prerequisites before proceeding.
+The communication matrix of the Connector NAV/BC contains, if maintained, setup data that determines if and how documents for individual customers, vendors or contacts are processed.
+In the product series Connector 365 (Business Central versions &amp;gt; 14), the communication matrix is no longer available as a separate table.
+Instead, the Document Layouts are used for similar facilities.</description>
       </item>
       
     

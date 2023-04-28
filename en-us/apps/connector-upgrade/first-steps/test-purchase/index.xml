@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testing &amp; Purchasing on Connector 365 Online Help</title>
+    <title>Test &amp; Purchase on Connector 365 Online Help</title>
     <link>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/</link>
-    <description>Recent content in Testing &amp; Purchasing on Connector 365 Online Help</description>
+    <description>Recent content in Test &amp; Purchase on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,9 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem It is not necessary to purchase the app, as it is only suitable for existing customers who had a system in use up to BC14, already used Connector NAV/BC on it and then switched to a newer system with Connector 365 apps.
+        <description>Test &amp;amp; Purchase OnPrem It is not necessary to purchase the app, as it is only suitable for existing customers who used a system up to BC14, already used Connector NAV/BC on it and then switched to a newer system with Connector 365 apps.
 For this customer group, the use of the app is included in the maintenance costs.
-This also eliminates the need for a test phase, especially since the app is ideally only used once.</description>
+A test phase is therefore also unnecessary, especially as the app is ideally only used once.</description>
       </item>
       
     

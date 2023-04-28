@@ -6118,6 +6118,20 @@ if (!doNotTrack) {
         
       
     
+      
+      
+        
+      
+        
+        
+          
+            
+              <a href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/" data-lang="en-us" class="lang__dropdown--item">English</a>
+            
+          
+        
+      
+    
   </div>
 </div>
 
@@ -11058,6 +11072,16 @@ Dabei werden auch die Statusinformationen der einzelnen Einträge berücksichtig
   Bei einer sehr großen Menge an zu transferierenden Daten kann das Upgrade unter Umständen eine lange Ausführungszeit beanspruchen.<br />
 Es wird daher empfohlen das Upgrade außerhalb der Geschäftszeiten zu planen, und dass für die Ausführung genügend zeitliche Ressourcen zur Verfügung stehen.
 </div>
+<h3 id="welche-daten-werden-beim-upgrade-berücksichtigt">Welche Daten werden beim Upgrade berücksichtigt?</h3>
+<p>Beim Upgrade werden grundsätzliche alle Feldinhalte übertragen, welche sowohl in der <em><strong>Aktivitätenliste</strong></em> als auch in der <em><strong>Connector NAV/BC Jobliste</strong></em> vorhanden sind.<br />
+Zudem werden weitere Tabellen berücksichtigt, welche in direkter Verbindung zur Jobliste stehen:</p>
+<ul>
+<li><u>Statusrückmeldungen</u> (<em><strong>Tabelle CON Feedback</strong></em>):<br />
+Zu jedem <em><strong>Joblisten</strong></em>-Eintrag können beliebig viele Statusrückmeldungen zugeordnet werden. Im Zuge des Upgrades werden alle <em><strong>CON Feedback</strong></em>-Einträge in die Tabelle <em><strong>BEL365 Feedback Entry</strong></em> übertragen. Auf diese Weise bleiben die Statusinformationen der <em><strong>Jobliste</strong></em> (&rsquo;+&rsquo;, &lsquo;-&rsquo;) vorhanden.</li>
+<li><u>Dateianhänge</u> (<em><strong>Tabelle CON File</strong></em>):<br />
+Neben Statusinformationen kann ein Eintrag in der <em><strong>Jobliste</strong></em> beliebig viele Anhänge enthalten. Auch diese werden im Laufe des Upgrades übertragen.<br />
+Ziel für die Anhänge in der <em><strong>Connector 365</strong></em>-Reihe ist die Tabelle <em><strong>BEL365 Activity Entry File</strong></em>.</li>
+</ul>
 <h3 id="upgrade-durchführen">Upgrade durchführen</h3>
 <div class="notices warning" data-title="Wichtig">
   Die <em><strong>Connector NAV/BC Jobliste</strong></em> ist mandantenunabhängig. Die <em><strong>Connector 365 Aktivitäten</strong></em>-Tabelle ist jedoch mandantenspezifisch.<br />
@@ -11079,7 +11103,7 @@ Das heißt bei der Übertragung der <em><strong>Jobliste</strong></em> wird auf 
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Upgrade%20App/connector_einrichtung_aktionen.png" alt=""  />
+  <img src="/images/apps/Upgrade%20App/de/connector_einrichtung_aktionen.png" alt=""  />
 </p></th>
 </tr>
 </thead>
@@ -11089,7 +11113,7 @@ Das heißt bei der Übertragung der <em><strong>Jobliste</strong></em> wird auf 
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Upgrade%20App/button_transferiere_jobliste.png" alt=""  />
+  <img src="/images/apps/Upgrade%20App/de/button_transferiere_jobliste.png" alt=""  />
 </p></th>
 </tr>
 </thead>
@@ -11099,7 +11123,7 @@ Das heißt bei der Übertragung der <em><strong>Jobliste</strong></em> wird auf 
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Upgrade%20App/joblist_transfer_beendet.png" alt=""  />
+  <img src="/images/apps/Upgrade%20App/de/joblist_transfer_beendet.png" alt=""  />
 </p></th>
 </tr>
 </thead>
@@ -11109,7 +11133,7 @@ Das heißt bei der Übertragung der <em><strong>Jobliste</strong></em> wird auf 
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Upgrade%20App/aktivit%c3%a4ten_suche.png" alt=""  />
+  <img src="/images/apps/Upgrade%20App/de/aktivit%c3%a4ten_suche.png" alt=""  />
 </p></th>
 </tr>
 </thead>
