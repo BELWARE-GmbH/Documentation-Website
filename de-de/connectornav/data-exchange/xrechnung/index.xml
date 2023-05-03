@@ -133,9 +133,17 @@ Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir d
         <pubDate>Fri, 14 Apr 2023 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/</guid>
+<<<<<<< HEAD
         <description>Einen eigenen Validator aufsetzen Wie im Bereich XRechnung der Dokumentation bereits erwähnt, nutzt das XRechnungs-Modul von BELWARE einen Dienst zum Validieren von Rechnungen und Gutschriften im XRechnung-Format.
 Hierbei wird auf ein konfigurierbares XML-Prüftool zurückgegriffen, welches die KoSIT (Koordinierungsstelle für IT) erstmalig veröffentlichte.
 In Kombination mit der passenden Konfiguration, ist der Validator in der Lage, die Syntax, sowie diverse Regeln und Anforderungen, welche an eine XRechnung gestellt werden, auf dessen Richtigkeit zu prüfen und über den Status der Prüfung Protokoll in Form eines Prüfberichts zu führen.</description>
+=======
+        <description>Einen eigenen Validator aufsetzen Wie im Bereich XRechnung der Dokumentation bereits erwähnt, nutzt das XRechnungs-Modul von BELWARE einen Dienst
+zum Validieren von Rechnungen und Gutschriften im XRechnung-Format.
+Hierbei wird auf ein konfigurierbares XML-Prüftool zurückgegriffen, welches die KoSIT (Koordinierungsstelle für IT) erstmalig veröffentlichte.
+In Kombination mit der passenden Konfiguration, ist der Validator in der Lage,
+die Syntax, sowie diverse Regeln und Anforderungen, welche an eine XRechnung gestellt werden, auf dessen Richtigkeit zu prüfen und</description>
+>>>>>>> a0b69aea4c6f75cb1d52988de0675995ff634de6
       </item>
       
     
