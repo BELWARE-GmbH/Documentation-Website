@@ -20,10 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/</guid>
-        <description>Data to be evaluated After the setup of the supplier rating(s) is completed, this
-chapter describes how and at which points in Dynamics 365 Business Central the data is
-that will later be evaluated based on the set up ratings. During the
-Collection of &amp;ldquo;soft&amp;rdquo; and &amp;ldquo;hard&amp;rdquo; factors, different factors are used.</description>
+        <description>Data to be evaluated After the setup of the supplier rating(s) is completed, this chapter describes how and at which points in Dynamics 365 Business Central the data is that will later be evaluated based on the set up ratings. During the Collection of &amp;ldquo;soft&amp;rdquo; and &amp;ldquo;hard&amp;rdquo; factors, different factors are used.</description>
       </item>
       
       <item>
@@ -42,9 +39,7 @@ Collection of &amp;ldquo;soft&amp;rdquo; and &amp;ldquo;hard&amp;rdquo; factors,
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/</guid>
         <description>Setup Wizard The setup wizard is used to create new and edit existing supplier ratings. It is opened via the menu item &amp;ldquo;Supplier evaluations&amp;rdquo; - &amp;ldquo;Setup&amp;rdquo; - &amp;ldquo;Create/edit supplier evaluation&amp;rdquo;.
-&amp;ldquo;Setup&amp;rdquo; - &amp;ldquo;Create/edit supplier rating&amp;rdquo;. With the help of the
-wizard guides users through the setup process in five steps. These five steps are described in the
-described in more detail in the following sections in the form of an activity guide.</description>
+&amp;ldquo;Setup&amp;rdquo; - &amp;ldquo;Create/edit supplier rating&amp;rdquo;. With the help of the wizard guides users through the setup process in five steps. These five steps are described in the described in more detail in the following sections in the form of an activity guide.</description>
       </item>
       
       <item>
@@ -53,8 +48,7 @@ described in more detail in the following sections in the form of an activity gu
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/import-u-export/</guid>
-        <description>Import / Export Under &amp;ldquo;Departments&amp;rdquo; - &amp;ldquo;Supplier evaluation&amp;rdquo; - &amp;ldquo;Administration&amp;rdquo; - &amp;ldquo;Import/export Easy Supra
-Setup data&amp;rdquo;, data can be exported or imported as .txt files (see Figure 46). This allows the setup of the evaluations to be used across clients or databases.
+        <description>Import / Export Under &amp;ldquo;Departments&amp;rdquo; - &amp;ldquo;Supplier evaluation&amp;rdquo; - &amp;ldquo;Administration&amp;rdquo; - &amp;ldquo;Import/export Easy Supra Setup data&amp;rdquo;, data can be exported or imported as .txt files (see Figure 46). This allows the setup of the evaluations to be used across clients or databases.
 Figure 46: Importing data (Import / Export)</description>
       </item>
       

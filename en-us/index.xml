@@ -227,7 +227,7 @@ If no call is triggered, you may have to switch off the popup blocker of your br
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/kernfunktionalitaeten/</guid>
         <description>Core functionalities The core functionalities can be summarized as follows:
-Complete integration in Microsoft Dynamics 365 Business Central (from NAV 4.x) Flexible evaluation of &amp;ldquo;hard&amp;rdquo; facts from the enterprise resource planning area Evaluation of freely definable &amp;ldquo;soft&amp;rdquo; criteria Free weighting of all criteria and criteria groups Definition and delimitation of different supplier groups Delimitation of the articles to be evaluated from category to variant Determination and evaluation of a complaint rate by integration of the complaint module Inclusion of qualitative, quantitative and other product characteristics, which can be determined at the</description>
+Complete integration in Microsoft Dynamics 365 Business Central (from NAV 4.x) Flexible evaluation of &amp;ldquo;hard&amp;rdquo; facts from the enterprise resource planning area Evaluation of freely definable &amp;ldquo;soft&amp;rdquo; criteria Free weighting of all criteria and criteria groups Definition and delimitation of different supplier groups Delimitation of the articles to be evaluated from category to variant Determination and evaluation of a complaint rate by integration of the complaint module Inclusion of qualitative, quantitative and other product characteristics, which can be determined at the recorded at goods receipt via the integrated quality protocol </description>
       </item>
       
       <item>
@@ -286,8 +286,7 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
-Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required.
-You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
       </item>
       
       <item>
@@ -306,8 +305,7 @@ Field Desciption EKP This is your customer number that you have received from De
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</guid>
-        <description>Goods receipt/quality protocol The requirements for quality logs vary from company to company. For this reason, Easy Supra provides a wealth of additional fields with different data types (&amp;ldquo;Date&amp;rdquo;, &amp;ldquo;Decimal&amp;rdquo;, &amp;ldquo;Boolean&amp;rdquo;, etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in Easy Supra.
-supplied in Easy Supra. Depending on the existing customer license, this set-up can be performed
+        <description>Goods receipt/quality protocol The requirements for quality logs vary from company to company. For this reason, Easy Supra provides a wealth of additional fields with different data types (&amp;ldquo;Date&amp;rdquo;, &amp;ldquo;Decimal&amp;rdquo;, &amp;ldquo;Boolean&amp;rdquo;, etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in Easy Supra. supplied in Easy Supra. Depending on the existing customer license, this set-up can be performed
 independently or by the responsible Microsoft partner.</description>
       </item>
       
@@ -317,8 +315,7 @@ independently or by the responsible Microsoft partner.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</guid>
-        <description>Goods receipt/quality protocol The requirements for quality protocols vary from company to company. For this reason, Easy Supra provides a wealth of additional fields with different data types (&amp;ldquo;Date&amp;rdquo;, &amp;ldquo;Decimal&amp;rdquo;, &amp;ldquo;Boolean&amp;rdquo;, etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in Easy Supra.
-supplied in Easy Supra. Depending on the existing customer license, this set-up can be performed
+        <description>Goods receipt/quality protocol The requirements for quality protocols vary from company to company. For this reason, Easy Supra provides a wealth of additional fields with different data types (&amp;ldquo;Date&amp;rdquo;, &amp;ldquo;Decimal&amp;rdquo;, &amp;ldquo;Boolean&amp;rdquo;, etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in Easy Supra. supplied in Easy Supra. Depending on the existing customer license, this set-up can be performed
 independently or by the responsible Microsoft partner.</description>
       </item>
       
@@ -328,10 +325,8 @@ independently or by the responsible Microsoft partner.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</guid>
-        <description>Hard criteria - enterprise resource planning &amp;ldquo;Hard&amp;rdquo; criteria is information that already exists in the system and is arrived at by &amp;ldquo;counting&amp;rdquo;, &amp;ldquo;measuring&amp;rdquo; or &amp;ldquo;weighing&amp;rdquo;, for example in the ordering process. Examples
-of hard criteria are delivery reliability and the complaint rate.
-Here you can evaluate the information from the four following reference tables &amp;ldquo;purchase line&amp;rdquo;, &amp;ldquo;purchase delivery line&amp;rdquo;, &amp;ldquo;purchase line archive&amp;rdquo; and &amp;ldquo;quality log&amp;rdquo;. A frequently
-example is the quantity reliability.</description>
+        <description>Hard criteria - enterprise resource planning &amp;ldquo;Hard&amp;rdquo; criteria is information that already exists in the system and is arrived at by &amp;ldquo;counting&amp;rdquo;, &amp;ldquo;measuring&amp;rdquo; or &amp;ldquo;weighing&amp;rdquo;, for example in the ordering process. Examples of hard criteria are delivery reliability and the complaint rate.
+Here you can evaluate the information from the four following reference tables &amp;ldquo;purchase line&amp;rdquo;, &amp;ldquo;purchase delivery line&amp;rdquo;, &amp;ldquo;purchase line archive&amp;rdquo; and &amp;ldquo;quality log&amp;rdquo;. A frequently example is the quantity reliability.</description>
       </item>
       
       <item>
@@ -340,10 +335,8 @@ example is the quantity reliability.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</guid>
-        <description>Hard criteria - inventory management &amp;ldquo;Hard&amp;rdquo; criteria are information that already exists in the system and is arrived at by &amp;ldquo;counting&amp;rdquo;, &amp;ldquo;measuring&amp;rdquo; or &amp;ldquo;weighing&amp;rdquo;, for example in the ordering process. Examples
-of hard criteria are the delivery reliability and the complaint rate.
-Here you can evaluate the information from the following four reference tables: &amp;ldquo;Purchase line&amp;rdquo;, &amp;ldquo;Purchase delivery line&amp;rdquo;, &amp;ldquo;Purchase line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo;. A frequently
-example is the quantity reliability.</description>
+        <description>Hard criteria - inventory management &amp;ldquo;Hard&amp;rdquo; criteria are information that already exists in the system and is arrived at by &amp;ldquo;counting&amp;rdquo;, &amp;ldquo;measuring&amp;rdquo; or &amp;ldquo;weighing&amp;rdquo;, for example in the ordering process. Examples of hard criteria are the delivery reliability and the complaint rate.
+Here you can evaluate the information from the following four reference tables: &amp;ldquo;Purchase line&amp;rdquo;, &amp;ldquo;Purchase delivery line&amp;rdquo;, &amp;ldquo;Purchase line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo;. A frequently example is the quantity reliability.</description>
       </item>
       
       <item>
@@ -574,8 +567,7 @@ The &amp;ldquo;Post &amp;amp; Process&amp;rdquo; function now also generates del
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</guid>
         <description>Level 1 Figure 3: Setup wizard - level 1
-Use the field next to the description &amp;ldquo;What do you want to rate? (cf. Figure 3) to select an existing rating or create a new one in the list that now opens (cf. Figure 4).
-new rating via &amp;ldquo;New&amp;rdquo; (see Figure 4).
+Use the field next to the description &amp;ldquo;What do you want to rate? (cf. Figure 3) to select an existing rating or create a new one in the list that now opens (cf. Figure 4). new rating via &amp;ldquo;New&amp;rdquo; (see Figure 4).
 Figure 4: Existing ratings
 Create a validity period for the valuation using the &amp;ldquo;Valid from&amp;rdquo; and &amp;ldquo;Valid to&amp;rdquo; fields. The validity period also takes into account the posting periods of the existing business processes.</description>
       </item>
@@ -587,9 +579,7 @@ Create a validity period for the valuation using the &amp;ldquo;Valid from&amp;r
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</guid>
         <description>Level 2 Figure 6: Setup wizard - level 2
-The colored red digits correspond to the selected weighting of the respective criteria category and function as a button (cf. Figure 6). One click takes you to the
-to set up the desired criteria. The following figure 7 shows an example
-the setup of the &amp;ldquo;hard&amp;rdquo; factors.
+The colored red digits correspond to the selected weighting of the respective criteria category and function as a button (cf. Figure 6). One click takes you to the to set up the desired criteria. The following figure 7 shows an example the setup of the &amp;ldquo;hard&amp;rdquo; factors.
 Figure 7: Criteria selection using the example of the &amp;ldquo;hard&amp;rdquo; criteria
 Define all relevant criteria in this mask.</description>
       </item>
@@ -600,13 +590,9 @@ Define all relevant criteria in this mask.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
-        <description>Level 3 In stage 3, you define the scoring of the hard and soft criteria by clicking
-on the fields marked in red.
-Figure 13: Setup Wizard - Level 3.
-(Control/Modification of the Point Allocation)
-First click on the red number of the hard criteria. A mask opens in which
-all assigned criteria appear. In this mask, distribute the 100 points to be assigned over any key.
-points using any key (cf.</description>
+        <description>Level 3 In stage 3, you define the scoring of the hard and soft criteria by clicking on the fields marked in red.
+Figure 13: Setup Wizard - Level 3. (Control/Modification of the Point Allocation)
+First click on the red number of the hard criteria. A mask opens in which all assigned criteria appear. In this mask, distribute the 100 points to be assigned over any key. points using any key (cf.</description>
       </item>
       
       <item>
@@ -628,11 +614,9 @@ Figure 16: List of assigned vendors</description>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
         <description>Level 5 Confirm with &amp;ldquo;Next&amp;rdquo; in the wizard to proceed to the last setup step.
-In the window, set up the classification of the assessment (cf. Figure 17). Click
-the red italicized text &amp;ldquo;Classification not completed&amp;rdquo;.
-Figure 17: Setup Wizard - Level 5.
-(Definition of classification)
-Press the &amp;ldquo;New&amp;rdquo; button to create a new classification. In the following, the evaluation code &amp;ldquo;TEST VALUED&amp;rdquo; is selected as an example. The creditors</description>
+In the window, set up the classification of the assessment (cf. Figure 17). Click the red italicized text &amp;ldquo;Classification not completed&amp;rdquo;.
+Figure 17: Setup Wizard - Level 5. (Definition of classification)
+Press the &amp;ldquo;New&amp;rdquo; button to create a new classification. In the following, the evaluation code &amp;ldquo;TEST VALUED&amp;rdquo; is selected as an example. The creditors will be marked with the classification codes &amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, &amp;ldquo;C&amp;rdquo; or &amp;ldquo;D&amp;rdquo; according to the score achieved.</description>
       </item>
       
       <item>
@@ -702,12 +686,9 @@ Default An address per user An address per report An address per customer This d
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Rating - Setup The evaluation &amp;ldquo;Evaluation - Setup&amp;rdquo; shows the compilation and setup of the
-supplier rating. To do this, first select the respective supplier rating via
-the &amp;ldquo;Lookup&amp;rdquo; button.
+        <description>Rating - Setup The evaluation &amp;ldquo;Evaluation - Setup&amp;rdquo; shows the compilation and setup of the supplier rating. To do this, first select the respective supplier rating via the &amp;ldquo;Lookup&amp;rdquo; button.
 Figure 39 : Option mask for the report
-The report provides the breakdown of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria, as well as the classifications used, and presents them clearly (see Figure 40). This makes it possible for every
-user to understand the details that make up the selected supplier rating.</description>
+The report provides the breakdown of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria, as well as the classifications used, and presents them clearly (see Figure 40). This makes it possible for every user to understand the details that make up the selected supplier rating.</description>
       </item>
       
       <item>
@@ -716,11 +697,8 @@ user to understand the details that make up the selected supplier rating.</descr
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Rating - Setup This evaluation shows the compilation of the supplier evaluation and thus provides you with an overview of the entire facility.
-you an overview of the entire facility. The breakdown of the &amp;ldquo;hard&amp;rdquo; and
-of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria is clearly displayed. This makes it possible for every user to
-comprehensible how the selected supplier rating is composed. This
-overview can vary from one supplier rating to another (e.</description>
+        <description>Rating - Setup This evaluation shows the compilation of the supplier evaluation and thus provides you with an overview of the entire facility. you an overview of the entire facility. The breakdown of the &amp;ldquo;hard&amp;rdquo; and of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria is clearly displayed. This makes it possible for every user to
+comprehensible how the selected supplier rating is composed. This overview can vary from one supplier rating to another (e.</description>
       </item>
       
       <item>
@@ -729,9 +707,7 @@ overview can vary from one supplier rating to another (e.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</guid>
-        <description>Reclamations The Easy Supra module enables the connection of the Business Central standard purchasing complaints and the associated evaluation of a quantity-based complaints rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via
-the field &amp;ldquo;Clearing with item&amp;rdquo;. If this manual clearing is
-is not set, Business Central automatically performs the standard clearing.</description>
+        <description>Reclamations The Easy Supra module enables the connection of the Business Central standard purchasing complaints and the associated evaluation of a quantity-based complaints rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via the field &amp;ldquo;Clearing with item&amp;rdquo;. If this manual clearing is is not set, Business Central automatically performs the standard clearing.</description>
       </item>
       
       <item>
@@ -740,9 +716,7 @@ is not set, Business Central automatically performs the standard clearing.</desc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</guid>
-        <description>Reclamations The Easy Supra module enables the connection of the Business Central standard purchasing complaints and thus the evaluation of a quantity-based complaint rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via
-the field &amp;ldquo;Clearing with item&amp;rdquo;. If this manual clearing is
-is not set, Business Central automatically performs the standard clearing.</description>
+        <description>Reclamations The Easy Supra module enables the connection of the Business Central standard purchasing complaints and thus the evaluation of a quantity-based complaint rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via the field &amp;ldquo;Clearing with item&amp;rdquo;. If this manual clearing is is not set, Business Central automatically performs the standard clearing.</description>
       </item>
       
       <item>
@@ -897,9 +871,7 @@ Lot. no. The sequence no. of the job. Name Name of the recipient. Job direction 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</guid>
-        <description>Soft criteria - contact profiles The &amp;ldquo;soft&amp;rdquo; criteria can be freely defined in the facility (see 3.1.4). In the
-contact profiles, the information on the supplier is stored. Examples of soft criteria can be the advertising value of the supplier or the transport connection, i.e.
-Factors which must be assigned subjectively and evaluated with the help of the questions described in section 3.1.4.
+        <description>Soft criteria - contact profiles The &amp;ldquo;soft&amp;rdquo; criteria can be freely defined in the facility (see 3.1.4). In the contact profiles, the information on the supplier is stored. Examples of soft criteria can be the advertising value of the supplier or the transport connection, i.e. Factors which must be assigned subjectively and evaluated with the help of the questions described in section 3.1.4.
 Via the supplier overview (&amp;ldquo;Explore all&amp;rdquo; - &amp;ldquo;Administration&amp;rdquo; - &amp;ldquo;Supplier evaluation&amp;rdquo; - &amp;ldquo;Setup&amp;rdquo; - &amp;ldquo;Supplier overview&amp;rdquo;), you can view and edit the &amp;ldquo;soft&amp;rdquo; criteria that have been assigned to a supplier.</description>
       </item>
       
@@ -909,9 +881,7 @@ Via the supplier overview (&amp;ldquo;Explore all&amp;rdquo; - &amp;ldquo;Admini
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</guid>
-        <description>Soft criteria - contact profiles The &amp;ldquo;soft&amp;rdquo; criteria can be freely defined in the facility (cf. 3.1.3). In the
-The information on the supplier is stored in the contact profiles. Examples of soft criteria can be the advertising value of the supplier or the transport connection, i.e.
-Factors, which must be assigned subjectively and evaluated with the help of the questions described in section 3.1.3.
+        <description>Soft criteria - contact profiles The &amp;ldquo;soft&amp;rdquo; criteria can be freely defined in the facility (cf. 3.1.3). In the The information on the supplier is stored in the contact profiles. Examples of soft criteria can be the advertising value of the supplier or the transport connection, i.e. Factors, which must be assigned subjectively and evaluated with the help of the questions described in section 3.1.3.
 Via the supplier overview (&amp;ldquo;Departments&amp;rdquo; - &amp;ldquo;Supplier evaluation&amp;rdquo; - &amp;ldquo;Setup&amp;rdquo; - &amp;ldquo;Supplier overview&amp;rdquo;) you can view and edit the &amp;ldquo;soft&amp;rdquo; criteria that have been assigned to a supplier,</description>
       </item>
       
@@ -1005,11 +975,9 @@ Type ID Name Table 23 Vendor Table 27 Item Table 39 Purchase Line Table 121 Purc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Valuation - Setup The evaluation &amp;ldquo;Evaluation - Setup&amp;rdquo; shows the compilation and setup of the
-supplier rating. To do this, first select the respective supplier rating via
-the &amp;ldquo;Lookup&amp;rdquo; button.
+        <description>Valuation - Setup The evaluation &amp;ldquo;Evaluation - Setup&amp;rdquo; shows the compilation and setup of the supplier rating. To do this, first select the respective supplier rating via the &amp;ldquo;Lookup&amp;rdquo; button.
 Figure 38 : Supplier Rating Report Option Screen - Setup
-The report provides the breakdown of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria, as well as the classifications used, and displays them clearly (see Figure 39). This makes it possible for every</description>
+The report provides the breakdown of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria, as well as the classifications used, and displays them clearly (see Figure 39). This makes it possible for every user to understand the details that make up the selected supplier rating.</description>
       </item>
       
       <item>
@@ -1018,11 +986,8 @@ The report provides the breakdown of the &amp;ldquo;hard&amp;rdquo; and &amp;ldq
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Valuation - Setup This evaluation shows the compilation of the supplier evaluation and thus provides you with an overview of the entire facility.
-you an overview of the entire facility. The breakdown of the &amp;ldquo;hard&amp;rdquo; and
-of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria is clearly displayed. This makes it possible for every user to
-comprehensible how the selected supplier rating is composed. This
-overview can vary from one supplier rating to another (e.</description>
+        <description>Valuation - Setup This evaluation shows the compilation of the supplier evaluation and thus provides you with an overview of the entire facility. you an overview of the entire facility. The breakdown of the &amp;ldquo;hard&amp;rdquo; and of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria is clearly displayed. This makes it possible for every user to
+comprehensible how the selected supplier rating is composed. This overview can vary from one supplier rating to another (e.</description>
       </item>
       
       <item>
@@ -1041,9 +1006,7 @@ To import a sample setup, this field must be selected.</description>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/first-steps/introduction/</guid>
-        <description>Introduction For cases in which you want to send created reports as a fax, this app offers a solution.
-The prerequisite is that you operate a fax server that you can address for sending. Then this app first creates the report to be sent as an email, which is then sent to the fax server via SMTP. From there, the original email is then delivered as a fax.
-In the first version of SMTP2FAX, the functionality is available for the pages:</description>
+        <description>Introduction For cases in which you want to send created reports as a fax, this app offers a solution. The prerequisite is that you operate a fax server that you can address for sending. Then this app first creates the report to be sent as an email, which is then sent to the fax server via SMTP. From there, the original email is then delivered as a fax. In the first version of SMTP2FAX, the functionality is available for the pages:</description>
       </item>
       
       <item>
@@ -1053,8 +1016,7 @@ In the first version of SMTP2FAX, the functionality is available for the pages:<
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</guid>
         <description>SMTP2FAX in Posted Sales Invoices On the posted sales invoices page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
-The fax number used is selected according to the following logic:
-If a different invoice recipient is specified in an invoice, a search is made in its document layouts for a fax number entered for use with invoices. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in an invoice, a search is made in its document layouts for a fax number entered for use with invoices. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
       </item>
       
       <item>
@@ -1414,13 +1376,9 @@ You can search for a user or select them directly. It is also possible to enter 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
-        <description>Level 3 In Level 3, you define the scoring of the hard and soft criteria by clicking
-on the fields marked in red.
-Figure 14: Setup Wizard - Level 3.
-(Control/Modification d. Point allocation).
-First, click on the red number of the hard criteria. A mask opens in which
-all assigned criteria appear. In this mask, distribute the 100 points to be assigned using any key (cf.
-points over any key (see Figure 15).</description>
+        <description>Level 3 In Level 3, you define the scoring of the hard and soft criteria by clicking on the fields marked in red.
+Figure 14: Setup Wizard - Level 3. (Control/Modification d. Point allocation).
+First, click on the red number of the hard criteria. A mask opens in which all assigned criteria appear. In this mask, distribute the 100 points to be assigned using any key (cf. points over any key (see Figure 15).</description>
       </item>
       
       <item>
@@ -1441,12 +1399,9 @@ An overview of the already assigned vendors opens. Here you have the possibility
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
         <description>Level 5 Confirm with &amp;ldquo;Next&amp;rdquo; in the wizard to proceed to the last setup step.
-Set up the rating classification in the window (see Figure 18). Click
-the text &amp;ldquo;Classification not completed&amp;rdquo; in red italics.
-Figure 18: Setup Wizard - Level 5.
-(Classification definition)
-Press the &amp;ldquo;New&amp;rdquo; button to create a new classification. The following is an example of how to select the &amp;ldquo;TEST VALUED&amp;rdquo; valuation code. The creditors
-will be marked with the classification codes &amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, &amp;ldquo;C&amp;rdquo; or &amp;ldquo;D&amp;rdquo;, according to the achieved rating.</description>
+Set up the rating classification in the window (see Figure 18). Click the text &amp;ldquo;Classification not completed&amp;rdquo; in red italics.
+Figure 18: Setup Wizard - Level 5. (Classification definition)
+Press the &amp;ldquo;New&amp;rdquo; button to create a new classification. The following is an example of how to select the &amp;ldquo;TEST VALUED&amp;rdquo; valuation code. The creditors will be marked with the classification codes &amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, &amp;ldquo;C&amp;rdquo; or &amp;ldquo;D&amp;rdquo;, according to the achieved rating.</description>
       </item>
       
       <item>
@@ -1514,8 +1469,7 @@ Publish the Connector 365 Base &amp;amp; Addressee Control app Publishing the Co
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
-Before ordering, you can find the costs incurred in the price list provided on our website.
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
 To the order formIf you wish a trial period you will receive the necessary runtime packages from us for a trial period of 30 days.
 If you want to buy the software immediately we will send you the necessary runtime packages.</description>
       </item>
@@ -1557,8 +1511,7 @@ Publishing of the Connector 365 Base &amp;amp; CTI for STARFACE App the publishi
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
-Before ordering, you can find the costs incurred in the price list provided on our website.
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
 To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
 If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
@@ -1579,8 +1532,7 @@ Publishing of the Connector 365 Base &amp;amp; E-POST App the publishing of the 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
-Before ordering, you can find the costs incurred in the price list provided on our website.
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
 To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
 If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
@@ -1623,8 +1575,7 @@ Publishing of the Connector 365 Base &amp;amp; Easy Document Pin App the publish
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-document-pin/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
-Before ordering, you can find the costs incurred in the price list provided on our website.
+        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly. Before ordering, you can find the costs incurred in the price list provided on our website.
 To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
 If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
       </item>
@@ -2007,7 +1958,7 @@ Abbildung 41: Optionsmaske für den Bericht
 „Valuation - Vendor list“
 The list outputs the following information: Vendor no., vendor name, result for hard and soft criteria, the corresponding achieved point range incl. &amp;ldquo;Classification&amp;rdquo;.
 and finally the achieved total score as &amp;ldquo;final result&amp;rdquo; per supplier.
-You can directly access linked information in this report: With a click</description>
+You can directly access linked information in this report: With a click on the underlined vendor number in blue font, the standard Business Central card of the corresponding vendor opens.</description>
       </item>
       
       <item>
@@ -2016,8 +1967,7 @@ You can directly access linked information in this report: With a click</descrip
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</guid>
-        <description>Valuation - Vendor list An overview shows the classification of all assigned suppliers per supplier rating.
-suppliers. This clarifies the performance of an individual supplier, as well as illustrating the achieved ratio to others.</description>
+        <description>Valuation - Vendor list An overview shows the classification of all assigned suppliers per supplier rating. suppliers. This clarifies the performance of an individual supplier, as well as illustrating the achieved ratio to others.</description>
       </item>
       
       <item>
@@ -2031,7 +1981,7 @@ Figure 40: Option mask for the report.
 &amp;ldquo;Vendor Evaluation - Vendor List &amp;ldquo;
 The list outputs the following information: Vendor no., vendor name, result for hard and soft criteria, the corresponding score range achieved incl. &amp;ldquo;Classification&amp;rdquo;.
 and finally the achieved total score as &amp;ldquo;final result&amp;rdquo; per vendor.
-You can directly access linked information in this report: With a click</description>
+You can directly access linked information in this report: With a click on the underlined vendor number in blue font, the standard Business Central card of the corresponding vendor opens.</description>
       </item>
       
       <item>
@@ -2040,8 +1990,7 @@ You can directly access linked information in this report: With a click</descrip
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</guid>
-        <description>Valuation - Vendor List An overview gives per supplier rating the classification of all assigned
-suppliers. This clarifies the performance of an individual supplier, as well as illustrating the achieved ratio to others.</description>
+        <description>Valuation - Vendor List An overview gives per supplier rating the classification of all assigned suppliers. This clarifies the performance of an individual supplier, as well as illustrating the achieved ratio to others.</description>
       </item>
       
       <item>
@@ -2050,8 +1999,7 @@ suppliers. This clarifies the performance of an individual supplier, as well as 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/gewichtung/</guid>
-        <description>Weighting The weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In
-In total, 100 % are assigned in each case (cf. Figure 1).
+        <description>Weighting The weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In In total, 100 % are assigned in each case (cf. Figure 1).
 Figure 1: Methods for supplier evaluation.</description>
       </item>
       
@@ -2061,8 +2009,7 @@ Figure 1: Methods for supplier evaluation.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/gewichtung/</guid>
-        <description>Weighting The weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In
-In total, 100 % is assigned in each case (cf. Figure 1).
+        <description>Weighting The weighting of the selected factors for classification is carried out via two weighting levels: First, the individual defined criteria are subjected to weighting, and second, the criteria groups (hard/soft) are weighted against each other. In In total, 100 % is assigned in each case (cf. Figure 1).
 Figure 1: Methods for supplier evaluation</description>
       </item>
       
@@ -2083,8 +2030,7 @@ Publishing the Connector 365 Base &amp;amp; SMTP2FAX App Publishing the Connecto
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</guid>
         <description>SMTP2FAX in Posted Sales Credit Memos On the posted sales credit memos page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
-The fax number used is selected according to the following logic:
-If a different invoice recipient is specified in a sales credit memo, a search is made in its document layouts for a fax number entered for use with sales credit memos. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in a sales credit memo, a search is made in its document layouts for a fax number entered for use with sales credit memos. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
       </item>
       
       <item>
@@ -2164,9 +2110,7 @@ Just click on the phone next to the number within the contact card under &amp;ld
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/kriterien/</guid>
         <description>Criteria The selection of the relevant evaluation criteria of an object is summarized in a criteria pool.
-summarized. Such objects can be, for example, suppliers, supplier groups,
-articles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft
-or hard. Hard&amp;quot; criteria are automatically determined and included from the merchandise management
+summarized. Such objects can be, for example, suppliers, supplier groups, articles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft or hard. Hard&amp;quot; criteria are automatically determined and included from the merchandise management
 and included. &amp;ldquo;Soft&amp;rdquo; criteria, on the other hand, are freely defined and assigned values.</description>
       </item>
       
@@ -2177,9 +2121,7 @@ and included. &amp;ldquo;Soft&amp;rdquo; criteria, on the other hand, are freely
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/kriterien/</guid>
         <description>Criteria The selection of the relevant evaluation criteria of an object is summarized in a criteria pool.
-summarized. Such objects can be, for example, suppliers, supplier groups,
-articles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft
-or hard. Hard&amp;quot; criteria are automatically determined and included from the merchandise management
+summarized. Such objects can be, for example, suppliers, supplier groups, articles, article categories etc. The scope of this selection is set up at the evaluation itself. After selecting the criterion, it is defined whether the criterion is soft or hard. Hard&amp;quot; criteria are automatically determined and included from the merchandise management
 and included. &amp;ldquo;Soft&amp;rdquo; criteria, on the other hand, are freely defined and assigned values.</description>
       </item>
       
@@ -2251,8 +2193,7 @@ Actions Display stationery for the Printout operation This action can be used to
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/import-u-export/</guid>
-        <description>Import / Export Under &amp;ldquo;Departments&amp;rdquo; - &amp;ldquo;Supplier evaluation&amp;rdquo; - &amp;ldquo;Administration&amp;rdquo; - &amp;ldquo;Import/export Easy Supra
-Setup data&amp;rdquo;, data can be exported or imported as .txt files (see Figure 46). This allows the setup of the evaluations to be used across clients or databases.
+        <description>Import / Export Under &amp;ldquo;Departments&amp;rdquo; - &amp;ldquo;Supplier evaluation&amp;rdquo; - &amp;ldquo;Administration&amp;rdquo; - &amp;ldquo;Import/export Easy Supra Setup data&amp;rdquo;, data can be exported or imported as .txt files (see Figure 46). This allows the setup of the evaluations to be used across clients or databases.
 Figure 46: Importing data (Import / Export)</description>
       </item>
       
@@ -2329,8 +2270,7 @@ The default report layout for the language code ENU will be overridden by the la
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/base/first-steps/setup/delete-activity-files/</guid>
-        <description>Delete action for archived files Saving the report files in the activity list initially comes with the disadvantage of constantly increasing memory usage of the Business Central database.
-To counteract this, as of version 2.4.0.0 of the Base app, the Actions menu can be seen in the Connector 365 setup.
+        <description>Delete action for archived files Saving the report files in the activity list initially comes with the disadvantage of constantly increasing memory usage of the Business Central database. To counteract this, as of version 2.4.0.0 of the Base app, the Actions menu can be seen in the Connector 365 setup.
 When the menu is opened, the function &amp;ldquo;Delete Activity Files&amp;rdquo; is showing.
 After triggering the function, an input window appears where the start date (older date) for the delete action can be selected:</description>
       </item>
@@ -2502,8 +2442,7 @@ Printing process stationery</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Valuation - Vendor individual The Valuation - Vendor individual report is based on the Valuation - Setup report
-and provides detailed information about a specific vendor rating for a selected vendor.
+        <description>Valuation - Vendor individual The Valuation - Vendor individual report is based on the Valuation - Setup report and provides detailed information about a specific vendor rating for a selected vendor.
 Figure 42: Options mask for report -
 &amp;ldquo;Vendor Evaluation - Vendor &amp;ldquo;
 The report provides detailed information on each evaluated criterion. Using the example of
@@ -2516,10 +2455,7 @@ Figure 43, all deliveries corresponding to an &amp;ldquo;on-time delivery&amp;rd
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Valuation - Vendor individual Here the focus is on the exact composition of the classification. So it is possible to
-detailed understanding of how the classification was arrived at. This
-evaluation illustrates the strengths and weaknesses of an individual vendor,
-related to individual business processes.</description>
+        <description>Valuation - Vendor individual Here the focus is on the exact composition of the classification. So it is possible to detailed understanding of how the classification was arrived at. This evaluation illustrates the strengths and weaknesses of an individual vendor, related to individual business processes.</description>
       </item>
       
       <item>
@@ -2528,8 +2464,7 @@ related to individual business processes.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Valuation - Vendor individual The Valuation - Vendor Single report is based on the Valuation - Setup report
-and provides detailed information about a specific vendor rating for a selected vendor.
+        <description>Valuation - Vendor individual The Valuation - Vendor Single report is based on the Valuation - Setup report and provides detailed information about a specific vendor rating for a selected vendor.
 Figure 43: Option mask for the report
 „Valuation - Vendor individual“
 The report provides detailed information on each criterion evaluated. Using the example of
@@ -2542,10 +2477,7 @@ Figure 44, all deliveries corresponding to a &amp;ldquo;punctual delivery&amp;rd
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Valuation - Vendor individual Here, the focus is on the exact composition of the classification. In this way
-can be traced in detail how the classification was arrived at. This
-evaluation illustrates the strengths and weaknesses of an individual supplier,
-related to individual business processes.</description>
+        <description>Valuation - Vendor individual Here, the focus is on the exact composition of the classification. In this way can be traced in detail how the classification was arrived at. This evaluation illustrates the strengths and weaknesses of an individual supplier, related to individual business processes.</description>
       </item>
       
       <item>
@@ -2609,8 +2541,7 @@ Here you only need to specify the domain of your fax server, which handles the d
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</guid>
         <description>SMTP2FAX in Issued Reminders On the issued reminders page, the function can be found in different menus depending on the Business Central version, e.g. in the &amp;ldquo;Home&amp;rdquo; menu as shown in the screenshot.
-The fax number used is selected according to the following logic:
-First, the document layouts of the customer specified as the recipient are searched for a fax number entered for use with reminders.
+The fax number used is selected according to the following logic: First, the document layouts of the customer specified as the recipient are searched for a fax number entered for use with reminders.
 If none is found there, the fax number entered in the card of the dunning recipient is used.</description>
       </item>
       
@@ -2620,8 +2551,7 @@ If none is found there, the fax number entered in the card of the dunning recipi
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
-        <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices.
-It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
+        <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices. It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
 Connector 365 Addressee Control app:
 Assume that an invoice is to be sent where the invoice recipient and the buyer are different:
 For simplicity, Bill-To-Customer@mail.de has been set up below for the invoice recipient, and Sell-To-Customer@mail.</description>
@@ -2814,10 +2744,7 @@ The Connector is able to check the syntax of a route ID for correctness.</descri
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/</guid>
-        <description>Selection of evaluation Following the definition of the criteria, the evaluation per criterion can be defined individually.
-can be defined individually for each criterion. All fields from the tables &amp;ldquo;Purchasing line&amp;rdquo;, &amp;ldquo;Purchasing delivery line&amp;rdquo;, &amp;ldquo;Purchasing line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo; are available for selection. You can also
-compare newly added fields in the named tables. How you relate the fields to each other
-to each other is freely definable and is represented by a formula.</description>
+        <description>Selection of evaluation Following the definition of the criteria, the evaluation per criterion can be defined individually. can be defined individually for each criterion. All fields from the tables &amp;ldquo;Purchasing line&amp;rdquo;, &amp;ldquo;Purchasing delivery line&amp;rdquo;, &amp;ldquo;Purchasing line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo; are available for selection. You can also compare newly added fields in the named tables. How you relate the fields to each other to each other is freely definable and is represented by a formula.</description>
       </item>
       
       <item>
@@ -2826,10 +2753,7 @@ to each other is freely definable and is represented by a formula.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/auswahl-der-auswertung/</guid>
-        <description>Selection of the evaluation After the definition of the criteria, the evaluation can be defined individually for each criterion.
-can be defined individually for each criterion. For this purpose, all fields from the tables &amp;ldquo;Purchasing line&amp;rdquo;, &amp;ldquo;Purchasing delivery line&amp;rdquo;, &amp;ldquo;Purchasing line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo; are available for selection. You can also
-compare newly added fields in the named tables. How you relate the fields to each other
-to each other is freely definable and is represented by a formula.</description>
+        <description>Selection of the evaluation After the definition of the criteria, the evaluation can be defined individually for each criterion. can be defined individually for each criterion. For this purpose, all fields from the tables &amp;ldquo;Purchasing line&amp;rdquo;, &amp;ldquo;Purchasing delivery line&amp;rdquo;, &amp;ldquo;Purchasing line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo; are available for selection. You can also compare newly added fields in the named tables. How you relate the fields to each other to each other is freely definable and is represented by a formula.</description>
       </item>
       
       <item>
@@ -2933,8 +2857,7 @@ Its use in the workflow is explained in Working with SMTP2FAX.</description>
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</guid>
         <description>SMTP2FAX in Purchase Orders On the purchase orders page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
-The fax number used is selected according to the following logic:
-First, the document layouts of the vendor specified as the recipient are searched for a fax number entered for use with purchase orders. If none is found there, the fax number entered in the supplier&amp;rsquo;s card is used.
+The fax number used is selected according to the following logic: First, the document layouts of the vendor specified as the recipient are searched for a fax number entered for use with purchase orders. If none is found there, the fax number entered in the supplier&amp;rsquo;s card is used.
 The function can also be found on the page of a single purchase order in the &amp;ldquo;Print/Send&amp;rdquo; menu.</description>
       </item>
       
@@ -3290,12 +3213,7 @@ By clicking on the status marker you can get more detailed information about the
         
         <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</guid>
         <description>Upgrade of communication matrix (CON Communication Matrix) Introduction Please check the prerequisites before proceeding.
-<<<<<<< HEAD
 The communication matrix of the Connector NAV/BC contains, if maintained, setup data that determines if and how documents for individual customers, vendors or contacts are processed. In the product series Connector 365 (Business Central versions &amp;gt; 14), the communication matrix is no longer available as a separate table.
-=======
-The communication matrix of the Connector NAV/BC contains, if maintained, setup data that determines if and how documents for individual customers, vendors or contacts are processed.
-In the product series Connector 365 (Business Central versions &amp;gt; 14), the communication matrix is no longer available as a separate table.
->>>>>>> a0b69aea4c6f75cb1d52988de0675995ff634de6
 Instead, the Document Layouts are used for similar facilities.</description>
       </item>
       
@@ -3430,9 +3348,7 @@ How exactly the respective document should be processed, you can set up in our c
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/klassifizierung/</guid>
-        <description>Classification Classification is carried out on the basis of the defined evaluation criteria and their weighting.
-is carried out. In the process, the supplier achieves a number of points which defines his classification
-(achieved class) is defined.</description>
+        <description>Classification Classification is carried out on the basis of the defined evaluation criteria and their weighting. is carried out. In the process, the supplier achieves a number of points which defines his classification (achieved class) is defined.</description>
       </item>
       
       <item>
@@ -3441,9 +3357,7 @@ is carried out. In the process, the supplier achieves a number of points which d
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/klassifizierung/</guid>
-        <description>Classification The classification is made on the basis of the defined evaluation criteria and their weighting.
-is carried out. In the process, the supplier achieves a number of points by which its classification is defined.
-(achieved class) is defined.</description>
+        <description>Classification The classification is made on the basis of the defined evaluation criteria and their weighting. is carried out. In the process, the supplier achieves a number of points by which its classification is defined. (achieved class) is defined.</description>
       </item>
       
       <item>
@@ -3512,15 +3426,8 @@ To illustrate it, we have also prepared a video for you from our latest webcast 
         <pubDate>Fri, 14 Apr 2023 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup_validator/</guid>
-<<<<<<< HEAD
         <description>Set up your own validator As already mentioned in the XRechnung section of the documentation, BELWARE&amp;rsquo;s XRechnung module uses a service to validate invoices and credit notes in XRechnung format. Here, a configurable XML validation tool is used, which was published for the first time by KoSIT (Koordinierungsstelle für IT).
 In combination with the appropriate configuration, the validator is able to check the syntax, as well as various rules and requirements that are placed on an XRechnung, for its correctness and keep a record of the status of the check in the form of a check report.</description>
-=======
-        <description>Set up your own validator As already mentioned in the XRechnung section of the documentation, BELWARE&amp;rsquo;s XRechnung module uses a service to validate invoices and credit notes in XRechnung format.
-Here, a configurable XML validation tool is used, which was published for the first time by KoSIT (Koordinierungsstelle für IT).
-In combination with the appropriate configuration, the validator is able to
-check the syntax, as well as various rules and requirements that are placed on an XRechnung, for its correctness and</description>
->>>>>>> a0b69aea4c6f75cb1d52988de0675995ff634de6
       </item>
       
       <item>
@@ -3550,9 +3457,7 @@ In the communication matrix there is a column &amp;ldquo;Subject&amp;rdquo;.</de
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</guid>
-        <description>Ratings setup Each rating can be conveniently set up via a 5-step wizard and changed afterwards.
-and can be changed afterwards. With the help of a setup wizard, the user is guided through all the necessary
-necessary steps for a successful setup. The entries made are partially subjected to a plausibility check.</description>
+        <description>Ratings setup Each rating can be conveniently set up via a 5-step wizard and changed afterwards. and can be changed afterwards. With the help of a setup wizard, the user is guided through all the necessary necessary steps for a successful setup. The entries made are partially subjected to a plausibility check.</description>
       </item>
       
       <item>
@@ -3561,9 +3466,7 @@ necessary steps for a successful setup. The entries made are partially subjected
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/kurzbeschreibung/einrichtung-der-bewertungen/</guid>
-        <description>Setting up the ratings Each rating can be conveniently set up via a 5-step wizard and changed afterwards.
-change them afterwards. With the help of a setup wizard, the user is guided through all the necessary
-necessary steps for a successful setup. The entries made are partially subjected to a plausibility check.</description>
+        <description>Setting up the ratings Each rating can be conveniently set up via a 5-step wizard and changed afterwards. change them afterwards. With the help of a setup wizard, the user is guided through all the necessary necessary steps for a successful setup. The entries made are partially subjected to a plausibility check.</description>
       </item>
       
       <item>
