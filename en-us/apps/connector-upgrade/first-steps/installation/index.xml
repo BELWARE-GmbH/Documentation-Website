@@ -20,8 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the Connector 365 Upgrade App from us by mail as a runtime package suitable for your system. In order for you to use the app, it must first be published and then installed.
-Since the app is only necessary if you are moving from a legacy system with Connector NAV/BC to a system with Connector 365 Apps, it is assumed here that the Connector 365 Base App is already installed on your system.</description>
+        <description>Installation OnPrem You will receive the Connector 365 Upgrade App from us by mail as a runtime package suitable for your system. In order for you to be able to use the app, it must first be published and then installed.
+As the app is only necessary if you switch from a legacy system with Connector NAV/BC to a system with Connector 365 Apps, it is assumed here that the Connector 365 Base App is already installed on your system.</description>
       </item>
       
     

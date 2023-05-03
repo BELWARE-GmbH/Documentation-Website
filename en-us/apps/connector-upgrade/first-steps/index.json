@@ -1,7 +1,7 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "First Steps on Connector 365 Online Help",
-    "description": "Recent content in First Steps on Connector 365 Online Help",
+    "title" : "First steps on Connector 365 Online Help",
+    "description": "Recent content in First steps on Connector 365 Online Help",
     "home_page_url" : "https://docs.belware.de/",
     "feed_url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/index.json",
     "items" : [
@@ -11,15 +11,15 @@
         "date_modified" : "2020-02-28T00:00:00+09:00",
         "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/",
         "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/",
-        "content_html" : "\u003ch3 id=\"first-steps\"\u003eFirst steps\u003c/h3\u003e\n\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003cp\u003eThe Upgrade App was developed for customers who are upgrading from a system up to BC14 to a newer Business Central version and who are also upgrading from the Connector NAV/BC to the Connector 365 Apps.\u003cbr /\u003e\nSince there are differences in the technical implementation between the Connector NAV/BC and the Connector 365 Apps, it is necessary to transfer the table data belonging to the Connector NAV/BC to the new tables of the Connector 365 Apps.\u003cbr /\u003e\nThis transfer is the task of the Upgrade App.\u003cbr /\u003e\nIn detail, the following data will be transferred:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eContents of the old confirmation table into the new confirmation table, in order to be able to display status messages for archived operations.\u003c/li\u003e\n\u003cli\u003eEntries from the old job list to the new activity list in order to still have archived operations available\u003c/li\u003e\n\u003cli\u003eSettings from the communication matrix of the Connector NAV/BC into the document layouts of the Business Central standard\u003c/li\u003e\n\u003c/ul\u003e\n"
+        "content_html" : "\u003ch3 id=\"first-steps\"\u003eFirst steps\u003c/h3\u003e\n\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003cp\u003eThe Upgrade App was developed for customers who are upgrading from a system up to BC14 to a newer Business Central version and are also upgrading from the Connector NAV/BC to the Connector 365 Apps.\u003cbr /\u003e\nAs there are differences in the technical implementation between the Connector NAV/BC and the Connector 365 Apps, it is necessary to transfer the table data belonging to the Connector NAV/BC to the new tables of the Connector 365 Apps.\u003cbr /\u003e\nThis transfer is the task of the Upgrade App.\u003cbr /\u003e\nIn detail, the following data is transferred:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eContents of the old feedback table into the new feedback table, in order to be able to display status messages for archived operations.\u003c/li\u003e\n\u003cli\u003eEntries from the old joblist into the new activity list in order to continue to have archived operations available\u003c/li\u003e\n\u003cli\u003eSettings from the communication matrix of Connector NAV/BC into the document layouts of the Business Central Standard\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIt is assumed that the table data of the Connector NAV/BC (tables: \u003cem\u003e\u003cstrong\u003eCON *\u003c/strong\u003e\u003c/em\u003e) have been transferred from Navision/Business Central (\u0026lt;=BC14) to the database of the current BC version.\u003c/p\u003e\n\u003ch3 id=\"requirements\"\u003eRequirements\u003c/h3\u003e\n\u003cp\u003eThe following prerequisites are required to install and run the \u003cem\u003e\u003cstrong\u003eConnector Upgrade\u003c/strong\u003e\u003c/em\u003e app:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAt least the \u003cem\u003e\u003cstrong\u003eConnector 365 Base\u003c/strong\u003e\u003c/em\u003e app is successfully installed. (It is recommended that all \u003cem\u003e\u003cstrong\u003eConnector 365 Apps\u003c/strong\u003e\u003c/em\u003e to be used in the future are installed prior to the upgrade).\u003c/li\u003e\n\u003cli\u003eAll Connector NAV/BC tables from the older NAV/BC installation (\u0026lt;=BC14) are included in the SQL database of the new Business Central version.\u003c/li\u003e\n\u003cli\u003eThe client or clients from the older NAV/BC installation for which data is to be transferred are present in the new Business Central version.\u003c/li\u003e\n\u003cli\u003eIf you wish to take over the Connector NAV/BC communication matrix, customers and vendors from the older versions should also exist in Business Central and be accessible via the same numbers.\u003c/li\u003e\n\u003c/ul\u003e\n"
     },
     {
-        "title" : "Testing \u0026 Purchasing",
+        "title" : "Test \u0026 Purchase",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/",
         "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/test-purchase/",
-        "content_html" : "\u003ch3 id=\"testing-and-purchasing-the-connector-365-upgrade-app\"\u003eTesting and purchasing the Connector 365 Upgrade App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to test and purchase the Connector 365 Upgrade App.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"test-and-buy-the-connector-365-upgrade-app\"\u003eTest and buy the Connector 365 Upgrade App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and tips for testing and purchasing the Connector 365 Upgrade App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Installation",
@@ -27,15 +27,7 @@
         "date_modified" : "2020-02-28T00:00:00+09:00",
         "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/",
         "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/installation/",
-        "content_html" : "\u003ch3 id=\"installing-the-connector-365-upgrade-app\"\u003eInstalling the Connector 365 Upgrade App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to install the Connector 365 Upgrade App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we are happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
-    },
-    {
-        "title" : "Setup",
-        "date_published" : "2020-02-28T00:00:00+09:00",
-        "date_modified" : "2020-02-28T00:00:00+09:00",
-        "id" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/",
-        "url" : "https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/",
-        "content_html" : "\u003ch3 id=\"setting-up-the-connector-365-upgrade-app\"\u003eSetting up the Connector 365 Upgrade App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to set up the Connector 365 Upgrade App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered for you, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"installing-the--connector-365-upgrade-app\"\u003eInstalling the  Connector 365 Upgrade App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and notes on installing the Connector 365 Upgrade App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn the event that a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }

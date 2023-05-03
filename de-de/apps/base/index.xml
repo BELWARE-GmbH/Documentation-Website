@@ -20,7 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/new-and-planned/</guid>
-        <description>Neu und geplant Version 2.5.0.0 - 14.04.2023 Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang. Implementierung von API Seiten zur Nutzung von Power Automate. Unterstützung der App Mail Scenarios Plus Anpassung der Berechtigungssätze: CON365, Edit enthält nun den Berechtigungsstz CON365, View </description>
+        <description>Neu und geplant Version 2.5.0.1 - 26.04.2023 Korrektur:
+Automatisches aktivieren der HTTP-Request zur Lizenzprüfung. Version 2.5.0.0 - 14.04.2023 Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang. Implementierung von API Seiten zur Nutzung von Power Automate. Unterstützung der App Mail Scenarios Plus Anpassung der Berechtigungssätze: CON365, Edit enthält nun den Berechtigungsstz CON365, View </description>
       </item>
       
       <item>

@@ -126,6 +126,16 @@ To simulate a case where validation fails, we modify the above procedure to &amp
         <description>Further information on troubleshooting In this documentation, a possible case of an incorrect validation was shown as an example. In addition to the problem shown there with the routing ID, there are several other sources of errors. Therefore, it is enormously advantageous to use a validation service, as otherwise errors may only be noticed in one of the invoice portals or by the invoice recipient. Using the validation report and with the help of the PEPPOL BIS Billing 3.</description>
       </item>
       
+      <item>
+        <title>Set up your own validator</title>
+        <link>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup_validator/</link>
+        <pubDate>Fri, 14 Apr 2023 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup_validator/</guid>
+        <description>Set up your own validator As already mentioned in the XRechnung section of the documentation, BELWARE&amp;rsquo;s XRechnung module uses a service to validate invoices and credit notes in XRechnung format. Here, a configurable XML validation tool is used, which was published for the first time by KoSIT (Koordinierungsstelle für IT).
+In combination with the appropriate configuration, the validator is able to check the syntax, as well as various rules and requirements that are placed on an XRechnung, for its correctness and keep a record of the status of the check in the form of a check report.</description>
+      </item>
+      
     
   </channel>
 </rss>

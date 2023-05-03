@@ -15,14 +15,29 @@
     
       
       <item>
-        <title>Transferprozess</title>
-        <link>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</link>
-        <pubDate>Mon, 04 Jul 2022 00:00:00 -0500</pubDate>
+        <title>Upgrade der Jobliste (CON Joblist)</title>
+        <link>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</guid>
-        <description>Durchführen des Transferprozesses Die Betätigung des Transfer-Buttons startet die Übertragung der Daten aus der Rückmeldungstabelle des Connector NAV/BC in die Rückmeldungstabelle der Connector 365 Apps, die Übertragung der alten Jobliste in die neue Aktivitätenliste und die Portierung der Inhalte der Kommunikationsmatrix in die Dokumentlayouts.
-Der Prozess läuft im Hintergrund ab. Über den erfolgreichen Abschluss wird mit einer entsprechenden Meldung informiert.
-Sollte der Prozess z. B. durch Serverprobleme vorzeitig abgebrochen werden, kann er durch nochmalige Betätigung des Buttons fortgesetzt werden.</description>
+        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</guid>
+        <description>Upgrade aus der Connector 365 Einrichtung Bitte prüfen Sie die Voraussetzungen bevor Sie fortfahren.
+In der Jobliste werden alle Aktivitäten, die im Rahmen der Funktionen des Connector NAV/BC ausgeführt werden, protokolliert.
+Die Connector 365 Apps verwenden eine ähnliche Tabelle (Connector 365 Aktivitäten), um jegliche Aktivitäten festzuhalten.
+Da beide Tabellen allerdings nicht identisch sind, wird ein Prozess benötigt, der die Daten der Jobliste in die Connector 365 Aktivitäten Liste überträgt.
+Die Connector 365 Upgrade App stellt eine Funktion für die Datensynchronisierung bereit.</description>
+      </item>
+      
+      <item>
+        <title>Upgrade der Kommunikationsmatrix (CON Communication Matrix)</title>
+        <link>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</guid>
+        <description>Upgrade der Kommunikationsmatrix (CON Communication Matrix) Einleitung Bitte prüfen Sie die Voraussetzungen bevor Sie fortfahren.
+Die Kommunikationsmatrix des Connector NAV/BC enthält, falls gepflegt, Einrichtungsdaten die bestimmen, ob und wie Belege für einzelne Debitoren, Kreditoren oder auch Kontakte verabeitet werden.
+In der Produkt-Reihe Connector 365 (Business Central Versionen &amp;gt; 14), ist die Kommunikationsmatrix nicht mehr als eigene Tabelle vorhanden.
+Stattdessen werden die Dokumentlayouts für gleichartige Einrichtungen verwendet.
+Die Connector Upgrade-App stellt eine Funktion bereit, mit der Einrichtungsdaten der Kommunikationsmatrix mit den Dokumentlayouts synchronisiert werden können.</description>
       </item>
       
     

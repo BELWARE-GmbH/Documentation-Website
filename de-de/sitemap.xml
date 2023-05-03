@@ -4193,21 +4193,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/</loc>
-    <lastmod>2022-07-04T00:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/transfer-process/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/transfer-process/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/further_targets/</loc>
     <lastmod>2022-07-04T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -5893,21 +5878,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/</loc>
-    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/archive/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -6163,21 +6133,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/connector-setup/</loc>
-    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/setup/connector-setup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/connector-upgrade/first-steps/setup/connector-setup/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -6189,6 +6144,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/smtp2faxdialog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/joblist_transfer/"
                 />
   </url>
   
@@ -6464,6 +6434,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/"
                 />
   </url>
   
@@ -6809,6 +6794,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/updates/to-31-12-2021/september/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/</loc>
+    <lastmod>2023-04-14T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/setup_validator/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/"
                 />
   </url>
   

@@ -20,7 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/</guid>
-        <description>New and planned Version 2.3.0.0 - 14.04.2023 Implementation of additional table for saving additional files for each process. Version 2.2.0.0 - 06.01.2023 Implementation of new license check. Version 2.1.0.2 from 17.11.2022 Error Correction: Using the app together with other COnnector 365 Apps Easy Batch and Addressee Control no longer results in an error. Version 2.1.0.0 from 04.11.2022 Compatibility with Connector 365 Addressee Control App Improved form for license orders Version 2.</description>
+        <description>New and planned Version 2.3.0.1 - 26.04.2023 Correction:
+Writing a negative validation report when sending via Easy Batch no longer results in an error. Version 2.3.0.0 - 14.04.2023 Implementation of additional table for saving additional files for each process. Version 2.2.0.0 - 06.01.2023 Implementation of new license check. Version 2.1.0.2 from 17.11.2022 Error Correction: Using the app together with other COnnector 365 Apps Easy Batch and Addressee Control no longer results in an error.</description>
       </item>
       
       <item>
