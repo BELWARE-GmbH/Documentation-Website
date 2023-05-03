@@ -20,7 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/</guid>
-        <description>Data to be evaluated After the setup of the supplier evaluation(s) is completed, this chapter describes how and at which points in Dynamics 365 Business Central the data is that will later be evaluated based on the ratings that have been set up. During the Collection of &amp;ldquo;soft&amp;rdquo; and &amp;ldquo;hard&amp;rdquo; factors, different factors are used.</description>
+        <description>Data to be evaluated After the setup of the supplier evaluation(s) is completed, this
+chapter describes how and at which points in Dynamics 365 Business Central the data is
+that will later be evaluated based on the ratings that have been set up. During the
+Collection of &amp;ldquo;soft&amp;rdquo; and &amp;ldquo;hard&amp;rdquo; factors, different factors are used.</description>
       </item>
       
       <item>

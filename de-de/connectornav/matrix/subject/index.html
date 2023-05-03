@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/connectornav/matrix/subject/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.101.0" />
+<meta name="generator" content="Hugo 0.105.0">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/connectornav/matrix/subject/">
@@ -5871,14 +5871,14 @@ In den Feldern der zweiten Spalte können über das [&hellip;]-Symbol am Rand je
 </p></p>
 <h4 id="heading-2"></h4>
 <p>die Elemente der Datenbank ausgewählt werden, durch deren Werte die Platzhalter ersetzt werden sollen.<br />
-Hierzu stehen Ihnen die Felder aus den Firmendaten, sowie die Informationen aus dem Header zur Verfügung, der für die <br />
+Hierzu stehen Ihnen die Felder aus den Firmendaten, sowie die Informationen aus dem Header zur Verfügung, der für die<br />
 Verwendung des entsprechenden Berichts genutzt wird. Beispielsweise haben Sie für den Standard-Bericht 1306: Standard Sales - Invoice, den Verkaufsrechnungskopf (Sales Invoice Header) zur Verfügung.</p>
 <p><p class="md__image">
   <img src="/images/connectornav/matrix/platzhalter_def_4.png" alt=""  />
 </p></p>
 <h4 id="heading-3"></h4>
 <div class="notices info" data-title="Technischer hinweis">
-  Um die Tabelle für die Kopfdaten zu bestimmen, werden die Report-Metadaten des jeweiligen Berichts auf dessen Eigenschaft: <strong>FirstDataItemTableID</strong> untersucht. Die Standard-Berichte in Business Central hinterlegen für dieses jeweils erste Element (FirstDataItemTableId) den zugrundeliegenden Header. Beispiel: Report 1306 -&gt; Sales Invoice Header. <br />
+  Um die Tabelle für die Kopfdaten zu bestimmen, werden die Report-Metadaten des jeweiligen Berichts auf dessen Eigenschaft: <strong>FirstDataItemTableID</strong> untersucht. Die Standard-Berichte in Business Central hinterlegen für dieses jeweils erste Element (FirstDataItemTableId) den zugrundeliegenden Header. Beispiel: Report 1306 -&gt; Sales Invoice Header.<br />
 Wenn anpepasste Berichte eine andere Sturktur vorweisen, also eine andere Tabelle an erster Stelle steht, so<br />
 wird diese auch in den Tabellenfilter übernommen, wodurch möglicherweise unbrauchbare Felder angezeigt werden, beziehungsweise wichtige Felder vermisst werden könnten. Für solche Fälle gibt es die Möglichkeit, über einen Event-Subscriber abhängig von der Berichts-Id die richtige Zieltabelle zu setzen. Mehr dazu finden Sie unter <a href="/de-de/apps/mail-subject-plus/working-with-mail-subject-plus/events">hier</a>.
 </div>
@@ -5909,7 +5909,7 @@ Das zu nutzende Event lautet: <strong>OnBeforeSetRecordFilterForEmailPlaceholder
 </span></span></span></code></pre></td></tr></table>
 </div>
 </div><p>Hier wird für ein Beispiel-Bericht 50001 die Zieltabelle auf den Wert 112 (Verkaufsrechnungskopf) gesetzt.<br />
-Bei der nächsten Auswahl eines Platzhalters für den Bericht 50001 werden nun neben den Firmendaten auch die möglichen Felder <br />
+Bei der nächsten Auswahl eines Platzhalters für den Bericht 50001 werden nun neben den Firmendaten auch die möglichen Felder<br />
 aus dem Verkaufsrechnungskopf angezeigt.</p>
 <div class="notices info" data-title="Hinweis">
   Es sollte darauf geachtet werden, dass die korrekte Zieltabelle zur jeweiligen Nutzung verwendet wird.<br />

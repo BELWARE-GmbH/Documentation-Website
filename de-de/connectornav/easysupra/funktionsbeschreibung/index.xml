@@ -29,7 +29,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/</guid>
-        <description>Auszuwertende Daten Nachdem die Einrichtung der Lieferantenbewertung(en) abgeschlossen ist, wird in diesem Kapitel dargestellt, wie und an welchen Stellen in Dynamics 365 Business Central die Daten entstehen, die später anhand der eingerichteten Bewertungen ausgewertet werden. Bei der Erhebung von „weichen“ und „harten“ Faktoren wird auf unterschiedliche Faktoren zurückgegriffen.</description>
+        <description>Auszuwertende Daten Nachdem die Einrichtung der Lieferantenbewertung(en) abgeschlossen ist, wird in diesem
+Kapitel dargestellt, wie und an welchen Stellen in Dynamics 365 Business Central die Daten
+entstehen, die später anhand der eingerichteten Bewertungen ausgewertet werden. Bei der
+Erhebung von „weichen“ und „harten“ Faktoren wird auf unterschiedliche Faktoren zurückgegriffen.</description>
       </item>
       
       <item>
@@ -39,7 +42,9 @@
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/</guid>
         <description>Einrichtungsassistent Der Einrichtungsassistent dient zur Erstellung neuer und zur Bearbeitung bestehender Lieferantenbewertungen. Geöffnet wird dieser über den Menüpunkt „Lieferantenbewertungen“ –
-„Einrichtung“ – „Lieferantenbewertung erstellen/bearbeiten“. Anwender werden mit Hilfe des Assistenten in fünf Stufen durch die Einrichtung geführt. Diese fünf Stufen werden in den folgenden Abschnitten in Form eines Tätigkeitsleitfadens näher beschrieben.</description>
+„Einrichtung“ – „Lieferantenbewertung erstellen/bearbeiten“. Anwender werden mit Hilfe des
+Assistenten in fünf Stufen durch die Einrichtung geführt. Diese fünf Stufen werden in den
+folgenden Abschnitten in Form eines Tätigkeitsleitfadens näher beschrieben.</description>
       </item>
       
       <item>
@@ -48,7 +53,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/import-u-export/</guid>
-        <description>Import / Export Unter „Abteilungen“ – „Lieferantenbewertung“ – „Verwaltung“ – „Im-/Export easySUPRA Einrichtungsdaten“ können Daten als .txt-Dateien exportiert oder importiert werden (vgl. Abbildung 46). Dadurch kann die Einrichtung der Bewertungen Mandanten- oder Datenbankübergreifend genutzt werden.
+        <description>Import / Export Unter „Abteilungen“ – „Lieferantenbewertung“ – „Verwaltung“ – „Im-/Export easySUPRA
+Einrichtungsdaten“ können Daten als .txt-Dateien exportiert oder importiert werden (vgl. Abbildung 46). Dadurch kann die Einrichtung der Bewertungen Mandanten- oder Datenbankübergreifend genutzt werden.
 Abbildung 46: Import von Daten (Import / Export)</description>
       </item>
       
