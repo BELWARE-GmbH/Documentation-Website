@@ -21,8 +21,7 @@
         
         <guid>https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/reportselection/</guid>
         <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus. Für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte unterstützt aus den Bereichen
-Verkauf Einkauf Service Mahnung Lagerbestand Fertigungsauftrag Bankkonto In der Berichtsauswahl finden Sie das Feld &amp;ldquo;Betreff&amp;rdquo;, durch Klicken des Feldes gelangen Sie zur Seite E-Mail-Betreff.
-Hier können Sie nun je Sprachcode einen beliebigen Betreff definieren.</description>
+Verkauf Einkauf Service Mahnung Lagerbestand Fertigungsauftrag Bankkonto In der Berichtsauswahl finden Sie das Feld &amp;ldquo;E-Mail-Betreffs&amp;rdquo;, das anzeigt, wieviele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite E-Mail-Betreff.</description>
       </item>
       
       <item>
@@ -31,7 +30,7 @@ Hier können Sie nun je Sprachcode einen beliebigen Betreff definieren.</descrip
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/documentlayouts/</guid>
-        <description>Einrichtung Dokumentenlayouts Neben der Berichtsauswahl, können Sie auch individuell pro Debitor einen Betreff festlegen - diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
+        <description>Einrichtung Dokumentlayouts Neben der eher allgemeinen Einrichtung in der Berichtsauswahl besteht die Möglichkeit, für jeden Debitor festzulegen, welche Belegart mit welchem Betreff versehen werden soll. Diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
 Navigieren Sie zunächst zu dem gewünschten Debitor bzw. Kreditor. Dort angekommen, klicken Sie in der Menüleiste auf &amp;ldquo;Navigieren&amp;rdquo; -&amp;gt; &amp;ldquo;Dokumentenlayouts&amp;rdquo;. Bevor Sie den Betreff einrichten, müssen Sie zunächst die Verwendung bzw. den Bericht einrichten. Sobald dies vorgenommen wurde können Sie über das Feld &amp;ldquo;E-Mail Betreff&amp;rdquo; Ihren gewünschten Betreff festlegen.</description>
       </item>
       

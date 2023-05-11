@@ -21,8 +21,7 @@
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/setup/reportselection/</guid>
         <description>Setup Report selection Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report. For our example we are going to use invoices, however, reports are supported for
-Sales Purchasing Service Reminder Inventory Production Order Bank Account In the report selection you will find the field Subject, by clikcing the field you navigate to the page Email Subject.
-Here you can define different subjects for each language.</description>
+Sales Purchasing Service Reminder Inventory Production Order Bank Account In the report selection you will find the field &amp;ldquo;Email subjects&amp;rdquo;, which shows how many individual formulations have already been created. Clicking the field will take you to the Email Subject editing page.</description>
       </item>
       
       <item>

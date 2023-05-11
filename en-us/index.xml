@@ -286,7 +286,7 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
-Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here. The function is included OnPrem.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
       </item>
       
       <item>
@@ -748,8 +748,7 @@ The number there, shows how many different report layouts are setup for the spec
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/setup/reportselection/</guid>
         <description>Setup Report selection Using the search function, open the desired report selection - e.g. the one for sales. Now select the desired report. For our example we are going to use invoices, however, reports are supported for
-Sales Purchasing Service Reminder Inventory Production Order Bank Account In the report selection you will find the field Subject, by clikcing the field you navigate to the page Email Subject.
-Here you can define different subjects for each language.</description>
+Sales Purchasing Service Reminder Inventory Production Order Bank Account In the report selection you will find the field &amp;ldquo;Email subjects&amp;rdquo;, which shows how many individual formulations have already been created. Clicking the field will take you to the Email Subject editing page.</description>
       </item>
       
       <item>
