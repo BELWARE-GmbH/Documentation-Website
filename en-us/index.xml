@@ -286,12 +286,8 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
-<<<<<<< HEAD
-Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-=======
 Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required.
 You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
->>>>>>> a610bee0d855dd2e7e852d35ac0f5e030a89a08b
       </item>
       
       <item>
@@ -1067,7 +1063,7 @@ If a different invoice recipient is specified in an invoice, a search is made in
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Setup To set the destination address logic as desired via the Connector 365 Addressee Control app, open one of the Report Selections pages.
-Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
+Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account Service from version 1.4.0.0 on The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
       </item>
       
       <item>
@@ -1278,6 +1274,19 @@ Before placing an order, you can find the applicable costs in the price list pro
         <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/archive/</guid>
         <description>Working with the E-POST API Archive After sending the invoice, you can check the status in the joblist. This can be found in the factbox area directly on the overview of the documents. Here you can see when the letter was sent, who sent it and what the status is.
 In the factbox area of the documents you can find the Connector 365 Activities. There you find the brief overview to each process.</description>
+      </item>
+      
+      <item>
+        <title>Attachments</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/attachments/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/attachments/</guid>
+        <description>Attachments As already mentioned in the setup on the topic Customer,
+when generating an XInvoice, the Connector 365 XRechnung app allows the original document to be included in the resulting XML file,
+or to attach it to an e-mail in the form of a PDF file.
+However, in addition to the original document, other attachments can be added or embedded in the XML file as desired.
+The following explains in more detail how you can easily specify attachments via dialog, or even by pre-configuration.</description>
       </item>
       
       <item>
@@ -2858,6 +2867,17 @@ CON365, EDIT
 In the case of the Easy Document Pin app, this set provides the same permissions as VIEW.
 CON365, SETUP
 This permission set is necessary to make changes to the app setup and should be assigned to the administrator.</description>
+      </item>
+      
+      <item>
+        <title>Special features when using Connector 365 XRechnung</title>
+        <link>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/xrechnung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/xrechnung/</guid>
+        <description>Special features when using Connector 365 XRechnung If you have installed the Connector 365 XInvoice app, an additional field is available when adding attachments,
+which directly affects the way the Connector 365 XInvoice app works.
+This is because the latter is compatible with the Connector 365 Mail Attachments Plus app. This means that attachments set up for customers, reports or receipts are also taken into account when sending XRechnung using the Connector 365 XInvoice app.</description>
       </item>
       
       <item>

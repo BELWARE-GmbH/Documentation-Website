@@ -44,6 +44,17 @@ If you have a previously have set up defaults in the report selection, it is pos
 Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which you can add attachments via &amp;ldquo;Select file&amp;rdquo; in the table.</description>
       </item>
       
+      <item>
+        <title>Special features when using Connector 365 XRechnung</title>
+        <link>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/xrechnung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/xrechnung/</guid>
+        <description>Special features when using Connector 365 XRechnung If you have installed the Connector 365 XInvoice app, an additional field is available when adding attachments,
+which directly affects the way the Connector 365 XInvoice app works.
+This is because the latter is compatible with the Connector 365 Mail Attachments Plus app. This means that attachments set up for customers, reports or receipts are also taken into account when sending XRechnung using the Connector 365 XInvoice app.</description>
+      </item>
+      
     
   </channel>
 </rss>

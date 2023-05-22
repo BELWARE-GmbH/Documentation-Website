@@ -20,7 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-batch/new-and-planned/</guid>
-        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.6.0.0 - 14.04.2023 Implementation of additional table for saving additional files for each process. Implementation of API pages for the use of Power Automate. Support for the app Mail Scenarios Plus. Version 2.5.0.0 - 02.03.2023 Immediate information that the documents are enqueued for processing, when executing the action Send via Batch.</description>
+        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.7.0.0 - 22.05.2023 New features:
+Support of document types from the service area Version 2.6.0.0 - 14.04.2023 Implementation of additional table for saving additional files for each process. Implementation of API pages for the use of Power Automate. Support for the app Mail Scenarios Plus. Version 2.5.0.0 - 02.03.2023 Immediate information that the documents are enqueued for processing, when executing the action Send via Batch.</description>
       </item>
       
       <item>

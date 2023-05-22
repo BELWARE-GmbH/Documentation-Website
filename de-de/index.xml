@@ -166,12 +166,8 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
-<<<<<<< HEAD
-Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-=======
 Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt.
 Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
->>>>>>> a610bee0d855dd2e7e852d35ac0f5e030a89a08b
       </item>
       
       <item>
@@ -1057,6 +1053,19 @@ In der ersten Version von SMTP2FAX ist die Funktionalität verfügbar für die S
 Die verwendete Faxnummer wird nach folgender Logik ausgewählt:
 Ist in einer Rechnung ein abweichender Rechnungsempfänger angegeben, wird in dessen Dokumentlayouts nach einer Faxnummer gesucht, die für die Verwendung mit Rechnungen eingetragen wurde. Wird dort keine gefunden, wird die in der Karte des Rechnungsempfängers eingetragene Faxnummer verwendet.
 Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisierung für den Debitor.</description>
+      </item>
+      
+      <item>
+        <title>Anhänge</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</guid>
+        <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt,
+erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden,
+oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
+Neben den Originalbeleg können jedoch auch weitere Anhänge beliebig hinzugefügt oder in die XML-Datei eingebettet werden.
+Im folgenden wird näher erläutert, wie Sie Anhänge ganz einfach per Dialog, oder auch durch Vorab-Konfiguration festlegen können.</description>
       </item>
       
       <item>
@@ -2698,6 +2707,17 @@ Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience 
       </item>
       
       <item>
+        <title>Besonderheiten bei Nutzung von Connector 365 XRechnung</title>
+        <link>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/xrechnung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/xrechnung/</guid>
+        <description>Besonderheiten bei Nutzung von Connector 365 XRechnung Wenn Sie die Connector 365 XRechnung App installiert haben, steht Ihnen bei Hinzufügen von Anhängen ein weiteres
+Feld zur Verfügung, welches direkten Einfluss auf die Funktionsweise der Connector 365 XRechnung App nimmt.
+Letztere ist nämlich kompatibel mit der Connector 365 Mail Attachments Plus App. Das heißt, dass eingerichtete Anhänge für Debitoren, Berichte oder Belege ebenfalls beim XRechnung-Versand mithilfe der Connector 365 XRechnung App berücksichtigt werden.</description>
+      </item>
+      
+      <item>
         <title>Bis 31.12.2018</title>
         <link>https://docs.belware.de/de-de/connectornav/updates/to-31-12-2018/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -3112,8 +3132,7 @@ Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt ei
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Einrichtung Zieladressen pro Bericht Um die Zieladressen-Logik über die Connector 365 Addressee Control App nach Belieben einzustellen, öffnen Sie eine der Seiten Berichtsauswahlen.
-Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung ab Version 1.2.0.0 Bankkonto Projekt Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
-Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:</description>
+Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung ab Version 1.2.0.0 Bankkonto Projekt Service ab Version 1.4.0.0 Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.</description>
       </item>
       
       <item>
