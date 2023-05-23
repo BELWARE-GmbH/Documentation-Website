@@ -21,12 +21,7 @@
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
-<<<<<<< HEAD
 Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-=======
-Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required.
-You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
->>>>>>> a610bee0d855dd2e7e852d35ac0f5e030a89a08b
       </item>
       
       <item>
@@ -40,6 +35,17 @@ You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&a
 A new dialog opens where you can make adjustments before sending.
 In the dialog, the sender, the recipient, the subject and also again the Ident ID can be viewed but also adjusted.
 The content of the mail can be customized and the current attachments are visible.</description>
+      </item>
+      
+      <item>
+        <title>Attachments</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/attachments/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/attachments/</guid>
+        <description>Attachments As already mentioned in the setup on the topic Customer, when generating an XInvoice, the Connector 365 XRechnung app allows the original document to be included in the resulting XML file, or to attach it to an e-mail in the form of a PDF file.
+However, in addition to the original document, other attachments can be added or embedded in the XML file as desired.
+The following explains in more detail how you can easily specify attachments via dialog, or even by pre-configuration.</description>
       </item>
       
       <item>

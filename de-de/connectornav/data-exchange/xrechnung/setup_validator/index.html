@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.105.0">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/">
@@ -2435,6 +2435,14 @@ if (!doNotTrack) {
     </span>
   </li>
   <ul class="menu__list " data-data=/epost/ data-link=https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/>
+    
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/de-de/connectornav/epost/registration/" class="menu__title " data-depth="0">Die Registrierung</a>
+        </li>
+      
     
       
         
@@ -4951,6 +4959,14 @@ if (!doNotTrack) {
         
         
         <li>
+          <a href="https://docs.belware.de/de-de/connectornav/epost/registration/" class="menu__title " data-depth="0">Die Registrierung</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
           <a href="https://docs.belware.de/de-de/connectornav/epost/setup/" class="menu__title " data-depth="0">Die Einrichtung</a>
         </li>
       
@@ -5860,17 +5876,17 @@ if (!doNotTrack) {
 
   <article class="single__contents" data-dir="ltr">
     <h1 id="einen-eigenen-validator-aufsetzen">Einen eigenen Validator aufsetzen</h1>
-<p>Wie im Bereich XRechnung der Dokumentation bereits erwähnt, nutzt das XRechnungs-Modul von BELWARE einen Dienst<br />
+<p>Wie im Bereich XRechnung der Dokumentation bereits erwähnt, nutzt das XRechnungs-Modul von BELWARE einen Dienst <br />
 zum Validieren von Rechnungen und Gutschriften im XRechnung-Format.<br />
 Hierbei wird auf ein konfigurierbares XML-Prüftool zurückgegriffen, welches die KoSIT (Koordinierungsstelle für IT) erstmalig veröffentlichte.<br />
-In Kombination mit der passenden Konfiguration, ist der Validator in der Lage,<br />
-die Syntax, sowie diverse Regeln und Anforderungen, welche an eine XRechnung gestellt werden, auf dessen Richtigkeit zu prüfen und<br />
+In Kombination mit der passenden Konfiguration, ist der Validator in der Lage, <br />
+die Syntax, sowie diverse Regeln und Anforderungen, welche an eine XRechnung gestellt werden, auf dessen Richtigkeit zu prüfen und <br />
 über den Status der Prüfung Protokoll in Form eines Prüfberichts zu führen.</p>
-<p>Das BELWARE XRechnung-Modul kann standardmäßig, falls gewünscht, mit einem von BELWARE betriebenen Web-Service auf eben<br />
+<p>Das BELWARE XRechnung-Modul kann standardmäßig, falls gewünscht, mit einem von BELWARE betriebenen Web-Service auf eben <br />
 diesen Validierungsdienst zugreifen.<br />
-Falls Sie unseren Dienst nicht nutzen wollen oder aufgrund von technischen Einschränkungen nicht nutzen können,<br />
+Falls Sie unseren Dienst nicht nutzen wollen oder aufgrund von technischen Einschränkungen nicht nutzen können, <br />
 gäbe es die Möglichkeit, selbst einen eigenen Validator zum Validieren einzurichten.</p>
-<p>Im Folgenden wird erklärt, welche Schritte notwendig sind, um einen eigenen Validator einzurichten,<br />
+<p>Im Folgenden wird erklärt, welche Schritte notwendig sind, um einen eigenen Validator einzurichten, <br />
 und diesen über das BELWARE XRechnungs-Modul aus Navision/BC anzusprechen.</p>
 <h2 id="herunterladen-der-benötigten-komponenten">Herunterladen der benötigten Komponenten</h2>
 <p>Zunächst müssen der Validator an sich, und die XRechnung-Konfiguration heruntergeladen werden.<br />
@@ -5894,7 +5910,7 @@ Beides wird vom Anbieter auf Github zur Verfügung gestellt.</p>
 </tbody>
 </table>
 <div class="notices info" data-title="Hinweis">
-  Das XML-Prüftool wurde mithilfe der Programmiersprache Java entwickelt.<br />
+  Das XML-Prüftool wurde mithilfe der Programmiersprache Java entwickelt. <br />
 Um dieses also selbst ausführen zu können, wird die Installation der Java-Laufzeitumgebung (Java Runtime Environment (JRE)) vorausgesetzt.
 </div>
 <br>
@@ -5920,7 +5936,7 @@ Um dieses also selbst ausführen zu können, wird die Installation der Java-Lauf
 </thead>
 </table>
 <h2 id="starten-des-validators-als-daemon">Starten des Validators als <em><strong>Daemon</strong></em></h2>
-<p>Sind die benötigten Dateien erfolgreich heruntergeladen worden, und ist eine Java-Runtime-Umgebung installiert,<br />
+<p>Sind die benötigten Dateien erfolgreich heruntergeladen worden, und ist eine Java-Runtime-Umgebung installiert, <br />
 so kann der Validator wie folgt ausgeführt werden:</p>
 <p>Öffnen Sie die Powershell und geben Sie folgenden Befehl ein.</p>
 <div class="highlight"><div class="chroma">

@@ -21,12 +21,7 @@
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
-<<<<<<< HEAD
 Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-=======
-Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt.
-Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
->>>>>>> a610bee0d855dd2e7e852d35ac0f5e030a89a08b
       </item>
       
       <item>
@@ -39,6 +34,17 @@ Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&am
 „Drucken/Senden“ -&amp;gt; „Als XRechnung senden“
 Es öffnet sich ein neuer Dialog, in dem Sie vor dem Versenden noch Anpassungen vornehmen können.
 Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal die Leitweg-ID einsehen aber auch anpassen.</description>
+      </item>
+      
+      <item>
+        <title>Anhänge</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</guid>
+        <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt, erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden, oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
+Neben den Originalbeleg können jedoch auch weitere Anhänge beliebig hinzugefügt oder in die XML-Datei eingebettet werden.
+Im folgenden wird näher erläutert, wie Sie Anhänge ganz einfach per Dialog, oder auch durch Vorab-Konfiguration festlegen können.</description>
       </item>
       
       <item>

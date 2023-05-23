@@ -15,6 +15,16 @@
     
       
       <item>
+        <title>Die Registrierung</title>
+        <link>https://docs.belware.de/de-de/connectornav/epost/registration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/epost/registration/</guid>
+        <description>Registrierung als Geschäftskunde der Deutschen Post Um das Modul E-Post nuzen zu können, ist eine vorherige Registrierung bei der Deutschen Post nötig. Diese erfolgt in zwei Schritten: zum Einen die Registrierung als Geschäftskunde, um ein Kundenkonto bei der Deutschen Post zu erhalten, zum Anderen die Registrierung für die Nutzung der E-Post API an sich. Das Formular zur Registrierung als Geschäftskunde finden Sie auf der Shop-Seite der Deutschen Post.
+Gerne unterstützen wir Sie bei der Registrierung der E-POSTBUSINESS API bei der Deutschen Post.</description>
+      </item>
+      
+      <item>
         <title>Die Einrichtung</title>
         <link>https://docs.belware.de/de-de/connectornav/epost/setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

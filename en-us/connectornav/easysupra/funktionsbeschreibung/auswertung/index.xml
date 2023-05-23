@@ -20,12 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Rating - Setup The evaluation &amp;ldquo;Evaluation - Setup&amp;rdquo; shows the compilation and setup of the
-supplier rating. To do this, first select the respective supplier rating via
-the &amp;ldquo;Lookup&amp;rdquo; button.
+        <description>Rating - Setup The evaluation &amp;ldquo;Evaluation - Setup&amp;rdquo; shows the compilation and setup of the supplier rating. To do this, first select the respective supplier rating via the &amp;ldquo;Lookup&amp;rdquo; button.
 Figure 39 : Option mask for the report
-The report provides the breakdown of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria, as well as the classifications used, and presents them clearly (see Figure 40). This makes it possible for every
-user to understand the details that make up the selected supplier rating.</description>
+The report provides the breakdown of the &amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; criteria, as well as the classifications used, and presents them clearly (see Figure 40). This makes it possible for every user to understand the details that make up the selected supplier rating.</description>
       </item>
       
       <item>
@@ -39,7 +36,7 @@ Abbildung 41: Optionsmaske für den Bericht
 „Valuation - Vendor list“
 The list outputs the following information: Vendor no., vendor name, result for hard and soft criteria, the corresponding achieved point range incl. &amp;ldquo;Classification&amp;rdquo;.
 and finally the achieved total score as &amp;ldquo;final result&amp;rdquo; per supplier.
-You can directly access linked information in this report: With a click</description>
+You can directly access linked information in this report: With a click on the underlined vendor number in blue font, the standard Business Central card of the corresponding vendor opens.</description>
       </item>
       
       <item>
@@ -48,8 +45,7 @@ You can directly access linked information in this report: With a click</descrip
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Valuation - Vendor individual The Valuation - Vendor Single report is based on the Valuation - Setup report
-and provides detailed information about a specific vendor rating for a selected vendor.
+        <description>Valuation - Vendor individual The Valuation - Vendor Single report is based on the Valuation - Setup report and provides detailed information about a specific vendor rating for a selected vendor.
 Figure 43: Option mask for the report
 „Valuation - Vendor individual“
 The report provides detailed information on each criterion evaluated. Using the example of

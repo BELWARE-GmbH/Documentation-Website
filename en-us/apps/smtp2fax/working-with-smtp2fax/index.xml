@@ -21,8 +21,7 @@
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalesinvoices/</guid>
         <description>SMTP2FAX in Posted Sales Invoices On the posted sales invoices page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
-The fax number used is selected according to the following logic:
-If a different invoice recipient is specified in an invoice, a search is made in its document layouts for a fax number entered for use with invoices. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in an invoice, a search is made in its document layouts for a fax number entered for use with invoices. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
       </item>
       
       <item>
@@ -32,8 +31,7 @@ If a different invoice recipient is specified in an invoice, a search is made in
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/postedsalescrmemos/</guid>
         <description>SMTP2FAX in Posted Sales Credit Memos On the posted sales credit memos page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
-The fax number used is selected according to the following logic:
-If a different invoice recipient is specified in a sales credit memo, a search is made in its document layouts for a fax number entered for use with sales credit memos. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+The fax number used is selected according to the following logic: If a different invoice recipient is specified in a sales credit memo, a search is made in its document layouts for a fax number entered for use with sales credit memos. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
       </item>
       
       <item>
@@ -43,8 +41,7 @@ If a different invoice recipient is specified in a sales credit memo, a search i
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/issuedreminders/</guid>
         <description>SMTP2FAX in Issued Reminders On the issued reminders page, the function can be found in different menus depending on the Business Central version, e.g. in the &amp;ldquo;Home&amp;rdquo; menu as shown in the screenshot.
-The fax number used is selected according to the following logic:
-First, the document layouts of the customer specified as the recipient are searched for a fax number entered for use with reminders.
+The fax number used is selected according to the following logic: First, the document layouts of the customer specified as the recipient are searched for a fax number entered for use with reminders.
 If none is found there, the fax number entered in the card of the dunning recipient is used.</description>
       </item>
       
@@ -55,8 +52,7 @@ If none is found there, the fax number entered in the card of the dunning recipi
         
         <guid>https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/purchaseorders/</guid>
         <description>SMTP2FAX in Purchase Orders On the purchase orders page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
-The fax number used is selected according to the following logic:
-First, the document layouts of the vendor specified as the recipient are searched for a fax number entered for use with purchase orders. If none is found there, the fax number entered in the supplier&amp;rsquo;s card is used.
+The fax number used is selected according to the following logic: First, the document layouts of the vendor specified as the recipient are searched for a fax number entered for use with purchase orders. If none is found there, the fax number entered in the supplier&amp;rsquo;s card is used.
 The function can also be found on the page of a single purchase order in the &amp;ldquo;Print/Send&amp;rdquo; menu.</description>
       </item>
       
