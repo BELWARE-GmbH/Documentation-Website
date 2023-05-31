@@ -20,9 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Version 2.4.0.0 - 22.05.2023 Neuerungen:
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Version 2.4.0.1 - 31.05.2023 Korrektur:
+Behebt unzureichende Berechtigungen bei Erzeugen und Versenden von XRechnungen Version 2.4.0.0 - 22.05.2023 Neuerungen:
 Integration von Connector 365 Mail Attachments Plus Möglichkeit, im Dialog flexibel einzustellen, welche Anhänge in die XRechnung-XML-Datei eingebettet werden, und welche als zusätzliche Anhänge per Mail betrachtet werden Version 2.3.0.1 - 26.04.2023 Korrektur:
-Schreiben eines negativen Validierungsberichts beim Versand über Easy Batch führt nicht mehr zum Fehler. Version 2.3.0.0 - 14.04.2023 Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.</description>
+Schreiben eines negativen Validierungsberichts beim Versand über Easy Batch führt nicht mehr zum Fehler.</description>
       </item>
       
       <item>
