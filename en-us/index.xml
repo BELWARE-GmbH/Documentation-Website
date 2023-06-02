@@ -286,12 +286,7 @@ Once there, you will notice two new buttons, one is a check mark for batch mode 
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Working with XRechnung Processable document types for XRechnung Currently, the Connector 365 XRechung-App is able to process the following document formats as XRechnung:
-<<<<<<< HEAD
 Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required. You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-=======
-Sales invoices Sales credit memos Service invoices 1 Service credit memos 1 Note: To create XRechnung files for service reports, a premium license is required.
-You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
->>>>>>> fc73f4f739f6bfeaf599b15ff35d2585a55cbde4
       </item>
       
       <item>
@@ -1249,13 +1244,7 @@ In the factbox area of the documents you can find the Connector 365 Activities. 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/attachments/</guid>
-<<<<<<< HEAD
         <description>Attachments As already mentioned in the setup on the topic Customer, when generating an XInvoice, the Connector 365 XRechnung app allows the original document to be included in the resulting XML file, or to attach it to an e-mail in the form of a PDF file.
-=======
-        <description>Attachments As already mentioned in the setup on the topic Customer,
-when generating an XInvoice, the Connector 365 XRechnung app allows the original document to be included in the resulting XML file,
-or to attach it to an e-mail in the form of a PDF file.
->>>>>>> fc73f4f739f6bfeaf599b15ff35d2585a55cbde4
 However, in addition to the original document, other attachments can be added or embedded in the XML file as desired.
 The following explains in more detail how you can easily specify attachments via dialog, or even by pre-configuration.</description>
       </item>
@@ -2990,7 +2979,7 @@ In the now open page you can choose from already existing stationeries or add ne
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</guid>
-        <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
+        <description>Setup Check the Tax Category It is also worth looking at the tax category, which can be found in the VAT Posting Setup. This again can be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
       </item>
       
@@ -3137,6 +3126,17 @@ There you will find 2 fields, Printer for the process Printout or Printout Serve
         
         <guid>https://docs.belware.de/en-us/connectornav/pdfpaper/rotate_attachments/</guid>
         <description>Automatical rotation of attachments. It is possible to automatically rotate PDF files that have been saved in landscape format to portrait format during the processing of a job. This is useful when you want to send files in a consistent format. To enable the option, you need to access the pdfPaper setup. There you will find the fields &amp;ldquo;Automatically rotate when&amp;hellip;&amp;rdquo;. Now check the respective job mode in which the file should be rotated.</description>
+      </item>
+      
+      <item>
+        <title>Seller Country Code</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-seller-country-code/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-seller-country-code/</guid>
+        <description>Setup Check the Seller Country Code One point that must also be taken into account is setting up the seller country code according to the ISO 3166 standard.
+The code is set in the company data:
+For more information on how to set up the code correctly, see the corresponding Wikipedia page.</description>
       </item>
       
       <item>

@@ -43,7 +43,15 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/",
         "url" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/",
-        "content_html" : "\u003ch3 id=\"setup\"\u003eSetup\u003c/h3\u003e\n\u003ch3 id=\"check-the-tax-category\"\u003eCheck the Tax Category\u003c/h3\u003e\n\u003cp\u003eFinally, it is also worth looking at the tax category, this can be found in the \u003cstrong\u003eVAT Posting Setup\u003c/strong\u003e, this can again be called up most quickly via the search function.\u003c/p\u003e\n\u003cp\u003eHere you should now fill the field “Tax category” with the respective designation, you can find this \u003ca href=\"https://docs.peppol.eu/poacc/billing/3.0/codelist/UNCL5305/\" target=\"_blank\"\u003ehere\u003c/a\u003e finden. In most cases you will only need E S and Z.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/XRechnung/erste_schritte/xrechnungmatrix.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"setup\"\u003eSetup\u003c/h3\u003e\n\u003ch3 id=\"check-the-tax-category\"\u003eCheck the Tax Category\u003c/h3\u003e\n\u003cp\u003eIt is also worth looking at the tax category, which can be found in the \u003cstrong\u003eVAT Posting Setup\u003c/strong\u003e. This again can be called up most quickly via the search function.\u003c/p\u003e\n\u003cp\u003eHere you should now fill the field “Tax category” with the respective designation, you can find this \u003ca href=\"https://docs.peppol.eu/poacc/billing/3.0/codelist/UNCL5305/\" target=\"_blank\"\u003ehere\u003c/a\u003e finden. In most cases you will only need E S and Z.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/XRechnung/erste_schritte/xrechnungmatrix.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Seller Country Code",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-seller-country-code/",
+        "url" : "https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-seller-country-code/",
+        "content_html" : "\u003ch3 id=\"setup\"\u003eSetup\u003c/h3\u003e\n\u003ch3 id=\"check-the-seller-country-code\"\u003eCheck the Seller Country Code\u003c/h3\u003e\n\u003cp\u003eOne point that must also be taken into account is setting up the seller country code according to the ISO 3166 standard.\u003cbr /\u003e\nThe code is set in the company data:\u003cbr /\u003e\n\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/XRechnung/us/company_information.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eFor more information on how to set up the code correctly, see the corresponding \u003ca href=\"https://en.wikipedia.org/wiki/ISO_3166-1\" target=\"_blank\"\u003eWikipedia page\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }

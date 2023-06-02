@@ -63,8 +63,19 @@ Then you should adjust the field &amp;ldquo;International Standard Code” accor
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-tax-category/</guid>
-        <description>Setup Check the Tax Category Finally, it is also worth looking at the tax category, this can be found in the VAT Posting Setup, this can again be called up most quickly via the search function.
+        <description>Setup Check the Tax Category It is also worth looking at the tax category, which can be found in the VAT Posting Setup. This again can be called up most quickly via the search function.
 Here you should now fill the field “Tax category” with the respective designation, you can find this here finden. In most cases you will only need E S and Z.</description>
+      </item>
+      
+      <item>
+        <title>Seller Country Code</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-seller-country-code/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-seller-country-code/</guid>
+        <description>Setup Check the Seller Country Code One point that must also be taken into account is setting up the seller country code according to the ISO 3166 standard.
+The code is set in the company data:
+For more information on how to set up the code correctly, see the corresponding Wikipedia page.</description>
       </item>
       
     

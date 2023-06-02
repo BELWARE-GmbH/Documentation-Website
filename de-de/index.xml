@@ -166,12 +166,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
-<<<<<<< HEAD
 Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-=======
-Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt.
-Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
->>>>>>> fc73f4f739f6bfeaf599b15ff35d2585a55cbde4
       </item>
       
       <item>
@@ -1016,13 +1011,7 @@ Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisier
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</guid>
-<<<<<<< HEAD
         <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt, erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden, oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
-=======
-        <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt,
-erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden,
-oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
->>>>>>> fc73f4f739f6bfeaf599b15ff35d2585a55cbde4
 Neben den Originalbeleg können jedoch auch weitere Anhänge beliebig hinzugefügt oder in die XML-Datei eingebettet werden.
 Im folgenden wird näher erläutert, wie Sie Anhänge ganz einfach per Dialog, oder auch durch Vorab-Konfiguration festlegen können.</description>
       </item>
@@ -2948,7 +2937,7 @@ Mehr Informationen zu beiden Punkten finden Sie in der Doku für die Kommunikati
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-tax-category/</guid>
-        <description>Einrichtung Überprüfen der Steuerkategorie Zuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der MwSt.-Buchungsmatrix zu finden, diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
+        <description>Einrichtung Überprüfen der Steuerkategorie Es lohnt sich auch, die Steuerkategorie anzusehen, diese ist in der MwSt.-Buchungsmatrix zu finden. Diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
 Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie hier finden. In den meisten Fällen werden Sie nur E S und Z benötigen.</description>
       </item>
       
@@ -3139,6 +3128,17 @@ Weitere Informationen zur genauen Verwendung dieser Funktion finden Sie in der E
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/schluesselung/</guid>
         <description>Schlüsselung Die an der Bewertung hinterlegten „weichen“ und „harten“ Bewertungskriterien werden gewichtet. An der Bewertung wird hinterlegt, wie die weichen und harten Kriterien in die Gesamtbewertung einfließen (vgl. Abbildung 1).</description>
+      </item>
+      
+      <item>
+        <title>Verkäufer-Ländercode</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-seller-country-code/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-seller-country-code/</guid>
+        <description>Einrichtung Überprüfen des Verkäufer-Ländercodes Ein Punkt, der ebenfalls beachtet werden muss, ist die Einrichtung des Verkäufer-Ländercodes entsprechend der ISO-Norm 3166.
+Festgelegt wird der Code in den Firmendaten:
+Nähere Informationen zur korrekten Anlage des Codes finden Sie auf der entsprechenden Wikipedia-Seite.</description>
       </item>
       
       <item>

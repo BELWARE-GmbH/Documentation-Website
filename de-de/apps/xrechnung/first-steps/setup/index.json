@@ -43,7 +43,15 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-tax-category/",
         "url" : "https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-tax-category/",
-        "content_html" : "\u003ch3 id=\"einrichtung\"\u003eEinrichtung\u003c/h3\u003e\n\u003ch3 id=\"überprüfen-der-steuerkategorie\"\u003eÜberprüfen der Steuerkategorie\u003c/h3\u003e\n\u003cp\u003eZuletzt lohnt es sich auch die Steuerkategorie anzusehen, diese ist in der \u003cstrong\u003eMwSt.-Buchungsmatrix\u003c/strong\u003e zu finden, diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.\u003c/p\u003e\n\u003cp\u003eHier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie \u003ca href=\"https://docs.peppol.eu/poacc/billing/3.0/codelist/UNCL5305/\" target=\"_blank\"\u003ehier\u003c/a\u003e finden. In den meisten Fällen werden Sie nur E S und Z benötigen.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/XRechnung/erste_schritte/xrechnungmatrix.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"einrichtung\"\u003eEinrichtung\u003c/h3\u003e\n\u003ch3 id=\"überprüfen-der-steuerkategorie\"\u003eÜberprüfen der Steuerkategorie\u003c/h3\u003e\n\u003cp\u003eEs lohnt sich auch, die Steuerkategorie anzusehen, diese ist in der \u003cstrong\u003eMwSt.-Buchungsmatrix\u003c/strong\u003e zu finden. Diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.\u003c/p\u003e\n\u003cp\u003eHier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie \u003ca href=\"https://docs.peppol.eu/poacc/billing/3.0/codelist/UNCL5305/\" target=\"_blank\"\u003ehier\u003c/a\u003e finden. In den meisten Fällen werden Sie nur E S und Z benötigen.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/XRechnung/erste_schritte/xrechnungmatrix.PNG\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Verkäufer-Ländercode",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-seller-country-code/",
+        "url" : "https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-seller-country-code/",
+        "content_html" : "\u003ch3 id=\"einrichtung\"\u003eEinrichtung\u003c/h3\u003e\n\u003ch3 id=\"überprüfen-des-verkäufer-ländercodes\"\u003eÜberprüfen des Verkäufer-Ländercodes\u003c/h3\u003e\n\u003cp\u003eEin Punkt, der ebenfalls beachtet werden muss, ist die Einrichtung des Verkäufer-Ländercodes entsprechend der ISO-Norm 3166.\u003cbr /\u003e\nFestgelegt wird der Code in den Firmendaten:\u003cbr /\u003e\n\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/apps/XRechnung/de/firmendaten.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003eNähere Informationen zur korrekten Anlage des Codes finden Sie auf der entsprechenden \u003ca href=\"https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste\" target=\"_blank\"\u003eWikipedia-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }
