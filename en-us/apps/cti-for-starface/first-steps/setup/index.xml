@@ -20,8 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Setup In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, a setup must take place here as well. For this you need a module which you can download on this page.
-The name of the Microsoft Dynamics 365 Business Central users as well as the respective web key can be found, in Microsoft Dynamics 365 Business Central under &amp;ldquo;Users&amp;rdquo; in the respective &amp;ldquo;User card&amp;rdquo;.</description>
+        <description>Setup In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, it must also be set up accordingly. For this you need a module that you can download further down on this page according to your STARFACE version.
+Sources of Information For the setup of the STARFACE software some information is required. Where to find it in Business Central is described here.</description>
       </item>
       
       <item>
