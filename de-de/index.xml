@@ -20,7 +20,7 @@
         <pubDate>Wed, 17 Aug 2022 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/setup/easy-batch-setup/</guid>
-        <description>Einrichtung Easy Batch Einrichtung Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 EInrichtung ein.
+        <description>Einrichtung Easy Batch Einrichtung Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 Einrichtung ein.
 Dort finden Sie den Reiter Easy Batch Einrichtung.
 Grundsätzlich werden alle Belege über Easy Batch im Hintergrund verarbeitet.
 Über die Easy Batch Einrichtung können Sie allerdings steuern, welche Belege zu welchem Zeitpunkt verarbeitet werden sollen.
@@ -78,7 +78,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert, 
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Easy Batch zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Easy Batch zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -363,7 +363,7 @@ Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Beim versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken. Mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger als notwendig.
+        <description>Erste Schritte Einleitung Beim Versenden von Belegen aus Ihrer Microsoft Dynamics 365 Business Central Umgebung wollen Sie häufig mehrere Belege gleichzeitig verschicken. Mit dem Dynamics 365 Business Central Standard ist dies jedoch nicht ohne weiteres möglich. Dies macht einen Prozess der nur ein paar Minuten dauern sollte, viel länger als notwendig.
 Mit dem Connector 365 Easy Batch ist es möglich, mehrere Belege intelligent gesteuert und gleichzeitig zu versenden. Richten Sie die gewünschte Versandmethode in den Dokumentenlayouts ein und wählen Sie einfach Ihre Belege aus, die Sie versenden wollen: Ein Klick und alle Belege werden versendet.</description>
       </item>
       
@@ -1415,11 +1415,11 @@ Navigieren Sie zunächst zu dem gewünschten Debitor bzw. Kreditor. Dort angekom
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/setup/document-layouts/</guid>
-        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren, welche Belege im Stapelversand erhalten wollen, dies entsprechend einrichten.
 Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
 Navigieren -&amp;gt; Dokumentlayouts
-Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
-Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
+Dort angekommen, werden Sie zwei neue Kontrollelemente entdecken: eine Checkbox zur Steuerung des Stapelmodus und ein Dropdown-Menü für den Jobmodus.
+Der Haken im Feld Stapelmodus bewirkt, dass bei der Stapelverarbeitung für die jeweilige Verwendung der hier ausgewählte Jobmodus verwendet wird.</description>
       </item>
       
       <item>
@@ -2089,7 +2089,7 @@ Feldbeschreibung PDF Passwort Hier kann man für das PDF Dokument ein Passwort v
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/setup/document-sending-profile/</guid>
         <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
-Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Standardmäßig ist die Funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
 Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
 Öffnen Sie die Suche, geben Sie Belegsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
       </item>
@@ -2802,7 +2802,7 @@ SetJoblistSubject(„Jobno.“ : Integer;NewSubject : Text[250]) Mit dieser Funk
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/open-tasks/</guid>
         <description>Arbeiten mit Easy Batch Offene Aufgaben Die Seite Offene Aufgaben bietet Ihnen eine Übersicht sämtlicher Belege, welche zur Verarbeitung eingestellt wurden, allerdings noch nicht erfolgreich verarbeitet wurden.
-Neben der geplanten Verarbeitungszeit, kann im Fehlerfall im Feld Fehlernachricht nachgeprüft werden, warum die Verarbeitun fehlschlug.
+Neben der geplanten Verarbeitungszeit kann im Fehlerfall im Feld Fehlernachricht nachgeprüft werden, warum die Verarbeitung fehlschlug.
 Über die Schaltfläche Verarbeitung stornieren kann die Verarbeitung für einzelne Belege gestoppt werden.
 Die Aktion Aufgabe wiederholen stellt die selektierten Aufgaben erneut zur Verarbeitung ein.
 Es werden nur Aufgaben berücksichtigt, welche bei der Verarbeitung auf einen Fehler gestoßen sind.</description>
@@ -2852,7 +2852,7 @@ Direkt am Beleg
 Diese finden Sie direkt in der Factbox rechts neben Ihren Belegen.
 In den globalen Aktivitäten
 Diese erreichen Sie am besten über die Suche - öffnen Sie die Suchfunktion und suchen Sie nach Connector 365 Aktivitäten.
-In den Aktivitäten werden Jobs aufgeführt die über den Stapelmodus ausgelöst wurden.</description>
+In den Aktivitäten werden Jobs aufgeführt, die über den Stapelmodus ausgelöst wurden.</description>
       </item>
       
       <item>

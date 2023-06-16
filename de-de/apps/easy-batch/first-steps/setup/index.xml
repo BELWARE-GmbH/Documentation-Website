@@ -20,7 +20,7 @@
         <pubDate>Wed, 17 Aug 2022 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/setup/easy-batch-setup/</guid>
-        <description>Einrichtung Easy Batch Einrichtung Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 EInrichtung ein.
+        <description>Einrichtung Easy Batch Einrichtung Um zur Easy Batch Einrichtung zu gelangen, öffnen Sie einfach die Suche und geben dort Connector 365 Einrichtung ein.
 Dort finden Sie den Reiter Easy Batch Einrichtung.
 Grundsätzlich werden alle Belege über Easy Batch im Hintergrund verarbeitet.
 Über die Easy Batch Einrichtung können Sie allerdings steuern, welche Belege zu welchem Zeitpunkt verarbeitet werden sollen.
@@ -33,11 +33,11 @@ In der Easy Batch Einrichtung sind alle gebuchten Belegarten hinterlegt, welche 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/setup/document-layouts/</guid>
-        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren welche Belege im Stapelversand erhalten wollen dies entsprechend einrichten.
+        <description>Einrichtung Einrichten der Dokumentlayouts Damit die Connector 365 Easy Batch App korrekt genutzt werden kann, müssen Sie zunächst bei den Debitoren, welche Belege im Stapelversand erhalten wollen, dies entsprechend einrichten.
 Öffnen Sie den gewünschten Debitor und navigieren Sie in die Dokumentlayouts
 Navigieren -&amp;gt; Dokumentlayouts
-Dort angekommen, werden Sie zwei neue Schaltflächen entdecken, zum einen einen Haken für den Stapelmodus und zum anderen ein Dropdown-Menü für den Jobmodus.
-Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</description>
+Dort angekommen, werden Sie zwei neue Kontrollelemente entdecken: eine Checkbox zur Steuerung des Stapelmodus und ein Dropdown-Menü für den Jobmodus.
+Der Haken im Feld Stapelmodus bewirkt, dass bei der Stapelverarbeitung für die jeweilige Verwendung der hier ausgewählte Jobmodus verwendet wird.</description>
       </item>
       
       <item>
@@ -47,7 +47,7 @@ Der Haken im Feld Stapelmodus aktiviert für diesen Eintrag den Stapelmodus.</de
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/setup/document-sending-profile/</guid>
         <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
-Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Stanardmäßig ist die funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Standardmäßig ist die Funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Mit dem Connector 365 Easy Batch, können Belegsendeprofile aber auch dafür genutzt verwenden die Stapelfunktion zu steuern.
 Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
 Öffnen Sie die Suche, geben Sie Belegsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
       </item>

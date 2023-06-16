@@ -276,7 +276,7 @@ Display of a contact overview, company and employee.</description>
         <description>Setup Setting up the document layouts In order to be able to use the Connector 365 Easy Batch App correctly, you must first set up the customers who want to receive documents in batch mode.
 Open the desired customer and navigate to the document layouts
 Navigate -&amp;gt; Document layouts
-Once there, you will notice two new buttons, one is a check mark for batch mode and the other is a drop down menu for job mode.</description>
+Once there, you will discover two new controls: a checkbox to control the batch mode and a dropdown menu for the job mode.</description>
       </item>
       
       <item>
