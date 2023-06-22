@@ -166,7 +166,8 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
-Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt.
+Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
       </item>
       
       <item>
@@ -197,7 +198,8 @@ Verkauf Einkauf Service Mahnung Lagerbestand Fertigungsauftrag Bankkonto In der 
         <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/report-layout-selection/</guid>
         <description>Einrichtung Berichtslayoutauswahl Die Einrichtung der abweichenden Berichtslayouts erreichen Sie über die jeweilige Berichtsauswahl. Zurzeit werden folgende Berichtsauswahlen unterstützt:
 Verkauf Einkauf Mahnung/Zinsrechnung In der Berichtsauswahl angelangt finden Sie in den Zeilen das Feld Berichtslayoutauswahl.
-Die dort zu sehende Zahl gibt an, wie viele abweichende Layouts für jeweilige Berichts-ID bereits eingerichtet sind. Durch Klick auf diese Zahl in diesem Feld gelangen Sie zur Berichtslayoutauswahl. Dort angelangt finden Sie die Übersicht der bereits hinterlegten abweichenden Berichtslayouts, sofern vorhanden.</description>
+Die dort zu sehende Zahl gibt an, wie viele abweichende Layouts für jeweilige Berichts-ID bereits eingerichtet sind. Durch Klick auf diese Zahl in diesem Feld gelangen Sie zur Berichtslayoutauswahl.
+Dort angelangt finden Sie die Übersicht der bereits hinterlegten abweichenden Berichtslayouts, sofern vorhanden.</description>
       </item>
       
       <item>
@@ -216,9 +218,13 @@ Die dort zu sehende Zahl gibt an, wie viele abweichende Layouts für jeweilige B
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Bewertung - Einrichtung Die Auswertung „Bewertung – Einrichtung“ zeigt die Zusammenstellung und Einrichtung der Lieferantenbewertung. Wählen Sie hierzu zunächst die jeweilige Lieferantenbewertung über die „Lookup“-Schaltfläche aus.
+        <description>Bewertung - Einrichtung Die Auswertung „Bewertung – Einrichtung“ zeigt die Zusammenstellung und Einrichtung der
+Lieferantenbewertung. Wählen Sie hierzu zunächst die jeweilige Lieferantenbewertung über
+die „Lookup“-Schaltfläche aus.
 Abbildung 38 : Optionsmaske Bericht Lieferantenbewertung - Einrichtung
-Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Kriterien, sowie die genutzten Klassifizierungen und stellt diese anschaulich dar (vgl. Abbildung 39). Damit ist für jeden Anwender nachvollziehbar, aus welchen Details sich die ausgewählte Lieferantenbewertung zusammensetzt. Diese Übersicht, kann sich von einer eingerichteten Lieferantenbewertung zur anderen unterscheiden (bspw.</description>
+Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Kriterien, sowie die genutzten Klassifizierungen und stellt diese anschaulich dar (vgl. Abbildung 39). Damit ist für jeden
+Anwender nachvollziehbar, aus welchen Details sich die ausgewählte Lieferantenbewertung
+zusammensetzt. Diese Übersicht, kann sich von einer eingerichteten Lieferantenbewertung</description>
       </item>
       
       <item>
@@ -227,8 +233,13 @@ Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Krit
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Bewertung - Einrichtung Diese Auswertung weist die Zusammenstellung der Lieferantenbewertung aus und liefert Ihnen somit einen Überblick über die gesamte Einrichtung. So wird die Aufschlüsselung der „harten“ und „weichen“ Kriterien anschaulich dargestellt. Damit ist für jeden Nutzer
-nachvollziehbar, wie sich die ausgewählte Lieferantenbewertung zusammensetzt. Diese Übersicht, kann von Lieferantenbewertung zu Lieferantenbewertung unterschiedlich sein (z. B. Dienstleister, Spediteur, Hardwarehersteller, Softwarehersteller). Dieser Bericht kann somit genutzt werden, um neue Mitarbeiter einzuarbeiten, Audits über aktuelle Prozesse zu informieren oder bestimmten Lieferanten die Zusammensetzung ihrer Bewertung zu präsentieren.</description>
+        <description>Bewertung - Einrichtung Diese Auswertung weist die Zusammenstellung der Lieferantenbewertung aus und liefert
+Ihnen somit einen Überblick über die gesamte Einrichtung. So wird die Aufschlüsselung
+der „harten“ und „weichen“ Kriterien anschaulich dargestellt. Damit ist für jeden Nutzer
+nachvollziehbar, wie sich die ausgewählte Lieferantenbewertung zusammensetzt. Diese
+Übersicht, kann von Lieferantenbewertung zu Lieferantenbewertung unterschiedlich sein
+(z. B. Dienstleister, Spediteur, Hardwarehersteller, Softwarehersteller). Dieser Bericht
+kann somit genutzt werden, um neue Mitarbeiter einzuarbeiten, Audits über aktuelle Prozesse zu informieren oder bestimmten Lieferanten die Zusammensetzung ihrer Bewertung zu präsentieren.</description>
       </item>
       
       <item>
@@ -237,9 +248,13 @@ nachvollziehbar, wie sich die ausgewählte Lieferantenbewertung zusammensetzt. D
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Bewertung - Einrichtung Die Auswertung „Bewertung – Einrichtung“ zeigt die Zusammenstellung und Einrichtung der Lieferantenbewertung. Wählen Sie hierzu zunächst die jeweilige Lieferantenbewertung über die „Lookup“-Schaltfläche aus.
+        <description>Bewertung - Einrichtung Die Auswertung „Bewertung – Einrichtung“ zeigt die Zusammenstellung und Einrichtung der
+Lieferantenbewertung. Wählen Sie hierzu zunächst die jeweilige Lieferantenbewertung über
+die „Lookup“-Schaltfläche aus.
 Abbildung 39 : Optionsmaske für den Bericht
-Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Kriterien, sowie die genutzten Klassifizierungen und stellt diese anschaulich dar (vgl. Abbildung 40). Damit ist für jeden Anwender nachvollziehbar, aus welchen Details sich die ausgewählte Lieferantenbewertung zusammensetzt. Diese Übersicht, kann sich von einer eingerichteten Lieferantenbewertung zur anderen unterscheiden (bspw.</description>
+Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Kriterien, sowie die genutzten Klassifizierungen und stellt diese anschaulich dar (vgl. Abbildung 40). Damit ist für jeden
+Anwender nachvollziehbar, aus welchen Details sich die ausgewählte Lieferantenbewertung
+zusammensetzt. Diese Übersicht, kann sich von einer eingerichteten Lieferantenbewertung</description>
       </item>
       
       <item>
@@ -248,8 +263,13 @@ Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Krit
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Bewertung - Einrichtung Diese Auswertung weist die Zusammenstellung der Lieferantenbewertung aus und liefert Ihnen somit einen Überblick über die gesamte Einrichtung. So wird die Aufschlüsselung der „harten“ und „weichen“ Kriterien anschaulich dargestellt. Damit ist für jeden Nutzer
-nachvollziehbar, wie sich die ausgewählte Lieferantenbewertung zusammensetzt. Diese Übersicht, kann von Lieferantenbewertung zu Lieferantenbewertung unterschiedlich sein (z. B. Dienstleister, Spediteur, Hardwarehersteller, Softwarehersteller). Dieser Bericht kann somit genutzt werden um neue Mitarbeiter einzuarbeiten, Audits über aktuelle Prozesse zu informieren oder bestimmten Lieferanten die Zusammensetzung ihrer Bewertung zu präsentieren.</description>
+        <description>Bewertung - Einrichtung Diese Auswertung weist die Zusammenstellung der Lieferantenbewertung aus und liefert
+Ihnen somit einen Überblick über die gesamte Einrichtung. So wird die Aufschlüsselung
+der „harten“ und „weichen“ Kriterien anschaulich dargestellt. Damit ist für jeden Nutzer
+nachvollziehbar, wie sich die ausgewählte Lieferantenbewertung zusammensetzt. Diese
+Übersicht, kann von Lieferantenbewertung zu Lieferantenbewertung unterschiedlich sein
+(z. B. Dienstleister, Spediteur, Hardwarehersteller, Softwarehersteller). Dieser Bericht
+kann somit genutzt werden um neue Mitarbeiter einzuarbeiten, Audits über aktuelle Prozesse zu informieren oder bestimmten Lieferanten die Zusammensetzung ihrer Bewertung zu präsentieren.</description>
       </item>
       
       <item>
@@ -539,8 +559,11 @@ Wählen Sie anschließend in der Spalte „PEPPOL Verwendung“ den Bericht aus 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</guid>
-        <description>Harte Kriterien - Warenwirtschaft „Harte“ Kriterien sind Informationen, die bereits im System vorhanden sind und durch „zählen“, „messen“ oder „wiegen“ zu Stande kommen, beispielsweise im Bestellprozess. Beispiele für harte Kriterien sind die Liefertreue und die Reklamationsrate.
-Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ auswerten. Ein oft genutztes Beispiel ist die Mengentreue. Dabei wird geprüft, ob der Lieferant die Menge liefert, die er dem Einkäufer zugesagt hat.</description>
+        <description>Harte Kriterien - Warenwirtschaft „Harte“ Kriterien sind Informationen, die bereits im System vorhanden sind und durch „zählen“, „messen“ oder „wiegen“ zu Stande kommen, beispielsweise im Bestellprozess. Beispiele
+für harte Kriterien sind die Liefertreue und die Reklamationsrate.
+Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ auswerten. Ein oft
+genutztes Beispiel ist die Mengentreue. Dabei wird geprüft, ob der Lieferant die Menge liefert,
+die er dem Einkäufer zugesagt hat.</description>
       </item>
       
       <item>
@@ -549,8 +572,11 @@ Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen �
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</guid>
-        <description>Harte Kriterien - Warenwirtschaft „Harte“ Kriterien sind Informationen, die bereits im System vorhanden sind und durch „zählen“, „messen“ oder „wiegen“ zu Stande kommen, beispielsweise im Bestellprozess. Beispiele für harte Kriterien sind die Liefertreue und die Reklamationsrate.
-Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ auswerten. Ein oft genutztes Beispiel ist die Mengentreue. Dabei wird geprüft, ob der Lieferant die Menge liefert, die er dem Einkäufer zugesagt hat.</description>
+        <description>Harte Kriterien - Warenwirtschaft „Harte“ Kriterien sind Informationen, die bereits im System vorhanden sind und durch „zählen“, „messen“ oder „wiegen“ zu Stande kommen, beispielsweise im Bestellprozess. Beispiele
+für harte Kriterien sind die Liefertreue und die Reklamationsrate.
+Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ auswerten. Ein oft
+genutztes Beispiel ist die Mengentreue. Dabei wird geprüft, ob der Lieferant die Menge liefert,
+die er dem Einkäufer zugesagt hat.</description>
       </item>
       
       <item>
@@ -623,7 +649,7 @@ Anhänge, die bei Versand einer XRechnung mitgegeben werden, werden nun in die X
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/kernfunktionalitaeten/</guid>
         <description>Kernfunktionalitäten Die Kernfunktionalitäten können wie folgt stichpunktartig zusammengefasst werden:
-Vollständige Integration in Microsoft Dynamics 365 Business Central (ab NAV 4.x) Flexible Auswertung der „harten“ Fakten aus dem Bereich der Warenwirtschaft Auswertung von frei definierbaren „weichen“ Kriterien Freie Gewichtung aller Kriterien und Kriteriengruppen Definition und Abgrenzung verschiedener Lieferantengruppen Abgrenzung der zu bewertenden Artikel von Kategorie bis zur Variante Ermittlung und Bewertung einer Reklamationsquote durch die Integration des Reklamationsmoduls Einbeziehen von qualitativen, quantitativen und sonstigen Produktmerkmalen, die beim Wareneingang über das integrierte Qualitätsprotokoll erfasst werden </description>
+Vollständige Integration in Microsoft Dynamics 365 Business Central (ab NAV 4.x) Flexible Auswertung der „harten“ Fakten aus dem Bereich der Warenwirtschaft Auswertung von frei definierbaren „weichen“ Kriterien Freie Gewichtung aller Kriterien und Kriteriengruppen Definition und Abgrenzung verschiedener Lieferantengruppen Abgrenzung der zu bewertenden Artikel von Kategorie bis zur Variante Ermittlung und Bewertung einer Reklamationsquote durch die Integration des Reklamationsmoduls Einbeziehen von qualitativen, quantitativen und sonstigen Produktmerkmalen, die beim</description>
       </item>
       
       <item>
@@ -640,7 +666,7 @@ Freie Gewichtung aller Kriterien und Kriteriengruppen
 Definition und Abgrenzung verschiedener Lieferantengruppen
 Abgrenzung der zu bewertenden Artikel von Kategorie bis zur Variante
 Ermittlung und Bewertung einer Reklamationsquote durch die Integration des Reklamationsmoduls
-Einbeziehen von qualitativen, quantitativen und sonstigen Produktmerkmalen, die beim Wareneingang über das integrierte Qualitätsprotokoll erfasst werden</description>
+Einbeziehen von qualitativen, quantitativen und sonstigen Produktmerkmalen, die beim</description>
       </item>
       
       <item>
@@ -681,7 +707,10 @@ Standard Eine Adresse pro Benutzer Eine Adresse pro Bericht Eine Adresse pro Deb
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</guid>
-        <description>Reklamationen it dem Modul Easy Supra wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.</description>
+        <description>Reklamationen it dem Modul Easy Supra wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über
+das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich
+nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird
+für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.</description>
       </item>
       
       <item>
@@ -690,7 +719,10 @@ Standard Eine Adresse pro Benutzer Eine Adresse pro Bericht Eine Adresse pro Deb
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</guid>
-        <description>Reklamationen Mit dem Modul Easy Supra wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.</description>
+        <description>Reklamationen Mit dem Modul Easy Supra wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über
+das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich
+nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird
+für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.</description>
       </item>
       
       <item>
@@ -724,7 +756,8 @@ Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweili
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-1/</guid>
         <description>Stufe 1 Abbildung 3: Einrichtungsassistent - Stufe 1
-Wählen Sie über das Feld neben der Beschreibung „Was wollen Sie bewerten?“ (vgl. Abbildung 3) eine bestehende Bewertung aus oder legen Sie, in der nun geöffneten Liste eine neue Bewertung via „Neu“ an (vgl. Abbildung 4).
+Wählen Sie über das Feld neben der Beschreibung „Was wollen Sie bewerten?“ (vgl. Abbildung 3) eine bestehende Bewertung aus oder legen Sie, in der nun geöffneten Liste eine
+neue Bewertung via „Neu“ an (vgl. Abbildung 4).
 Abbildung 4: Vorhandene Bewertungen
 Legen Sie für die Bewertung einen Gültigkeitszeitraum über die Felder „Gültig von“ und „Gültig bis“ an. Der Gültigkeitszeitraum berücksichtigt ebenfalls die Buchungszeiträume der vorhandenen Geschäftsprozesse.</description>
       </item>
@@ -736,9 +769,12 @@ Legen Sie für die Bewertung einen Gültigkeitszeitraum über die Felder „Gül
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-2/</guid>
         <description>Stufe 2 Abbildung 6: Einrichtungsassistent – Stufe 2
-Die farblich rot gehaltenen Ziffern entsprechen der gewählten Gewichtung der jeweiligen Kriterienkategorie und fungieren als Schaltfläche (vgl. Abbildung 6). Mit einem Klick gelangen Sie zur Einrichtung der gewünschten Kriterien. Die folgende Abbildung 7 zeigt exemplarisch die Einrichtung der „harten“ Faktoren.
+Die farblich rot gehaltenen Ziffern entsprechen der gewählten Gewichtung der jeweiligen Kriterienkategorie und fungieren als Schaltfläche (vgl. Abbildung 6). Mit einem Klick gelangen
+Sie zur Einrichtung der gewünschten Kriterien. Die folgende Abbildung 7 zeigt exemplarisch
+die Einrichtung der „harten“ Faktoren.
 Abbildung 7: Kriterienauswahl am Beispiel der „harten“ Kriterien
-Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen Kriteriencode, eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</description>
+Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen Kriteriencode,
+eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</description>
       </item>
       
       <item>
@@ -747,9 +783,13 @@ Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen K
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
-        <description>Stufe 3 In Stufe 3 definieren Sie die Punktevergabe der harten und weichen Kriterien mit einem Klick auf die rot gekennzeichneten Felder.
-Abbildung 13: Einrichtungsassistent – Stufe 3 (Kontrolle/Modifikation d. Punktvergabe)
-Klicken Sie zunächst auf die rote Zahl der harten Kriterien. Es öffnet sich eine Maske, in der alle zugeteilten Kriterien erscheinen. Verteilen Sie in dieser Maske die zu vergebenden 100 Punkte über einen beliebigen Schlüssel (vgl. Abbildung 14).
+        <description>Stufe 3 In Stufe 3 definieren Sie die Punktevergabe der harten und weichen Kriterien mit einem Klick
+auf die rot gekennzeichneten Felder.
+Abbildung 13: Einrichtungsassistent – Stufe 3
+(Kontrolle/Modifikation d. Punktvergabe)
+Klicken Sie zunächst auf die rote Zahl der harten Kriterien. Es öffnet sich eine Maske, in der
+alle zugeteilten Kriterien erscheinen. Verteilen Sie in dieser Maske die zu vergebenden 100
+Punkte über einen beliebigen Schlüssel (vgl. Abbildung 14).
 Abbildung 14: Zuweisung von 100 Punkten</description>
       </item>
       
@@ -772,9 +812,12 @@ Abbildung 16: Liste der zugeordneten Kreditoren</description>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
         <description>Stufe 5 Bestätigen Sie im Assistenten mit „Weiter“, um zum letzten Einrichtungsschritt zu gelangen.
-Richten Sie in dem Fenster die Klassifizierung der Bewertung ein (vgl. Abbildung 17). Klicken Sie hierzu auf den rot kursiven Text „Klassifizierung nicht abgeschlossen“.
-Abbildung 17: Einrichtungsassistent – Stufe 5 (Definition der Klassifizierung)
-Drücken Sie auf die Schaltfläche „Neu“, um eine neue Klassifizierung anzulegen. Nachfolgend wird exemplarisch der Bewertungscode „TESTBEWERT“ ausgewählt. Die Kreditoren werden hier nun beispielhaft mit den eingerichteten Klassifizierungscodes „A“, „B“, „C“ oder „D“ ausgezeichnet, entsprechend der erreichten Punktzahl.</description>
+Richten Sie in dem Fenster die Klassifizierung der Bewertung ein (vgl. Abbildung 17). Klicken
+Sie hierzu auf den rot kursiven Text „Klassifizierung nicht abgeschlossen“.
+Abbildung 17: Einrichtungsassistent – Stufe 5
+(Definition der Klassifizierung)
+Drücken Sie auf die Schaltfläche „Neu“, um eine neue Klassifizierung anzulegen. Nachfolgend wird exemplarisch der Bewertungscode „TESTBEWERT“ ausgewählt. Die Kreditoren
+werden hier nun beispielhaft mit den eingerichteten Klassifizierungscodes „A“, „B“, „C“ oder</description>
       </item>
       
       <item>
@@ -885,7 +928,8 @@ Das Modul XRechnung erzeugt Rechnungen und Gutschriften im XRechnung-Format und 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</guid>
-        <description>Wareneingangs-/Qualitätsprotokoll Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt Easy Supra eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in Easy Supra mitgelieferten Felder eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
+        <description>Wareneingangs-/Qualitätsprotokoll Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt Easy Supra eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in Easy Supra mitgelieferten Felder
+eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
 eigenständig oder durch den zuständigen Microsoft-Partner durchgeführt werden.
 Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevanten Informationen im Bestellvorgang übertragen werden.</description>
       </item>
@@ -896,7 +940,8 @@ Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevante
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</guid>
-        <description>Wareneingangs-/Qualitätsprotokoll Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt Easy Supra eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in Easy Supra mitgelieferten Felder eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
+        <description>Wareneingangs-/Qualitätsprotokoll Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt Easy Supra eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in Easy Supra mitgelieferten Felder
+eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
 eigenständig oder durch den zuständigen Microsoft-Partner durchgeführt werden.
 Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevanten Informationen im Bestellvorgang übertragen werden.</description>
       </item>
@@ -907,7 +952,9 @@ Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevante
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</guid>
-        <description>Weiche Kriterien - Kontaktprofile Die „weichen“ Kriterien können in der Einrichtung frei definiert werden (vgl. 3.1.4). In den Kontaktprofilen werden die Informationen am Lieferanten hinterlegt. Beispiele für weiche Kriterien können der Werbewert des Lieferanten oder auch die Transportanbindung sein, also Faktoren, welche subjektiv vergeben und mit Hilfe der in Abschnitt 3.1.4 beschriebenen Fragen evaluiert werden müssen.
+        <description>Weiche Kriterien - Kontaktprofile Die „weichen“ Kriterien können in der Einrichtung frei definiert werden (vgl. 3.1.4). In den
+Kontaktprofilen werden die Informationen am Lieferanten hinterlegt. Beispiele für weiche Kriterien können der Werbewert des Lieferanten oder auch die Transportanbindung sein, also
+Faktoren, welche subjektiv vergeben und mit Hilfe der in Abschnitt 3.1.4 beschriebenen Fragen evaluiert werden müssen.
 Über die Lieferantenübersicht („Alle erkunden“ – „Verwaltung“ - „Lieferbewertung“ – „Einrichtung“ – „Lieferantenübersicht“) können Sie die „weichen“ Kriterien, die einem Lieferanten zugeordnet wurden, einsehen und bearbeiten.</description>
       </item>
       
@@ -917,7 +964,9 @@ Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevante
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</guid>
-        <description>Weiche Kriterien - Kontaktprofile Die „weichen“ Kriterien können in der Einrichtung frei definiert werden (vgl. 3.1.3). In den Kontaktprofilen werden die Informationen am Lieferanten hinterlegt. Beispiele für weiche Kriterien können der Werbewert des Lieferanten oder auch die Transportanbindung sein, also Faktoren, welche subjektiv vergeben und mit Hilfe der in Abschnitt 3.1.3 beschriebenen Fragen evaluiert werden müssen.
+        <description>Weiche Kriterien - Kontaktprofile Die „weichen“ Kriterien können in der Einrichtung frei definiert werden (vgl. 3.1.3). In den
+Kontaktprofilen werden die Informationen am Lieferanten hinterlegt. Beispiele für weiche Kriterien können der Werbewert des Lieferanten oder auch die Transportanbindung sein, also
+Faktoren, welche subjektiv vergeben und mit Hilfe der in Abschnitt 3.1.3 beschriebenen Fragen evaluiert werden müssen.
 Über die Lieferantenübersicht („Abteilungen“ – „Lieferbewertung“ – „Einrichtung“ – „Lieferantenübersicht“) können Sie die „weichen“ Kriterien, die einem Lieferanten zugeordnet wurden,</description>
       </item>
       
@@ -1012,7 +1061,9 @@ Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisier
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</guid>
-        <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt, erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden, oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
+        <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt,
+erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden,
+oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
 Neben den Originalbeleg können jedoch auch weitere Anhänge beliebig hinzugefügt oder in die XML-Datei eingebettet werden.
 Im folgenden wird näher erläutert, wie Sie Anhänge ganz einfach per Dialog, oder auch durch Vorab-Konfiguration festlegen können.</description>
       </item>
@@ -1082,7 +1133,9 @@ Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereit
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1105,7 +1158,9 @@ Testmodus Versand - Sie erhalten den Brief per E-Mail an eine zuvor angegebene A
         <guid>https://docs.belware.de/de-de/apps/easy-batch/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1116,7 +1171,9 @@ Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflic
         <guid>https://docs.belware.de/de-de/apps/easy-document-pin/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1127,7 +1184,9 @@ Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflic
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1151,7 +1210,9 @@ Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereit
         <guid>https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1162,7 +1223,9 @@ Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflic
         <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1173,7 +1236,9 @@ Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflic
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1184,7 +1249,9 @@ Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflic
         <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1298,7 +1365,8 @@ Abbildung 40: Optionsmaske für den Bericht
 „Lieferantenbewertung – Kreditor Liste“
 Die Liste gibt folgende Informationen aus: Kreditoren-Nr., Kreditoren-Name, Ergebnis bei harten und weichen Kriterien, den entsprechend erreichten Punktebereich inkl. „Klassifizierung“
 und schlussendlich die erreichte Gesamtpunktzahl als „Endergebnis“ pro Lieferant.
-Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Bei einem Klick auf die unterstrichene Kreditoren-Nr.</description>
+Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Bei einem Klick
+auf die unterstrichene Kreditoren-Nr.</description>
       </item>
       
       <item>
@@ -1307,7 +1375,8 @@ Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Be
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</guid>
-        <description>Bewertung - Kreditor Liste Eine Übersicht gibt pro Lieferantenbewertung die Klassifizierung aller zugewiesenen Lieferanten an. Damit wird die Leistungsfähigkeit eines einzelnen Lieferanten verdeutlicht, sowie das erreichte Verhältnis zu anderen veranschaulicht.</description>
+        <description>Bewertung - Kreditor Liste Eine Übersicht gibt pro Lieferantenbewertung die Klassifizierung aller zugewiesenen
+Lieferanten an. Damit wird die Leistungsfähigkeit eines einzelnen Lieferanten verdeutlicht, sowie das erreichte Verhältnis zu anderen veranschaulicht.</description>
       </item>
       
       <item>
@@ -1321,7 +1390,8 @@ Abbildung 41: Optionsmaske für den Bericht
 „Bewertung – Kreditor Liste“
 Die Liste gibt folgende Informationen aus: Kreditoren-Nr., Kreditoren-Name, Ergebnis bei harten und weichen Kriterien, den entsprechend erreichten Punktebereich inkl. „Klassifizierung“
 und schlussendlich die erreichte Gesamtpunktzahl als „Endergebnis“ pro Lieferant.
-Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Bei einem Klick auf die unterstrichene Kreditoren-Nr.</description>
+Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Bei einem Klick
+auf die unterstrichene Kreditoren-Nr.</description>
       </item>
       
       <item>
@@ -1330,7 +1400,8 @@ Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Be
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-liste/</guid>
-        <description>Bewertung - Kreditor Liste Eine Übersicht gibt pro Lieferantenbewertung die Klassifizierung aller zugewiesenen Lieferanten an. Damit wird die Leistungsfähigkeit eines einzelnen Lieferanten verdeutlicht, sowie das erreichte Verhältnis zu anderen veranschaulicht.</description>
+        <description>Bewertung - Kreditor Liste Eine Übersicht gibt pro Lieferantenbewertung die Klassifizierung aller zugewiesenen
+Lieferanten an. Damit wird die Leistungsfähigkeit eines einzelnen Lieferanten verdeutlicht, sowie das erreichte Verhältnis zu anderen veranschaulicht.</description>
       </item>
       
       <item>
@@ -1469,7 +1540,8 @@ Sie können nach einem Benutzer suchen und ihn direkt auswählen. Ebenfalls ist 
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/gewichtung/</guid>
-        <description>Gewichtung Die Gewichtung der ausgewählten Faktoren zur Klassifizierung erfolgt über zwei Gewichtungsstufen: Zum einen werden die einzelnen definierten Kriterien einer Gewichtung unterzogen, zum anderen werden die Kriteriengruppen (hart/weich) gegeneinander gewichtet. In Summe werden damit jeweils 100 % vergeben (vgl. Abbildung 1).
+        <description>Gewichtung Die Gewichtung der ausgewählten Faktoren zur Klassifizierung erfolgt über zwei Gewichtungsstufen: Zum einen werden die einzelnen definierten Kriterien einer Gewichtung unterzogen, zum anderen werden die Kriteriengruppen (hart/weich) gegeneinander gewichtet. In
+Summe werden damit jeweils 100 % vergeben (vgl. Abbildung 1).
 Abbildung 1: Methoden zur Lieferantenbewertung</description>
       </item>
       
@@ -1479,7 +1551,8 @@ Abbildung 1: Methoden zur Lieferantenbewertung</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/gewichtung/</guid>
-        <description>Gewichtung Die Gewichtung der ausgewählten Faktoren zur Klassifizierung erfolgt über zwei Gewichtungsstufen: Zum einen werden die einzelnen definierten Kriterien einer Gewichtung unterzogen, zum anderen werden die Kriteriengruppen (hart/weich) gegeneinander gewichtet. In Summe werden damit jeweils 100 % vergeben (vgl. Abbildung 1).
+        <description>Gewichtung Die Gewichtung der ausgewählten Faktoren zur Klassifizierung erfolgt über zwei Gewichtungsstufen: Zum einen werden die einzelnen definierten Kriterien einer Gewichtung unterzogen, zum anderen werden die Kriteriengruppen (hart/weich) gegeneinander gewichtet. In
+Summe werden damit jeweils 100 % vergeben (vgl. Abbildung 1).
 Abbildung 1: Methoden zur Lieferantenbewertung</description>
       </item>
       
@@ -1871,7 +1944,8 @@ Legen Sie für die Bewertung einen Gültigkeitszeitraum über die Felder „Gül
         <description>Stufe 2 Abbildung 7: Einrichtungsassistent – Stufe 2
 Die farblich rot gehaltenen Ziffern entsprechen der gewählten Gewichtung der jeweiligen Kriterienkategorie (vgl. Abbildung 7). Mit einem Klick auf den AssistEdit gelangen Sie zur Einrichtung der gewünschten Kriterien. Die folgende Abbildung 8 zeigt exemplarisch die Einrichtung der „harten“ Faktoren.
 Abbildung 8: Kriterienauswahl am Beispiel der „harten“ Kriterien
-Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen Kriteriencode, eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</description>
+Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen Kriteriencode,
+eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</description>
       </item>
       
       <item>
@@ -1880,9 +1954,13 @@ Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen K
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
-        <description>Stufe 3 In Stufe 3 definieren Sie die Punktevergabe der harten und weichen Kriterien mit einem Klick auf die rot gekennzeichneten Felder.
-Abbildung 14: Einrichtungsassistent – Stufe 3 (Kontrolle/Modifikation d. Punktvergabe)
-Klicken Sie zunächst auf die rote Zahl der harten Kriterien. Es öffnet sich eine Maske, in der alle zugeteilten Kriterien erscheinen. Verteilen Sie in dieser Maske die zu vergebenden 100 Punkte über einen beliebigen Schlüssel (vgl. Abbildung 15).
+        <description>Stufe 3 In Stufe 3 definieren Sie die Punktevergabe der harten und weichen Kriterien mit einem Klick
+auf die rot gekennzeichneten Felder.
+Abbildung 14: Einrichtungsassistent – Stufe 3
+(Kontrolle/Modifikation d. Punktvergabe)
+Klicken Sie zunächst auf die rote Zahl der harten Kriterien. Es öffnet sich eine Maske, in der
+alle zugeteilten Kriterien erscheinen. Verteilen Sie in dieser Maske die zu vergebenden 100
+Punkte über einen beliebigen Schlüssel (vgl. Abbildung 15).
 Abbildung 15: Zuweisung von 100 Punkten</description>
       </item>
       
@@ -1905,9 +1983,12 @@ Abbildung 17: Liste der zugeordneten Kreditoren</description>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
         <description>Stufe 5 Bestätigen Sie im Assistenten mit „Weiter“, um zum letzten Einrichtungsschritt zu gelangen.
-Richten Sie in dem Fenster die Klassifizierung der Bewertung ein (vgl. Abbildung 18). Klicken Sie hierzu auf den rot kursiven Text „Klassifizierung nicht abgeschlossen“.
-Abbildung 18: Einrichtungsassistent – Stufe 5 (Definition der Klassifizierung)
-Drücken Sie auf die Schaltfläche „Neu“, um eine neue Klassifizierung anzulegen. Nachfolgend wird exemplarisch der Bewertungscode „TESTBEWERT“ ausgewählt. Die Kreditoren werden hier nun beispielhaft mit den eingerichteten Klassifizierungscodes „A“, „B“, „C“ oder „D“ ausgezeichnet, entsprechend der erreichten Punktzahl.</description>
+Richten Sie in dem Fenster die Klassifizierung der Bewertung ein (vgl. Abbildung 18). Klicken
+Sie hierzu auf den rot kursiven Text „Klassifizierung nicht abgeschlossen“.
+Abbildung 18: Einrichtungsassistent – Stufe 5
+(Definition der Klassifizierung)
+Drücken Sie auf die Schaltfläche „Neu“, um eine neue Klassifizierung anzulegen. Nachfolgend wird exemplarisch der Bewertungscode „TESTBEWERT“ ausgewählt. Die Kreditoren
+werden hier nun beispielhaft mit den eingerichteten Klassifizierungscodes „A“, „B“, „C“ oder</description>
       </item>
       
       <item>
@@ -2125,11 +2206,12 @@ Das Standard-Berichtslayout wird also für den Sprachcode ENU durch das Layout m
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Bewertung - Kreditor einzeln Der Bericht „Bewertung – Kreditor einzeln“ basiert auf dem Bericht „Bewertung - Einrichtung“ und liefert Detailinformationen zu einer bestimmten Lieferantenbewertung für einen ausgewählten Lieferanten.
+        <description>Bewertung - Kreditor einzeln Der Bericht „Bewertung – Kreditor einzeln“ basiert auf dem Bericht „Bewertung - Einrichtung“
+und liefert Detailinformationen zu einer bestimmten Lieferantenbewertung für einen ausgewählten Lieferanten.
 Abbildung 42: Optionsmaske für den Bericht –
 „Lieferantenbewertung – Kreditor“
 Der Bericht liefert detaillierte Informationen zu jedem bewerteten Kriterium. Am Beispiel von
-Abbildung 43 lassen sich alle Lieferungen identifizieren, die einer „pünktlichen Lieferung“ entsprechend sind. Sobald Datensätze (z. B. Lieferungen) in die Bewertung eines Kriteriums eingeflossen sind, werden diese Datensätze ausgegeben.</description>
+Abbildung 43 lassen sich alle Lieferungen identifizieren, die einer „pünktlichen Lieferung“ entsprechend sind. Sobald Datensätze (z. B. Lieferungen) in die Bewertung eines Kriteriums</description>
       </item>
       
       <item>
@@ -2138,7 +2220,10 @@ Abbildung 43 lassen sich alle Lieferungen identifizieren, die einer „pünktlic
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Bewertung - Kreditor einzeln Hier steht die genaue Zusammensetzung der Klassifizierung im Vordergrund. So kann detailliert nachvollzogen werden, wie die Klassifizierung zustande gekommen ist. Diese Auswertung veranschaulicht die Stärken und Schwächen eines einzelnen Lieferanten, bezogen auf einzelne Geschäftsprozesse.</description>
+        <description>Bewertung - Kreditor einzeln Hier steht die genaue Zusammensetzung der Klassifizierung im Vordergrund. So kann
+detailliert nachvollzogen werden, wie die Klassifizierung zustande gekommen ist. Diese
+Auswertung veranschaulicht die Stärken und Schwächen eines einzelnen Lieferanten,
+bezogen auf einzelne Geschäftsprozesse.</description>
       </item>
       
       <item>
@@ -2147,11 +2232,12 @@ Abbildung 43 lassen sich alle Lieferungen identifizieren, die einer „pünktlic
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Bewertung - Kreditor einzeln Der Bericht „Bewertung – Kreditor einzeln“ basiert auf dem Bericht „Bewertung - Einrichtung“ und liefert Detailinformationen zu einer bestimmten Lieferantenbewertung für einen ausgewählten Lieferanten.
+        <description>Bewertung - Kreditor einzeln Der Bericht „Bewertung – Kreditor einzeln“ basiert auf dem Bericht „Bewertung - Einrichtung“
+und liefert Detailinformationen zu einer bestimmten Lieferantenbewertung für einen ausgewählten Lieferanten.
 Abbildung 43: Optionsmaske für den Bericht –
 „Bewertung – Kreditor einzeln“
 Der Bericht liefert detaillierte Informationen zu jedem bewerteten Kriterium. Am Beispiel von
-Abbildung 44 lassen sich alle Lieferungen identifizieren, die einer „pünktlichen Lieferung“ entsprechend sind. Sobald Datensätze (z. B. Lieferungen) in die Bewertung eines Kriteriums eingeflossen sind, werden diese Datensätze ausgegeben.</description>
+Abbildung 44 lassen sich alle Lieferungen identifizieren, die einer „pünktlichen Lieferung“ entsprechend sind. Sobald Datensätze (z. B. Lieferungen) in die Bewertung eines Kriteriums</description>
       </item>
       
       <item>
@@ -2160,7 +2246,10 @@ Abbildung 44 lassen sich alle Lieferungen identifizieren, die einer „pünktlic
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Bewertung - Kreditor einzeln Hier steht die genaue Zusammensetzung der Klassifizierung im Vordergrund. So kann detailliert nachvollzogen werden, wie die Klassifizierung zustande gekommen ist. Diese Auswertung veranschaulicht die Stärken und Schwächen eines einzelnen Lieferanten, bezogen auf einzelne Geschäftsprozesse.</description>
+        <description>Bewertung - Kreditor einzeln Hier steht die genaue Zusammensetzung der Klassifizierung im Vordergrund. So kann
+detailliert nachvollzogen werden, wie die Klassifizierung zustande gekommen ist. Diese
+Auswertung veranschaulicht die Stärken und Schwächen eines einzelnen Lieferanten,
+bezogen auf einzelne Geschäftsprozesse.</description>
       </item>
       
       <item>
@@ -2281,7 +2370,8 @@ Nachdem Sie den Pfad angelegt haben, gehen wir wieder wie schon im letzten Beisp
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/import-u-export/</guid>
-        <description>Import / Export Unter „Abteilungen“ – „Lieferantenbewertung“ – „Verwaltung“ – „Im-/Export easySUPRA Einrichtungsdaten“ können Daten als .txt-Dateien exportiert oder importiert werden (vgl. Abbildung 46). Dadurch kann die Einrichtung der Bewertungen Mandanten- oder Datenbankübergreifend genutzt werden.
+        <description>Import / Export Unter „Abteilungen“ – „Lieferantenbewertung“ – „Verwaltung“ – „Im-/Export easySUPRA
+Einrichtungsdaten“ können Daten als .txt-Dateien exportiert oder importiert werden (vgl. Abbildung 46). Dadurch kann die Einrichtung der Bewertungen Mandanten- oder Datenbankübergreifend genutzt werden.
 Abbildung 46: Import von Daten (Import / Export)</description>
       </item>
       
@@ -2304,8 +2394,11 @@ Anschließend öffnet sich ein weiter Dialog, klicken Sie hier auf import, dadur
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/kriterien/</guid>
         <description>Kriterien Die Auswahl der relevanten Bewertungskriterien eines Objektes, wird in einem Kriterien-Pool
-zusammengefasst. Solche Objekte können beispielsweise Lieferanten, Lieferantengruppen, Artikel, Artikelkategorien etc. sein. Der Geltungsbereich dieser Auswahl wird an der Bewertung selbst eingerichtet. Nach Auswahl des Kriteriums wird definiert, ob das Kriterium weich oder hart ist. Dabei werden „harte“ Kriterien automatisch aus der Warenwirtschaft ermittelt
-und einbezogen. „Weiche“ Kriterien hingegen werden frei definiert und mit Werten belegt. In Summe ergeben „harte“ und „weiche“ Faktoren jeweils 100 % (vgl.</description>
+zusammengefasst. Solche Objekte können beispielsweise Lieferanten, Lieferantengruppen,
+Artikel, Artikelkategorien etc. sein. Der Geltungsbereich dieser Auswahl wird an der Bewertung selbst eingerichtet. Nach Auswahl des Kriteriums wird definiert, ob das Kriterium weich
+oder hart ist. Dabei werden „harte“ Kriterien automatisch aus der Warenwirtschaft ermittelt
+und einbezogen. „Weiche“ Kriterien hingegen werden frei definiert und mit Werten belegt. In
+Summe ergeben „harte“ und „weiche“ Faktoren jeweils 100 % (vgl.</description>
       </item>
       
       <item>
@@ -2315,8 +2408,11 @@ und einbezogen. „Weiche“ Kriterien hingegen werden frei definiert und mit We
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/kriterien/</guid>
         <description>Kriterien Die Auswahl der relevanten Bewertungskriterien eines Objektes, wird in einem Kriterien-Pool
-zusammengefasst. Solche Objekte können beispielsweise Lieferanten, Lieferantengruppen, Artikel, Artikelkategorien etc. sein. Der Geltungsbereich dieser Auswahl wird an der Bewertung selbst eingerichtet. Nach Auswahl des Kriteriums wird definiert, ob das Kriterium weich oder hart ist. Dabei werden „harte“ Kriterien automatisch aus der Warenwirtschaft ermittelt
-und einbezogen. „Weiche“ Kriterien hingegen werden frei definiert und mit Werten belegt. In Summe ergeben „harte“ und „weiche“ Faktoren jeweils 100 % (vgl.</description>
+zusammengefasst. Solche Objekte können beispielsweise Lieferanten, Lieferantengruppen,
+Artikel, Artikelkategorien etc. sein. Der Geltungsbereich dieser Auswahl wird an der Bewertung selbst eingerichtet. Nach Auswahl des Kriteriums wird definiert, ob das Kriterium weich
+oder hart ist. Dabei werden „harte“ Kriterien automatisch aus der Warenwirtschaft ermittelt
+und einbezogen. „Weiche“ Kriterien hingegen werden frei definiert und mit Werten belegt. In
+Summe ergeben „harte“ und „weiche“ Faktoren jeweils 100 % (vgl.</description>
       </item>
       
       <item>
@@ -2413,7 +2509,8 @@ Sprache: Sollten Sie mehrsprachige Kunden haben und Ihre Mails dementsprechend i
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/delete-activity-files/</guid>
-        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst. Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
+        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst.
+Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
 Bei Öffnen des Menüs erscheint die Funktion &amp;ldquo;Aktivitätendateien löschen&amp;rdquo;.
 Nach Auswahl der Funktion erscheint ein Eingabefenster, in dem das Startdatum (älteres Datum) für die Löschaktion gewählt werden kann:</description>
       </item>
@@ -2490,7 +2587,8 @@ Wird dort keine gefunden, wird die in der Karte des Mahnungsempfängers eingetra
         <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
-        <description>Arbeiten mit festgelegten Zieladressen Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der Connector 365 Addressee Control als Zieladresse eingerichtet wurde:
+        <description>Arbeiten mit festgelegten Zieladressen Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. Es wird hierbei vorausgesetzt, dass der Verkauf-An-Debitor für die Verkaufsrechnungen mithilfe der
+Connector 365 Addressee Control als Zieladresse eingerichtet wurde:
 Angenommen es soll eine Rechnung verschickt werden, bei welchem der Rechnungsempfänger und der Käufer verschieden sind:
 Zur Vereinfachung wurden im Folgenden für den Rechnungsempfänger Bill-To-Customer@mail.de eingerichtet, für den Käufer Sell-To-Customer@mail.de.Bei Ausführen der Aktion: Per E-Mail senden, wird im Standard normalerweise die E-Mail-Adresse des Rechnungsempfängers im E-Mail-Dialog eingetragen:</description>
       </item>
@@ -2544,7 +2642,11 @@ Optimierungen Die pdfPaper-Einrichtung wird nur angezeigt wenn das Modul lizensi
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/auswahl-der-auswertung/</guid>
-        <description>Auswahl der Auswertung Im Anschluss an die Definition der Kriterien kann die Auswertung pro Kriterium individuell festgelegt werden. Hierfür stehen alle Felder aus den Tabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ zur Auswahl. Dabei können Sie auch neu hinzugefügte Felder in den benannten Tabellen vergleichen. Wie Sie die Felder in Bezug zueinander setzen, ist frei definierbar und wird durch eine Formel dargestellt. Bei der Tabelle „Qualitätsprotokoll“ handelt es sich um eine neue Tabelle, die in der Lieferantenbewertung enthalten und in den Einkaufsprozess integriert ist.</description>
+        <description>Auswahl der Auswertung Im Anschluss an die Definition der Kriterien kann die Auswertung pro Kriterium individuell
+festgelegt werden. Hierfür stehen alle Felder aus den Tabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ zur Auswahl. Dabei können Sie auch
+neu hinzugefügte Felder in den benannten Tabellen vergleichen. Wie Sie die Felder in Bezug
+zueinander setzen, ist frei definierbar und wird durch eine Formel dargestellt. Bei der Tabelle
+„Qualitätsprotokoll“ handelt es sich um eine neue Tabelle, die in der Lieferantenbewertung</description>
       </item>
       
       <item>
@@ -2553,7 +2655,11 @@ Optimierungen Die pdfPaper-Einrichtung wird nur angezeigt wenn das Modul lizensi
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/auswahl-der-auswertung/</guid>
-        <description>Auswahl der Auswertung Im Anschluss an die Definition der Kriterien kann die Auswertung pro Kriterium individuell festgelegt werden. Hierfür stehen alle Felder aus den Tabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ zur Auswahl. Dabei können Sie auch neu hinzugefügte Felder in den benannten Tabellen vergleichen. Wie Sie die Felder in Bezug zueinander setzen, ist frei definierbar und wird durch eine Formel dargestellt. Bei der Tabelle „Qualitätsprotokoll“ handelt es sich um eine neue Tabelle, die in der Lieferantenbewertung enthalten und in den Einkaufsprozess integriert ist.</description>
+        <description>Auswahl der Auswertung Im Anschluss an die Definition der Kriterien kann die Auswertung pro Kriterium individuell
+festgelegt werden. Hierfür stehen alle Felder aus den Tabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ zur Auswahl. Dabei können Sie auch
+neu hinzugefügte Felder in den benannten Tabellen vergleichen. Wie Sie die Felder in Bezug
+zueinander setzen, ist frei definierbar und wird durch eine Formel dargestellt. Bei der Tabelle
+„Qualitätsprotokoll“ handelt es sich um eine neue Tabelle, die in der Lieferantenbewertung</description>
       </item>
       
       <item>
@@ -3238,7 +3344,8 @@ Ist der Versand fehlgeschlagen, wird der Status in der Aktivitätenliste negativ
         
         <guid>https://docs.belware.de/de-de/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</guid>
         <description>Upgrade der Kommunikationsmatrix (CON Communication Matrix) Einleitung Bitte prüfen Sie die Voraussetzungen bevor Sie fortfahren.
-Die Kommunikationsmatrix des Connector NAV/BC enthält, falls gepflegt, Einrichtungsdaten die bestimmen, ob und wie Belege für einzelne Debitoren, Kreditoren oder auch Kontakte verabeitet werden.
+Die Kommunikationsmatrix des Connector NAV/BC enthält, falls gepflegt, Einrichtungsdaten die bestimmen, ob und wie Belege für einzelne Debitoren, Kreditoren oder auch Kontakte
+verabeitet werden.
 In der Produkt-Reihe Connector 365 (Business Central Versionen &amp;gt; 14), ist die Kommunikationsmatrix nicht mehr als eigene Tabelle vorhanden.
 Stattdessen werden die Dokumentlayouts für gleichartige Einrichtungen verwendet.
 Die Connector Upgrade-App stellt eine Funktion bereit, mit der Einrichtungsdaten der Kommunikationsmatrix mit den Dokumentlayouts synchronisiert werden können.</description>
@@ -3377,7 +3484,9 @@ Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir d
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/klassifizierung/</guid>
-        <description>Klassifizierung Die Klassifizierung wird anhand der definierten Bewertungskriterien und deren Gewichtung vorgenommen. Dabei erreicht der Lieferant eine Punktzahl über die sich dessen Einstufung (erreichte Klasse) definiert.</description>
+        <description>Klassifizierung Die Klassifizierung wird anhand der definierten Bewertungskriterien und deren Gewichtung
+vorgenommen. Dabei erreicht der Lieferant eine Punktzahl über die sich dessen Einstufung
+(erreichte Klasse) definiert.</description>
       </item>
       
       <item>
@@ -3386,7 +3495,9 @@ Um einen Fall zu simulieren, bei dem die Validierung fehlschlägt, ändern wir d
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/klassifizierung/</guid>
-        <description>Klassifizierung Die Klassifizierung wird anhand der definierten Bewertungskriterien und deren Gewichtung vorgenommen. Dabei erreicht der Lieferant eine Punktzahl über die sich dessen Einstufung (erreichte Klasse) definiert.</description>
+        <description>Klassifizierung Die Klassifizierung wird anhand der definierten Bewertungskriterien und deren Gewichtung
+vorgenommen. Dabei erreicht der Lieferant eine Punktzahl über die sich dessen Einstufung
+(erreichte Klasse) definiert.</description>
       </item>
       
       <item>
@@ -3454,9 +3565,11 @@ Optimierungen Kontaktnummern werden nicht mehr gelöscht wenn ein Mail-Versand a
         <pubDate>Fri, 14 Apr 2023 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup_validator/</guid>
-        <description>Einen eigenen Validator aufsetzen Wie im Bereich XRechnung der Dokumentation bereits erwähnt, nutzt das XRechnungs-Modul von BELWARE einen Dienst zum Validieren von Rechnungen und Gutschriften im XRechnung-Format.
+        <description>Einen eigenen Validator aufsetzen Wie im Bereich XRechnung der Dokumentation bereits erwähnt, nutzt das XRechnungs-Modul von BELWARE einen Dienst
+zum Validieren von Rechnungen und Gutschriften im XRechnung-Format.
 Hierbei wird auf ein konfigurierbares XML-Prüftool zurückgegriffen, welches die KoSIT (Koordinierungsstelle für IT) erstmalig veröffentlichte.
-In Kombination mit der passenden Konfiguration, ist der Validator in der Lage, die Syntax, sowie diverse Regeln und Anforderungen, welche an eine XRechnung gestellt werden, auf dessen Richtigkeit zu prüfen und über den Status der Prüfung Protokoll in Form eines Prüfberichts zu führen.</description>
+In Kombination mit der passenden Konfiguration, ist der Validator in der Lage,
+die Syntax, sowie diverse Regeln und Anforderungen, welche an eine XRechnung gestellt werden, auf dessen Richtigkeit zu prüfen und</description>
       </item>
       
       <item>
@@ -3465,7 +3578,9 @@ In Kombination mit der passenden Konfiguration, ist der Validator in der Lage, d
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/einrichtung-der-bewertungen/</guid>
-        <description>Einrichtung der Bewertungen Jede Bewertung lässt sich über einen 5-stufigen Assistenten komfortabel einrichten und im Nachhinein verändern. Der Anwender wird mit Hilfe eines Einrichtungsassistenten durch alle notwendigen Schritte zu einer erfolgreichen Einrichtung geführt. Die getätigten Eingaben werden dabei teilweise einer Plausibilitätsprüfung unterzogen.</description>
+        <description>Einrichtung der Bewertungen Jede Bewertung lässt sich über einen 5-stufigen Assistenten komfortabel einrichten und im
+Nachhinein verändern. Der Anwender wird mit Hilfe eines Einrichtungsassistenten durch alle
+notwendigen Schritte zu einer erfolgreichen Einrichtung geführt. Die getätigten Eingaben werden dabei teilweise einer Plausibilitätsprüfung unterzogen.</description>
       </item>
       
       <item>
@@ -3474,7 +3589,9 @@ In Kombination mit der passenden Konfiguration, ist der Validator in der Lage, d
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/einrichtung-der-bewertungen/</guid>
-        <description>Einrichtung der Bewertungen Jede Bewertung lässt sich über einen 5-stufigen Assistenten komfortabel einrichten und im Nachhinein verändern. Der Anwender wird mit Hilfe eines Einrichtungsassistenten durch alle notwendigen Schritte zu einer erfolgreichen Einrichtung geführt. Die getätigten Eingaben werden dabei teilweise einer Plausibilitätsprüfung unterzogen.</description>
+        <description>Einrichtung der Bewertungen Jede Bewertung lässt sich über einen 5-stufigen Assistenten komfortabel einrichten und im
+Nachhinein verändern. Der Anwender wird mit Hilfe eines Einrichtungsassistenten durch alle
+notwendigen Schritte zu einer erfolgreichen Einrichtung geführt. Die getätigten Eingaben werden dabei teilweise einer Plausibilitätsprüfung unterzogen.</description>
       </item>
       
       <item>
