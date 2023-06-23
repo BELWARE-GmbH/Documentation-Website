@@ -22,7 +22,8 @@
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/new-and-planned/</guid>
         <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen Version 2.3.0.1 - 22.05.2023 Korrekturen:
 Behebt Fehler, bei dem der Dateiname von Anhängen beim Herunterladen überschrieben wird Version 2.3.0.0 - 22.05.2023 Neuerungen:
-Unterstützung für Belegarten aus dem Service-Bereich Anhänge können nun pro Dokument-Layout-Zeile gepflegt werden Für Anhänge kann nun eingerichtet werden, ob diese für XRechnung-Versand eingebettet oder als zusätzliche Mail-Anhänge behandelt werden (nur in Verbindung mit Connector 365 XRechnung) Version 2.</description>
+Unterstützung für Belegarten aus dem Service-Bereich Anhänge können nun pro Dokument-Layout-Zeile gepflegt werden Für Anhänge kann nun eingerichtet werden, ob diese für XRechnung-Versand eingebettet
+oder als zusätzliche Mail-Anhänge behandelt werden (nur in Verbindung mit Connector 365 XRechnung) Version 2.</description>
       </item>
       
       <item>
