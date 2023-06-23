@@ -100,7 +100,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Attachments Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich die Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen, um den Connector 365 Mail Attachments Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -793,7 +793,7 @@ Bitte kehren Sie zu einem späteren Zeitpunkt zurück, wenn wir weitere informat
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/differences-dialog/</guid>
-        <description>Arbeiten mit Mail Attachment Plus Unterschiede im Dialog Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versand von Mails. Der Prozess zum setzen von Standards ändern sich nicht, lediglich das handhaben der Anhänge im Dialog.
+        <description>Arbeiten mit Mail Attachment Plus Unterschiede im Dialog Wenn Sie Mail Attachments Plus in einer OnPremise Umgebung einsetzen, haben Sie je nach eingesetzter Version einen anderen Dialog zu versenden von Mails, dementsprechend ändert sich auch die Handhabung unserer App während des Versandes von Mails. Der Prozess zum Setzen von Standards ändert sich nicht, lediglich das Handhaben der Anhänge im Dialog.
 Mail Experience Wenn Ihnen schon die Mail Experience zur Verfügung steht (ab Version X.</description>
       </item>
       
@@ -1125,7 +1125,7 @@ Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflic
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen in der Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
 Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
@@ -1274,7 +1274,7 @@ Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in d
         <description>Arbeiten mit Mail Attachment Plus Nachdem Sie in der Berichtsauswahl die gewünschten Anhänge hinzugefügt haben, können Sie mit dem Mailversand beginnen. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für Dieses Beispiel haben wir die Standardanhänge im Rechnungsversand wie folgt eingerichtet:
 In diesem Beispiel haben wir zwei PDFs und ein zeitbegrenztes Bild angehängt.
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
+Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur Verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
       </item>
       
       <item>
@@ -1677,7 +1677,7 @@ Zum BestellformularWünschen Sie eine Testphase, erhalten Sie von uns die gewü
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server, auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
       <item>
@@ -2585,7 +2585,7 @@ Funktion „Zeige Passwort“ Natürlich ist es wichtig, dass Passwörter gesch�
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-document/</guid>
         <description>Einrichtung Hinzufügen von Standardanhängen pro Beleg Über die Factbox haben Sie die Möglichkeit jedem Dokument Standardanhänge mitzugeben, die automatisch bei einem Versand mitangehängt werden. Wählen Sie dazu in der Übersicht den gewünschten Beleg aus und wählen Sie rechts in der Factbox &amp;ldquo;Anhänge&amp;rdquo;
 Klicken Sie nun bei &amp;ldquo;Belege&amp;rdquo; auf die 0, es öffnet sich ein Fenster in dem Sie via &amp;ldquo;Datei auswählen&amp;rdquo; in der Tabelle Anhänge hinzufügen können.
-Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle gewünschten Dateien angehängt sind.</description>
+Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess, bis alle gewünschten Dateien angehängt sind.</description>
       </item>
       
       <item>
@@ -2597,7 +2597,7 @@ Wählen Sie die gewünschte Datei aus und wiederholen diesen Prozess bis alle ge
         <description>Arbeiten mit Mail Attachment Plus Wenn Sie alle Ihre gewünschten Anhänge über das &amp;ldquo;Anhänge&amp;rdquo; Menü hinzugefügt haben, können Sie mit dem Versand starten. Falls Sie dies noch nicht unternommen haben, können Sie im Bereich &amp;ldquo;Erste Schritte&amp;rdquo; die Einrichtung der Debitor Standardanhänge finden.
 Für das Beispiel haben wir die Anhänge für einen Beleg wie folgt eingerichtet:
 Es wurde ein Bild und eine PDF also Standard festgelegt.
-Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
+Sollten Sie eine Business Central Version einsetzen, in der die Mail Experience noch nicht zur Verfügung steht, sieht der Ablauf ein wenig anders aus.</description>
       </item>
       
       <item>

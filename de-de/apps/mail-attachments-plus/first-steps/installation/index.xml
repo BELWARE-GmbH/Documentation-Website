@@ -21,7 +21,7 @@
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Mail Attachments Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Es öffnet sich die Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen, um den Connector 365 Mail Attachments Plus zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -32,7 +32,7 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Mail Attachment Plus App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App Das Veröffentlichen der Connector 365 Base &amp;amp; Mail Attachment Plus App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendeten Dateien auf den Server, auf dem Ihre Business Central Instanz läuft.</description>
       </item>
       
     
