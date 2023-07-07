@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job Queue Error on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/</link>
+    <description>Recent content in Job Queue Error on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>The configuration</title>
+        <link>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/configuration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/configuration/</guid>
+        <description>The configuration Connector NAV setup, Global tab
+In the Connector NAV setup, under the Global tab in the field Email Feedback Adddress you can define an email address that errors for the Connector job queue will be sent to. The sending requires a setup of the internal SMTP of Microsoft Dynamics NAV.</description>
+      </item>
+      
+      <item>
+        <title>User report setup</title>
+        <link>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/</guid>
+        <description>The Connector NAV user report setup Sending faxes from Dynamics NAV is possible from any page, in the following an offer is used as an example.
+Connector NAV user report setup, register general
+For sending status messages, a record is created in the user report setup with the following parameters:
+Field describtion User Empty Language Empty ReportID -1 Bodytext file Bodytext file for the Status feedback. HTML bodytext Yes if the bodytext is a HTML file.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

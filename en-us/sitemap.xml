@@ -1108,6 +1108,36 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/status-report/joblist-status/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/status-report/joblist-status/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/status-report/joblist-status/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/legalnotice/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2143,17 +2173,32 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/connectornav/status-report/configuration/</loc>
+    <loc>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/configuration/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/connectornav/status-report/configuration/"
+                href="https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/connectornav/status-report/configuration/"
+                href="https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/configuration/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/status-report/joblist-status/configuration/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/status-report/joblist-status/configuration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/status-report/joblist-status/configuration/"
                 />
   </url>
   
@@ -4018,17 +4063,32 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/connectornav/status-report/user_report_setup/</loc>
+    <loc>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/connectornav/status-report/user_report_setup/"
+                href="https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/user_report_setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/connectornav/status-report/user_report_setup/"
+                href="https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/status-report/joblist-status/user_report_setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/status-report/joblist-status/user_report_setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/status-report/joblist-status/user_report_setup/"
                 />
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Status reports on Connector 365 Online Hilfe</title>
+    <title>Statusberichte on Connector 365 Online Hilfe</title>
     <link>https://docs.belware.de/de-de/connectornav/status-report/</link>
-    <description>Recent content in Status reports on Connector 365 Online Hilfe</description>
+    <description>Recent content in Statusberichte on Connector 365 Online Hilfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -15,28 +15,21 @@
     
       
       <item>
-        <title>Die Konfiguration</title>
-        <link>https://docs.belware.de/de-de/connectornav/status-report/configuration/</link>
+        <title>Joblisten-Status</title>
+        <link>https://docs.belware.de/de-de/connectornav/status-report/joblist-status/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/status-report/configuration/</guid>
-        <description>Die Konfiguration Connector NAV Einrichtung, Register Steuerung
-In der Connector NAV Einrichtung kann unter dem Reiter Steuerung eingestellt werden, wann eine Rückmeldung für den Fax- oder Mailversand versendet werden soll.
-Der Versand setzt eine Einrichtung des internen SMTP von Microsoft Dynamics NAV voraus.
-Folgende Optionen stehen zur Verfügung.
-Feldbeschreibung &amp;lt;&amp;gt; Kein Rückmeldungsversand Immer Rückmeldung unabhängig nach Status. + Rückmeldung für positive Vorgänge. - Rückmeldung für negative Vorgänge. </description>
+        <guid>https://docs.belware.de/de-de/connectornav/status-report/joblist-status/</guid>
+        <description>Zusatzdokumentation für das Modul Fax / Mail </description>
       </item>
       
       <item>
-        <title>Benutzerbericht Einrichtung</title>
-        <link>https://docs.belware.de/de-de/connectornav/status-report/user_report_setup/</link>
+        <title>Warteschlangefehler</title>
+        <link>https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/connectornav/status-report/user_report_setup/</guid>
-        <description>Die Connector NAV Benutzerbericht Einrichtung Das Senden von Faxen aus Dynamics NAV ist aus jeder beliebigen Page möglich, im Folgenden wird als Beispiel ein Angebot verwendet.
-Connector NAV Benutzerbericht Einrichtung, Register Allgemein
-Für das Versenden von Statusmeldungen wird ein Satz in der Benutzerberichts Einrichtung mit folgenden Parametern angelegt:
-Feldbeschreibung Benutzer Leer. Sprache Leer. Berichts ID 0. Bodytextdatei Bodytextdatei für die Statusrückmeldung. HTML Bodytext Ja, wenn der Bodytext eine HTML-Datei ist. Beispiel für einen Bodytext:</description>
+        <guid>https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/</guid>
+        <description>Zusatzdokumentation für das Modul Fax / Mail </description>
       </item>
       
     

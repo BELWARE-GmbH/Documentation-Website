@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warteschlangefehler on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/</link>
+    <description>Recent content in Warteschlangefehler on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Die Konfiguration</title>
+        <link>https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/configuration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/configuration/</guid>
+        <description>Die Konfiguration Connector NAV Einrichtung, Register Global
+In der Connector NAV Einrichtung kann im Feld E-Mail Rückmeldungsadresse unter dem Reiter Global eingestellt werden, an welche Adresse Fehler der Connector-Warteschlange gesendet werden.
+Der Versand setzt eine Einrichtung des internen SMTP von Microsoft Dynamics NAV voraus.</description>
+      </item>
+      
+      <item>
+        <title>Benutzerbericht Einrichtung</title>
+        <link>https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/user_report_setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/status-report/job-queue-error/user_report_setup/</guid>
+        <description>Die Connector NAV Benutzerbericht Einrichtung Connector NAV Benutzerbericht Einrichtung, Register Allgemein
+Für das Versenden von Statusmeldungen zu Warteschlangenfehlern wird ein Satz in der Benutzerberichts Einrichtung mit folgenden Parametern angelegt:
+Feldbeschreibung Benutzer Leer. Sprache Leer. Berichts ID -1 Bodytextdatei Bodytextdatei für die Statusrückmeldung. HTML Bodytext Ja, wenn der Bodytext eine HTML-Datei ist. Beispiel für einen Bodytext:
+Die Aufgabenwarteschlange 5402516 &amp;ldquo;CON Base PDF Server&amp;rdquo; ist während der Verarbeitung auf einen Fehler gestoßen mit folgender Meldung: %36</description>
+      </item>
+      
+    
+  </channel>
+</rss>

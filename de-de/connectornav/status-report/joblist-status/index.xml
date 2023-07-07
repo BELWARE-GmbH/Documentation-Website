@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joblisten-Status on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/connectornav/status-report/joblist-status/</link>
+    <description>Recent content in Joblisten-Status on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/connectornav/status-report/joblist-status/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Die Konfiguration</title>
+        <link>https://docs.belware.de/de-de/connectornav/status-report/joblist-status/configuration/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/status-report/joblist-status/configuration/</guid>
+        <description>Die Konfiguration Connector NAV Einrichtung, Register Steuerung
+In der Connector NAV Einrichtung kann unter dem Reiter Steuerung eingestellt werden, wann eine Rückmeldung für den Fax- oder Mailversand versendet werden soll.
+Der Versand setzt eine Einrichtung des internen SMTP von Microsoft Dynamics NAV voraus.
+Folgende Optionen stehen zur Verfügung.
+Feldbeschreibung &amp;lt;&amp;gt; Kein Rückmeldungsversand Immer Rückmeldung unabhängig nach Status. + Rückmeldung für positive Vorgänge. - Rückmeldung für negative Vorgänge. </description>
+      </item>
+      
+      <item>
+        <title>Benutzerbericht Einrichtung</title>
+        <link>https://docs.belware.de/de-de/connectornav/status-report/joblist-status/user_report_setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/status-report/joblist-status/user_report_setup/</guid>
+        <description>Die Connector NAV Benutzerbericht Einrichtung Connector NAV Benutzerbericht Einrichtung, Register Allgemein
+Für das Versenden von Statusmeldungen wird ein Satz in der Benutzerberichts Einrichtung mit folgenden Parametern angelegt:
+Feldbeschreibung Benutzer Leer. Sprache Leer. Berichts ID 0. Bodytextdatei Bodytextdatei für die Statusrückmeldung. HTML Bodytext Ja, wenn der Bodytext eine HTML-Datei ist. Beispiel für einen Bodytext:
+Der Job wurde nicht versendet. Bitte prüfen Sie den Vorgang.
+Fehler aus Rückmeldung: %17
+Job-Nummer: %18
+Status: %19</description>
+      </item>
+      
+    
+  </channel>
+</rss>

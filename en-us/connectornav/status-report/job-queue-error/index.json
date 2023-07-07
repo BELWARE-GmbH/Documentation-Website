@@ -1,0 +1,25 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Job Queue Error on Connector 365 Online Help",
+    "description": "Recent content in Job Queue Error on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/index.json",
+    "items" : [
+    {
+        "title" : "The configuration",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/configuration/",
+        "url" : "https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/configuration/",
+        "content_html" : "\u003ch4 id=\"the-configuration\"\u003eThe configuration\u003c/h4\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/status/Einrichtung_Warteschlange.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eConnector NAV setup, Global tab\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eIn the Connector NAV setup, under the Global tab in the field \u003cstrong\u003eEmail Feedback Adddress\u003c/strong\u003e you can define an email address that errors for the Connector job queue will be sent to. \u003cbr /\u003e\n\u003cstrong\u003eThe sending requires a setup of the internal SMTP of Microsoft Dynamics NAV\u003c/strong\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "User report setup",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/",
+        "url" : "https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/",
+        "content_html" : "\u003ch4 id=\"the-connector-nav-user-report-setup\"\u003eThe Connector NAV user report setup\u003c/h4\u003e\n\u003cp\u003eSending faxes from Dynamics NAV is possible from any page, in the following an offer is used as an example.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/status/ben_ber_einr.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003ccenter\u003eConnector NAV user report setup, register general\u003c/center\u003e\u003c/p\u003e\n\u003cp\u003eFor sending status messages, a record is created in the user report setup with the following parameters:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eField describtion\u003c/th\u003e\n\u003cth\u003e\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eUser\u003c/td\u003e\n\u003ctd\u003eEmpty\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eLanguage\u003c/td\u003e\n\u003ctd\u003eEmpty\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eReportID\u003c/td\u003e\n\u003ctd\u003e-1\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eBodytext file\u003c/td\u003e\n\u003ctd\u003eBodytext file for the Status feedback.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eHTML bodytext\u003c/td\u003e\n\u003ctd\u003eYes if the bodytext is a HTML file.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eExample of a bodytext:\u003c/p\u003e\n\u003cp\u003eThe Job Queue 5402516 \u0026ldquo;CON Base PDF Server\u0026rdquo; encountered an error during processing with the following message: %36\u003c/p\u003e\n"
+    }
+    ]
+}
