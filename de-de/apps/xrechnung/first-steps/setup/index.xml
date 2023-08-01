@@ -15,6 +15,19 @@
     
       
       <item>
+        <title>Grundeinrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/base-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/base-setup/</guid>
+        <description>Grundeinrichtung Um die grundlegende Einstellungen für die Connector 365 XRechnung App vorzunehmen, navigieren Sie über die Suchleiste
+zu der Connector 365 Einrichtung.
+Die Connector 365 XRechnung App erweitert die Einrichtungsseite um einen eigenen XRechnung-Bereich.
+Der Abschnitt XRechnung enthält folgende Felder und Einstellmöglichkeiten:
+Feld Bedeutung XRechnung validieren Ja, wenn XRechnungen mithilfe des XRechnung-Validators validiert werden sollen. Nein, um keine Prüfung von XRechungen vorzunehmen XRechnung-Version Die aktuell genutzte XRechnung Version. Kennung XRechnung Die XRechnung-Kennung, welche für die aktuelle XRechnung-Version genutzt wird.</description>
+      </item>
+      
+      <item>
         <title>Leitweg-ID</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

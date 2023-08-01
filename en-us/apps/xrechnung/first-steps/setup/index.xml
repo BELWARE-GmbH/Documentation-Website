@@ -15,6 +15,19 @@
     
       
       <item>
+        <title>Basic setup</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/base-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/base-setup/</guid>
+        <description>Basic setup To set up the basic settings for the Connector 365 XRechnung app, navigate via the search bar
+to the Connector 365 setup.
+The Connector 365 XRechnung app extends the setup page with a dedicated XInvoice section.
+The XRechnung section contains the following fields and setting options:
+Field Meaning Validate XRechnung Yes, if XRechnung files are to be validated using the XRechnung validator. No, to not validate XRechnung files. XRechnung version The currently used XRechnung version.</description>
+      </item>
+      
+      <item>
         <title>Ident ID</title>
         <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

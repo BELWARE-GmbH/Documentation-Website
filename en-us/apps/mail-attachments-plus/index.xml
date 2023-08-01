@@ -22,7 +22,8 @@
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/new-and-planned/</guid>
         <description>New and planned Planned features for future versions Attachment functionality on furhter levels Version 2.3.0.1 - 22.05.2023 Fixes:
 Fixes bug where attachment filename is overwritten during downloading Version 2.3.0.0 - 22.05.2023 New features:
-Support for document types from the service area Attachments can now be maintained per document layout line For XRechnung, Attachments can now be configured to be embedded or to be treated as additional mail attachments (only in connection with Connector 365 XRechnung) Version 2.</description>
+Support for document types from the service area Attachments can now be maintained per document layout line For XRechnung, Attachments can now be configured to be embedded or to be
+treated as additional mail attachments (only in connection with Connector 365 XRechnung) Version 2.</description>
       </item>
       
       <item>
