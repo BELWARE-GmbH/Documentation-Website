@@ -22,7 +22,7 @@
         <guid>https://docs.belware.de/en-us/apps/e-post/working-with-e-post/sending/</guid>
         <description>Working with E-POST Sending The document types supported by our app can be found summarized in the introduction.In our example we focus on posted sales invoices. All other documents can be processed the same way.
 First select the document you want to send.
-The function for sending letters by post can be found under Print/Send in the menu bar. Open it and select Send as letter to open the dialog for sending letters.</description>
+Now there are two ways to send the document as a letter. Either by using the standard function Send&amp;hellip;, whereby the document is sent depending on the specified document sending profile or by using the function Send as Letter.</description>
       </item>
       
       <item>

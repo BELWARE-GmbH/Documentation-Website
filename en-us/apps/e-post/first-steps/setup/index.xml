@@ -20,7 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/epostbusiness-api/</guid>
-        <description>Erste Schritte Einrichtung By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
+        <description>Setup E-POSTBUSINESS API Under Assisted Setup you can find a wizard that will guide you step by step through the setup process of the App and E-POST account. Otherwise you can follow this documentation.
+By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
 Field Desciption EKP This is your customer number that you have received from Deutsche Post Secret The secret is created automatically after you set your password Password Here is your encrypted password Save File in Joblist Determines whether sent files are archived in the job list Show dialog Determines whether another dialog for changing/checking the options is opened before sending Testmode If this option is enabled, the data of the letters will not be sent to the printing center Test Email Address If the test mode is enabled, this email address will receive a notification about the shipment Show restricted area Displays the restricted areas required by Deutsche Post on test letters While the test mode is activated, no invoices are sent.</description>
       </item>
       
@@ -30,23 +31,35 @@ Field Desciption EKP This is your customer number that you have received from De
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/reportselection/</guid>
-        <description>First steps Report selection Before sending the first letter, the reports for sending with E-POST must be defined in the report selection. Currently, this option is available in &amp;ldquo;Report selection sales&amp;rdquo; and &amp;ldquo;Report selection reminder&amp;rdquo;.
+        <description>Setup Report selection Before sending the first letter, the reports for sending with E-POST must be defined in the report selection. Currently, this option is available in &amp;ldquo;Report selection sales&amp;rdquo; and &amp;ldquo;Report selection reminder&amp;rdquo;.
 Only reports with a check mark in the &amp;ldquo;Use for E-POST&amp;rdquo; option are taken into account.
 *The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</description>
       </item>
       
       <item>
-        <title>Automatisierte Rückmeldungen</title>
+        <title>Automated Feedback</title>
         <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/</guid>
-        <description>Einrichtung Automated Fedback Besides the manual status rqeuest for E-POST letters, status requests can also be automated.
+        <description>Setup Automated Fedback Besides the manual status rqeuest for E-POST letters, status requests can also be automated.
 For this there is a pre configured job queue entry.
 The pre configured settings can be changed as xou like.
 Via search you can navigate to the job queue entries.
 By double clicking the line you can navigate to the setting of the selected queue entry.
 To make changes to these settings, you first have to set the job qeueu entry on hold.</description>
+      </item>
+      
+      <item>
+        <title>Document Sending Profile</title>
+        <link>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/document-sending-profile/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/document-sending-profile/</guid>
+        <description>Setup Document Sending Profile The document sending profile is a standard functionality of Microsoft Dynamics 365 Business Central.
+It is used to control the preferred method of sending sales documents. By default, the functionality is intended for use with &amp;ldquo;Post and Send&amp;rdquo;. Connector 365 E-POST extends this functionality by adding the option E-POST to the possible profiles.
+Set up document send profiles To set up a document sending profile
+Open the search, type document sending profile and then select the appropriate link.</description>
       </item>
       
     

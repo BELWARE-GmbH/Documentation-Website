@@ -4383,21 +4383,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/automated_processing/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/automated_processing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/automated_processing/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4409,6 +4394,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/e-post/first-steps/setup/automated-feedback/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/automated_processing/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/automated_processing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/automated_processing/"
                 />
   </url>
   
@@ -5469,6 +5469,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/e-post/first-steps/setup/document-sending-profile/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/document-sending-profile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/first-steps/setup/document-sending-profile/"
                 />
   </url>
   

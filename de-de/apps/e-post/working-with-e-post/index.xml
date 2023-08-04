@@ -22,7 +22,7 @@
         <guid>https://docs.belware.de/de-de/apps/e-post/working-with-e-post/sending/</guid>
         <description>Arbeiten mit der Connector 365 E-POST App Versand Die durch unsere App unterstützten Belegarten finden Sie zusammengefasst in der Einleitung.In unserem Beispiel für die Anwendung konzentrieren wir uns auf die Geb. Verkaufsrechnungen. Alle anderen Belege können in gleicher Art und Weise verarbeitet werden.
 Wählen Sie zunächst den Beleg aus, welchen Sie versenden möchten.
-Die Funktion zum Versenden von postalischen Briefen finden Sie unter &amp;ldquo;Drucken/Senden&amp;rdquo; in der Menüleiste. Klappen Sie diese auf und wählen &amp;ldquo;Als Brief senden&amp;rdquo; um den Versand zu starten.</description>
+Es gibt nun zwei Möglichkeiten, den Beleg als Brief zu versenden. Entweder über die Standardfunktion Senden&amp;hellip;, wobei der Beleg abhängig vom angegebenen Belegsendeprofil versendet wird, oder über die Funktion Als Brief versenden.</description>
       </item>
       
       <item>
