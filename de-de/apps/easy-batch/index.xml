@@ -20,8 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.7.0.0 - 22.05.2023 Neuerungen:
-Unterstützung von Belegarten aus dem Service-Bereich Version 2.6.0.0 - 14.04.2023 Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang. Implementierung von API Seiten zur Nutzung von Power Automate. Unterstützung der App Mail Scenarios Plus Version 2.5.0.0 - 02.03.2023 Sofortige Information beim Auführen der Aktion Als Stapel senden, dass die Belege zur Verarbeitung eingestellt wurden.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.9.0.0 - 07.08.2023 Neuerungen:
+Freigabefuntion zu offenen Aufgaben. Kompatibilität mit Connector 365 Custom Filename hergestellt. Kompatibilität mit E-POST Belegsendeprofil hergestellt. Korrekture:
+Mehrere E-Mailempfänger werden nun korrekt übergeben und führen nicht mehr zu Fehlern beim Versand. Fehlende Berechtigungen bei der Nutzung des automatischen Versand führen nicht mehr zum Fehler beim Einstellen der Aufgaben. Version 2.</description>
       </item>
       
       <item>

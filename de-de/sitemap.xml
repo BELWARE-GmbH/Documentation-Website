@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-post/developer-docu/overriding-address-data/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-post/developer-docu/overriding-address-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-post/developer-docu/overriding-address-data/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connectornav/matrix/contacts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
