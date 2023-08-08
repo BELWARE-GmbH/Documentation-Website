@@ -24,7 +24,7 @@
 There you can find the tab Easy Batch Setup.
 Generally all documents will be processed in background using Easy Batch.
 But using the Easy Batch setup, you can control, which type of documents wil be processed at what specific time.
-All posted document types which can be processed using the app are recorded in the Easy Batch Setup.</description>
+First, in the Processing Time Interval field, you can specify a time interval globally for all documents, in which the documents are processed.</description>
       </item>
       
       <item>
