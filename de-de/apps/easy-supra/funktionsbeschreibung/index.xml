@@ -29,7 +29,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/</guid>
-        <description>Auszuwertende Daten Nachdem die Einrichtung der Lieferantenbewertung(en) abgeschlossen ist, wird in diesem Kapitel dargestellt, wie und an welchen Stellen in Dynamics 365 Business Central die Daten entstehen, die später anhand der eingerichteten Bewertungen ausgewertet werden. Bei der Erhebung von „weichen“ und „harten“ Faktoren wird auf unterschiedliche Faktoren zurückgegriffen.</description>
+        <description>Auszuwertende Daten Nachdem die Einrichtung der Lieferantenbewertung(en) abgeschlossen ist, wird in diesem
+Kapitel dargestellt, wie und an welchen Stellen in Dynamics 365 Business Central die Daten
+entstehen, die später anhand der eingerichteten Bewertungen ausgewertet werden. Bei der
+Erhebung von „weichen“ und „harten“ Faktoren wird auf unterschiedliche Faktoren zurückgegriffen.</description>
       </item>
       
       <item>

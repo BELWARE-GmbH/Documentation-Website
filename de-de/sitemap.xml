@@ -1328,6 +1328,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/easy-supra/kurzbeschreibung/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -1354,21 +1369,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/"
                 />
   </url>
   
@@ -6123,6 +6123,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/base/first-steps/setup/communication-matrix/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/first-steps/setup/communication-matrix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/first-steps/setup/communication-matrix/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/connectornav/configuration-and-setup/setup/communication_matrix/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -6394,6 +6409,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/pdfpaper/user_printer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/base/first-steps/setup/infobox-extensions/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/first-steps/setup/infobox-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/first-steps/setup/infobox-extensions/"
                 />
   </url>
   

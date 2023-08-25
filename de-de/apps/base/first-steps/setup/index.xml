@@ -41,9 +41,36 @@ Dort finden Sie zur Einstellung der Base App zwei Schalter:
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/delete-activity-files/</guid>
-        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst. Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
+        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst.
+Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
 Bei Öffnen des Menüs erscheint die Funktion &amp;ldquo;Aktivitätendateien löschen&amp;rdquo;.
 Nach Auswahl der Funktion erscheint ein Eingabefenster, in dem das Startdatum (älteres Datum) für die Löschaktion gewählt werden kann:</description>
+      </item>
+      
+      <item>
+        <title>Kommunikationsmatrix</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/communication-matrix/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/communication-matrix/</guid>
+        <description>Kommunikationsmatrix Die Kommunikationsmatrix des Connector NAVs war der zentrale Einrichtungsort, um bestimmte Versandparameter wie zum Beispiel Zieladressen, für Debitoren und Kreditoren festzulegen.
+In der Connector 365 Produktlinie, werden die Dokumentlayouts aus dem Microsoft-Standard für gleiche Zwecke verwendet.
+Die Connector 365 Base App blendet die Dokumentlayouts unter dem Namen Kommunikationsmatrix auf den Übersichtskarten und Debitorenkarten der Debitoren und Kreditoren ein:
+Auf dieser Unterseite können Einrichtungen analog den Dokumentlayouts eingerichtet werden.
+Weitere Felder der Dokumentlayouts, welche durch andere Connector 365 Apps hinzugekommen sind, werden ebenfalls</description>
+      </item>
+      
+      <item>
+        <title>Infobox-Erweiterungen</title>
+        <link>https://docs.belware.de/de-de/apps/base/first-steps/setup/infobox-extensions/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/infobox-extensions/</guid>
+        <description>Infobox-Erweiterungen Belegseiten Für alle unterstützten Belegseiten, auf denen Belege mithilfe der Connector 365 Apps verarbeitet werden können,
+wird eine Unterseite Connector 365 Aktivitäten im Infobox-Bereich angezeigt:
+Diese Unterseite ist eine Ansicht der Connector 365 Aktivitäten-Tabelle, in welcher auf den aktuell betrachteten Beleg gefiltert wird.
+So kann man schnell und einfach die vergangenen Aktivitäten zu einem Beleg prüfen, ohne die Seite wechseln zu müssen.
+Wollen Sie von einer in der Unteransicht anzeigten Aktivität zu dessen Position in der ungefilterten Gesamtansicht springen, klicken Sie auf den Inhalt des Feldes Angenommen um in der gewünschten Zeile:</description>
       </item>
       
     

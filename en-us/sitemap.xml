@@ -6103,6 +6103,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/base/first-steps/setup/communication-matrix/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/first-steps/setup/communication-matrix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/first-steps/setup/communication-matrix/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/create/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -6359,6 +6374,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/matrix/detour/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/base/first-steps/setup/infobox-extensions/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/base/first-steps/setup/infobox-extensions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/base/first-steps/setup/infobox-extensions/"
                 />
   </url>
   
