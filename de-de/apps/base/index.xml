@@ -26,8 +26,8 @@ Kreditoren Debitoren
 (Jeweils Übersicht- und Karte) Aktivitäteneinträge und Statistik in den Seiten
 Kreditore Debitore Kontakte
 (Jeweils Übersicht- und Karte) Korrekturen:
-Korrektur der Funktion zum Löschen der Löschen der Aktivitäteneinträge Version 2.5.0.1 - 26.04.2023 Korrektur:
-Automatisches aktivieren der HTTP-Request zur Lizenzprüfung. Version 2.5.0.0 - 14.04.2023 Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang. Implementierung von API Seiten zur Nutzung von Power Automate.</description>
+Korrektur der Funktion zum Löschen der Aktivitäteneinträge Fehlerbehung bei Upgrade von einer Connector 365 Version &amp;lt; 2.0 zu einer Version &amp;gt;= 2.0 Version 2.5.0.1 - 26.04.2023 Korrektur:
+Automatisches aktivieren der HTTP-Request zur Lizenzprüfung. Version 2.5.0.0 - 14.04.2023 Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.</description>
       </item>
       
       <item>

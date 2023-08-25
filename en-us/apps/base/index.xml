@@ -26,8 +26,7 @@ Vendors Customers
 (List and Part in each case) Showing Activity entries and statistics in the following pages
 Vendors Customers Contacts
 (List and Part in each case) Corrections:
-Correction of the function to delete the Delete activity entries. Version 2.5.0.1 - 26.04.2023 Correction:
-Automatically activate the HTTP request for license verification. Version 2.5.0.0 - 14.04.2023 Implementation of additional table for saving additional files for each process.</description>
+Correction of the function to Delete activity entries. fix potential error when updating from Connector 365 version &amp;lt; 2.0 to a version &amp;gt;= 2.0 Version 2.5.0.1 - 26.04.2023 Correction:</description>
       </item>
       
       <item>
