@@ -5544,7 +5544,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Negative XRechnungen</a>
+          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Prüfbericht</a>
         </li>
       
     
@@ -10693,7 +10693,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Negative XRechnungen</a>
+          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Prüfbericht</a>
         </li>
       
     
@@ -11138,29 +11138,45 @@ if (!doNotTrack) {
     <h3 id="arbeiten-mit-xrechnung">Arbeiten mit XRechnung</h3>
 <h3 id="versand">Versand</h3>
 <p>Wenn die Einrichtung abgeschlossen wurde, so können Sie Rechnungen einfach per E-Mail senden. Öffnen Sie also Ihre gebuchten Verkaufsrechnungen und wählen Sie die zu versendende Rechnung aus.</p>
-<p><p class="md__image">
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/XRechnung/XRechnungScreenshot3.PNG" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 <p><strong>„Drucken/Senden“ -&gt; „Als XRechnung senden“</strong></p>
-<p>Es öffnet sich ein neuer Dialog, in dem Sie vor dem Versenden noch Anpassungen vornehmen können.</p>
-<p><p class="md__image">
+<p>Es öffnet sich anschließend das standardmäßige E-Mail-Fenster mit kleineren Anpassungen für den XRechnung-Versand.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/XRechnung/XRechnungScreenshot4.PNG" alt=""  />
-</p></p>
-<p>Im Dialog lassen sich der Absender, der Empfänger, der Betreff und auch nochmal die Leitweg-ID einsehen aber auch anpassen.<br />
-Der Inhalt der Mail kann angepasst werden und die aktuellen Anhänge sind sichtbar.</p>
-<p>Wenn Sie noch weitere Anhänge haben, welche Sie mitversenden möchten, dann können Sie diese über das Feld <strong>„Datei anhängen“</strong> Ihrer Mail hinzufügen.<br />
-Mehr zum Thema Anhänge finden Sie <a href="/de-de/apps/xrechnung/working-with-xrechnung/attachments">hier</a>.</p>
-<div class="notices info" data-title="Hinweis">
-  <em>Für den Fall, dass Sie in den Dokumentlayouts eine einbetten der Anhänge angewählt haben, so werden diese ebenfalls in die XML eingebettet und lassen sich anschließend nur noch maschinell auslesen. Dabei sollte man darauf achten, welche Dateitypen der Empfänger akzeptiert.</em>
-</div>
-<h1 id="heading"></h1>
-<p>Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über <strong>„E-Mail senden“</strong> auslösen. Im Hintergrund wird nun noch eine Prüfung auf das Schema der XRechnung vorgenommen.</p>
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Im Dialog lassen sich der Absender, der Empfänger, der Betreff sowie die Kundenreferenz einsehen und anpassen.<br />
+Der Inhalt der Mail sowie weitere Anhänge können ebenfalls eingesehen und verändert werden.<br />
+Mehr zum Thema <strong>Anhänge</strong> finden Sie <a href="/de-de/apps/xrechnung/working-with-xrechnung/attachments">hier</a>.</p>
+<p>Wenn Sie die gewünschten Änderungen vorgenommen haben, können Sie den Versand über <strong>E-Mail senden</strong> auslösen.<br />
+Dabei wird eine XML-Datei erzeugt und je nach <a href="/de-de/apps/xrechnung/first-steps/setup/base-setup/">Einrichtung</a> auf korrekten Syntax validiert, bevor es dann über den herkömmlichen E-Mail-Weg versandt wird.<br />
+Sollte das Validieren von XRechnungen aktiviert und eine beim XRechnung-Versand erzeugte XML-Datei fehlerhaft validiert worden sein,<br />
+so wird der Mail-Versand abgebrochen. Sie erhalten zusätzlich einen Prüfbericht, indem die Gründe für das Ablehnen der entsprechenden XRechnung protokolliert sind. Mehr Informationen zum Thema <strong>Prüfbericht</strong> erhalten Sie <a href="/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/">hier</a>.</p>
 <h3 id="nach-dem-versand">Nach dem Versand</h3>
-<p>Falls die Prüfung des Dokumentes erfolgreich war, so wird die Rechnung versendet.</p>
-<p>Nach dem Absenden erhält der Empfänger eine <strong>„xml“-Datei</strong>. Diese ist die zugehörige Rechnung im <strong>„XRechnung“</strong>-Format.</p>
-<p><p class="md__image">
+<p>Falls die Prüfung des Dokuments erfolgreich war, so wird die Rechnung versendet.<br />
+Nach dem Absenden erhält der Empfänger eine <strong>„xml“-Datei</strong>. Diese ist die zugehörige Rechnung im <strong>„XRechnung“</strong>-Format.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/XRechnung/xrechnungemail.png" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 
   </article>
 </div>

@@ -37,7 +37,7 @@ Feld Bedeutung XRechnung validieren Ja, wenn XRechnungen mithilfe des XRechnung-
 Der Standard XRechnung verwendet das Konzept der Leitweg-Id für die Adressierung von öffentlichen Auftraggebern.
 Weiter unten erfahren Sie mehr zum Thema Leitweg-Id.
 Grundsätzlich kann der Standard XRechnung allerdings auch im nicht-öffentlichen Raum verwendet werden.
-Hier werden überlicherweise keine Leitweg-Ids verwendet. Stattdessen kann
+Hier werden überlicherweise keine Leitweg-Ids, sondern eigene Kennungen verwendet.
 Leitweg-ID Die Leitweg-ID ist auf jeder elektronischen Rechnung an öffentliche Auftraggeber der Bundesverwaltung anzugeben.
 Die Leitweg-ID soll die Adressierung und ggf.</description>
       </item>
@@ -48,9 +48,10 @@ Die Leitweg-ID soll die Adressierung und ggf.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-customer/</guid>
-        <description>Einrichtung Debitor Die Einstellungen, um Belege im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentlayouts“ des jeweiligen Debitors.
-Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun folgende neue Felder zur Verfügung:
-Leitweg-ID Beleg als Anhang hinzufügen In das Feld Leitweg-ID wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs</description>
+        <description>Einrichtung Debitor Die Debitorspezifischen Einstellungen für das Versenden von XRechnungen werden in den Dokumentlayouts des jeweiligen Debitors vorgenommen.
+Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nach Installation der Connector 365 XRechnung App folgende weitere Felder zur Verfügung:
+Kundenreferenz Beleg als Anhang hinzufügen In das Feld Kundenreferenz wird die Kennung des Empfängers, bei einem öffentlichen Auftraggerber die Leitweg-ID, eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können.
+Die Kundenreferenz kann auch im E-Mail-Dialog gesetzt werden, das heißt sie muss nicht zwingend in den Dokumentlayouts gesetzt werden.</description>
       </item>
       
       <item>

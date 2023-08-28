@@ -353,6 +353,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -799,21 +814,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/html-word/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-ident-id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/"
                 />
   </url>
   
@@ -3253,21 +3253,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -4164,6 +4149,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/apps/pdfpaper/working-with-pdfpaper/stationery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
                 />
   </url>
   
@@ -6989,6 +6989,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/data-exchange/xrechnung/more_error_analysis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/connectornav/sending-reminder/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/sending-reminder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/sending-reminder/"
                 />
   </url>
   

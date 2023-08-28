@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Negative XRechnung – Connector 365 Online Help</title>
+    <title>Validation report – Connector 365 Online Help</title>
     
 
 
@@ -1079,7 +1079,7 @@
 
 
 <meta property="og:site_name" content="Connector 365 Online Help">
-<meta property="og:title" content="Negative XRechnung">
+<meta property="og:title" content="Validation report">
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/">
 <meta property="og:type" content="article">
 
@@ -1110,11 +1110,11 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "headline": "Negative XRechnung",
+    "headline": "Validation report",
     "datePublished": "2020-02-28T10:08:56+09:00",
     "dateModified": "2020-02-28T10:08:56+09:00",
     "url" : "https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/",
-    "description": "Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung …",
+    "description": "Validation report Optionally, the validation of XRechnung files can be activated via the Connector 365 Setup. Thereby an XRechnung is checked for correct syntax and …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://docs.belware.de/"
@@ -1185,7 +1185,7 @@ if (!doNotTrack) {
     <div class="menu">
   <h6 class="menu__label">
     
-      Negative XRechnung
+      Validation report
     
   </h6>
   <ul>
@@ -5553,7 +5553,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Ident ID</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Buyer Reference / Leitweg-Id</a>
         </li>
       
     
@@ -5664,7 +5664,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title active" data-depth="1">Negative XRechnung</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title active" data-depth="1">Validation report</a>
         </li>
       
     
@@ -6427,7 +6427,7 @@ if (!doNotTrack) {
   
   <li  class="is-active" >
     
-      <span>Negative XRechnung</span>
+      <span>Validation report</span>
     
   </li>
   
@@ -6454,7 +6454,7 @@ if (!doNotTrack) {
         <div class="menu">
   <h6 class="menu__label">
     
-      Negative XRechnung
+      Validation report
     
   </h6>
   <ul>
@@ -10822,7 +10822,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Ident ID</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Buyer Reference / Leitweg-Id</a>
         </li>
       
     
@@ -10933,7 +10933,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title active" data-depth="1">Negative XRechnung</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title active" data-depth="1">Validation report</a>
         </li>
       
     
@@ -11375,14 +11375,25 @@ if (!doNotTrack) {
   
 
   <article class="single__contents" data-dir="ltr">
-    <h3 id="working-with-xrechnung">Working with XRechnung</h3>
-<h3 id="negative-xrechnung">Negative XRechnung</h3>
-<p>In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.</p>
-<p><p class="md__image">
+    <h1 id="validation-report">Validation report</h1>
+<p>Optionally, the validation of XRechnung files can be activated via the <a href="/en-us/apps/xrechnung/first-steps/setup/base-setup/"><strong>Connector 365 Setup</strong></a>. Thereby an XRechnung is checked for correct syntax and conformity to the formal specifications for XRechnung.<br />
+The tool which is used here is the official <strong>KoSIT Validator</strong>.<br />
+Such a check, as described above, usually also takes place at the recipient.<br />
+The advantage of activating the validation is that you can easily perform an equivalent validation after the XRechnung generation.<br />
+Thus, you can detect incorrect entries at an early stage and not only when the recipient comes to the same conclusions by means of verification and rejects the invoice.</p>
+<h2 id="rejected-xrechnung">Rejected XRechnung</h2>
+<p>If the validation of XRechnung is active, and during <a href="/en-us/apps/xrechnung/working-with-xrechnung/sending/">sending</a> a generated XRechnung is considered as not conforming to the formal specifications for XRechnung, an error message occurs. As soon as you confirm this, the corresponding validation report opens:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/XRechnung/xrechnungbericht.png" alt=""  />
-</p></p>
-<p>There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.</p>
-<p>There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the <a href="/en-us/connector-on-appsource/xrechnung/first-steps/setup/setup-vat-scheme/">setup</a></p>
+</p></th>
+</tr>
+</thead>
+</table>
+<p>The audit report shows in detail which fields and constellations contradict the specifications for XRechnung.</p>
+<p>The most common sources of errors can be solved by setup. We have logged these <a href="/en-us/apps/xrechnung/first-steps/setup/">here</a>.</p>
 
   </article>
 </div>

@@ -5553,7 +5553,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Ident ID</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Buyer Reference / Leitweg-Id</a>
         </li>
       
     
@@ -5664,7 +5664,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Negative XRechnung</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Validation report</a>
         </li>
       
     
@@ -10822,7 +10822,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Ident ID</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/" class="menu__title " data-depth="2">Buyer Reference / Leitweg-Id</a>
         </li>
       
     
@@ -10933,7 +10933,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Negative XRechnung</a>
+          <a href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Validation report</a>
         </li>
       
     
@@ -11378,30 +11378,46 @@ if (!doNotTrack) {
     <h3 id="working-with-xrechnung">Working with XRechnung</h3>
 <h3 id="sending">Sending</h3>
 <p>If the setup has been completed, then you can easily send invoices by email. Simply open your posted sales invoices and select the invoice you want to send.</p>
-<p><p class="md__image">
-  <img src="/images/XRechnung/XRechnungScreenshot3.PNG" alt=""  />
-</p></p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/XRechnung/XRechnungScreenshot3_en.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
 <p><strong>„Print/Send“ -&gt; „Send as XRechnung“</strong></p>
-<p>A new dialog opens where you can make adjustments before sending.</p>
-<p><p class="md__image">
-  <img src="/images/XRechnung/XRechnungScreenshot4.PNG" alt=""  />
-</p></p>
-<p>In the dialog, the sender, the recipient, the subject and also again the Ident ID can be viewed but also adjusted.<br />
-The content of the mail can be customized and the current attachments are visible.</p>
-<p>If you have other attachments that you want to send, then you can add more attachments via the <strong>“Attach file”</strong> field in the menu bar.<br />
-You can find more on the topic of attachments <a href="/en-us/apps/xrechnung/working-with-xrechnung/attachments">here</a>.</p>
-<div class="notices info" data-title="Hinweis">
-  <em>If you have selected embedded attachments in the document layouts, these will also be embedded in the XML and can then only be read by machine. You have to pay attention to which attachments the recipient accepts.</em>
-</div>
-<h1 id="heading"></h1>
-<p>If you have made the desired changes, you can trigger the dispatch via <strong>“Send Email”</strong>. In the background, a check for the scheme of the XRechnung is now performed.</p>
+<p>The standard e-mail window will then open with minor adjustments for XRechnung sending.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/XRechnung/XRechnungScreenshot4_en.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>In the dialog, the sender, the recipient, the subject and the customer reference can be viewed and adjusted.<br />
+The content of the mail and other attachments can also be viewed and modified.</p>
+<p>You can find more on the topic of attachments <a href="/en-us/apps/xrechnung/working-with-xrechnung/attachments">here</a>.</p>
+<p>When you have made the desired changes, you can trigger the dispatch via <strong>send email</strong>.<br />
+This will generate an XML file and validate it for correct syntax depending on <a href="/en-us/apps/xrechnung/first-steps/setup/base-setup/">setup</a> before it is then sent via the conventional email route.<br />
+If XRechnung validation is enabled and an XML file generated during XRechnung sending has been validated incorrectly,<br />
+the mail dispatch will be aborted. You will also receive a validation report in which the reasons for rejecting the corresponding XRechnung are logged. More information about the <strong>validation report</strong> can be found <a href="/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/">here</a>.</p>
 <h3 id="after-sending">After sending</h3>
 <p>If the verification of the document was successful, the invoice will be sent.</p>
 <p>After sending, the recipient will receive, among other things, a <strong>“xml-file”</strong>.<br />
 This is the corresponding invoice in <strong>“XRechnung”</strong> format.</p>
-<p><p class="md__image">
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/XRechnung/xrechnungemail.png" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 
   </article>
 </div>

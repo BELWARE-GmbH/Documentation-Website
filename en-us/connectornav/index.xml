@@ -197,6 +197,18 @@ Sending SMS incurs additional costs depending on the provider and interface.</d
         <description></description>
       </item>
       
+      <item>
+        <title>Sending issued reminders</title>
+        <link>https://docs.belware.de/en-us/connectornav/sending-reminder/</link>
+        <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/connectornav/sending-reminder/</guid>
+        <description>Sending issued reminders Automatic attachment of invoices when sending reminders When you send reminders to your customers, you often find that they request a copy of the relevant invoices after receiving the reminder.
+Connector NAV provides a function to automatically attach reminded invoices to the reminder email.
+The following describes how to set up and execute the mentioned function of automatically attaching invoices to reminders.
+Setup First, navigate to the Connector NAV setup.</description>
+      </item>
+      
     
   </channel>
 </rss>

@@ -1114,7 +1114,7 @@
     "datePublished": "2020-02-28T10:08:56+09:00",
     "dateModified": "2020-02-28T10:08:56+09:00",
     "url" : "https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-customer/",
-    "description": "Einrichtung Debitor Die Einstellungen, um Belege im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter „Navigieren“ - „Dokumentlayouts“ …",
+    "description": "Einrichtung Debitor Die Debitorspezifischen Einstellungen für das Versenden von XRechnungen werden in den Dokumentlayouts des jeweiligen Debitors vorgenommen. Wenn Sie …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://docs.belware.de/"
@@ -5544,7 +5544,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Negative XRechnungen</a>
+          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Prüfbericht</a>
         </li>
       
     
@@ -10702,7 +10702,7 @@ if (!doNotTrack) {
         
         
         <li>
-          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Negative XRechnungen</a>
+          <a href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/" class="menu__title " data-depth="1">Prüfbericht</a>
         </li>
       
     
@@ -11144,23 +11144,26 @@ if (!doNotTrack) {
   
 
   <article class="single__contents" data-dir="ltr">
-    <h3 id="einrichtung">Einrichtung</h3>
-<h3 id="debitor">Debitor</h3>
+    <h1 id="einrichtung">Einrichtung</h1>
+<h2 id="debitor">Debitor</h2>
 <p><p class="md__image">
   <img src="/images/XRechnung/XRechnungScreenshot1.png" alt=""  />
 </p></p>
-<p>Die Einstellungen, um Belege im XRechnung-Format senden zu können, werden am jeweiligen Debitor vorgenommen. Unter <strong>„Navigieren“ - „Dokumentlayouts“</strong> des jeweiligen Debitors.</p>
-<p>Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nun folgende neue Felder zur Verfügung:</p>
+<p>Die Debitorspezifischen Einstellungen für das Versenden von XRechnungen werden in den <strong>Dokumentlayouts</strong> des jeweiligen Debitors vorgenommen.</p>
+<p>Wenn Sie die Dokumentlayouts öffnen stehen Ihnen nach Installation der <strong>Connector 365 XRechnung</strong> App folgende weitere Felder zur Verfügung:</p>
 <ul>
-<li><strong>Leitweg-ID</strong></li>
+<li><strong>Kundenreferenz</strong></li>
 <li><strong>Beleg als Anhang hinzufügen</strong></li>
 </ul>
 <p><p class="md__image">
   <img src="/images/XRechnung/xr_doc_layout.png" alt=""  />
 </p></p>
-<p>In das Feld <strong>Leitweg-ID</strong> wird die Leitweg-ID des Debitors eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können. Dieses Feld unterliegt einer Syntax-Prüfung und erlaubt nur gültige Leitweg-IDs</p>
-<p><em><strong>Hinweis: Die Leitweg-ID kann auch im E-Mail-Dialog gesetzt werden, das heißt sie muss nicht zwingend in den Dokumentenlayouts gesetzt werden.</strong></em></p>
-<p>Im Feld <strong>„Beleg als Anhang hinzufügen“</strong> haben Sie 3 Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.</p>
+<p>In das Feld <strong>Kundenreferenz</strong> wird die Kennung des Empfängers, bei einem öffentlichen Auftraggerber die Leitweg-ID, eingetragen. Diese ist notwendig, um einen Rechnungsempfänger eindeutig identifizieren zu können.</p>
+<div class="notices info" data-title="Hinweis">
+  Die Kundenreferenz kann auch im E-Mail-Dialog gesetzt werden, das heißt sie muss nicht zwingend in den Dokumentlayouts gesetzt werden.
+</div>
+<br>
+<p>Im Feld <strong>Beleg als Anhang hinzufügen</strong> haben Sie drei Auswahlmöglichkeiten, welche bestimmen wie mit dem Originalbeleg und ggf. Anhängen umgegangen wird.</p>
 <p><p class="md__image">
   <img src="/images/XRechnung/xrechnungbeleganhang.PNG" alt=""  />
 </p></p>

@@ -3378,21 +3378,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/first-steps/installation/onprem/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -3809,6 +3794,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/pdfpaper/first-steps/setup/pdfpaper/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/negative-xrechnung/"
                 />
   </url>
   
@@ -6979,6 +6979,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/updates/to-31-12-2021/september/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/connectornav/sending-reminder/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/connectornav/sending-reminder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/connectornav/sending-reminder/"
                 />
   </url>
   

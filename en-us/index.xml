@@ -224,6 +224,20 @@ Field Meaning Validate XRechnung Yes, if XRechnung files are to be validated usi
       </item>
       
       <item>
+        <title>Buyer Reference / Leitweg-Id</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</guid>
+        <description>Buyer reference The buyer reference represents an identifier that uniquely identifies a customer.
+The XRechnung standard uses the concept of the Leitweg-Id for addressing public sector customers.
+You can read more about the Leitweg-Id below.
+In principle, however, the XRechnung standard can also be used in the non-public sector.
+Here, usually no Leitweg-Ids are used, but own identifiers.
+Leitweg-Id The Leitweg-Id must be indicated on every electronic invoice sent to public-sector customers of the federal administration.</description>
+      </item>
+      
+      <item>
         <title>Click to dial</title>
         <link>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/click-to-dial/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -358,16 +372,6 @@ example is the quantity reliability.</description>
 of hard criteria are the delivery reliability and the complaint rate.
 Here you can evaluate the information from the following four reference tables: &amp;ldquo;Purchase line&amp;rdquo;, &amp;ldquo;Purchase delivery line&amp;rdquo;, &amp;ldquo;Purchase line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo;. A frequently
 example is the quantity reliability.</description>
-      </item>
-      
-      <item>
-        <title>Ident ID</title>
-        <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-ident-id/</guid>
-        <description>Setup Ident ID The Ident ID must be indicated on every electronic invoice sent to public-sector customers of the federal administration.
-The Ident ID is intended to enable addressing and, if necessary, forwarding of the received electronic invoice to the downstream invoice processing systems of the connected administrative units. In order to optimize acceptance and manageability both for public-sector customers and for their service providers and their service providers, the federal and state governments have agreed on a uniform system as part of the operation of the XRechnung standard.</description>
       </item>
       
       <item>
@@ -822,9 +826,9 @@ Now there are two ways to send the document as a letter. Either by using the sta
         <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/sending/</guid>
         <description>Working with XRechnung Sending If the setup has been completed, then you can easily send invoices by email. Simply open your posted sales invoices and select the invoice you want to send.
 „Print/Send“ -&amp;gt; „Send as XRechnung“
-A new dialog opens where you can make adjustments before sending.
-In the dialog, the sender, the recipient, the subject and also again the Ident ID can be viewed but also adjusted.
-The content of the mail can be customized and the current attachments are visible.</description>
+The standard e-mail window will then open with minor adjustments for XRechnung sending.
+In the dialog, the sender, the recipient, the subject and the customer reference can be viewed and adjusted.
+The content of the mail and other attachments can also be viewed and modified.</description>
       </item>
       
       <item>
@@ -1355,9 +1359,10 @@ The switch &amp;ldquo;Save Files in Joblist&amp;rdquo; determines whether docume
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/setup-customer/</guid>
-        <description>Setup Customer The settings to be able to send invoices and credit notes in XRechnung format are made on the respective customer. Under &amp;ldquo;Navigate&amp;rdquo; - &amp;ldquo;Document layouts&amp;rdquo; of the respective customer.
-When you open the document layouts, following new fields are now available:
-Ident ID Add document as attachment In the field Ident ID the Ident ID of the customer is entered. This is necessary to uniquely identify an invoice recipient.</description>
+        <description>Setup Customer The customer-specific settings for sending XRechnung are made in the Document layouts of the respective customer.
+When you open the document layouts, the following additional fields will be available after installing the Connector 365 XInvoice app:
+Buyer Reference Add document as attachment In the field Buyer Reference the id of the customer is entered. This is necessary to uniquely identify an invoice recipient.
+The customer reference can also be set in the e-mail dialog, i.</description>
       </item>
       
       <item>
@@ -1521,17 +1526,6 @@ New Events - [DOKU](doc missing)
 Developers can now use various events for XML ports.
 Enhancements to standard features: Type of XRechnung attachment in matrix - DOKU
 In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as attachment&amp;rdquo; how attachments are handled for XRechnungs</description>
-      </item>
-      
-      <item>
-        <title>Negative XRechnung</title>
-        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
-        <description>Working with XRechnung Negative XRechnung In case an XRechnung does not correspond to the required scheme, an error message will be displayed, if confirmed, the XRechnung validation report will be opened.
-There you can see which points do not match the required scheme. Correct these points and send the XRechnung again.
-There are many places that cause an XRechnung to not conform to the schema. For the most common ones we have a list and guidance at the setup</description>
       </item>
       
       <item>
@@ -2042,6 +2036,18 @@ Check if the marked e-mail field is filled in (correctly). Make any necessary ch
         <description>Working with the PdfPaper App Using the stationery Once stored, the stationery is automatically remembered when PDFs are created. In doing so, we support any operation where a PDF is provided.
 We support the following reports
 Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket purchase order Blanket sales order Post. sales invoice Sales purchase invoice Post. sales credit memo Post. purchase credit memo Reg. Reminder Our other apps that involve PDF creation also support the Connector 365 PdfPaper app:</description>
+      </item>
+      
+      <item>
+        <title>Validation report</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/working-with-xrechnung/negative-xrechnung/</guid>
+        <description>Validation report Optionally, the validation of XRechnung files can be activated via the Connector 365 Setup. Thereby an XRechnung is checked for correct syntax and conformity to the formal specifications for XRechnung.
+The tool which is used here is the official KoSIT Validator.
+Such a check, as described above, usually also takes place at the recipient.
+The advantage of activating the validation is that you can easily perform an equivalent validation after the XRechnung generation.</description>
       </item>
       
       <item>

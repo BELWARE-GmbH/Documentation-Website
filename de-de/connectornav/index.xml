@@ -197,6 +197,18 @@ Durch den Versand von SMS entstehen je nach Anbieter und Schnittstelle zusätzli
         <description></description>
       </item>
       
+      <item>
+        <title>Mahnungsversand</title>
+        <link>https://docs.belware.de/de-de/connectornav/sending-reminder/</link>
+        <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/connectornav/sending-reminder/</guid>
+        <description>Mahnungsversand Automatisches Anhängen von Rechnunge bei Mahnungsversand Wenn Sie Mahnungen an Ihre Kunden verschicken, stellen Sie oft fest, dass diese nach Erhalt der Mahnung eine Kopie der betreffenden Rechnung(en) anfordern.
+Der Connector NAV bietet eine Funktion, um angemahnte Rechnungen automatisch an die E-Mail der Mahnung anzufügen.
+Im Folgenden wird beschrieben, wie Sie die genannte Funktion des automatischen Anhängens von Rechnungen an Mahnungen einrichten und ausführen können.
+Einrichtung Navigieren Sie zunächst in die Connector NAV Einrichtung.</description>
+      </item>
+      
     
   </channel>
 </rss>
