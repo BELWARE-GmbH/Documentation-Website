@@ -20,11 +20,11 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/new-and-planned/</guid>
-        <description>New and planned Version 2.7.0.0 - 25.08.2023 New features:
+        <description>New and planned Version 2.8.0.0 - 31.08.2023 New features:
+Extension of document sending profiles with the possibility of XRechnung processing Version 2.7.0.0 - 25.08.2023 New features:
 Extension of Communication matrix by fields: Buyer Reference Add Document as Attachment Version 2.5.0.3 - 31.07.2023 New features:
 Compatibility with XRechnung 2.3 Ident-Id (Leitweg-Id) check only optional - no longer leading to error Possibility to set XRechnung version and identifier in setup Correction:
-Fixes permission issues when using XRechnung using supplied permission sets. Version 2.4.0.1 - 31.05.2023 Correction:
-Fixes insufficient permissions at XRechnung creation and sending Version 2.</description>
+Fixes permission issues when using XRechnung using supplied permission sets.</description>
       </item>
       
       <item>

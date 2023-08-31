@@ -7118,6 +7118,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/doc-sending-profile/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/doc-sending-profile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/doc-sending-profile/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/</loc>
     <lastmod>2020-01-26T04:15:05+09:00</lastmod>
     <xhtml:link

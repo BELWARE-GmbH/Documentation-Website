@@ -20,14 +20,15 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/new-and-planned/</guid>
-        <description>Neu und geplant Version 2.13.0.0 Neuerungen:
+        <description>Neu und geplant Version 2.13.0.2 Verbesserungen:
+Performance-Verbesserungen für die Connector 365 Statistiken Version 2.13.0.0 Neuerungen:
 Einblenden der kommunikationsmatrix (Dokumentlayouts) in den Seiten:
 Kreditoren Debitoren
 (Jeweils Übersicht- und Karte) Aktivitäteneinträge und Statistik in den Seiten
 Kreditore Debitore Kontakte
 (Jeweils Übersicht- und Karte) Korrekturen:
 Korrektur der Funktion zum Löschen der Aktivitäteneinträge Fehlerbehung bei Upgrade von einer Connector 365 Version &amp;lt; 2.0 zu einer Version &amp;gt;= 2.0 Version 2.5.0.1 - 26.04.2023 Korrektur:
-Automatisches aktivieren der HTTP-Request zur Lizenzprüfung. Version 2.5.0.0 - 14.04.2023 Implementierung einer zusätzlichen Tabelle zur Speicherung zusätzlicher Anhänge je Vorgang.</description>
+Automatisches aktivieren der HTTP-Request zur Lizenzprüfung.</description>
       </item>
       
       <item>

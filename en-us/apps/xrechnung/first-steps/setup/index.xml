@@ -96,6 +96,18 @@ The code is set in the company data:
 For more information on how to set up the code correctly, see the corresponding Wikipedia page.</description>
       </item>
       
+      <item>
+        <title>Document Sending Profile</title>
+        <link>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/doc-sending-profile/</link>
+        <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/doc-sending-profile/</guid>
+        <description>Setup Document Sending Profile The document sending profile is a standard functionality of Microsoft Dynamics 365 Business Central.
+It is used to control the preferred method of sending sales documents. By default, the functionality is intended for use with &amp;ldquo;Post and Send&amp;rdquo;. Connector 365 XRechnung extends this functionality by adding the option XRechnung to the possible profiles.
+Set up document send profiles To set up a document sending profile
+Open the search, type document sending profile and then select the appropriate link.</description>
+      </item>
+      
     
   </channel>
 </rss>

@@ -20,11 +20,11 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/</guid>
-        <description>Neu und geplant Version 2.7.0.0 - 25.08.2023 Neuerungen:
+        <description>Neu und geplant Version 2.8.0.0 - 31.08.2023 Neuerungen:
+Erweiterung der Belegsendeprofile um die Möglichkeit der XRechnung-Verarbeitung Version 2.7.0.0 - 25.08.2023 Neuerungen:
 Erweiterung der Kommunikationsmatrix um Felder: Kundenreferenz Dokument als Anhang hinzufügen Geplante Funktionen für zukünftige Versionen Version 2.5.0.3 - 31.07.2023 Neuerungen:
 Kompatibiltät zu XRechnung 2.3 Leitweg-Id-Prüfung nur noch optional - führt nicht mehr zum Fehler Möglichkeit, XRechnung Version und Kennung in Einrichtung festzulegen Korrektur:
-Behebt Berechtigungsprobleme bei Nutzung von XRechnung mithilfe von mitgelieferten Berechtitungssätzen Version 2.4.0.1 - 31.05.2023 Korrektur:
-Behebt unzureichende Berechtigungen bei Erzeugen und Versenden von XRechnungen Version 2.</description>
+Behebt Berechtigungsprobleme bei Nutzung von XRechnung mithilfe von mitgelieferten Berechtitungssätzen Version 2.</description>
       </item>
       
       <item>

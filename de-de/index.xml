@@ -3728,6 +3728,18 @@ In der Kommunikationsmatrix gibt es eine Spalte &amp;ldquo;Betreff&amp;rdquo;. I
         <description>Optimierungen: Das Zeichenlimit eines Texfelds in der Einrichtung wurde entfernt. </description>
       </item>
       
+      <item>
+        <title>Belegsendeprofile</title>
+        <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/doc-sending-profile/</link>
+        <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/doc-sending-profile/</guid>
+        <description>Einrichtung Belegsendeprofil Bei dem Belegsendeprofil handelt es sich um eine Standardfunktionalität von Microsoft Dynamics 365 Business Central.
+Sie wird dazu genutzt, um die bevorzugte Methode der Übermittlung von Verkaufsbelegen zu steuern. Standardmäßig ist die Funktionalität für die Verwendung von &amp;ldquo;Buchen und Senden&amp;rdquo; gedacht. Connector 365 XRechnung erweitert diese Funktionalität durch Hinzufügen der Option XRechnung zu den möglichen Profilen.
+Einrichten von Belegsendeprofilen Einrichten von Belegsendeprofilen
+Öffnen Sie die Suche, geben Sie Belegsendeprofile ein und wählen Sie dann den entsprechenden Link.</description>
+      </item>
+      
     
   </channel>
 </rss>
