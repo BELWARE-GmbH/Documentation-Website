@@ -350,16 +350,6 @@ Field Desciption EKP This is your customer number that you have received from De
       </item>
       
       <item>
-        <title>Einleitung</title>
-        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Wenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.
-Mit der Connector 365 Custom Filename App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor.</description>
-      </item>
-      
-      <item>
         <title>Goods receipt/quality protocol</title>
         <link>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -444,6 +434,16 @@ Furthermore, you have the option of conveniently adding additional destination a
         <description>First steps Introduction Controlling the telephone activities of your employees can be time-consuming. A constant switching between the STARFACE client and the Microsoft Dynamics 365 Business Central environment causes a break in the workflow. But this break can be prevented.
 Full control over your STARFACE CTI
 With our Connector 365 CTI for STARFACE it is possible to turn your Dynamics 365 Business Central environment into your CTI center. We offer you many options that help you to fully utilize your STARFACE solution.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</guid>
+        <description>First steps Introduction When you send emails through Microsoft Dynamics 365 Business Central, the system automatically generates a filename for you.
+With the Connector 365 Custom Filename App it is possible to define your own filenames, either per report or per customer/vendor. It is also possible to define different filenames per language. Thereby you can freely define the new preset filename. It is also possible to define your own placeholders for each report, so you can create a dynamic text for your file names.</description>
       </item>
       
       <item>
@@ -1229,19 +1229,6 @@ Before placing an order, you can find the applicable costs in the price list pro
       
       <item>
         <title>AppSource</title>
-        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/appsource/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
-Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
-Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
-      </item>
-      
-      <item>
-        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1688,16 +1675,6 @@ If you wish to purchase the software immediately, we will provide you with the n
         <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Custom Filename App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App Das veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
-      </item>
-      
-      <item>
-        <title>OnPrem</title>
-        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/onprem/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit, unsere Connector 365 Custom Filename App unverbindlich vorab zu testen oder auch direkt zu erwerben. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.
-Zum BestellformularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
       <item>

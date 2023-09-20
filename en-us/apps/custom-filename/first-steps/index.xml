@@ -15,24 +15,13 @@
     
       
       <item>
-        <title>Einleitung</title>
+        <title>Introduction</title>
         <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</guid>
-        <description>Erste Schritte Einleitung Wenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.
-Mit der Connector 365 Custom Filename App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor.</description>
-      </item>
-      
-      <item>
-        <title>Test &amp; Kauf</title>
-        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/</guid>
-        <description>Testen und kaufen der Connector 365 Mail Custom Filename Hier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Custom Filename.
-Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+        <description>First steps Introduction When you send emails through Microsoft Dynamics 365 Business Central, the system automatically generates a filename for you.
+With the Connector 365 Custom Filename App it is possible to define your own filenames, either per report or per customer/vendor. It is also possible to define different filenames per language. Thereby you can freely define the new preset filename. It is also possible to define your own placeholders for each report, so you can create a dynamic text for your file names.</description>
       </item>
       
       <item>
