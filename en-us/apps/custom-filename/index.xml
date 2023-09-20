@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custom Filename on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/custom-filename/</link>
+    <description>Recent content in Custom Filename on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/custom-filename/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>New and planned</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/new-and-planned/</guid>
+        <description>New and planned Version 1.0.0.0 - 20.09.2023 First release </description>
+      </item>
+      
+      <item>
+        <title>First Steps</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/</guid>
+        <description>First steps for using Connector 365 Custom Filename App Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 Custom Filename App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Working with Custom Filename</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/videos/</guid>
+        <description>Videos Das Video zu Connector 365 Custom Filename folgt in Kürze.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

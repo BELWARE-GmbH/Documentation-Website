@@ -15,6 +15,16 @@
     
       
       <item>
+        <title>Scenarios for Custom Filename</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/scenarios/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/scenarios/</guid>
+        <description>Scenarios for using Connector 364 Custom Filename. Resolving custom filenames including wildcards currently works for the following tasks:
+Send standard email Attach document as PDF Connector 364 Easy Batch Send document to data medium (PDF or electronic document) Connector 364 XInvoice Connector 364 E-Post </description>
+      </item>
+      
+      <item>
         <title>Easy Batch Setup</title>
         <link>https://docs.belware.de/en-us/apps/easy-batch/first-steps/setup/easy-batch-setup/</link>
         <pubDate>Wed, 17 Aug 2022 10:08:56 +0900</pubDate>
@@ -79,6 +89,17 @@ After submitting your contact information, you will be prompted to choose a lang
         <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
 The Microsoft AppSource opens. There you can use the search function again to find the Connector 365 CTI for STARFACE. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our Connector 365 E-POST App* is available in English and German.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Custom Filename zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
       <item>
@@ -326,6 +347,16 @@ You can order it here.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&a
         <description>Setup E-POSTBUSINESS API Under Assisted Setup you can find a wizard that will guide you step by step through the setup process of the App and E-POST account. Otherwise you can follow this documentation.
 By searching &amp;ldquo;Connector 365 Setup&amp;rdquo; you can find the setup for the E-POST API, here you set all the necessary information to ensure that the App works without problems.
 Field Desciption EKP This is your customer number that you have received from Deutsche Post Secret The secret is created automatically after you set your password Password Here is your encrypted password Save File in Joblist Determines whether sent files are archived in the job list Show dialog Determines whether another dialog for changing/checking the options is opened before sending Testmode If this option is enabled, the data of the letters will not be sent to the printing center Test Email Address If the test mode is enabled, this email address will receive a notification about the shipment Show restricted area Displays the restricted areas required by Deutsche Post on test letters While the test mode is activated, no invoices are sent.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Wenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.
+Mit der Connector 365 Custom Filename App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor.</description>
       </item>
       
       <item>
@@ -796,6 +827,16 @@ Sales Purchasing Service Reminder Inventory Production Order Bank Account In the
       </item>
       
       <item>
+        <title>Report Selections</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/reportselection/</guid>
+        <description>Setup Report selection Use the search function to open the desired report selection - e.g. the one for sales. Now select the desired report. For our example, we will use Invoices, but basically reports are supported from the areas:
+Sales Purchasing Service Reminder stock on hand Production order Bank account In the report selection you will find the &amp;ldquo;File name &amp;ldquo; field, which indicates how many individual formulations have already been created.</description>
+      </item>
+      
+      <item>
         <title>Segment overview</title>
         <link>https://docs.belware.de/en-us/connectornav/segment/segment_view/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -805,6 +846,16 @@ Sales Purchasing Service Reminder Inventory Production Order Bank Account In the
 The segments overview In the segments overview you have access to all your created templates. Select the intended segments and enter the &amp;ldquo;Edit&amp;rdquo; mode.
 Creating a new segment In order to create a new segment click &amp;ldquo;New&amp;rdquo; in the menu bar.
 First you have to fill the emty fields with information:</description>
+      </item>
+      
+      <item>
+        <title>Send by E-Mail</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/maildialogue/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/maildialogue/</guid>
+        <description>Send by e-mail File name in mail dialog After setting up for file names, you are now ready to actively use your previously defined file name(s).
+Using your own file names for e-mail attachments First open one of the documents you have set up and then open the desired document (if applicable, that of a customer/vendor you have set up). Now click on &amp;ldquo;Print/Send &amp;ldquo; -&amp;gt; &amp;ldquo;Send by e-mail &amp;ldquo;. The dialog for sending by mail will open.</description>
       </item>
       
       <item>
@@ -1095,6 +1146,19 @@ Please refer to the following table of currently usable report selections for us
       </item>
       
       <item>
+        <title>Attach as PDF</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</guid>
+        <description>Attach as PDF Provided you have made the appropriate setup, the Connector 365 Custom Filename function
+is also available for the Append as PDF function.
+Attach document as PDF In some document types, the Append as PDF function is available by default.
+In the Posted Sales Invoices example, you can find it under the Print/Send action.
+If you execute it, a PDF file will be created from the selected document, and attached to the same document.</description>
+      </item>
+      
+      <item>
         <title>Add contacts</title>
         <link>https://docs.belware.de/en-us/connectornav/segment/add_contacts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1161,6 +1225,19 @@ After installation the full functionality of the app can be used for 30 days fre
 If the app suits your requirements you can purchase full licenses via our order form.
 Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
 Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
       </item>
       
       <item>
@@ -1388,6 +1465,16 @@ Field no. Field name English Field name German 1 Sell-to Customer No. Sell to De
       
       <item>
         <title>Document layouts</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/documentlayouts/</guid>
+        <description>Setup Document layouts In addition to the rather general setup in the report selection, it is possible to specify for each customer which document type is to be provided with which subject. This setting will then override the setting from Report Selection, if any.
+First, navigate to the desired customer or vendor. Once there, click &amp;ldquo;Navigate &amp;ldquo; -&amp;gt; &amp;ldquo;Document Layouts &amp;ldquo; in the menu bar. Before you set up the subject, you must first set up the usage or report.</description>
+      </item>
+      
+      <item>
+        <title>Document layouts</title>
         <link>https://docs.belware.de/en-us/apps/mail-subject-plus/first-steps/setup/documentlayouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1591,6 +1678,26 @@ Publishing of the Connector 365 Base &amp;amp; CTI for STARFACE App the publishi
 Before ordering, you can find the costs incurred in the price list provided on our website.
 To the order formIf you wish a test phase, you will receive the necessary runtime packages from us for a test period of 30 days.
 If you wish to purchase the software immediately, we will provide you with the necessary runtime packages.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Custom Filename App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App Das veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit, unsere Connector 365 Custom Filename App unverbindlich vorab zu testen oder auch direkt zu erwerben. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.
+Zum BestellformularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
       <item>
@@ -2139,6 +2246,17 @@ Publishing the Connector 365 Base &amp;amp; SMTP2FAX App Publishing the Connecto
         <description>SMTP2FAX in Posted Sales Credit Memos On the posted sales credit memos page, the function can be found in the &amp;ldquo;Print/Send&amp;rdquo; menu.
 The fax number used is selected according to the following logic:
 If a different invoice recipient is specified in a sales credit memo, a search is made in its document layouts for a fax number entered for use with sales credit memos. If none is found there, the fax number entered in the invoice recipient&amp;rsquo;s card is used.</description>
+      </item>
+      
+      <item>
+        <title>Send...</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/send/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/send/</guid>
+        <description>Send Via the action Send&amp;hellip; you have the possibility to combine different processing and sending methods.
+By clicking the action Send&amp;hellip; a dialog window opens.
+shipping/processing type Printer Yes (prompt for settings) Yes (Use default settings) Email Yes (Prompt for settings) Yes (Use default settings) data carrier PDF Electronic Receipt PDF and electronic receipt XInvoice Yes (Prompt for settings) Yes (Use default settings) Electronic receipt Yes (Prompt for settings) Yes (Use default settings) E-mail Yes (Prompt for settings) Yes (Use default settings) </description>
       </item>
       
       <item>
@@ -3306,6 +3424,15 @@ For more information on how to set up the code correctly, see the corresponding 
         <description>Setting up a task queue for background processing The task queue setup is located in the menu under Administration-&amp;gt; IT Administration-&amp;gt; Application Setup-&amp;gt; Task Queue.
 Microsoft Dynamics NAV, task queue
 To execute Connector NAV server jobs, a task queue item is created with the corresponding code unit 5402516. For this item to run, a task queue with corresponding service must be created. There are several ways to do this. In the following example, a task queue is created with the administrator user without any further setup on the server.</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/videos/</guid>
+        <description>Videos Das Video zu Connector 365 Custom Filename folgt in Kürze.</description>
       </item>
       
       <item>

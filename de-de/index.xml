@@ -15,6 +15,16 @@
     
       
       <item>
+        <title>Szenarien für Custom Filename</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/scenarios/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/scenarios/</guid>
+        <description>Szenarien für die Nutzung von Connector 364 Custom Filename Das Auflösen von eigens definierten Dateinamen inklusive Platzhalern funktioniert aktuell für folgende Aufgaben:
+Standard-E-Mail-Versand Beleg als PDF anhängen Connector 364 Easy Batch Beleg an Datenträger senden (PDF oder elektronischer Beleg) Connector 364 XRechnung Connector 364 E-Post </description>
+      </item>
+      
+      <item>
         <title>Easy Batch Einrichtung</title>
         <link>https://docs.belware.de/de-de/apps/easy-batch/first-steps/setup/easy-batch-setup/</link>
         <pubDate>Wed, 17 Aug 2022 10:08:56 +0900</pubDate>
@@ -57,6 +67,17 @@ Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert e
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/installation/appsource/</guid>
         <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
 Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 CTI for STARFACE zu finden. Klicken Sie auf Get it now um die Installation zu starten. Bevor die Installation endgültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
+Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/installation/appsource/</guid>
+        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
+Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Custom Filename zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
 Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
       </item>
       
@@ -178,6 +199,16 @@ Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&am
         <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/allocating-permission-sets/</guid>
         <description>Einrichtung Berechtigungssätze Sie können Nutzern drei verschiedene Stufen der Berechtigung zuteilen, welche unterschiedlich viel Zugriff auf die App erlauben:
 CON365, Setup - Erlaubt dem Nutzer, Einstellungen in der Connector 365 Einrichtung vorzunehmen und zu ändern CON365, Edit - Erlaubt dem Nutzer die weitere Einrichtung der App. Dazu zählt z.B. das Verwalten von Anhängen, E-Mail-Betreffs und ähnliches. CON365, View - Erlaubt dem Nutzer, die App grundsätzlich zu nutzen </description>
+      </item>
+      
+      <item>
+        <title>Berichtsauswahl</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/reportselection/</guid>
+        <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus. Für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte unterstützt aus den Bereichen:
+Verkauf Einkauf Service Mahnung Lagerbestand Fertigungsauftrag Bankkonto In der Berichtsauswahl finden Sie das Feld &amp;ldquo;Dateiname&amp;rdquo;, das anzeigt, wieviele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite Dateiname.</description>
       </item>
       
       <item>
@@ -378,6 +409,16 @@ Die Telefonnr. der anrufenden Person ist in einem Kontakt hinterlegt. Sollte die
         <description>Erste Schritte Einleitung Die Telefonaktivitäten Ihrer Mitarbeiter zu kontrollieren kann aufwendig sein, ein ständiges Wechseln zwischen dem STARFACE Client und der Microsoft Dynamics 365 Business Central Umgebung verursacht einen Bruch im Workflow. Dieser Bruch lässt sich aber verhindern.
 Volle Kontrolle über Ihre STARFACE CTI
 Mit unserer Connector 365 CTI for STARFACE App ist es möglich ihre Dynamics 365 Business Central Umgebung zu Ihrer CTI-Zentrale zu machen. Wir bieten Ihnen viele Möglichkeiten die Sie dabei unterstützt Ihre STARFACE-Lösung vollständig zu nutzen.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Wenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch eine Betreffzeile für Sie. Dieser automatisch generierte Betreff enthält jedoch nur Ihren Firmennamen, die Art des Dokuments und die Nummer. Das reicht oft nicht aus, und Sie müssen dann manuell etwas zum generierten Betreff hinzufügen oder ihn ganz ändern, weil Ihr Unternehmen bestimmte Anforderungen an Ihre Betreffzeilen hat.
+Mit der Connector 365 Custom Filename App ist es möglich, Ihre eigenen Standard-Betreffzeilen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor.</description>
       </item>
       
       <item>
@@ -707,6 +748,17 @@ Grundsätzlich kann der Standard XRechnung allerdings auch im nicht-öffentliche
 Hier werden überlicherweise keine Leitweg-Ids, sondern eigene Kennungen verwendet.
 Leitweg-ID Die Leitweg-ID ist auf jeder elektronischen Rechnung an öffentliche Auftraggeber der Bundesverwaltung anzugeben.
 Die Leitweg-ID soll die Adressierung und ggf.</description>
+      </item>
+      
+      <item>
+        <title>Per E-Mail senden</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/maildialogue/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/maildialogue/</guid>
+        <description>Per E-Mail senden Dateiname im Mail-Dialog Nachdem Sie die Einrichtung für Dateinamen vorgenommen haben, sind Sie jetzt bereit Ihre(n) zuvor definierten Dateinamen aktiv zu nutzen.
+Verwendung von eigenen Dateinamen für E-Mail-Anhänge Öffnen Sie zunächst einen der Belege die Sie eingerichtet haben und anschließend den gewünschten Beleg (ggf. den eines eingerichteten Debitor/Kreditor). Klicken Sie nun auf &amp;ldquo;Drucken/Senden&amp;rdquo; -&amp;gt; &amp;ldquo;Per E-Mail senden&amp;rdquo;. Es öffnet sich der Dialog für den Mailversand.
+Navigieren Sie an dieser Stelle zu den Anhängen.</description>
       </item>
       
       <item>
@@ -1087,6 +1139,19 @@ Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisier
       </item>
       
       <item>
+        <title>Als PDF anhängen</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</guid>
+        <description>Als PDF anhängen Sofern Sie eine entsprechende Einrichtung vorgenommen haben, steht Ihnen die Connector 365 Custom Filename Funktion
+ebenfalls für die Funktion Als PDF anhängen zur Verfügung.
+Beleg als PDF anhängen In einigen Belegarten steht Ihnen standardmäßig die Funktion Als PDF anhängen zur Verfügung.
+Im Beispiel der Gebuchten Verkaufsrechnungen finden Sie diesen unter der Aktion Drucken/Senden.
+Führen Sie diese aus, wird eine PDF-Datei aus dem selektierten Beleg erzeugt, und an dem gleichen Beleg angehängt.</description>
+      </item>
+      
+      <item>
         <title>Anhänge</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -1163,6 +1228,19 @@ Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereit
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/appsource/</guid>
         <description>Test &amp;amp; Kauf AppSource Die Connector 365 CTI for STARFACE App steht Ihnen im Microsoft AppSource zur Verfügung.
+Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
+Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
+Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
+Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
 Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
 Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
 Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
@@ -1519,6 +1597,16 @@ Aktionen PDF Mit dieser Aktion erstellen Sie das PDF. Status Mit dieser Aktion g
       
       <item>
         <title>Dokumentenlayouts</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/documentlayouts/</guid>
+        <description>Einrichtung Dokumentlayouts Neben der eher allgemeinen Einrichtung in der Berichtsauswahl besteht die Möglichkeit, für jeden Debitor festzulegen, welche Belegart mit welchem Betreff versehen werden soll. Diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
+Navigieren Sie zunächst zu dem gewünschten Debitor bzw. Kreditor. Dort angekommen, klicken Sie in der Menüleiste auf &amp;ldquo;Navigieren&amp;rdquo; -&amp;gt; &amp;ldquo;Dokumentenlayouts&amp;rdquo;. Bevor Sie den Betreff einrichten, müssen Sie zunächst die Verwendung bzw. den Bericht einrichten. Sobald dies vorgenommen wurde können Sie über das Feld &amp;ldquo;Dateiname&amp;rdquo; Ihren gewünschten Betreff festlegen.</description>
+      </item>
+      
+      <item>
+        <title>Dokumentenlayouts</title>
         <link>https://docs.belware.de/de-de/apps/mail-subject-plus/first-steps/setup/documentlayouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1716,6 +1804,26 @@ Veröffentlichen der Connector 365 Base &amp;amp; CTI for STARFACE App Das verö
         
         <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/test-purchase/onprem/</guid>
         <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit unsere Connector 365 CTI for STARFACE App unverbindlich vorab zu testen oder auch direkt zu erwerben. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.
+Zum BestellformularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/installation/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/installation/onprem/</guid>
+        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Custom Filename App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App Das veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit, unsere Connector 365 Custom Filename App unverbindlich vorab zu testen oder auch direkt zu erwerben. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.
 Zum BestellformularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
       </item>
       
@@ -2100,6 +2208,17 @@ Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisier
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; SMTP2FAX App per Mail. Damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App Das veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>Senden...</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/send/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/send/</guid>
+        <description>Senden Über die Aktion Senden&amp;hellip; haben Sie die Möglichkeit, verschiedene Verarbeitungs- und Versandarten zu kombinieren.
+Durck Klicken der Aktion Senden&amp;hellip; öffnet sich ein Dialog-Fenster.
+Versand-/Verarbeitungsart Drucker Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) E-Mail Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) Datentäger PDF Elektronischer Beleg PDF und elektronischer Beleg XRechnung Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) Elektronischer Beleg Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) E-Post Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) </description>
       </item>
       
       <item>
@@ -3332,6 +3451,15 @@ Weitere Informationen zur genauen Verwendung dieser Funktion finden Sie in der E
         <description>Einrichtung Überprüfen des Verkäufer-Ländercodes Ein Punkt, der ebenfalls beachtet werden muss, ist die Einrichtung des Verkäufer-Ländercodes entsprechend der ISO-Norm 3166.
 Festgelegt wird der Code in den Firmendaten:
 Nähere Informationen zur korrekten Anlage des Codes finden Sie auf der entsprechenden Wikipedia-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/videos/</guid>
+        <description>Videos Das Video zu Connector 365 Custom Filename folgt in Kürze.</description>
       </item>
       
       <item>

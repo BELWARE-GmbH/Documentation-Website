@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Berichtsauswahl</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/reportselection/</guid>
+        <description>Einrichtung Berichtsauswahl Öffnen Sie mit Hilfe der Suchfunktion die gewünschte Berichtsauswahl - z.B. die für den Verkauf. Wählen Sie nun den gewünschten Bericht aus. Für unser Beispiel verwenden wir Rechnungen, grundsätzlich werden aber Berichte unterstützt aus den Bereichen:
+Verkauf Einkauf Service Mahnung Lagerbestand Fertigungsauftrag Bankkonto In der Berichtsauswahl finden Sie das Feld &amp;ldquo;Dateiname&amp;rdquo;, das anzeigt, wieviele individuelle Formulierungen bereits angelegt sind. Durch Klicken des Feldes gelangen Sie zur Bearbeitungsseite Dateiname.</description>
+      </item>
+      
+      <item>
+        <title>Dokumentenlayouts</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/documentlayouts/</guid>
+        <description>Einrichtung Dokumentlayouts Neben der eher allgemeinen Einrichtung in der Berichtsauswahl besteht die Möglichkeit, für jeden Debitor festzulegen, welche Belegart mit welchem Betreff versehen werden soll. Diese Einstellung überschreibt dann die Einstellung aus der Berichtsauswahl, falls vorhanden.
+Navigieren Sie zunächst zu dem gewünschten Debitor bzw. Kreditor. Dort angekommen, klicken Sie in der Menüleiste auf &amp;ldquo;Navigieren&amp;rdquo; -&amp;gt; &amp;ldquo;Dokumentenlayouts&amp;rdquo;. Bevor Sie den Betreff einrichten, müssen Sie zunächst die Verwendung bzw. den Bericht einrichten. Sobald dies vorgenommen wurde können Sie über das Feld &amp;ldquo;Dateiname&amp;rdquo; Ihren gewünschten Betreff festlegen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

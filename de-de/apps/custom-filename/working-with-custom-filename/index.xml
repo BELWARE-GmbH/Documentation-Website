@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbeiten mit Custom Filename on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/</link>
+    <description>Recent content in Arbeiten mit Custom Filename on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Szenarien für Custom Filename</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/scenarios/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/scenarios/</guid>
+        <description>Szenarien für die Nutzung von Connector 364 Custom Filename Das Auflösen von eigens definierten Dateinamen inklusive Platzhalern funktioniert aktuell für folgende Aufgaben:
+Standard-E-Mail-Versand Beleg als PDF anhängen Connector 364 Easy Batch Beleg an Datenträger senden (PDF oder elektronischer Beleg) Connector 364 XRechnung Connector 364 E-Post </description>
+      </item>
+      
+      <item>
+        <title>Per E-Mail senden</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/maildialogue/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/maildialogue/</guid>
+        <description>Per E-Mail senden Dateiname im Mail-Dialog Nachdem Sie die Einrichtung für Dateinamen vorgenommen haben, sind Sie jetzt bereit Ihre(n) zuvor definierten Dateinamen aktiv zu nutzen.
+Verwendung von eigenen Dateinamen für E-Mail-Anhänge Öffnen Sie zunächst einen der Belege die Sie eingerichtet haben und anschließend den gewünschten Beleg (ggf. den eines eingerichteten Debitor/Kreditor). Klicken Sie nun auf &amp;ldquo;Drucken/Senden&amp;rdquo; -&amp;gt; &amp;ldquo;Per E-Mail senden&amp;rdquo;. Es öffnet sich der Dialog für den Mailversand.
+Navigieren Sie an dieser Stelle zu den Anhängen.</description>
+      </item>
+      
+      <item>
+        <title>Als PDF anhängen</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</guid>
+        <description>Als PDF anhängen Sofern Sie eine entsprechende Einrichtung vorgenommen haben, steht Ihnen die Connector 365 Custom Filename Funktion
+ebenfalls für die Funktion Als PDF anhängen zur Verfügung.
+Beleg als PDF anhängen In einigen Belegarten steht Ihnen standardmäßig die Funktion Als PDF anhängen zur Verfügung.
+Im Beispiel der Gebuchten Verkaufsrechnungen finden Sie diesen unter der Aktion Drucken/Senden.
+Führen Sie diese aus, wird eine PDF-Datei aus dem selektierten Beleg erzeugt, und an dem gleichen Beleg angehängt.</description>
+      </item>
+      
+      <item>
+        <title>Senden...</title>
+        <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/send/</link>
+        <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/send/</guid>
+        <description>Senden Über die Aktion Senden&amp;hellip; haben Sie die Möglichkeit, verschiedene Verarbeitungs- und Versandarten zu kombinieren.
+Durck Klicken der Aktion Senden&amp;hellip; öffnet sich ein Dialog-Fenster.
+Versand-/Verarbeitungsart Drucker Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) E-Mail Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) Datentäger PDF Elektronischer Beleg PDF und elektronischer Beleg XRechnung Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) Elektronischer Beleg Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) E-Post Ja (Aufforderung für Einstellungen) Ja (Standardeinstellungen verwenden) </description>
+      </item>
+      
+    
+  </channel>
+</rss>
