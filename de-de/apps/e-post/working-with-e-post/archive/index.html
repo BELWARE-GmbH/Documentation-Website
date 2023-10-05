@@ -2134,6 +2134,14 @@ if (!doNotTrack) {
         </li>
       
     
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/" class="menu__title " data-depth="1">Manuelles Erfassen von CTI-Einträgen</a>
+        </li>
+      
+    
   </ul>
   
 
@@ -7547,6 +7555,14 @@ if (!doNotTrack) {
         </li>
       
     
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/" class="menu__title " data-depth="1">Manuelles Erfassen von CTI-Einträgen</a>
+        </li>
+      
+    
   </ul>
   
 
@@ -11706,12 +11722,255 @@ Ist in der Einrichtung die Option <strong>&ldquo;Datei in Jobliste speichern&rdq
 <td>4</td>
 <td><strong>Verarbeitung in Druckzentrum:</strong> Sendung wurde als &ldquo;versendet&rdquo; vom Druckzentrum zurückgemeldet <br/> Status-Platzierung: ein bis zwei Werktage nach Einlieferung in das Druckzentrum</td>
 </tr>
+<tr>
+<td>99</td>
+<td><strong>Verarbeitungsfehler</strong>: Siehe <a href="/de-de/apps/e-post/working-with-e-post/archive#fehlerliste">Fehlerliste</a></td>
+</tr>
 </tbody>
 </table>
-<p>Einen schnellen Überblick über erfolgreich versendete, noch offene und nicht erfolgreich versendete Belege der letzten 30 Tage finden Sie auf den Kacheln für den E-Post Status im Rollencenter.</p>
+<p>content\de-de\Apps\E-Post\working with e-post\archive.md<br />
+Einen schnellen Überblick über erfolgreich versendete, noch offene und nicht erfolgreich versendete Belege der letzten 30 Tage finden Sie auf den Kacheln für den E-Post Status im Rollencenter.</p>
 <p><p class="md__image">
   <img src="/images/apps/E-POST/de-de/rollencenter.png" alt=""  />
 </p></p>
+<h2 id="fehlerliste">Fehlerliste</h2>
+<p><a id="fehlerliste"></a></p>
+<p>Im Folgenden finden Sie eine Liste von Codes zu möglichen Fehlern, Warnungen und Informationen.</p>
+<table>
+<thead>
+<tr>
+<th>Fehlercode-Typ</th>
+<th>Fehlercode-Beschreibung</th>
+<th>Präfix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Error</td>
+<td>Fehler aufgetreten, Handlungsbedarf, Verarbeitungsabbruch</td>
+<td>E</td>
+</tr>
+<tr>
+<td>Warnungen</td>
+<td>Fehler aufgetreten, möglicher Handlungsbedarf, kein Verarbeitungsabbruch</td>
+<td>W</td>
+</tr>
+<tr>
+<td>Infos</td>
+<td>Reine Informationen, kein Handlungsbedarf</td>
+<td>I</td>
+</tr>
+</tbody>
+</table>
+<h5 id="fehler">Fehler</h5>
+<table>
+<thead>
+<tr>
+<th>Fehlercode</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>E001</td>
+<td>Ungültige Zugangsdaten - Bitte überprüfen Sie Ihre Anmeldedaten</td>
+</tr>
+<tr>
+<td>E002</td>
+<td>Ungültige Zugangsdaten - VendorSubID ungültig</td>
+</tr>
+<tr>
+<td>E003</td>
+<td>Zu viele SMS Anfragen - Es wurden innerhalb kurzer Zeit zu viele SMS-Codes angefordert. Die Anfrage über diese Kennung ist für 15 min blockiert.</td>
+</tr>
+<tr>
+<td>E004</td>
+<td>Diese EKP wurde von der Deutsche Post AG gesperrt</td>
+</tr>
+<tr>
+<td>E101</td>
+<td>Ungültiges Token - Abgelaufen</td>
+</tr>
+<tr>
+<td>E201</td>
+<td>Ungültige Statusabfrage - Es wurde keine Sendung über dieses Suchkriterium gefunden</td>
+</tr>
+<tr>
+<td>E301</td>
+<td>Kein PDF-Format erkannt</td>
+</tr>
+<tr>
+<td>E302</td>
+<td>Erkannte Verletzung des DVF Sperrbereich</td>
+</tr>
+<tr>
+<td>E303</td>
+<td>Maximale Dateigröße von 20 MB überschritten</td>
+</tr>
+<tr>
+<td>E304</td>
+<td>Maximale Seitenanzahl von 94 Seiten überschritten</td>
+</tr>
+<tr>
+<td>E305</td>
+<td>Ungültiger Ländercode: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E306</td>
+<td>Ungültiges Format der Empfängeradresse erkannt: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E307</td>
+<td>1. Seite im Querformat eingeliefert - Dateiname: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E308</td>
+<td>Kein DinA4 Format - Dateiname: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E309</td>
+<td>Dublette bei eingelieferten Dateinamen erkannt - {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E311</td>
+<td>Unzulässige Kombination: Einschreiben und Ausland</td>
+</tr>
+<tr>
+<td>E312</td>
+<td>Unzulässige Kombination: Dublex + Einschreiben</td>
+</tr>
+<tr>
+<td>E313</td>
+<td>Verletzung des Letter-Schemas: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E314</td>
+<td>Maximale Deckblatt-Dateigröße von 1 MB überschritten</td>
+</tr>
+<tr>
+<td>E315</td>
+<td>Fehler in Sendungsverarbeitung: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E316</td>
+<td>Fehler bei Sendungsupload: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E317</td>
+<td>Unzulässiges Einschreiben-Format in Feld RegisteredLetter: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E318</td>
+<td>Ablehnung in Druckzentrum: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E319</td>
+<td>EKP ist nicht für das Druckzentrum freigegeben. Ein Live-Versand ist aktuell noch nicht möglich.</td>
+</tr>
+<tr>
+<td>E320</td>
+<td>Die maximal zulässige Menge an Testsendungen pro Tag wurde erreicht. Es sind heute keine weiteren Testsendungen möglich</td>
+</tr>
+<tr>
+<td>E321</td>
+<td>(Überholt) Es wurden nicht alle notwendigen Rückschein-Adressfelder für Einschreiben per Rückschein angegeben</td>
+</tr>
+<tr>
+<td>E322</td>
+<td>Zu hohe Abfragefrequenz von Letter-Status Anfragen. Die Mindestdauer zwischen 2 Statusabfragen liegt bei 5 Sekunden.</td>
+</tr>
+<tr>
+<td>E323</td>
+<td>Kein Inhalt im Empfängerbereich der PDF erkannt (Weiße Fläche)</td>
+</tr>
+<tr>
+<td>E399</td>
+<td>Allgemeiner Fehler: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E501</td>
+<td>API-Status: Inaktiv {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E601</td>
+<td>PlugIn Fehler: {Platzhalter für Fehlerdetails}</td>
+</tr>
+<tr>
+<td>E900</td>
+<td>Unspezifizierter Fehler: {Platzhalter für Fehlerdetails}</td>
+</tr>
+</tbody>
+</table>
+<h5 id="warnungen">Warnungen</h5>
+<table>
+<thead>
+<tr>
+<th>Warnung-Code</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>W101</td>
+<td>PDF/A Konvertierungswarnungen: {Platzhalter für Details}</td>
+</tr>
+<tr>
+<td>W201</td>
+<td>Überschreitung Adressbereich: {Platzhalter für Details}</td>
+</tr>
+<tr>
+<td>W202</td>
+<td>Überschreitung Sperrfläche Links: Dieser Bereich wird im Druckzentrum geweißt</td>
+</tr>
+<tr>
+<td>W220</td>
+<td>Die angegeben Daten zum Rückschein von Einschreiben werden mit dem 01.10.2022 nur noch automatisch aus dem Sichtfenster des Briefes ermittelt. Dies gilt insbesondere für die Rücksendeadresse aus der im Sichtfenster ermittelbaren Absenderzeile. Mögliche explizite Angaben werden ab diesem Zeitpunkt nicht mehr verwendet.</td>
+</tr>
+<tr>
+<td>W301</td>
+<td>Senderadresse nicht vorhanden</td>
+</tr>
+<tr>
+<td>W501</td>
+<td>API-Status: Wartungsankündigung {Platzhalter für Details}</td>
+</tr>
+<tr>
+<td>W601</td>
+<td>PlugIn Warnung: {Platzhalter für Details}</td>
+</tr>
+</tbody>
+</table>
+<h5 id="infos">Infos</h5>
+<table>
+<thead>
+<tr>
+<th>Info-Code</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I101</td>
+<td>Zusatzoption: PDF -&gt; PDFA Konvertierung</td>
+</tr>
+<tr>
+<td>I501</td>
+<td>API-Status: OK</td>
+</tr>
+<tr>
+<td>I601</td>
+<td>PlugIn Info: {Platzhalter für Details}</td>
+</tr>
+<tr>
+<td>I701</td>
+<td>Track And Trace Statusmeldung: {Platzhalter für Details}</td>
+</tr>
+<tr>
+<td>I751</td>
+<td>Statusmeldung zum Zielgebiet: {Platzhalter für Details}</td>
+</tr>
+</tbody>
+</table>
 
   </article>
 </div>

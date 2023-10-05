@@ -54,6 +54,17 @@ First select the corresponding entry in the &amp;ldquo;CTI entries&amp;rdquo;, n
 CTI Entries In your contacts you can find the &amp;ldquo;CTI Entries&amp;rdquo;, these are located at the end of the contact card. There you can find the details of all phone calls made to this contact, such as whether it was incoming or outgoing, who made the call, when the call was answered and how long it lasted.</description>
       </item>
       
+      <item>
+        <title>Manual recording of CTI entries</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/</link>
+        <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/</guid>
+        <description>Manual recording of CTI entries Under certain circumstances, there are use cases in which telephone calls are handled outside of STARFACE, e.g. via mobile communication.
+In the case of phone calls that are of interest for various business processes, there may be a desire to log them in the same way as STARFACE phone calls.
+For this purpose, the Connector 365 CTI for STARFACE app offers a function that allows manual CTI entries to be recorded in the Connector 365 Activities list.</description>
+      </item>
+      
     
   </channel>
 </rss>

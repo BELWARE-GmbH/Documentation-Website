@@ -3111,6 +3111,17 @@ The function can also be found on the page of a single purchase order in the &am
       </item>
       
       <item>
+        <title>Manual recording of CTI entries</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/</link>
+        <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/</guid>
+        <description>Manual recording of CTI entries Under certain circumstances, there are use cases in which telephone calls are handled outside of STARFACE, e.g. via mobile communication.
+In the case of phone calls that are of interest for various business processes, there may be a desire to log them in the same way as STARFACE phone calls.
+For this purpose, the Connector 365 CTI for STARFACE app offers a function that allows manual CTI entries to be recorded in the Connector 365 Activities list.</description>
+      </item>
+      
+      <item>
         <title>Archive</title>
         <link>https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

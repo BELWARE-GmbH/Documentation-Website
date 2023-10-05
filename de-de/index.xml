@@ -3104,6 +3104,17 @@ Auch auf der Seite einer einzelnen Einkaufsbestellung findet sich die Funktion i
       </item>
       
       <item>
+        <title>Manuelles Erfassen von CTI-Einträgen</title>
+        <link>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/</link>
+        <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/</guid>
+        <description>Manuelles Erfassen von CTI-Einträgen Unter Umständen gibt es Anwendungsfälle, in denen Telefonate außerhalb von STARFACE abgewickelt werden, beispielweise über Mobilfunk.
+Bei Telefonaten, welche interessant für diverse Geschäftsprozesse sind, kann der Wunsch entstehen, diese ebenfalls analog den STARFACE-Telefonaten zu protokollieren.
+Hierfür bietet die Connector 365 CTI for STARFACE App eine Funktion an die es erlaubt, manuelle CTI-Einträge in der Connector 365 Aktivitäten-Liste zu erfassen. Dabei können Sie übliche Eigenschaften wie beispielsweise die Anrufdauer oder der Kontakt, mit dem telefoniert wurde, eingegeben werden.</description>
+      </item>
+      
+      <item>
         <title>Archivierung</title>
         <link>https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/archive/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

@@ -2152,6 +2152,14 @@ if (!doNotTrack) {
         </li>
       
     
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/" class="menu__title " data-depth="1">Manual recording of CTI entries</a>
+        </li>
+      
+    
   </ul>
   
 
@@ -7694,6 +7702,14 @@ if (!doNotTrack) {
         </li>
       
     
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/en-us/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/" class="menu__title " data-depth="1">Manual recording of CTI entries</a>
+        </li>
+      
+    
   </ul>
   
 
@@ -11998,6 +12014,184 @@ if (!doNotTrack) {
 </table>
 <p>In addition to these settings for sending, you can use X to specify whether an additional dialog should be opened before sending in which the default settings for sending can be individually adjusted. If the check mark is not set, all letters are sent with the settings stored here.</p>
 <p>*<strong>The Connector 365 E-POST App is powered by the E-POSTBUSINESS API, a service of the Deutsche Post</strong></p>
+<h2 id="copying-configuration-data">Copying Configuration Data</h2>
+<p>If you want to use an E-Post API account for multiple companies, the <strong>Connector 365 E-Post</strong> app provides a feature to copy configuration data from any company. The prerequisite is that you have successfully set up a company for using the E-Post API.</p>
+<p>Below, you will learn how to copy E-Post configuration data from one company to another.</p>
+<h3 id="how-to-copy-e-post-configuration-data">How to Copy E-Post Configuration Data</h3>
+<p>Once you have successfully set up a tenant for using the <strong>E-Post API</strong>, navigate to a company for which you want to copy the access data from another company.</p>
+<p>Next, navigate to the <strong>Connector 365 Setup</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/search_con365_setup.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Then, activate the action <strong>Copy Credentials From Company</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/action-copy-company.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>A window will now open:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/dialog-copy-company.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>The following fields are displayed:</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>The name of the company</td>
+</tr>
+<tr>
+<td>Display Name</td>
+<td>The display name of the company shown on the interface</td>
+</tr>
+<tr>
+<td>Evaluation Company</td>
+<td>Specifies that the company is for trial purposes only, and that a subscription has not been purchased.</td>
+</tr>
+<tr>
+<td>Enable Assisted Company Setup</td>
+<td>Specifies that the user will be assisted in setting up the company.</td>
+</tr>
+<tr>
+<td>Setup Status</td>
+<td>Specifies the setup status of the company.</td>
+</tr>
+</tbody>
+</table>
+<div class="notices info" data-title="Info">
+  Editing fields on this page is not intended. This page is from the Microsoft standard and is solely for selecting companies.
+</div>
+<p><br></br><br />
+Now, select a tenant from which you want to copy E-Post configuration data to the currently used company. Confirm your selection by clicking <strong>OK</strong>.</p>
+<div class="notices warning" data-title="Attention">
+  Please note that the copy function only copies access data. Other settings, such as whether a letter should be in color or not, need to be set again if necessary. Also, note that the copy function overwrites existing access data of the current company.
+</div>
+<h2 id="changing-administrator-contact-information">Changing Administrator Contact Information</h2>
+<p>For using the <strong>E-Post API</strong>, specifying an email address and a phone number of a contact person is mandatory. Both contact details can be changed if needed. Below, you will learn how to change the <strong>email address</strong> or <strong>phone number</strong> of the administrator contact.</p>
+<div class="notices warning" data-title="Attention">
+  Please note that you must have access to at least one of the two data to make contact changes. This means, to change the phone number, you need access to the registered email account. If you want to change the email address, you need access to the registered mobile number.
+</div>
+<h3 id="how-to-change-administrator-contact-information">How to Change Administrator Contact Information</h3>
+<p>First, navigate to the <strong>Connector 365 Setup</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/search_con365_setup.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Under the <strong>E-Post Setup</strong> section, select the action <strong>Change Administrator Contact</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/action-change-admin-contact.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>When you click this action, a submenu opens with the following options:</p>
+<ul>
+<li><strong>Change Email Address</strong></li>
+<li><strong>Chanage Mobile No.</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/actions-change-mail-phone.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<h4 id="change-email-address">Change Email Address</h4>
+<p>If you want to change your email address, click the <strong>Change Email Address</strong> action.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/change-mail-address-field.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Now, enter the new email address you want to use for your <strong>E-Post API</strong> account into the <strong>New Email</strong> field. Confirm by clicking the <strong>Send Email Request</strong> action.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/confirm-new-mail-address.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>A process is now triggered in the background to send an SMS code for confirmation to the currently registered mobile number of the <strong>E-Post API</strong> account. Enter this code into the <strong>SMS Code</strong> field and confirm by clicking <strong>Set Email Address</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/enter-sms-code.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Upon successful entry, you will receive information about changing your email address.</p>
+<h4 id="change-phone-number">Change Phone Number</h4>
+<p>Click the <strong>Change Phone Number</strong> action to change your registered mobile phone number.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/change-phone-number.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Now, enter the new phone number for your administrator contact in the <strong>New Mobile Phone No.</strong> field. Confirm your selection by clicking the <strong>Send Mobile Request</strong> action.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/confirm-new-phone-number.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>In the background, an email will be sent to the email address currently registered in the <strong>E-Post API</strong> account. This email will contain a code that you must enter into the <strong>Email Code</strong> field for confirmation. Confirm by clicking the <strong>Set Mobile Phone No.</strong> button.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/en-us/enter-email-code.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Upon a successful request, you will receive information about the changed phone number details.</p>
 
   </article>
 </div>

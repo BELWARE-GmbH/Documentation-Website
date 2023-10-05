@@ -2134,6 +2134,14 @@ if (!doNotTrack) {
         </li>
       
     
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/" class="menu__title " data-depth="1">Manuelles Erfassen von CTI-Einträgen</a>
+        </li>
+      
+    
   </ul>
   
 
@@ -7556,6 +7564,14 @@ if (!doNotTrack) {
         </li>
       
     
+      
+        
+        
+        <li>
+          <a href="https://docs.belware.de/de-de/apps/cti-for-starface/working-with-cti-for-starface/create-cti-entries-manually/" class="menu__title " data-depth="1">Manuelles Erfassen von CTI-Einträgen</a>
+        </li>
+      
+    
   </ul>
   
 
@@ -11757,6 +11773,194 @@ if (!doNotTrack) {
 </tbody>
 </table>
 <p>*<strong>Die Connector 365 E-POST App, setzt auf die E-POSTBUSINESS API, einen Service der Deutschen Post.</strong></p>
+<h2 id="kopieren-von-einrichtungsdaten">Kopieren von Einrichtungsdaten</h2>
+<p>Falls Sie ein E-Post API Konto für mehrere Mandanten verwenden wollen, bietet die <strong>Connector 365 E-Post</strong> App eine Funktion an, um Einrichtungsdaten von beliebigen Mandanten zu kopieren.<br />
+Voraussetzung ist, dass Sie einen Mandanten erfolgreich für die Nutzung der E-Post-API eingerichtet haben.</p>
+<p>Im Folgenden erfahren Sie, wie Sie die E-Post-Einrichtungsdaten von einem Mandanten zu einem anderen Mandanten kopieren können.</p>
+<h3 id="wie-sie-e-post-einrichungsdatent-kopieren-können">Wie Sie E-Post-Einrichungsdatent kopieren können</h3>
+<p>Sofern Sie einen Mandaten erfolgreich für die Nutzung von E-Post API eingerichtet haben, navigieren Sie zu einem Mandanten, für den Sie<br />
+die Zugangsdaten von einem anderen Mandanten kopieren möchten.</p>
+<p>Anschließend navigieren Sie zu der <strong>Connector 365 Einrichtung</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/search_con365_setup.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Anschließend aktivieren Sie die Aktion <strong>Zugangsdaten aus Mandanten kopieren</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/action-copy-company.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Es öffnet sich nun folgendes Fenster:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/dialog-copy-company.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Folgende Felder werden dabei angezeigt:</p>
+<table>
+<thead>
+<tr>
+<th>Feld</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Der Name des Mandanten</td>
+</tr>
+<tr>
+<td>Anzeigename</td>
+<td>Der Anzeigename des Mandanten, der auf der Oberfläche angezeigt wird</td>
+</tr>
+<tr>
+<td>Testunternehmen</td>
+<td>Gibt an, dass das Unternehmen nur zu Testzwecken dient und kein Abonnement gekauft wurde.</td>
+</tr>
+<tr>
+<td>Unterstützte Unternehmenseinrichtung aktivieren</td>
+<td>Legt fest, ob ein Nutzer beim Einrichten eines Unternehmens unterstützt wird.</td>
+</tr>
+<tr>
+<td>Einrichtungsstatus</td>
+<td>Gibt den Einrichtungsstatus des Unternehmens an.</td>
+</tr>
+</tbody>
+</table>
+<div class="notices info" data-title="Hinweis">
+  Die Bearbeitung von Feldern auf dieser Seite ist nicht vorgesehen. Diese stammt vom Microsoft Standard und dient rein der Auswahl von Mandanten.
+</div>
+<p><br></br><br />
+Wählen Sie nun einen Mandanten aus, von dem Sie E-Post-Einrichtungsdaten auf den aktuell genutzten Mandanten kopieren möchten.<br />
+Bestätigen Sie anschließend Ihre Auswahl durch Klicken von <strong>OK</strong>.</p>
+<div class="notices warning" data-title="Achtung">
+  Bitte beachten Sie, dass die Kopierfunktion nur Zugangsdaten kopiert. Die weiteren Einstellungen wie beispielsweise, ob ein Brief farbig sein soll oder nicht, sind bei Bedarf erneut zu setzen. Beachten Sie außerdem, dass die Kopierfunktion vorhandene Zugangsdaten des aktuellen Mandanten überschreibt.
+</div>
+<h2 id="ändern-von-administrator-kontaktdaten">Ändern von Administrator-Kontaktdaten</h2>
+<p>Für die Nutzung der E-Post API ist die Angabe einer E-Mail-Adresse sowie einer Telefonnummer einer Kontaktperson verpflichtend.<br />
+Beide Kontaktdaten können bei Bedarf geändert werden. Im Folgenden erfahren Sie, wie Sie die E-Mail-Adresse oder die Telefonnummer des<br />
+Administratorkontaktes ändern können.</p>
+<div class="notices warning" data-title="Achtung">
+  Bitte beachten Sie, dass Sie mindestens einen Zugang zu einem der beiden Daten haben müssen, um Kontakt-Änderungen vorzunehmen.<br />
+Das heißt, um die Telefonnummer zu ändern, benötigen Sie Zugriff auf das hinterlegte E-Mail-Konto. Wenn Sie die E-Mail-Adresse ändern wollen, benötigen Sie den Zugriff auf die hinterlegte Mobilfunk-Nummer.
+</div>
+<h3 id="wie-sie-die-administrator-kontaktdaten-ändern-können">Wie Sie die Administrator-Kontaktdaten ändern können</h3>
+<p>Als erstes, navigieren Sie zu der <strong>Connector 365 Einrichtung</strong>:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/search_con365_setup.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Unter der Ruprik <strong>E-Post Einrichtung</strong>, wählen Sie die Aktion <strong>Administratorkontakt ändern</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/action-change-admin-contact.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Beim Klicken dieser Aktion öffnet sich ein Untermenü mit folgenden Auswahlmöglichkeiten:</p>
+<ul>
+<li><strong>E-Mail-Adresse ändern</strong></li>
+<li><strong>Handy-Nr.</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/actions-change-mail-phone.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<h4 id="e-mail-adresse-ändern">E-Mail-Adresse ändern</h4>
+<p>Wenn Sie Ihre E-Mail-Adresse ändern möchten, klicken Sie auf die Aktion <strong>E-Mail-Adresse</strong> ändern.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/change-mail-address-field.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Tragen Sie nun die neue E-Mail-Adresse, die Sie künftig für Ihr E-Post API Konto nutzen möchten in das Feld <strong>Neue E-Mail</strong> ein.<br />
+Bestätigen Sie nun, indem Sie auf die Aktion <strong>E-Mail-Anfrage senden</strong> klicken.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/confirm-new-mail-address.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Nun wird im Hintergrund ein Prozess ausgelöst, der dafür sorgt, dass die aktuell hinterlegte Mobilfunknummer des E-Post API Kontos einen SMS Code zu Bestätigung erhält. Tragen Sie diesen in das Feld <strong>SMS-Code</strong> ein und bestätigen Sie durch Klicken von <strong>E-Mail-Adresse festlegen</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/enter-sms-code.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Bei erfolgreicher Eingabe erhalten Sie eine Information über das Ändern Ihrer E-Mail-Adresse.</p>
+<h4 id="telefonnummer-ändern">Telefonnummer ändern</h4>
+<p>Klicken Sie auf die Aktion <strong>Handy-Nr.</strong>, um Ihre hinterlegte Mobilfunknummer zu ändern.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/change-phone-number.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Tragen Sie nun die neue Telefonnummer für Ihren Administrator-Kontakt in das Feld <strong>Neue Handy-Nr.</strong> ein.<br />
+Bestätigen Sie Ihre Auswahl durch Klicken der Aktion <strong>Mobile Anfrage senden</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/confirm-new-phone-number.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Im Hintergrund wird nun eine E-Mail an die E-Mail-Adresse versandt, die aktuell im E-Post API Konto hinterlegt ist.<br />
+In dieser E-Mail befindet sich ein Code, den Sie zur Bestätigung in dem Feld <strong>E-Mail-Code</strong> eintragen müssen.<br />
+Bestätigen Sie anschließend durch Klicken der Schalftläche <strong>Handy-Nr. einstellen</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/E-POST/de-de/enter-email-code.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Bei erfolgreicher Anfrage erhalten Sie eine Information über die geänderten Telefon-Daten.</p>
 
   </article>
 </div>
