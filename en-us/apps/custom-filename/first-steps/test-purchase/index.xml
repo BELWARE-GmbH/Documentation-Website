@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test &amp; Kauf on Connector 365 Online Help</title>
+    <title>Test &amp; Purchase on Connector 365 Online Help</title>
     <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/</link>
-    <description>Recent content in Test &amp; Kauf on Connector 365 Online Help</description>
+    <description>Recent content in Test &amp; Purchase on Connector 365 Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
@@ -20,11 +20,11 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/appsource/</guid>
-        <description>Test &amp;amp; Kauf AppSource Die App steht Ihnen im Microsoft AppSource zur Verfügung.
-Nach der Installation können Sie die App in vollem Umfang für 30 Tage kostenlos nutzen.
-Wenn Ihnen die App gefällt, können Sie über unser Bestellformular kostenpflichtig Lizenzen erwerben.
-Die Lizenzierung erfolgt auf Nutzerbasis, wobei jeder Nutzer mit einer Team Member oder Essentials Lizenz gezählt wird.
-Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.</description>
+        <description>Test &amp;amp; Kauf AppSource The app is available in the Microsoft AppSource.
+After installation, you can use the app in full for 30 days free of charge.
+If you like the app, you can purchase paid licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
       </item>
       
       <item>
@@ -33,8 +33,8 @@ Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereit
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Kauf OnPrem Sie haben die Möglichkeit, unsere Connector 365 Custom Filename App unverbindlich vorab zu testen oder auch direkt zu erwerben. Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereitgestellten Preisliste entnehmen.
-Zum BestellformularWünschen Sie eine Testphase, erhalten Sie von uns die gewünschten Objekte für einen User und einen Testzeitraum von 30 Tagen. Vor Ablauf des Testzeitraums setzen wir uns mit Ihnen in Verbindung zwecks Übernahme in Kauf oder Deaktivierung der Testphase.</description>
+        <description>Test &amp;amp; Kauf OnPrem You have the possibility to test our Connector 365 Custom Filename App without obligation in advance or to purchase it directly. Before ordering, you can find the applicable costs in the price list provided on our website.
+To order formIf you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
     

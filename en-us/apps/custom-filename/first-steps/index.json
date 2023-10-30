@@ -14,6 +14,14 @@
         "content_html" : "\u003ch3 id=\"first-steps\"\u003eFirst steps\u003c/h3\u003e\n\u003ch3 id=\"introduction\"\u003eIntroduction\u003c/h3\u003e\n\u003cp\u003eWhen you send emails through Microsoft Dynamics 365 Business Central, the system automatically generates a filename for you.\u003cbr /\u003e\nWith the Connector 365 Custom Filename App it is possible to define your own filenames, either per report or per customer/vendor. It is also possible to define different filenames per language. Thereby you can freely define the new preset filename. It is also possible to define your own placeholders for each report, so you can create a dynamic text for your file names. Simply enter the desired placeholder and link it to a field from the report.\u003c/p\u003e\n\u003cp\u003eSetting up the file names is quick and easy via the document layout for accounts receivable/payable or via the report selection to\u003c/p\u003e\n"
     },
     {
+        "title" : "Test \u0026 Purchase",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/",
+        "url" : "https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"test-and-buy-the-connector-365-mail-custom-filename-app\"\u003eTest and buy the Connector 365 Mail Custom Filename app\u003c/h3\u003e\n\u003cp\u003eHere you can find all important information and hints for testing and buying the Connector 365 Mail Custom Filename.\u003c/p\u003e\n\u003cp\u003eJust use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be glad to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
         "title" : "Installation",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",

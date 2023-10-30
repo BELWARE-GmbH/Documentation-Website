@@ -97,9 +97,9 @@ After submitting your contact information, you will be prompted to choose a lang
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Öffnen Sie mithilfe der Suchfunktion den Marketplace für Erweiterungen und öffnen Sie ihn.
-Es öffnet sich der Microsoft AppSource. Dort können Sie erneut die Suchfunktion nutzen um den Connector 365 Custom Filename zu finden. Klicken Sie auf Free Trial um die Installation zu starten. Bevor die Installation engültig beginnt, müssen Sie noch ein paar Kontaktdaten übermitteln.
-Nachdem Sie Ihre Kontaktdaten übermittelt haben, werden Sie dazu aufgefordert eine Sprache für die App zu wählen.</description>
+        <description>Installation AppSource Using the search function, open the Extension Marketplace and open it.
+The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 Custom Filename. Click on Free Trial to start the installation. Before the installation starts, you have to provide some contact information.
+After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
       </item>
       
       <item>
@@ -1229,6 +1229,19 @@ Before placing an order, you can find the applicable costs in the price list pro
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource The app is available in the Microsoft AppSource.
+After installation, you can use the app in full for 30 days free of charge.
+If you like the app, you can purchase paid licenses via our order form.
+Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
+Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/e-post/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1673,8 +1686,18 @@ If you wish to purchase the software immediately, we will provide you with the n
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; Custom Filename App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
-Veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App Das veröffentlichen der Connector 365 Base &amp;amp; Custom Filename App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Custom Filename App from us by mail, in order for you to use the app, they must first be published and then installed.
+Publishing the Connector 365 Base &amp;amp; Custom Filename App Publishing the Connector 365 Base &amp;amp; Custom Filename App is done via the Business Central Administration Shell. First, transfer the files we sent to you to the server where your Business Central instance is running.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/custom-filename/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Kauf OnPrem You have the possibility to test our Connector 365 Custom Filename App without obligation in advance or to purchase it directly. Before ordering, you can find the applicable costs in the price list provided on our website.
+To order formIf you wish a test phase, you will receive the desired objects for a user and a test period of 30 days. Before the end of the test period, we will contact you to take over the purchase or deactivate the test phase.</description>
       </item>
       
       <item>

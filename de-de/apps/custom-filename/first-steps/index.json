@@ -14,12 +14,12 @@
         "content_html" : "\u003ch3 id=\"erste-schritte\"\u003eErste Schritte\u003c/h3\u003e\n\u003ch3 id=\"einleitung\"\u003eEinleitung\u003c/h3\u003e\n\u003cp\u003eWenn Sie E-Mails über Microsoft Dynamics 365 Business Central versenden, generiert das System automatisch einen Dateinamen für Sie.\u003cbr /\u003e\nMit der Connector 365 Custom Filename App ist es möglich, Ihre eigenen Dateinamen zu definieren, entweder pro Bericht oder pro Debitor/Kreditor. Es ist außerdem möglich verschiedene Dateinamen je Sprache zu definieren. Dabei können Sie den neuen voreingestellten Dateinamen frei definieren. Es ist auch möglich, eigene Platzhalter für den jeweiligen Bericht zu definieren, so dass Sie einen dynamischen Text für Ihre Dateinamen erstellen können. Geben Sie einfach den gewünschten Platzhalter ein und verknüpfen Sie ihn mit einem Feld aus dem Bericht.\u003c/p\u003e\n\u003cp\u003eDie Einrichtung der Dateinamen ist über das Dokumentenlayout für Debitoren/Kreditoren oder über die Berichtsauswahl schnell und einfach zu erreichen.\u003c/p\u003e\n"
     },
     {
-        "title" : "Einrichtung",
+        "title" : "Test \u0026 Kauf",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
-        "id" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/",
-        "url" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/",
-        "content_html" : "\u003ch3 id=\"einrichtungen-der-connector-365-custom-filename-app\"\u003eEinrichtungen der Connector 365 Custom Filename App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 Custom Filename App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+        "id" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/test-purchase/",
+        "url" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/test-purchase/",
+        "content_html" : "\u003ch3 id=\"testen-und-kaufen-der-connector-365-mail-custom-filename-app\"\u003eTesten und kaufen der Connector 365 Mail Custom Filename App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zum testen und kaufen der Connector 365 Mail Custom Filename App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Installation",
@@ -28,6 +28,14 @@
         "id" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/installation/",
         "url" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/installation/",
         "content_html" : "\u003ch3 id=\"installation-der-connector-365-custom-filename-app\"\u003eInstallation der Connector 365 Custom Filename App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 Custom Filename App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Einrichtung",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/",
+        "url" : "https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/",
+        "content_html" : "\u003ch3 id=\"einrichtungen-der-connector-365-custom-filename-app\"\u003eEinrichtungen der Connector 365 Custom Filename App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Einrichtung der Connector 365 Custom Filename App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }
