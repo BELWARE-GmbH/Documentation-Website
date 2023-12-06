@@ -23,7 +23,7 @@
         <description>New and planned Version 2.4.0.0 - 25.08.2023 New features:
 Extension of Communication matrix by fields: Attachments Attach Default Attach Document Attachments Planned features for future versions Attachment functionality on furhter levels Version 2.3.0.1 - 22.05.2023 Fixes:
 Fixes bug where attachment filename is overwritten during downloading Version 2.3.0.0 - 22.05.2023 New features:
-Support for document types from the service area Attachments can now be maintained per document layout line For XRechnung, Attachments can now be configured to be embedded or to be</description>
+Support for document types from the service area Attachments can now be maintained per document layout line For XRechnung, Attachments can now be configured to be embedded or to be treated as additional mail attachments (only in connection with Connector 365 XRechnung) Version 2.</description>
       </item>
       
       <item>

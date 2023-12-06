@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mail Experience Pro on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/mail-experience-pro/</link>
+    <description>Recent content in Mail Experience Pro on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/mail-experience-pro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>New and planned</title>
+        <link>https://docs.belware.de/en-us/apps/mail-experience-pro/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-experience-pro/new-and-planned/</guid>
+        <description>New and planned Version 1.0.0.0 Intelligent control of sender address per report via Mail Sender Plus Intelligent control of attachments at different levels via Mail Attachments Plus Intelligent control of subject line with placeholders via Mail Subject Plus Intelligent control of filenames with placeholders via Custom Filename Intelligent control and processing of multiple documents at once with Easy Batch Intelligent control of layouts for many customizable conditions with Report Layout Plus Intelligent control of automatically attaching invoices to your reminders with Easy Document Pin </description>
+      </item>
+      
+      <item>
+        <title>First Steps</title>
+        <link>https://docs.belware.de/en-us/apps/mail-experience-pro/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-experience-pro/first-steps/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Working with Mail Experience Pro</title>
+        <link>https://docs.belware.de/en-us/apps/mail-experience-pro/working-with-mep/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-experience-pro/working-with-mep/</guid>
+        <description>Working with Mail Experience Pro The Connector 365 Mail Experience Pro app combines the 7 apps from our Mail Pro series into one power app. Below we provide information on how to use each area.
+Mail Subject Plus area The Mail Subject Plus area is there to add your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.
+Working with Subject</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/mail-experience-pro/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/mail-experience-pro/videos/</guid>
+        <description>Videos Here you can find some informative videos, each video covers a special topic</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -20,14 +20,15 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/new-and-planned/</guid>
-        <description>Neu und geplant Version 2.16.0.0 03.11.2023 Version 2.13.0.2 Verbesserungen:
+        <description>Neu und geplant Version 2.16.0.5 09.11.2023 Verbesserungen:
+Beheben von Fehler bei Speicherung und Anzeige diverser Belegarten in der Aktivitätenliste Version 2.13.0.2 Verbesserungen:
 Performance-Verbesserungen für die Connector 365 Statistiken Version 2.13.0.0 Neuerungen:
 Einblenden der kommunikationsmatrix (Dokumentlayouts) in den Seiten:
 Kreditoren Debitoren
 (Jeweils Übersicht- und Karte) Aktivitäteneinträge und Statistik in den Seiten
 Kreditore Debitore Kontakte
 (Jeweils Übersicht- und Karte) Korrekturen:
-Korrektur der Funktion zum Löschen der Aktivitäteneinträge Fehlerbehung bei Upgrade von einer Connector 365 Version &amp;lt; 2.0 zu einer Version &amp;gt;= 2.0 Version 2.11.0.0 - 22.</description>
+Korrektur der Funktion zum Löschen der Aktivitäteneinträge Fehlerbehung bei Upgrade von einer Connector 365 Version &amp;lt; 2.</description>
       </item>
       
       <item>

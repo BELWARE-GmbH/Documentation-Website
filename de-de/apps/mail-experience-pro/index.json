@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Mail Experience Pro on Connector 365 Online Hilfe",
+    "description": "Recent content in Mail Experience Pro on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/mail-experience-pro/index.json",
+    "items" : [
+    {
+        "title" : "Neu und geplant",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/mail-experience-pro/new-and-planned/",
+        "url" : "https://docs.belware.de/de-de/apps/mail-experience-pro/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"neu-und-geplant\"\u003eNeu und geplant\u003c/h3\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIntelligente Steuerung der Absender-Adresse je Bericht via Mail Sender Plus\u003c/li\u003e\n\u003cli\u003eIntelligente Steuerung der Anhänge auf verschiednenen Ebenen via Mail Attachments Plus\u003c/li\u003e\n\u003cli\u003eIntelligente Steuerung der Betreffzeile mit Platzhaltern via Mail Subject Plus\u003c/li\u003e\n\u003cli\u003eIntelligente Steurung der Dateinamen mit Platzhaltern via Custom Filename\u003c/li\u003e\n\u003cli\u003eIntelligente Steuerung und Verarbeitung mehrerer Dokumenten in einem Stapel mit Easy Batch\u003c/li\u003e\n\u003cli\u003eIntelligente Steurung der Layouts für verschiedene benutzerdefinierte Bedingungen mit Report Layout Plus\u003c/li\u003e\n\u003cli\u003eIntelligente Steurung der zur Mahnung zugehörigen Rechnungen mit Easy Document Pin\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Erste Schritte",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/mail-experience-pro/first-steps/",
+        "url" : "https://docs.belware.de/de-de/apps/mail-experience-pro/first-steps/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Arbeiten mit Mail Experience Pro",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/mail-experience-pro/working-with-mep/",
+        "url" : "https://docs.belware.de/de-de/apps/mail-experience-pro/working-with-mep/",
+        "content_html" : "\u003ch3 id=\"einrichten-der-einzelnen-module\"\u003eEinrichten der einzelnen Module\u003c/h3\u003e\n\u003cp\u003eDie Connector 365 Mail Experience Pro App verbindet die 7 Apps aus unserer Mail Pro-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche einrichten.\u003c/p\u003e\n\u003ch5 id=\"bereich-mail-subject-plus\"\u003eBereich Mail Subject Plus\u003c/h5\u003e\n\u003cp\u003eDer Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Betreffzeilen je Bericht oder Debitor hinzuzufügen. Dabei unterstützen Sie Platzhalter um eigene Inhalte zu definieren.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/de-de/apps/mail-subject-plus/first-steps/setup/\" target=\"_blank\"\u003eEinrichtung Subject\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"bereich-mail-attachments-plus\"\u003eBereich Mail Attachments Plus\u003c/h5\u003e\n\u003cp\u003eMit Mail Attachments Plus können Sie Ihre Mail-Anhänge auf verschiedenen Ebenen steuern und Anhänge festlegen, welche standardmäßig immer bei Versand an bestimmte Berichte angehängt werden. Eine Steuerung für Anhänge über einen bestimmten Zeitraum ist ebenfalls möglich.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/de-de/apps/mail-attachments-plus/first-steps/setup/\" target=\"_blank\"\u003eEinrichtung Attachments\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"bereich-addressee-control\"\u003eBereich Addressee Control\u003c/h5\u003e\n\u003cp\u003eAddressee Control erlaubt Ihnen die Steuerung des Empfängers auf Ebene der Berichtsart.\u003cbr /\u003e\nSie entscheiden für jede Berichtsart ob entweder der Debitor aus dem Feld \u003cstrong\u003eVerk. an Debitor\u003c/strong\u003e oder \u003cstrong\u003eRech. an Debitor\u003c/strong\u003e zur Adressbestimmung genutzt wird.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/de-de/apps/addressee-control/first-steps/setup/\" target=\"_blank\"\u003eEinrichtung Addressee\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"bereich-custom-filename\"\u003eBereich Custom Filename\u003c/h5\u003e\n\u003cp\u003eMit Custom Filename können Sie eigene Dateinamen generieren je Bericht oder Debitor. Dabei können Sie Platzhalter verwenden um dynamische Dateinamen zu erstellen.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/de-de/apps/custom-filename/first-steps/setup/\" target=\"_blank\"\u003eEinrichtung Custom Filename\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"bereich-easy-batch\"\u003eBereich Easy Batch\u003c/h5\u003e\n\u003cp\u003eVerarbeiten Sie mehrere Dokumente auf einmal in einem Stapel.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/de-de/apps/easy-batch/first-steps/setup/\" target=\"_blank\"\u003eEinrichtung Easy Batch\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"bereich-report-layout-plus\"\u003eBereich Report Layout Plus\u003c/h5\u003e\n\u003cp\u003eHinterlegen Sie unterschiedliche Layouts für verschiedene benutzerdefinierte Bedingungen, wie z.B. Sprache.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/de-de/apps/report-layout-plus/first-steps/setup/\" target=\"_blank\"\u003eEinrichtung Report Layout Plus\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"bereich-easy-document-pin\"\u003eBereich Easy Document Pin\u003c/h5\u003e\n\u003cp\u003eHängen Sie die dazugehörigen Rechnungen automatisch an Ihre verschickten Mahnungen an.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/de-de/apps/easy-document-pin/first-steps/setup/\" target=\"_blank\"\u003eEinrichtung Easy Document Pin\u003c/a\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/mail-experience-pro/videos/",
+        "url" : "https://docs.belware.de/de-de/apps/mail-experience-pro/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zur unserer Mail Experience Pro App, jedes Video behandelt ein spezielles Thema\u003c/p\u003e\n"
+    }
+    ]
+}

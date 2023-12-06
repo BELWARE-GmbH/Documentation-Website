@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Mail Experience Pro on Connector 365 Online Help",
+    "description": "Recent content in Mail Experience Pro on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/mail-experience-pro/index.json",
+    "items" : [
+    {
+        "title" : "New and planned",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail-experience-pro/new-and-planned/",
+        "url" : "https://docs.belware.de/en-us/apps/mail-experience-pro/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIntelligent control of sender address per report via Mail Sender Plus\u003c/li\u003e\n\u003cli\u003eIntelligent control of attachments at different levels via Mail Attachments Plus\u003c/li\u003e\n\u003cli\u003eIntelligent control of subject line with placeholders via Mail Subject Plus\u003c/li\u003e\n\u003cli\u003eIntelligent control of filenames with placeholders via Custom Filename\u003c/li\u003e\n\u003cli\u003eIntelligent control and processing of multiple documents at once with Easy Batch\u003c/li\u003e\n\u003cli\u003eIntelligent control of layouts for many customizable conditions with Report Layout Plus\u003c/li\u003e\n\u003cli\u003eIntelligent control of automatically attaching invoices to your reminders with Easy Document Pin\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "First Steps",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail-experience-pro/first-steps/",
+        "url" : "https://docs.belware.de/en-us/apps/mail-experience-pro/first-steps/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Working with Mail Experience Pro",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail-experience-pro/working-with-mep/",
+        "url" : "https://docs.belware.de/en-us/apps/mail-experience-pro/working-with-mep/",
+        "content_html" : "\u003ch3 id=\"working-with-mail-experience-pro\"\u003eWorking with Mail Experience Pro\u003c/h3\u003e\n\u003cp\u003eThe Connector 365 Mail Experience Pro app combines the 7 apps from our Mail Pro series into one power app. Below we provide information on how to use each area.\u003c/p\u003e\n\u003ch5 id=\"mail-subject-plus-area\"\u003eMail Subject Plus area\u003c/h5\u003e\n\u003cp\u003eThe Mail Subject Plus area is there to add your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-us/apps/mail-subject-plus/working-with-mail-subject-plus/\" target=\"_blank\"\u003eWorking with Subject\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"mail-attachments-plus-area\"\u003eMail Attachments Plus area\u003c/h5\u003e\n\u003cp\u003eMail Attachments Plus allows you to control your mail attachments at various levels and specify attachments that will always be attached to certain reports when sent by default. Control for attachments over a period of time is also possible.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-us/apps/mail-attachments-plus/working-with-map/\" target=\"_blank\"\u003eWorking with Attachments\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"addressee-control\"\u003eAddressee Control\u003c/h5\u003e\n\u003cp\u003eAddressee Control allows you to control of the addressee per report type.\u003cbr /\u003e\nFor each report type you decide wether the customer from the field \u003cstrong\u003eBill-to Customer\u003c/strong\u003e or \u003cstrong\u003eSell-to Customer\u003c/strong\u003e will be used to define the addressee.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-us/apps/addressee-control/first-steps/setup/\" target=\"_blank\"\u003eSetup Addressee\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"custom-filename\"\u003eCustom Filename\u003c/h5\u003e\n\u003cp\u003eUse preset filenames in your files and avoid sending unpersonalized documents.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-us/apps/custom-filename/first-steps/setup/\" target=\"_blank\"\u003eSetup Addressee\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"easy-batch\"\u003eEasy Batch\u003c/h5\u003e\n\u003cp\u003eProcess multiple documents at once with ease.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-us/apps/easy-batch/first-steps/setup/\" target=\"_blank\"\u003eSetup Addressee\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"report-layout-plus\"\u003eReport Layout Plus\u003c/h5\u003e\n\u003cp\u003eChoose different report layouts for many customizable conditions.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-us/apps/report-layout-plus/first-steps/setup/\" target=\"_blank\"\u003eSetup Addressee\u003c/a\u003e\u003c/p\u003e\n\u003ch5 id=\"easy-document-pin\"\u003eEasy Document Pin\u003c/h5\u003e\n\u003cp\u003eAutomatically attach invoices to your reminders.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/en-us/apps/easy-document-pin/first-steps/setup/\" target=\"_blank\"\u003eSetup Addressee\u003c/a\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/mail-experience-pro/videos/",
+        "url" : "https://docs.belware.de/en-us/apps/mail-experience-pro/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos, each video covers a special topic\u003c/p\u003e\n"
+    }
+    ]
+}

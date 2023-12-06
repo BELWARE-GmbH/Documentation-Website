@@ -11,7 +11,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/",
         "url" : "https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/",
-        "content_html" : "\u003ch3 id=\"data-to-be-evaluated\"\u003eData to be evaluated\u003c/h3\u003e\n\u003cp\u003eAfter the setup of the supplier rating(s) is completed, this\u003cbr /\u003e\nchapter describes how and at which points in Dynamics 365 Business Central the data is\u003cbr /\u003e\nthat will later be evaluated based on the set up ratings. During the\u003cbr /\u003e\nCollection of \u0026ldquo;soft\u0026rdquo; and \u0026ldquo;hard\u0026rdquo; factors, different factors are used.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"data-to-be-evaluated\"\u003eData to be evaluated\u003c/h3\u003e\n\u003cp\u003eAfter the setup of the supplier rating(s) is completed, this \u003cbr /\u003e\nchapter describes how and at which points in Dynamics 365 Business Central the data is \u003cbr /\u003e\nthat will later be evaluated based on the set up ratings. During the \u003cbr /\u003e\nCollection of \u0026ldquo;soft\u0026rdquo; and \u0026ldquo;hard\u0026rdquo; factors, different factors are used.\u003c/p\u003e\n"
     },
     {
         "title" : "Evaluation",
@@ -27,7 +27,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/",
         "url" : "https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/einrichtungsassistent/",
-        "content_html" : "\u003ch3 id=\"setup-wizard\"\u003eSetup Wizard\u003c/h3\u003e\n\u003cp\u003eThe setup wizard is used to create new and edit existing supplier ratings. It is opened via the menu item \u0026ldquo;Supplier evaluations\u0026rdquo; - \u0026ldquo;Setup\u0026rdquo; - \u0026ldquo;Create/edit supplier evaluation\u0026rdquo;.\u003cbr /\u003e\n\u0026ldquo;Setup\u0026rdquo; - \u0026ldquo;Create/edit supplier rating\u0026rdquo;. With the help of the\u003cbr /\u003e\nwizard guides users through the setup process in five steps. These five steps are described in the\u003cbr /\u003e\ndescribed in more detail in the following sections in the form of an activity guide.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"setup-wizard\"\u003eSetup Wizard\u003c/h3\u003e\n\u003cp\u003eThe setup wizard is used to create new and edit existing supplier ratings. It is opened via the menu item \u0026ldquo;Supplier evaluations\u0026rdquo; - \u0026ldquo;Setup\u0026rdquo; - \u0026ldquo;Create/edit supplier evaluation\u0026rdquo;.\u003cbr /\u003e\n\u0026ldquo;Setup\u0026rdquo; - \u0026ldquo;Create/edit supplier rating\u0026rdquo;. With the help of the \u003cbr /\u003e\nwizard guides users through the setup process in five steps. These five steps are described in the \u003cbr /\u003e\ndescribed in more detail in the following sections in the form of an activity guide.\u003c/p\u003e\n"
     },
     {
         "title" : "Import / Export",
@@ -35,7 +35,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/import-u-export/",
         "url" : "https://docs.belware.de/en-us/connectornav/easysupra/funktionsbeschreibung/import-u-export/",
-        "content_html" : "\u003ch3 id=\"import--export\"\u003eImport / Export\u003c/h3\u003e\n\u003cp\u003eUnder \u0026ldquo;Departments\u0026rdquo; - \u0026ldquo;Supplier evaluation\u0026rdquo; - \u0026ldquo;Administration\u0026rdquo; - \u0026ldquo;Import/export Easy Supra\u003cbr /\u003e\nSetup data\u0026rdquo;, data can be exported or imported as .txt files (see Figure 46). This allows the setup of the evaluations to be used across clients or databases.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/easysupra/Abb46.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFigure 46: Importing data (Import / Export)\u003c/strong\u003e\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"import--export\"\u003eImport / Export\u003c/h3\u003e\n\u003cp\u003eUnder \u0026ldquo;Departments\u0026rdquo; - \u0026ldquo;Supplier evaluation\u0026rdquo; - \u0026ldquo;Administration\u0026rdquo; - \u0026ldquo;Import/export Easy Supra \u003cbr /\u003e\nSetup data\u0026rdquo;, data can be exported or imported as .txt files (see Figure 46). This allows the setup of the evaluations to be used across clients or databases.\u003c/p\u003e\n\u003cp\u003e\u003cp class=\"md__image\"\u003e\r\n  \u003cimg src=\"/images/connectornav/easysupra/Abb46.png\" alt=\"\"  /\u003e\r\n\u003c/p\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFigure 46: Importing data (Import / Export)\u003c/strong\u003e\u003c/p\u003e\n"
     }
     ]
 }
