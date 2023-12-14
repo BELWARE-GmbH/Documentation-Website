@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.101.0" />
+<meta name="generator" content="Hugo 0.105.0">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/connectornav/data-exchange/xrechnung/setup/">
@@ -6107,38 +6107,66 @@ if (!doNotTrack) {
   
 
   <article class="single__contents" data-dir="ltr">
-    <h5 id="einrichtung">Einrichtung</h5>
+    <h1 id="einrichtung">Einrichtung</h1>
 <p>Die Einrichtung für XRechnung wird in der Connector-<strong>Einrichtung</strong> und in der <strong>Kommunikationsmatrix</strong> vorgenommen. Um in die <strong>Einrichtung</strong> zu gelangen, gehen Sie auf <strong>Connector 365 -&gt; Einrichtung</strong> wie im folgenden Bild gezeigt.</p>
 <div class="notices info" data-title="Info">
   Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im späteren Versand nicht auf Fehler stoßen, die sich vermeiden lassen. Weitere Informationen dazu finden Sie am Ende der Dokumentation.
 </div>
-<p><p class="md__image">
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/connectornav/data_exchange/xrech1.png" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 <p>Die Einstellungen, die XRechnung betreffen, finden Sie im Abschnitt <strong>Pro Mandant</strong> unter dem Reiter <strong>PEPPOL/XRechnung Einrichtung</strong></p>
-<p><p class="md__image">
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/connectornav/data_exchange/xrech2.png" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 <p>Hier können Sie folgende Felder/Checkboxen finden:</p>
 <table>
 <thead>
 <tr>
-<th></th>
-<th></th>
+<th>Feld</th>
+<th>Beschreibung</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>PEPPOL Ablagepfad (Optional)</td>
-<td>Hier können Sie einen Pfad hinterlegen, in dem PEPPOL/XRechnung betreffende Dateien (XML-Dateien, Prüfberichte) abgelegt werden sollen. Wenn dieser Pfad nicht gesetzt ist, wird der in der Einrichtung hinterlegte Pfad <strong>com_out</strong> zur Ablage  verwendet.</td>
+<td>PEPPOL Ablagepfad</td>
+<td>Hier können Sie einen Pfad hinterlegen, in dem PEPPOL/XRechnung betreffende Dateien (XML-Dateien, Prüfberichte) abgelegt werden sollen. Wenn dieser Pfad nicht gesetzt ist, wird einzig der in der Einrichtung hinterlegte Pfad <strong>com_out</strong> zur Ablage  verwendet.</td>
 </tr>
 <tr>
-<td>XRechnung Prüfung URL (Optional)</td>
-<td>URL für Validierungsserver. Wenn nicht eingerichtet standardmäßig: <strong>belware-validator.westeurope.cloudapp.azure.com:5090</strong></td>
+<td>XRechnung Prüfung URL</td>
+<td>Gibt die URL für einen Validierungsdienst an, der die Korrektheit einer erstellten PEPPOL- bzw. XRechnung-Datei prüft. Dieses Feld wird nur benötigt, wenn ein <a href="/de-de/connectornav/data-exchange/xrechnung/setup_validator/">eigener Validierungsdienst</a> genutzt werden soll.</td>
 </tr>
 <tr>
-<td>XRechnung prüfen [Ja/Nein]</td>
-<td>Gibt an, ob XRechnung-Dateien durch <strong>XRechnung Prüfung URL</strong> validiert werden sollen.</td>
+<td>XRechnung prüfen</td>
+<td>Gibt an, ob PEPPOL- bzw. XRechnung-Dateien durch einen Validierungsdienst geprüft werden sollen. Wenn <strong>XRechnung Prüfung URL</strong> gesetzt ist, wird die zu prüfende Datei an die hinterlegte URL zwecks Validierung gesendet.</td>
+</tr>
+<tr>
+<td>EN16931 prüfen</td>
+<td>Gibt an, dass erzeugte XML-Dateien auf Konformität zu EN-16931 geprüft werden sollen.</td>
+</tr>
+<tr>
+<td>Leitweg-Id prüfen</td>
+<td>Gibt an, ob eingegebene Leitweg-Ids auf syntaktische Korrektheit geprüft werden sollen.</td>
+</tr>
+<tr>
+<td>XRechnung-Version</td>
+<td>Gibt die XRechnung-Version an, die momentan verwendet wird. Mehr zur XRechnung-Version finden Sie <a href="/de-de/connectornav/data-exchange/xrechnung/setup#xrechnung-version">hier</a>.</td>
+</tr>
+<tr>
+<td>Kennung Standard XRechnung</td>
+<td>Gibt die verwendete Kennung für die momentan verwendete XRechnung-Version an. Mehr zur XRechnung-Version finden Sie <a href="/de-de/connectornav/data-exchange/xrechnung/setup#xrechnung-version">hier</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -6146,24 +6174,42 @@ if (!doNotTrack) {
 <p>Die weitere Einrichtung für XRechnung findet in der Kommunikationsmatrix statt.</p>
 <p>Der einfachste Weg, um in die Kommunikationsmatrix zu gelangen ist, eine der <strong>Connector 365 Templates</strong> für Verkauf, z.B. <strong>Geb. Verkaufsrechnungen</strong> oder <strong>Geb. Verkaufsgutschriften</strong> zu öffnen.<br />
 Markieren Sie dann eine Rechnung für einen Kunden, für den Sie Rechnungen im XRechnung-Format verschicken möchten und klicken Sie oben in der Leiste auf <strong>Kommunikationsmatrix.</strong></p>
-<p><p class="md__image">
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/connectornav/data_exchange/xrech3.png" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 <p>Dies öffnet die Kommunikationsmatrix, vorgefiltert auf den in der markierten Rechnung hinterlegten Kunden.</p>
 <div class="notices info" data-title="Info">
   Dies funktioniert nur, wenn in der Kommunikationsmatrix bereits ein Eintrag für den betreffenden Debitor angelegt wurde. Sollte kein betreffender Eintrag angelegt sein, so ist die folgende Variante anzuwenden.
 </div>
-<p>Alternativ können Sie die Kommunikationsmatrix über das Menü <strong>Connector 365</strong> aufrufen.<br />
-<p class="md__image">
+<p>Alternativ können Sie die Kommunikationsmatrix über das Menü <strong>Connector 365</strong> aufrufen.  </p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/connectornav/data_exchange/xrech4.png" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 <p>Jedoch finden Sie dann eine ungefilterte Ansicht vor, in der Sie einen Überblick über <strong>alle</strong> Einträge in der Matrix erhalten.<br />
-Weite Informationen zur <strong>Kommunikationsmatrix</strong> finden Sie in der dazugehörigen <a href="https://belware.de/images/PDFs/Connector_NAV_Matrixdoku_17082020.pdf?type=file" target="_blank">Dokumentation</a>.</p>
+Weite Informationen zur <strong>Kommunikationsmatrix</strong> finden Sie in der dazugehörigen <a href="/de-de/connectornav/matrix">Dokumentation</a>.</p>
 <p>Das Modul <strong>XRechnung</strong> erweitert die <strong>Kommunikationsmatrix</strong> um folgende Spalten:<br />
 <strong>XRechnung</strong>, <strong>Leitweg-ID</strong> und <strong>XRechnung PDF als Anhang</strong>.</p>
-<p><p class="md__image">
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
   <img src="/images/connectornav/data_exchange/xrech5.png" alt=""  />
-</p></p>
+</p></th>
+</tr>
+</thead>
+</table>
 <p>In folgendem Beispiel wollen wir eine Rechnung für <strong>Gilde Jupiter Versicherungs AG</strong> im **XRechnung-**Format erstellen. Dazu tragen wir die Nummer <strong>1306</strong> (<strong>Standard Sales – Invoice</strong>) in das Feld <strong>Berichts-ID</strong> ein. Für den <strong>Jobmodus</strong> wählen wir <strong>PDF</strong>. Zudem setzen wir ein Häkchen in dem Feld <strong>XRechnung</strong> und tragen eine gültige Leitweg-ID in das Feld <strong>Leitweg-ID</strong> ein. In diesem Testbeispiel haben wir eine Test-Leitweg-ID <strong>123-456-76</strong> eingetragen.<br />
 Die <strong>Leitweg-ID</strong> dient der eindeutigen Identifikation des Rechnungsempfängers (näheres finden Sie im Abschnitt: <strong>Leitweg-ID).</strong><br />
 Mittels der <strong>Dropdown</strong>-Liste <strong>XRechnung PDF als Anhang</strong> haben Sie die Möglichkeit zu bestimmen, ob neben der XRechnung noch die Rechnung als PDF-Datei ‚angehängt‘ werden soll. Die PDF-Datei kann dabei entweder per Mail als zusätzlichen Anhang behandelt werden (<strong>Mail-Modul</strong>), oder in die XML-Datei eingebettet werden. Weitere Informationen zu eingebetteten Anhängen finden Sie unter dem Abschnitt <strong>Begleitende Dokumente</strong>.<br />
@@ -6172,6 +6218,82 @@ Aus der <strong>Dropdown-Liste</strong> des Feldes <strong>PEPPOL Version</stron
 <div class="notices info" data-title="Info">
   Wenn Sie das E-Mail-Modul des Connector 365 erworben haben, so können Sie XRechnung auch für den Jobmodus E-Mail einrichten, um erzeugte XML-Dateien direkt per Mail an den Empfänger weiterzuleiten.
 </div>
+<h2 id="xrechnung-version">XRechnung Version</h2>
+<p><a name="xrechnung-version"></a></p>
+<p>Für den Standard XRechnung gibt es mehrere veröffentlichte Versionen, die jeweils für einen bestimmten Zeitpunkt gültig sind.<br />
+In der <strong>PEPPOL/XRechnung Einrichtung</strong> können Sie angeben, welche Version der XRechnung verwendet werden soll. Jede XRechnung Version verwendet dabei eine eigene Kennung (hier <strong>Kennung Standard XRechnung</strong>):</p>
+<p>Klicken Sie auf den Pfeil am rechten Rand des Feldes <strong>XRechnung-Version</strong>, um eine Übersicht über aktuell verzeichnete Versionen zu erhalten.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/connectornav/data_exchange/xr-version-assist-de.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Es öffnet sich ein neues Fenster:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/connectornav/data_exchange/xr-version-page-de.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Nun erhalten Sie eine Übersicht über XRechnung-Versionen inklusive deren Gültigkeit.<br />
+Hier kann nun eine Version ausgewählt werden, indem eine beliebige Zeile markiert und anschließend die Seite durch Klicken auf <strong>Ok</strong> bestätigt wird.</p>
+<h3 id="xrechnung-versionen-synchronisierenbearbeiten">XRechnung Versionen synchronisieren/bearbeiten</h3>
+<p>Verfügbare XRechnung-Versionen sowie dessen Kennungen können über das Internet synchronisiert werden.<br />
+Unter <strong>Connector 365 Einrichtung</strong> für XRechnung finden Sie dazu eine Aktion <strong>Versionen synchronisieren</strong>, die ausgeführt werden kann.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/connectornav/data_exchange/xr-update-version-de.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Wenn der Funktionsaufruf erfolgreich abgeschlossen ist und neue Versionen gefunden werden konnten, werden diese in der Versionliste mit angezeigt und können ausgewählt werden (Siehe oben).</p>
+<p>Zusätzlich wurde die Möglichkeit offen gelassen, XRechnung-Versionen auch manuell zu editieren. Hierzu steht ein weiterer Funktionsaufruf <strong>Versionen manuell bearbeiten</strong> zur Verfügung:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/connectornav/data_exchange/xr-update-version-manually-de.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Aktuell voreingstellte Versionen und Kennungen:</p>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Kennung</th>
+<th>Gültig ab</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3.0</td>
+<td>urn:cen.eu:en16931:2017#compliant#urn:xeinkauf.de:kosit:xrechnung_3.0</td>
+<td>01.02.2024</td>
+</tr>
+<tr>
+<td><strong>2.3</strong></td>
+<td><strong>urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.3</strong></td>
+<td>01.08.2023</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.2</td>
+<td>01.02.2023</td>
+</tr>
+</tbody>
+</table>
 
   </article>
 </div>
