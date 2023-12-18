@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/documentlayouts/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.105.0">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/custom-filename/first-steps/setup/documentlayouts/">
@@ -12638,7 +12638,7 @@ Two fields are available to you:</p>
 </p></p>
 <p><strong>Creating a new placeholder</strong>.<br />
 First enter the desired placeholder in the <strong>Placeholder</strong> field. We recommend using placeholders here which could not accidentally appear in the subject, for example, if you define the placeholder <strong>Rech</strong> for the invoice number and the subject contains the word <strong>Invoice</strong>, the <strong>Rech</strong> part of the word would be replaced in the subject. It is best to use a combination of special characters and numbers or adjust placeholders so that they do not accidentally appear in words.</p>
-<p>Now you have to define the field to which the placeholder refers. To do this, click on the Assist button of the Definition field.<br />
+<p>Now you have to define the field to which the placeholder refers. To do this, click on the Assist button of the Definition field. <br />
 Now another window opens, in which all fields from the company data, as well as all fields from the header data of the underlying report are available to you. You can select a field assignment for each placeholder.</p>
 <table>
 <thead>
@@ -12651,7 +12651,7 @@ Now another window opens, in which all fields from the company data, as well as 
 </table>
 <p>Repeat this process for all the fields/placeholders you want to use in your subject.</p>
 <div class="notices info" data-title="Technical note">
-  To determine the table for the header data, the report metadata for the particular report is examined for its property: <strong>FirstDataItemTableID</strong>. The standard reports in Business Central store the underlying header for this respective first element (FirstDataItemTableId). Example: Report 1306 -&gt; Sales Invoice Header.<br />
+  To determine the table for the header data, the report metadata for the particular report is examined for its property: <strong>FirstDataItemTableID</strong>. The standard reports in Business Central store the underlying header for this respective first element (FirstDataItemTableId). Example: Report 1306 -&gt; Sales Invoice Header. <br />
 If customized reports have a different structure, i.e. a different table is in the first place, this will also be<br />
 this will also be taken over into the table filter, whereby possibly useless fields will be displayed, or important fields could be missed.<br />
 For such cases there is the possibility to set the correct target table via an event subscriber depending on the report id.<br />

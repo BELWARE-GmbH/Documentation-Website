@@ -20,8 +20,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</guid>
-        <description>Goods receipt/quality protocol The requirements for quality logs vary from company to company. For this reason, Easy Supra provides a wealth of additional fields with different data types (&amp;ldquo;Date&amp;rdquo;, &amp;ldquo;Decimal&amp;rdquo;, &amp;ldquo;Boolean&amp;rdquo;, etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in Easy Supra.
-supplied in Easy Supra. Depending on the existing customer license, this set-up can be performed
+        <description>Goods receipt/quality protocol The requirements for quality logs vary from company to company. For this reason, Easy Supra provides a wealth of additional fields with different data types (&amp;ldquo;Date&amp;rdquo;, &amp;ldquo;Decimal&amp;rdquo;, &amp;ldquo;Boolean&amp;rdquo;, etc.). In just a few steps, an individual quality protocol can be set up using the fields provided in Easy Supra. supplied in Easy Supra. Depending on the existing customer license, this set-up can be performed
 independently or by the responsible Microsoft partner.</description>
       </item>
       
@@ -31,10 +30,8 @@ independently or by the responsible Microsoft partner.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</guid>
-        <description>Hard criteria - inventory management &amp;ldquo;Hard&amp;rdquo; criteria are information that already exists in the system and is arrived at by &amp;ldquo;counting&amp;rdquo;, &amp;ldquo;measuring&amp;rdquo; or &amp;ldquo;weighing&amp;rdquo;, for example in the ordering process. Examples
-of hard criteria are the delivery reliability and the complaint rate.
-Here you can evaluate the information from the following four reference tables: &amp;ldquo;Purchase line&amp;rdquo;, &amp;ldquo;Purchase delivery line&amp;rdquo;, &amp;ldquo;Purchase line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo;. A frequently
-example is the quantity reliability.</description>
+        <description>Hard criteria - inventory management &amp;ldquo;Hard&amp;rdquo; criteria are information that already exists in the system and is arrived at by &amp;ldquo;counting&amp;rdquo;, &amp;ldquo;measuring&amp;rdquo; or &amp;ldquo;weighing&amp;rdquo;, for example in the ordering process. Examples of hard criteria are the delivery reliability and the complaint rate.
+Here you can evaluate the information from the following four reference tables: &amp;ldquo;Purchase line&amp;rdquo;, &amp;ldquo;Purchase delivery line&amp;rdquo;, &amp;ldquo;Purchase line archive&amp;rdquo; and &amp;ldquo;Quality log&amp;rdquo;. A frequently example is the quantity reliability.</description>
       </item>
       
       <item>
@@ -43,9 +40,7 @@ example is the quantity reliability.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</guid>
-        <description>Reclamations The Easy Supra module enables the connection of the Business Central standard purchasing complaints and the associated evaluation of a quantity-based complaints rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via
-the field &amp;ldquo;Clearing with item&amp;rdquo;. If this manual clearing is
-is not set, Business Central automatically performs the standard clearing.</description>
+        <description>Reclamations The Easy Supra module enables the connection of the Business Central standard purchasing complaints and the associated evaluation of a quantity-based complaints rate. To do this, you enter a standard purchasing complaint in Business Central. In the purchasing complaint, the reference to a specific goods receipt must be entered via the field &amp;ldquo;Clearing with item&amp;rdquo;. If this manual clearing is is not set, Business Central automatically performs the standard clearing.</description>
       </item>
       
       <item>
@@ -54,9 +49,7 @@ is not set, Business Central automatically performs the standard clearing.</desc
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</guid>
-        <description>Soft criteria - contact profiles The &amp;ldquo;soft&amp;rdquo; criteria can be freely defined in the facility (see 3.1.4). In the
-contact profiles, the information on the supplier is stored. Examples of soft criteria can be the advertising value of the supplier or the transport connection, i.e.
-Factors which must be assigned subjectively and evaluated with the help of the questions described in section 3.1.4.
+        <description>Soft criteria - contact profiles The &amp;ldquo;soft&amp;rdquo; criteria can be freely defined in the facility (see 3.1.4). In the contact profiles, the information on the supplier is stored. Examples of soft criteria can be the advertising value of the supplier or the transport connection, i.e. Factors which must be assigned subjectively and evaluated with the help of the questions described in section 3.1.4.
 Via the supplier overview (&amp;ldquo;Explore all&amp;rdquo; - &amp;ldquo;Administration&amp;rdquo; - &amp;ldquo;Supplier evaluation&amp;rdquo; - &amp;ldquo;Setup&amp;rdquo; - &amp;ldquo;Supplier overview&amp;rdquo;), you can view and edit the &amp;ldquo;soft&amp;rdquo; criteria that have been assigned to a supplier.</description>
       </item>
       

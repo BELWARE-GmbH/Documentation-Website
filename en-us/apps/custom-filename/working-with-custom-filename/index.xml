@@ -40,8 +40,7 @@ Using your own file names for e-mail attachments First open one of the documents
         <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</guid>
-        <description>Attach as PDF Provided you have made the appropriate setup, the Connector 365 Custom Filename function
-is also available for the Append as PDF function.
+        <description>Attach as PDF Provided you have made the appropriate setup, the Connector 365 Custom Filename function is also available for the Append as PDF function.
 Attach document as PDF In some document types, the Append as PDF function is available by default.
 In the Posted Sales Invoices example, you can find it under the Print/Send action.
 If you execute it, a PDF file will be created from the selected document, and attached to the same document.</description>

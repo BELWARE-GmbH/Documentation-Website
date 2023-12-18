@@ -20,11 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.12.0.1 - 09.09.2023 Korrekturen:
-Behebt Fehler bei Stapelversand mittels Belegsendeprofil-Einrichtung Version 2.12.0.0 - 25.08.2023 Neuerungen:
-Erweiterung der Kommunikationsmatrix um Felder: Stapelmodus Jobmodus Version 2.10.0.0 - 08.08.2023 Neuerungen:
-Einstellbarkeit eines Zeitintervalls zur Verarbeitung offener Aufgaben. Version 2.9.0.0 - 07.08.2023 Neuerungen:
-Freigabefuntion zu offenen Aufgaben. Kompatibilität mit Connector 365 Custom Filename hergestellt. Kompatibilität mit E-POST Belegsendeprofil hergestellt.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.14.0.1 - 23.11.2023 Korrekturen:
+Die ID der E-Mailnachricht wird nun korrekt in die Liste der Connector 365 Aktivitäten geschrieben. Version 2.14.0.0 - 22.11.2023 Neuerungen:
+Die Empfänger-E-Mailadresse wird nun durch Nutzen einer Standardfunktion gesetzt. Version 2.13.0.1 - 12.10.2023 Korrekturen:
+Der Versand von Belegen ohne &amp;ldquo;Sell-To E-Mail&amp;rdquo; Feld bei nicht vorhandenem DOkumentlayout führt nicht mehr zu Fehlern.</description>
       </item>
       
       <item>

@@ -19,7 +19,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/",
         "url" : "https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auszuwertende-daten/",
-        "content_html" : "\u003ch3 id=\"auszuwertende-daten\"\u003eAuszuwertende Daten\u003c/h3\u003e\n\u003cp\u003eNachdem die Einrichtung der Lieferantenbewertung(en) abgeschlossen ist, wird in diesem\u003cbr /\u003e\nKapitel dargestellt, wie und an welchen Stellen in Dynamics 365 Business Central die Daten\u003cbr /\u003e\nentstehen, die später anhand der eingerichteten Bewertungen ausgewertet werden. Bei der\u003cbr /\u003e\nErhebung von „weichen“ und „harten“ Faktoren wird auf unterschiedliche Faktoren zurückgegriffen.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"auszuwertende-daten\"\u003eAuszuwertende Daten\u003c/h3\u003e\n\u003cp\u003eNachdem die Einrichtung der Lieferantenbewertung(en) abgeschlossen ist, wird in diesem \u003cbr /\u003e\nKapitel dargestellt, wie und an welchen Stellen in Dynamics 365 Business Central die Daten \u003cbr /\u003e\nentstehen, die später anhand der eingerichteten Bewertungen ausgewertet werden. Bei der \u003cbr /\u003e\nErhebung von „weichen“ und „harten“ Faktoren wird auf unterschiedliche Faktoren zurückgegriffen.\u003c/p\u003e\n"
     },
     {
         "title" : "Einrichtungsassistent",

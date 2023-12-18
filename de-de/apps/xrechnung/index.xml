@@ -20,13 +20,13 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/</guid>
-        <description>Neu und geplant Version 2.8.0.2 - 06.11.2023 Korrekturen:
+        <description>Neu und geplant Version 2.8.0.3 - 11.12.2023 Korrekturen:
+Der E-Mailbetreff aus Mail Subject Plus wird nun auch bei XRechnungen berücksichtigt. Version 2.8.0.2 - 06.11.2023 Korrekturen:
 Korrektur der Anzeige von XRechnung-Status in Rollencenter:
 -&amp;gt; Gesendete XRechnungen der letzten 30 Tage
 -&amp;gt; XRechnung-Entwürfe im Ausgang Version 2.8.0.0 - 31.08.2023 Neuerungen:
 Erweiterung der Belegsendeprofile um die Möglichkeit der XRechnung-Verarbeitung Version 2.7.0.0 - 25.08.2023 Neuerungen:
-Erweiterung der Kommunikationsmatrix um Felder: Kundenreferenz Dokument als Anhang hinzufügen Geplante Funktionen für zukünftige Versionen Version 2.5.0.3 - 31.07.2023 Neuerungen:
-Kompatibiltät zu XRechnung 2.3 Leitweg-Id-Prüfung nur noch optional - führt nicht mehr zum Fehler Möglichkeit, XRechnung Version und Kennung in Einrichtung festzulegen Korrektur:</description>
+Erweiterung der Kommunikationsmatrix um Felder: Kundenreferenz Dokument als Anhang hinzufügen Geplante Funktionen für zukünftige Versionen Version 2.</description>
       </item>
       
       <item>
