@@ -41,7 +41,8 @@ The switch &amp;ldquo;Save Files in Joblist&amp;rdquo; determines whether docume
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/base/first-steps/setup/delete-activity-files/</guid>
-        <description>Delete action for archived files Saving the report files in the activity list initially comes with the disadvantage of constantly increasing memory usage of the Business Central database. To counteract this, as of version 2.4.0.0 of the Base app, the Actions menu can be seen in the Connector 365 setup.
+        <description>Delete action for archived files Saving the report files in the activity list initially comes with the disadvantage of constantly increasing memory usage of the Business Central database.
+To counteract this, as of version 2.4.0.0 of the Base app, the Actions menu can be seen in the Connector 365 setup.
 When the menu is opened, the function &amp;ldquo;Delete Activity Files&amp;rdquo; is showing.
 After triggering the function, an input window appears where the start date (older date) for the delete action can be selected:</description>
       </item>
