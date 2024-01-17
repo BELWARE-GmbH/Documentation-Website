@@ -20,11 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/further_targets/</guid>
-        <description>Weitere E-Mail-Empfänger einrichten Neben der Funktionalität, Zieladressen pro Jobmodus und Verwendung einzurichten,
-bietet Connector 365 Addressee Control eine weitere Funktion an, die es erlaubt, pro Debitor und Verwendung noch weitere E-Mail-Empfänger festzulegen. Wie Sie dies einrichten können, erfahren Sie im Folgenden.
+        <description>Weitere E-Mail-Empfänger einrichten Neben der Funktionalität, Zieladressen pro Jobmodus und Verwendung einzurichten, bietet Connector 365 Addressee Control eine weitere Funktion an, die es erlaubt, pro Debitor und Verwendung noch weitere E-Mail-Empfänger festzulegen. Wie Sie dies einrichten können, erfahren Sie im Folgenden.
 Einrichtung Weitere Debitor-Zieladressen können Sie in den Dokumentlayouts des gewünschten Debitors hinterlegen.
 Die Connector 365 Addressee Control App erweitert die Dokumentlayouts um ein weiteres Feld: Weitere Ziele.
-Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt eingerichtet sind.</description>
+Der Inhalt des Feldes gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt eingerichtet sind.</description>
       </item>
       
       <item>
@@ -34,7 +33,8 @@ Der Inhalt des Felds gibt an, ob weitere Zieladressen zum aktuellen Zeitpunkt ei
         
         <guid>https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Einrichtung Zieladressen pro Bericht Um die Zieladressen-Logik über die Connector 365 Addressee Control App nach Belieben einzustellen, öffnen Sie eine der Seiten Berichtsauswahlen.
-Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Lager Mahnung/Zinsrechnung ab Version 1.2.0.0 Bankkonto Projekt Service ab Version 1.4.0.0 Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.</description>
+Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit Connector 365 Addressee Control.Verwendung Unterstützt Verkauf Einkauf Lager Cashflow Mahnung/Zinsrechnung ab Version 1.2.0.0 Bankkonto Projekt Service ab Version 1.4.0.0 Die Connector 365 Addressee Control App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.
+Beispiel aus dem Bereich Verkauf -&amp;gt; Berichtsauswahl - Verkauf:</description>
       </item>
       
     
