@@ -20,8 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Using the search function, open the Marketplace for Extensions and open it.
-The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 Addressee Control. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+        <description>Installation AppSource Using the Tell me-function, open the Extension Marketplace.
+The Microsoft AppSource will open. There you can use the search function to find the Connector 365 Addressee Control. Click on Free Trial to get the app and start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
       </item>
       
@@ -31,7 +31,7 @@ After submitting your contact information, you will be prompted to choose a lang
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addressee Control App from us by mail. These must first be published and then installed.
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addressee Control App from us by email. These must first be published and then installed.
 Publish the Connector 365 Base &amp;amp; Addressee Control app Publishing the Connector 365 Base &amp;amp; Addressee Control app is done via the Business Central Administration Shell. First, transfer the files we send you to the server where your Business Central instance is running.</description>
       </item>
       

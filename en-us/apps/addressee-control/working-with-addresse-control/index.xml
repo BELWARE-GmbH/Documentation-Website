@@ -33,8 +33,7 @@ The e-mail dialog window opens as usual:</description>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
         <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices.
-It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
-Connector 365 Addressee Control app:
+It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via the Connector 365 Addressee Control app:
 Assume that an invoice is to be sent where the invoice recipient and the buyer are different:
 For simplicity, Bill-To-Customer@mail.de has been set up below for the invoice recipient, and Sell-To-Customer@mail.</description>
       </item>

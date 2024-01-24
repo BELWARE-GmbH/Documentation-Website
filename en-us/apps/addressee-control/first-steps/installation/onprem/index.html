@@ -1114,7 +1114,7 @@
     "datePublished": "2020-02-28T10:08:56+09:00",
     "dateModified": "2020-02-28T10:08:56+09:00",
     "url" : "https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/onprem/",
-    "description": "Installation OnPrem You will receive the objects for the Connector 365 Base \u0026amp; Addressee Control App from us by mail. These must first be published and then installed. …",
+    "description": "Installation OnPrem You will receive the objects for the Connector 365 Base \u0026amp; Addressee Control App from us by email. These must first be published and then …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://docs.belware.de/"
@@ -12614,7 +12614,7 @@ if (!doNotTrack) {
   <article class="single__contents" data-dir="ltr">
     <h3 id="installation">Installation</h3>
 <h3 id="onprem">OnPrem</h3>
-<p>You will receive the objects for the Connector 365 Base &amp; Addressee Control App from us by mail. These must first be published and then installed.</p>
+<p>You will receive the objects for the Connector 365 Base &amp; Addressee Control App from us by email. These must first be published and then installed.</p>
 <h4 id="publish-the-connector-365-base--addressee-control-app">Publish the Connector 365 Base &amp; Addressee Control app</h4>
 <p>Publishing the Connector 365 Base &amp; Addressee Control app is done via the <strong>Business Central Administration Shell</strong>. First, transfer the files we send you to the server where your Business Central instance is running.</p>
 <p><p class="md__image">
@@ -12625,12 +12625,12 @@ if (!doNotTrack) {
 <p><code>cd C:\Apps</code></p>
 <p>Now that you are in the appropriate folder, you can use the following command to first publish the base app</p>
 <div class="notices info" data-title="Notice">
-  <em>The order of publication is important, please always publish the Connector 365 Base App first.</em>}
+  <em>The order of publication is important, please always publish the Connector 365 Base App first.</em>
 </div>
 <h1 id="heading"></h1>
 <p><strong>Example:</strong></p>
 <p><code>Publish-NAVApp -ServerInstance yourBusinessCentralinstance -Path &quot;.\BaseApp.app&quot;</code></p>
-<p>Afterwards you should also perform the process for the actual Connector 365 Addressee Control app</p>
+<p>Afterwards you should also perform the process for the actual Connector 365 Addressee Control app.</p>
 <p><strong>Example:</strong></p>
 <p><code>Publish-NAVApp -ServerInstance yourBusinessCentralinstance -Path &quot;.\AddresseeControl.app&quot;</code></p>
 <p>Both apps should now be published in the system.</p>
@@ -12645,14 +12645,14 @@ if (!doNotTrack) {
 </p></p>
 <h5 id="installing-via-the-client">Installing via the Client</h5>
 <p>Open your Business Central environment, open the search function and search for <strong>Extension Management</strong>.</p>
-<p>There you should now find the two apps with the status not installed. By clicking on the 3 dots of the respective app, you can now install it in your environment via the <strong>Install</strong> item.</p>
+<p>There you should now find the two apps with the status <i>not installed</i>. By clicking on the 3 dots of the respective app, you can now install it in your environment via the <strong>Install</strong> item.</p>
 <p><p class="md__image">
   <img src="/images/apps/appinstallde.PNG" alt=""  />
 </p></p>
 <h5 id="installing-via-the-administration-shell">Installing via the Administration Shell</h5>
 <p>In case you want to install via the Administration Shell (this has the advantage that you can install on several tenants at once), you have to use the <strong>Install-NAVApp</strong> command. You should specify the <strong>tenant ID</strong> when doing this. In the following examples we install the apps in two tenants.</p>
 <div class="notices info" data-title="Note">
-  <em>The installation order also matters, please always install the Connector 365 Base app first</em>.
+  <em>The installation order also matters, therefore please install always the Connector 365 Base app first</em>.
 </div>
 <h1 id="heading-2"></h1>
 <p>To install the Connector 365 Base app, use the following command:</p>

@@ -21,7 +21,7 @@
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Setup To set the destination address logic as desired via the Connector 365 Addressee Control app, open one of the Report Selections pages.
-Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account Service from version 1.4.0.0 on The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
+Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account Project Service from version 1.4.0.0 on The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
       </item>
       
       <item>
@@ -30,10 +30,9 @@ Please refer to the following table of currently usable report selections for us
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/multiple_recipients/</guid>
-        <description>Set up additional e-mail recipients In addition to the functionality to set up destination addresses per job mode and usage,
-Connector 365 Addressee Control offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
+        <description>Set up additional e-mail recipients In addition to the functionality to set up destination addresses per job mode and usage, Connector 365 Addressee Control offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
 Setup You can store additional customer destination addresses in the document layouts of the desired customer.
-The Connector 365 Addressee Control app adds another field to the Document Layouts: Additional Destinations.</description>
+The Connector 365 Addressee Control app adds another field to the Document Layouts: Further targets.</description>
       </item>
       
     

@@ -75,8 +75,8 @@ Actions E-POST With this action you send the E-POST. PDF With this action you cr
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/appsource/</guid>
-        <description>Installation AppSource Using the search function, open the Marketplace for Extensions and open it.
-The Microsoft AppSource will open. There you can use the search function again to find the Connector 365 Addressee Control. Click on Get it now to start the installation. Before the installation starts, you have to provide some contact information.
+        <description>Installation AppSource Using the Tell me-function, open the Extension Marketplace.
+The Microsoft AppSource will open. There you can use the search function to find the Connector 365 Addressee Control. Click on Free Trial to get the app and start the installation. Before the installation starts, you have to provide some contact information.
 After submitting your contact information, you will be prompted to choose a language for the app. Our app is available in English and German.</description>
       </item>
       
@@ -432,8 +432,8 @@ The phone number of the person calling is stored in a contact. If this is not th
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/introduction/</guid>
-        <description>Introduction With the Connector 365 Addressee Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is the standard.
-Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also determine whether a recipient is to be reached via CC or BCC.</description>
+        <description>Introduction With the Connector 365 Addressee Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is usual in the standard settings.
+Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also specify whether a recipient is to be reached via CC or BCC.</description>
       </item>
       
       <item>
@@ -1172,7 +1172,7 @@ If a different invoice recipient is specified in an invoice, a search is made in
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Setup To set the destination address logic as desired via the Connector 365 Addressee Control app, open one of the Report Selections pages.
-Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account Service from version 1.4.0.0 on The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
+Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account Project Service from version 1.4.0.0 on The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
       </item>
       
       <item>
@@ -1664,7 +1664,7 @@ In the communication matrix you can now define via &amp;ldquo;XRechnung PDF as a
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/onprem/</guid>
-        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addressee Control App from us by mail. These must first be published and then installed.
+        <description>Installation OnPrem You will receive the objects for the Connector 365 Base &amp;amp; Addressee Control App from us by email. These must first be published and then installed.
 Publish the Connector 365 Base &amp;amp; Addressee Control app Publishing the Connector 365 Base &amp;amp; Addressee Control app is done via the Business Central Administration Shell. First, transfer the files we send you to the server where your Business Central instance is running.</description>
       </item>
       
@@ -1674,10 +1674,9 @@ Publish the Connector 365 Base &amp;amp; Addressee Control app Publishing the Co
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/test-purchase/onprem/</guid>
-        <description>Test &amp;amp; Purchase OnPrem We grant the option to test the app without obligation for 30 days or to purchase it directly.
+        <description>Test &amp;amp; Purchase OnPrem You have the possibility to test our Connector 365 Addressee Control App in advance without obligation for 30 days or you can purchase it directly.
 Before ordering, you can find the costs incurred in the price list provided on our website.
-To the order formIf you wish a trial period you will receive the necessary runtime packages from us for a trial period of 30 days.
-If you want to buy the software immediately we will send you the necessary runtime packages.</description>
+To the order formIf you wish a trial period you will receive the necessary runtime packages from us for a trial period of 30 days.</description>
       </item>
       
       <item>
@@ -2869,8 +2868,7 @@ If none is found there, the fax number entered in the card of the dunning recipi
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/</guid>
         <description>Working with specified target addresses To illustrate how this works, the following is an example of how to handle posted sales invoices.
-It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via then
-Connector 365 Addressee Control app:
+It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via the Connector 365 Addressee Control app:
 Assume that an invoice is to be sent where the invoice recipient and the buyer are different:
 For simplicity, Bill-To-Customer@mail.de has been set up below for the invoice recipient, and Sell-To-Customer@mail.</description>
       </item>
@@ -3339,8 +3337,8 @@ Here you should now fill the field “Tax category” with the respective design
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/videos/</guid>
-        <description>Videos Here you can find some informative videos about our Connector 365 Address Control App, each video covers a specific topic:
-Brief overview of the app </description>
+        <description>Videos Here you can find a short video about our Connector 365 Address Control App:
+Short overview of the app </description>
       </item>
       
       <item>
@@ -3369,10 +3367,9 @@ Setup &amp;amp; Sending </description>
         <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/multiple_recipients/</guid>
-        <description>Set up additional e-mail recipients In addition to the functionality to set up destination addresses per job mode and usage,
-Connector 365 Addressee Control offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
+        <description>Set up additional e-mail recipients In addition to the functionality to set up destination addresses per job mode and usage, Connector 365 Addressee Control offers another feature that allows you to set up even more email recipients per customer and usage. To learn how to set this up, please see below.
 Setup You can store additional customer destination addresses in the document layouts of the desired customer.
-The Connector 365 Addressee Control app adds another field to the Document Layouts: Additional Destinations.</description>
+The Connector 365 Addressee Control app adds another field to the Document Layouts: Further targets.</description>
       </item>
       
       <item>

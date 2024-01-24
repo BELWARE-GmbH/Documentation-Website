@@ -20,8 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/introduction/</guid>
-        <description>Introduction With the Connector 365 Addressee Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is the standard.
-Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also determine whether a recipient is to be reached via CC or BCC.</description>
+        <description>Introduction With the Connector 365 Addressee Control App you can flexibly determine which destination addresses should be used for sending documents. You may want to send a document to the customer by default and not to the invoice recipient as is usual in the standard settings.
+Furthermore, you have the option of conveniently adding additional destination addresses per customer or vendor. You can also specify whether a recipient is to be reached via CC or BCC.</description>
       </item>
       
       <item>
@@ -43,7 +43,7 @@ In case a question could not be answered, we will be glad to help you personally
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/</guid>
         <description>Installation of the Connector 365 Addressee Control App Here you will find all help and learning resources about installing the Connector 365 Addressee Control App.
 Simply use either the bottom or left navigation menu.
-In case a question could not be answered, we will be glad to help you personally. the necessary contact information can be found on the support page.</description>
+In case a question could not be answered, we will be glad to help you personally. The necessary contact information can be found on the support page.</description>
       </item>
       
       <item>
