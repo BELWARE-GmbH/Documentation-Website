@@ -2093,21 +2093,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/connectornav/status-report/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -2529,6 +2514,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/fax/faxmaker/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/"
                 />
   </url>
   
@@ -4520,6 +4520,16 @@
   <url>
     <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/"
+                />
   </url>
   
   <url>
@@ -6404,6 +6414,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/data-exchange/peppol/standard/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/"
                 />
   </url>
   

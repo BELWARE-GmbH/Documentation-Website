@@ -15,14 +15,15 @@
     
       
       <item>
-        <title>STARFACE Modul</title>
-        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        <title>CTI for STARFACE Authentifizierung</title>
+        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
-        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Einrichtung Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch diese entsprechend eingerichtet werden. Dazu benötigen Sie ein Modul, das Sie weiter unten auf dieser Seite passend zu Ihrer STARFACE-Version herunterladen können.
-Informationsquellen Für die Einrichtung der STARFACE-Software benötigen Sie einige Informationen. Wo Sie diese in Business Central finden, wird hier beschrieben.
-Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter &amp;ldquo;Benutzer&amp;rdquo; in der jeweiligen &amp;ldquo;Benutzerkarte&amp;rdquo;.</description>
+        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/</guid>
+        <description>CTI for STARFACE Authentifizierung Um Ihrer STARFACE-Telefonalnage den Zugriff auf Business Central zu ermöglichen, muss sich das STARFACE Modul mit den nötigen Berechtigungen gegenüber Business Central authentifizieren.
+Dies wird über eine Microsoft Entra (ehemals Microsoft Azure) Anwendung ermöglicht, welche zentral von uns bereitgestellt wird und liefert die nötigen Berechtingen.
+Sie müssen dieser Anwendung lediglich noch die Zustimmung erteilen.
+Um die Microsoft Entra Anwendung einzurichten, nutzen Sie zunächst die Suchfunktion von Business Central und öffnen die Microsoft Entra Anwendungen umd die Liste der Microosft ENtra Anwednungen zu öffnen.</description>
       </item>
       
       <item>
@@ -45,6 +46,17 @@ An dieser Stelle können globale Einstellungen für die Funktionsweise der App v
         <description>Einrichtung von Gruppen Gruppen bieten Ihnen die Möglichkeit, Ihre Nutzer zu sortieren. Dies kann zum Beispiel anhand der Zugehörigkeit zu einer Abteilung oder einem Team erfolgen. Nutzer, die einer Gruppe zugewiesen werden, sehen nur andere Nutzer aus der gleichen Gruppe in ihrem CTI-Client. Die Benutzung von Gruppen ist optional.
 Öffnen Sie über die Suchfunktion die CTI-Gruppen, hier findet sich eine Tabelle mit zwei Spalten.
 Wenn Sie eine neue Gruppe anlegen wollen, klicken Sie auf Neu, um die Bearbeitung zu aktivieren.</description>
+      </item>
+      
+      <item>
+        <title>STARFACE Modul</title>
+        <link>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <description>Einrichtung Damit die Kommunikation zwischen Microsoft Dynamics 365 Business Central und der STARFACE Telefonanlage funktioniert, muss auch diese entsprechend eingerichtet werden. Dazu benötigen Sie ein Modul, das Sie weiter unten auf dieser Seite passend zu Ihrer STARFACE-Version herunterladen können.
+Informationsquellen Für die Einrichtung der STARFACE-Software benötigen Sie einige Informationen. Wo Sie diese in Business Central finden, wird hier beschrieben.
+Den Namen der Microsoft Dynamics 365 Business Central Benutzer sowie den jeweiligen Webschlüssel finden Sie, in Microsoft Dynamics 365 Business Central unter &amp;ldquo;Benutzer&amp;rdquo; in der jeweiligen &amp;ldquo;Benutzerkarte&amp;rdquo;.</description>
       </item>
       
     

@@ -2598,6 +2598,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/</loc>
+    <lastmod>2020-02-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/connector-upgrade/first-steps/introduction/</loc>
     <lastmod>2020-02-28T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -4089,21 +4104,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/connectornav/sms/send_via_contacts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/"
                 />
   </url>
   
@@ -6373,6 +6373,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/starface-modul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/documentlayouts/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -7664,6 +7679,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://docs.belware.de/en-us/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/"
                 />
   </url>
   

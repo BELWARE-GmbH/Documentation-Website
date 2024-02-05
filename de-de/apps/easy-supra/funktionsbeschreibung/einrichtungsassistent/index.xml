@@ -46,8 +46,7 @@ Legen Sie für die Bewertung einen Gültigkeitszeitraum über die Felder „Gül
         <description>Stufe 2 Abbildung 7: Einrichtungsassistent – Stufe 2
 Die farblich rot gehaltenen Ziffern entsprechen der gewählten Gewichtung der jeweiligen Kriterienkategorie (vgl. Abbildung 7). Mit einem Klick auf den AssistEdit gelangen Sie zur Einrichtung der gewünschten Kriterien. Die folgende Abbildung 8 zeigt exemplarisch die Einrichtung der „harten“ Faktoren.
 Abbildung 8: Kriterienauswahl am Beispiel der „harten“ Kriterien
-Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen Kriteriencode,
-eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</description>
+Definieren Sie in dieser Maske alle relevanten Kriterien. Dazu geben Sie einen Kriteriencode, eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</description>
       </item>
       
       <item>
@@ -56,13 +55,9 @@ eine Beschreibung und die Referenzfelder als Bewertungsgrundlage an.</descriptio
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-3/</guid>
-        <description>Stufe 3 In Stufe 3 definieren Sie die Punktevergabe der harten und weichen Kriterien mit einem Klick
-auf die rot gekennzeichneten Felder.
-Abbildung 14: Einrichtungsassistent – Stufe 3
-(Kontrolle/Modifikation d. Punktvergabe)
-Klicken Sie zunächst auf die rote Zahl der harten Kriterien. Es öffnet sich eine Maske, in der
-alle zugeteilten Kriterien erscheinen. Verteilen Sie in dieser Maske die zu vergebenden 100
-Punkte über einen beliebigen Schlüssel (vgl. Abbildung 15).
+        <description>Stufe 3 In Stufe 3 definieren Sie die Punktevergabe der harten und weichen Kriterien mit einem Klick auf die rot gekennzeichneten Felder.
+Abbildung 14: Einrichtungsassistent – Stufe 3 (Kontrolle/Modifikation d. Punktvergabe)
+Klicken Sie zunächst auf die rote Zahl der harten Kriterien. Es öffnet sich eine Maske, in der alle zugeteilten Kriterien erscheinen. Verteilen Sie in dieser Maske die zu vergebenden 100 Punkte über einen beliebigen Schlüssel (vgl. Abbildung 15).
 Abbildung 15: Zuweisung von 100 Punkten</description>
       </item>
       
@@ -85,12 +80,9 @@ Abbildung 17: Liste der zugeordneten Kreditoren</description>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-5/</guid>
         <description>Stufe 5 Bestätigen Sie im Assistenten mit „Weiter“, um zum letzten Einrichtungsschritt zu gelangen.
-Richten Sie in dem Fenster die Klassifizierung der Bewertung ein (vgl. Abbildung 18). Klicken
-Sie hierzu auf den rot kursiven Text „Klassifizierung nicht abgeschlossen“.
-Abbildung 18: Einrichtungsassistent – Stufe 5
-(Definition der Klassifizierung)
-Drücken Sie auf die Schaltfläche „Neu“, um eine neue Klassifizierung anzulegen. Nachfolgend wird exemplarisch der Bewertungscode „TESTBEWERT“ ausgewählt. Die Kreditoren
-werden hier nun beispielhaft mit den eingerichteten Klassifizierungscodes „A“, „B“, „C“ oder</description>
+Richten Sie in dem Fenster die Klassifizierung der Bewertung ein (vgl. Abbildung 18). Klicken Sie hierzu auf den rot kursiven Text „Klassifizierung nicht abgeschlossen“.
+Abbildung 18: Einrichtungsassistent – Stufe 5 (Definition der Klassifizierung)
+Drücken Sie auf die Schaltfläche „Neu“, um eine neue Klassifizierung anzulegen. Nachfolgend wird exemplarisch der Bewertungscode „TESTBEWERT“ ausgewählt. Die Kreditoren werden hier nun beispielhaft mit den eingerichteten Klassifizierungscodes „A“, „B“, „C“ oder „D“ ausgezeichnet, entsprechend der erreichten Punktzahl.</description>
       </item>
       
     
