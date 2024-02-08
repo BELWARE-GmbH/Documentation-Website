@@ -20,9 +20,13 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auswertung/bewertung-einrichtung/</guid>
-        <description>Bewertung - Einrichtung Die Auswertung „Bewertung – Einrichtung“ zeigt die Zusammenstellung und Einrichtung der Lieferantenbewertung. Wählen Sie hierzu zunächst die jeweilige Lieferantenbewertung über die „Lookup“-Schaltfläche aus.
+        <description>Bewertung - Einrichtung Die Auswertung „Bewertung – Einrichtung“ zeigt die Zusammenstellung und Einrichtung der
+Lieferantenbewertung. Wählen Sie hierzu zunächst die jeweilige Lieferantenbewertung über
+die „Lookup“-Schaltfläche aus.
 Abbildung 38 : Optionsmaske Bericht Lieferantenbewertung - Einrichtung
-Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Kriterien, sowie die genutzten Klassifizierungen und stellt diese anschaulich dar (vgl. Abbildung 39). Damit ist für jeden Anwender nachvollziehbar, aus welchen Details sich die ausgewählte Lieferantenbewertung zusammensetzt. Diese Übersicht, kann sich von einer eingerichteten Lieferantenbewertung zur anderen unterscheiden (bspw.</description>
+Der Bericht liefert die Aufschlüsselung der „harten“ und „weichen“ Kriterien, sowie die genutzten Klassifizierungen und stellt diese anschaulich dar (vgl. Abbildung 39). Damit ist für jeden
+Anwender nachvollziehbar, aus welchen Details sich die ausgewählte Lieferantenbewertung
+zusammensetzt. Diese Übersicht, kann sich von einer eingerichteten Lieferantenbewertung</description>
       </item>
       
       <item>
@@ -36,7 +40,8 @@ Abbildung 40: Optionsmaske für den Bericht
 „Lieferantenbewertung – Kreditor Liste“
 Die Liste gibt folgende Informationen aus: Kreditoren-Nr., Kreditoren-Name, Ergebnis bei harten und weichen Kriterien, den entsprechend erreichten Punktebereich inkl. „Klassifizierung“
 und schlussendlich die erreichte Gesamtpunktzahl als „Endergebnis“ pro Lieferant.
-Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Bei einem Klick auf die unterstrichene Kreditoren-Nr.</description>
+Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Bei einem Klick
+auf die unterstrichene Kreditoren-Nr.</description>
       </item>
       
       <item>
@@ -45,11 +50,12 @@ Sie können in diesem Bericht direkt auf verknüpfte Informationen zugreifen: Be
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/funktionsbeschreibung/auswertung/bewertung-kreditor-einzeln/</guid>
-        <description>Bewertung - Kreditor einzeln Der Bericht „Bewertung – Kreditor einzeln“ basiert auf dem Bericht „Bewertung - Einrichtung“ und liefert Detailinformationen zu einer bestimmten Lieferantenbewertung für einen ausgewählten Lieferanten.
+        <description>Bewertung - Kreditor einzeln Der Bericht „Bewertung – Kreditor einzeln“ basiert auf dem Bericht „Bewertung - Einrichtung“
+und liefert Detailinformationen zu einer bestimmten Lieferantenbewertung für einen ausgewählten Lieferanten.
 Abbildung 42: Optionsmaske für den Bericht –
 „Lieferantenbewertung – Kreditor“
 Der Bericht liefert detaillierte Informationen zu jedem bewerteten Kriterium. Am Beispiel von
-Abbildung 43 lassen sich alle Lieferungen identifizieren, die einer „pünktlichen Lieferung“ entsprechend sind. Sobald Datensätze (z. B. Lieferungen) in die Bewertung eines Kriteriums eingeflossen sind, werden diese Datensätze ausgegeben.</description>
+Abbildung 43 lassen sich alle Lieferungen identifizieren, die einer „pünktlichen Lieferung“ entsprechend sind. Sobald Datensätze (z. B. Lieferungen) in die Bewertung eines Kriteriums</description>
       </item>
       
     

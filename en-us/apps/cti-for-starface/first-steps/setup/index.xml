@@ -15,13 +15,15 @@
     
       
       <item>
-        <title>STARFACE Module</title>
-        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        <title>CTI for STARFACE Authentication</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/</link>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0900</pubDate>
         
-        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
-        <description>Setup In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, it must also be set up accordingly. For this you need a module that you can download further down on this page according to your STARFACE version.
-Sources of Information For the setup of the STARFACE software some information is required. Where to find it in Business Central is described here.</description>
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-authentication/</guid>
+        <description>CTI for STARFACE Authentication To enable your STARFACE telephone alnage to access Business Central, the STARFACE module must authenticate itself to Business Central with the necessary authorizations.
+This is made possible via a Microsoft Entra (formerly Microsoft Azure) application, which is provided centrally by us and provides the necessary authorizations.
+All you have to do is give this application your consent.
+To set up the Microsoft Entra application, first use the search function of Business Central and open the Microsoft Entra applications to open the list of Microsoft Entra applications.</description>
       </item>
       
       <item>
@@ -33,6 +35,27 @@ Sources of Information For the setup of the STARFACE software some information i
         <description>Setup Groups Groups offer you the possibility to sort your users no matter if it is a subdivision per department or per team, it can be mapped with groups. Users assigned to a group will only see other users from the same group in their CTI client. The use of groups is optional.
 Open with the search function the &amp;ldquo;CTI Groups&amp;rdquo;, here you find a table with two columns.
 If you want to create a new group, click &amp;ldquo;New&amp;rdquo; to activate the editing.</description>
+      </item>
+      
+      <item>
+        <title>STARFACE Module</title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/starface-modul/</guid>
+        <description>Setup In order for the communication between Microsoft Dynamics 365 Business Central and the STARFACE telephone system to work, it must also be set up accordingly. For this you need a module that you can download further down on this page according to your STARFACE version.
+Sources of Information For the setup of the STARFACE software some information is required. Where to find it in Business Central is described here.</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/cti-for-starface/first-steps/setup/cti-for-starface-setup/</guid>
+        <description>CTI for STARFACE in the Connector 365 setup To set up the Connector 365 CTI for STARFACE app, first use the Business Central search function and open the Connector 365 setup. There you will find the CTI for STARFACE setup section.
+Global settings for the functionality of the app can be made here.
+The Open CTI page field can be used to select whether the CTI window is opened for calls and for which call direction this should apply: incoming, outgoing or both directions.</description>
       </item>
       
     

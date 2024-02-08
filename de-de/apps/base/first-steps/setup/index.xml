@@ -41,7 +41,8 @@ Dort finden Sie zur Einstellung der Base App zwei Schalter:
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/first-steps/setup/delete-activity-files/</guid>
-        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst. Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
+        <description>Löschaktion für archivierte Dateien Das Speichern der Belegdateien in der Aktivitätenliste ist zunächst mit dem Nachteil verbunden, dass der Speicherplatzbedarf der Business Central Datenbank ständig anwächst.
+Um dem entgegenwirken zu können, ist ab Version 2.4.0.0 der Base App in der Connector 365 Einrichtung das Menü Aktionen zu sehen.
 Bei Öffnen des Menüs erscheint die Funktion &amp;ldquo;Aktivitätendateien löschen&amp;rdquo;.
 Nach Auswahl der Funktion erscheint ein Eingabefenster, in dem das Startdatum (älteres Datum) für die Löschaktion gewählt werden kann:</description>
       </item>
