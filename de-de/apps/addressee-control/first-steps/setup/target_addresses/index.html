@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/apps/addressee-control/first-steps/setup/target_addresses/">
@@ -4079,7 +4079,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -9833,7 +9833,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -12339,7 +12339,7 @@ if (!doNotTrack) {
     <h3 id="einrichtung-zieladressen-pro-bericht">Einrichtung Zieladressen pro Bericht</h3>
 <p>Um die Zieladressen-Logik über die <strong>Connector 365 Addressee Control</strong> App nach Belieben einzustellen, öffnen Sie eine der Seiten <em>Berichtsauswahlen</em>.</p>
 <div class="notices info" data-title="Hinweis">
-  Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit <strong>Connector 365 Addressee Control</strong>.
+  Bitte beachten Sie die folgende Tabelle der aktuell nutzbaren Berichtsauswahlen für die Nutzung mit <strong>Connector 365 Addressee Control</strong>. Dies bedeutet jedoch nicht, dass alle Verwendungen der einzelnen Berichtsauswahlseiten unterstützt werden.
 </div>
 <table>
 <thead>
@@ -12383,60 +12383,74 @@ if (!doNotTrack) {
 </tr>
 </tbody>
 </table>
-<p>Die <strong>Connector 365 Addressee Control</strong> App erweitert unterstützte Berichtsauswahlseiten um eine Auswahlliste.</p>
+<p>Die <strong>Connector 365 Addressee Control</strong> App erweitert unterstützte Verwendungen einzelner Berichtsauswahlseiten um eine Auswahlliste.</p>
 <p><em>Beispiel aus dem Bereich Verkauf -&gt; <strong>Berichtsauswahl - Verkauf</strong>:</em></p>
 <table>
 <thead>
 <tr>
-<th><img src="/images/apps/Addresse_Control/Berichtsauswahl_Verkauf.png" /></th>
+<th><img src="/images/apps/Addresse_Control/AddresseeControl_Priorität_der_Adresse_DEU.png" /></th>
 </tr>
 </thead>
 </table>
-<p>Nun haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik einzustellen.<br />
-Klicken Sie hierzu auf den <strong>Assist Button</strong> (<em><strong>Drei Pünktchen</strong></em>) des Feldes <strong>Ziel aus Feldnummer</strong>.</p>
-<table>
-<thead>
-<tr>
-<th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_AssistButton.png" alt=""  />
-</p></th>
-</tr>
-</thead>
-</table>
-<p>Damit öffnet sich eine neue Seite: <strong>Mögliche Zieladressen</strong>.</p>
-<table>
-<thead>
-<tr>
-<th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/Zieladdressen_Lookup_Page.png" alt=""  />
-</p></th>
-</tr>
-</thead>
-</table>
-<p>Nun haben Sie die Möglichkeit, eines der aufgezeigten Felder als Standard-Zieladresse zu definieren.<br />
-Die angezeigten Felder auf dieser Seite sind Felder, welche einen direkten Bezug zu einem Debitor/Kreditor oder zu einem Kontakt haben.<br />
-Legt man also beispielsweise für die Verwendung (Verkaufs-)<strong>Rechnung</strong> eine Verknüpfung zu Feld Nr. <strong>2</strong> - <strong>Verk. an Deb.-Nr.</strong> an, so wird der Empfänger einer Verkaufsrechnung künftig immer aus dem Debitor gesucht, welcher mit <strong>Verk. an Deb.-Nr.</strong> verknüpft ist.</p>
-<div class="notices info" data-title="Info">
-  Wählt man als Zieladresse eine Feldzuordnung zu einem Debitor/Kreditor, so hat dies auch Einfluss auf die Wahl der Dokumentlayouts.<br />
-Wenn Sie beispielsweise für Verkaufsrechnungen festlegen, dass der Verkauf-an-Debitor für die Suche nach Zieladressen herangezogen werden soll, so werden auch die Einstellungen der Dokumentlayouts des entsprechenden Debitors entnommen.<br />
-Standardmäßig ist in Business Central hierfür der Rechnungsempfänger vorgesehen.<br />
-Mit <strong>Connector 365 Addressee Control</strong> können Sie dieses Verhalten übersteuern.
+<div class="notices info" data-title="Hinweis">
+  Die Werkseinstellungen sind der Zieladressen-Logik des Standards von Business Central nachempfunden (Stand Februar 2024). <br />
+Wir empfehlen Ihnen daher <strong>nur</strong> Änderungen in den Berichten vor zu nehmen, bei denen Sie eine abweichende Zieladressenlogik einrichten möchten.
 </div>
-<p><a name="ACCon365" class="anchor"></a></p>
-<h3 id="kompatibilität-zu-anderen-connector-365-apps">Kompatibilität zu anderen <strong>Connector 365 Apps</strong></h3>
-<p>Mit <strong>Connector 365 Addressee Control</strong> lassen sich auch die Zieladressen-Logik weiterer <strong>Connector 365 Apps</strong> anpassen.<br />
-Folgende <strong>Connector 365 Apps</strong> sind kompatibel zu <strong>Connector 365 Addressee Control</strong>:</p>
+<p></p>
+<p>Mit Connector 365 Addressee Control haben Sie die Möglichkeit, für verschiedene Berichtsverwendungen die Zieladressen-Logik jeweils abweichend von der Standard-Zieladressen-Logik einzustellen.</p>
+<p>Im Folgenden beschreiben wir anhand der Standard-Zieladressen-Logik, wie Sie eine eigene Zieladressen-Logik einrichten können.</p>
+<p>Im ersten Schritt müssen Sie hierzu definieren, wie das Dokumentlayout zugeordnet werden soll, wie z.B. an</p>
 <ul>
-<li><strong>Connector 365 XRechnung</strong></li>
-<li><strong>Connector 365 E-Post</strong></li>
-<li><strong>Connector 365 Easy Document Pin</strong></li>
-<li><strong>Connector 365 Mail Experience Plus</strong>
-<blockquote>
-<p><strong>Connector 365 Mail Attachments Plus</strong><br />
-<strong>Connector 365 Mail Subject Plus</strong></p>
-</blockquote>
-</li>
+<li>Rechnung an Debitor-Nummer, bzw. Kreditor-Nummer</li>
+<li>Verkauf an Debitor-Nummer, bzw. Kreditor-Nummer</li>
 </ul>
+<p>Anschließend definieren Sie im Bereich <strong>Priorität der Adresse</strong>, welche Tabelle und welches Feld im Bezug auf diese herangezogen werden sollen. Und in welcher Reihenfolge diese vom System herangezogen werden sollen.</p>
+<table>
+<thead>
+<tr>
+<th>Tabelle</th>
+<th>Beispiel-Feld</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Auswahl des benutzerdefinierten Berichts</td>
+<td><img src="/images/apps/Addresse_Control/Dokumentenlayouts_Zieladressen.png" /></td>
+</tr>
+<tr>
+<td>Verkaufskopf</td>
+<td><img src="/images/apps/Addresse_Control/Belegkopf_Zieladresse_DEU.png" /></td>
+</tr>
+<tr>
+<td>Debitor / Kreditor</td>
+<td><img src="/images/apps/Addresse_Control/Debitor_Zieladresse_DEU.png" /></td>
+</tr>
+</tbody>
+</table>
+<p>In der Berichtsauswahl haben Sie die Möglichkeit festzulegen, welches Feld als Standard-Zieladresse verwendet werden soll. Zudem können Sie hier definieren, welche Zieladresse die höchste Priorität bekommt und sollte diese Zieladresse nicht definiert sein, welche weiteren Zieladressen dann abhängig von der zugewiesenen Priorität herangezogen werden sollen.</p>
+<p>Neben den Standard-Tabellen der Zieladressen-Logik stehen Ihnen ebenfalls folgende Tabellen zur Verfügung:</p>
+<div class="notices info" data-title="Hinweis">
+  Durch Löschen des Filters können Sie auf alle Standard-Tabellen aus Business Central zugreifen.
+</div>
+<p></p>
+<table>
+<thead>
+<tr>
+<th>Tabelle</th>
+<th>Beispiel-Feld</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lagerort</td>
+<td>Wenn Sie im Beleg einen abweichenden Lagerort hinterlegt haben, können Sie die hier hinterlegte E-Mailadresse bei der Zieladressen-Logik heranziehen, wenn gewünscht. Auf folgendes Feld könnte für die E-Mailadresse zugegriffen werden: <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_Lagerortcode_DEU.png" /></td>
+</tr>
+<tr>
+<td>Lief. an Adressee</td>
+<td>Wählen Sie eine abweichende Lieferadresse, so können Sie die hier hinterlegte E-Mailadresse, bzw. das entsprechende Feld als Zieladresse definieren. <img src="/images/apps/Addresse_Control/Bsp_Mailempfänger_LiefanAdresse_DEU.png" /></td>
+</tr>
+</tbody>
+</table>
 
   </article>
 </div>

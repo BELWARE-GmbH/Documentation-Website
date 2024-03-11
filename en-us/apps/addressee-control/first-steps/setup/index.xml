@@ -21,7 +21,7 @@
         
         <guid>https://docs.belware.de/en-us/apps/addressee-control/first-steps/setup/target_addresses/</guid>
         <description>Setup To set the destination address logic as desired via the Connector 365 Addressee Control app, open one of the Report Selections pages.
-Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account Project Service from version 1.4.0.0 on The Connector 365 Addressee Control app adds a subpage to supported report selection pages.</description>
+Please refer to the following table of currently usable report selections for use with Connector 365 Addressee Control. However, this does not mean that all uses of the individual report selection pages are supported.Usage Supported Sales Purchase Cash Flow Warehouse Reminder/Finance Charge from version 1.2.0.0 on Bank Account Project Service from version 1.</description>
       </item>
       
       <item>

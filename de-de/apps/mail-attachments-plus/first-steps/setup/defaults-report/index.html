@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report/">
@@ -4079,7 +4079,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -9833,7 +9833,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -12338,23 +12338,78 @@ if (!doNotTrack) {
   <article class="single__contents" data-dir="ltr">
     <h3 id="einrichtung">Einrichtung</h3>
 <h3 id="hinzufügen-von-standardanhängen-pro-bericht">Hinzufügen von Standardanhängen pro Bericht</h3>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentreportselection_new.png" alt=""  />
-</p></p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_new.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
 <p>Standardanhänge sind eine gute Möglichkeit, Zeit zu sparen, wenn Sie Ihren E-Mails Dateien hinzufügen. Wenn Sie den gleichen Anhang in jeder E-Mail verwenden, fügen Sie ihn einfach als Standard hinzu, und er wird automatisch an jede E-Mail angehängt.</p>
 <p>Beginnen Sie mit dem Öffnen der Berichtsauswahl des gewünschten Berichts, in diesem Beispiel werden wir Verkäufe und Rechnungen verwenden. Wenn Sie sich nicht sicher sind, wo Sie die Berichtsauswahl finden, können Sie jederzeit die Suchfunktion von Dynamics 365 Business Central verwenden.</p>
-<p>Wie Sie im obigen Screenshot sehen können, gibt es in diesem Fenster auch ein neues Feld für Anhänge. Der Prozess des Hinzufügens neuer Standardanhänge funktioniert wie das Hinzufügen von Anhängen zu Ihrer regulären Mail. Beginnen Sie mit einem Klick auf die 0, um den Anhangsdialog zu öffnen und fügen Sie Ihre Dateien über &ldquo;Neu&rdquo; und &ldquo;Anhang hinzufügen&rdquo; hinzu.</p>
-<p><strong>Festlegen eines Anhangs auf einen bestimmten Zeitraum</strong></p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentdates.png" alt=""  />
-</p></p>
-<p>Nach dem Hinzufügen der Datei(en) sind Ihnen möglicherweise die Felder &ldquo;Von Datum&rdquo; und &ldquo;Bis Datum&rdquo; aufgefallen. Diese beiden Felder ermöglichen es Ihnen, einen Standard-Anhang nur für eine bestimmte Zeitspanne festzulegen. Dies kann z. B. verwendet werden, um Ihren Mails eine Werbung hinzuzufügen, die nur für eine bestimmte Zeitdauer gültig ist. Bevor Sie das Datum einstellen, müssen Sie zuerst im Menü auf &ldquo;Liste bearbeiten&rdquo; klicken, sonst können die Datumsfelder nicht bearbeitet werden</p>
-<p><div class="notices info" data-title="Hinweis">
-  <em>Das für die Anlage eingestellte Datum verwendet nicht das Systemdatum zur Bestimmung des Tages, sondern das Arbeitsdatum Ihrer Business Central Umgebung.</em>
-</div><br />
+<p>Wie Sie im obigen Screenshot sehen können, gibt es in diesem Fenster ein Feld für Anhänge. Der Prozess des Hinzufügens neuer Standardanhänge funktioniert wie das Hinzufügen von Anhängen zu Ihrer regulären Mail. Beginnen Sie mit einem Klick auf die 0, um den Anhangsdialog zu öffnen und fügen Sie Ihre Dateien über &ldquo;Neu&rdquo; und &ldquo;Anhang hinzufügen&rdquo; hinzu.</p>
+<p><em><strong>Festlegen eines Anhangs pro Sprachcode</strong></em></p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_languagecode.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Im ersten Schritt definieren Sie den Sprachcode für den Sie Anhänge hinzufügen wollen. Wählen Sie dafür den entsprechenden Sprachcode aus und klicken Sie auf 0 unter Anhangszahl, um Ihre Anhänge für diese Sprache festzulegen.</p>
+<p></p>
+<p>Es öffnet sich ein neues Fenster:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_attachment_per_languagecode.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Über einen Klick in das Feld <strong>Anhangsname</strong> können Sie einen neuen Anhang hinzufügen. Es öffnet sich die Tabelle, in der sich Ihre Anhänge unserer Connector 365 Apps befinden. Bei Erstgebrauch sind hier keine Dateien vorhanden. Diese fügen Sie über die 3 Punkte über <strong>Neu</strong> und dann <strong>Anhang hinzufügen</strong> hinzu.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/attach.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Nach dem Hinzufügen der Datei(en) können Sie über die Felder &ldquo;Von Datum&rdquo; und &ldquo;Bis Datum&rdquo; definieren, ob ein Standard-Anhang nur für eine bestimmte Zeitspanne angehängt werden soll. Dies kann z.B. verwendet werden, um Ihren Mails eine Werbung hinzuzufügen, die nur für eine bestimmte Zeitdauer gültig ist. Sollten Sie die Datumsfelder nicht bearbeiten können, müssen Sie zuerst im Menü auf &ldquo;Liste bearbeiten&rdquo; klicken, um danach das Datum einzustellen.</p>
+<p>Ebenfalls haben Sie hier die Möglichkeit einzustellen ob Ihr Anhang grundsätzlich in Verwendung mit unserer Connector 365 XRechnung in die XRechnung-XML eingebettet werden soll.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/xml_einbetten.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
 <div class="notices info" data-title="Hinweis">
-  <em>Die im obigen Screenshot markierte Checkbox &ldquo;Dokumentanhänge anhängen&rdquo; dient nicht der Steuerung der hier hochgeladenen Anhänge. Mit ihr wird gesteuert, ob am einzelnen Dokument befindliche Anhänge ebenfalls verschickt werden sollen.</em>
-</div></p>
+  <em>Das für die Anlage eingestellte Datum verwendet nicht das Systemdatum zur Bestimmung des Tages, sondern das Arbeitsdatum Ihrer Business Central Umgebung.</em>
+</div>
+<h3 id="beleganhänge--belegzeilenanhänge-pro-bericht-anhängen">Beleganhänge &amp; Belegzeilenanhänge pro Bericht anhängen</h3>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_new_DEU.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Neben dem Feld für das Hinzufügen der Standardanhänge haben Sie zwei weitere Felder mit denen Sie steuern, ob Ihre Beleganhänge für den ausgewählten Bericht standardmäßig mit angehängt werden sollen.</p>
+<div class="notices info" data-title="Hinweis">
+  <em>Die im obigen Screenshot markierten Checkboxen &ldquo;Beleganhänge anhängen&rdquo; und &ldquo;Belegezeilenanhänge anhängen&rdquo; dienen nicht der Steuerung der unter Anhänge hochgeladenen Anhänge. Mit ihr wird gesteuert, ob am einzelnen Beleg oder in der Belegzeile befindliche Anhänge ebenfalls verschickt werden sollen.</em>
+</div>
 <h4 id="heading"></h4>
 <p>Sobald die Anhänge eingestellt sind, kann eine Mail wie gewohnt versendet werden, eine Anleitung hierzu finden Sie im Bereich <strong>&ldquo;Arbeiten mit Mail Attachment Plus&rdquo;</strong> unter <a href="/de-de/apps/mail-attachments-plus/working-with-map/defaults-report/">Bericht Standardanhänge</a></p>
 

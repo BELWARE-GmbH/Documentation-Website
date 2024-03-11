@@ -20,10 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/e-post/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Erweiterungen der Sendungsstatus-Informationen Bearbeitungsstatus im Zielgebiet FrankierID Vereinfachung für &amp;lsquo;Einschreiben Rückschein&amp;rsquo; Version 2.8.0.3 - 18.12.2023 Korrekturen:
-Versand von mehreren Dokumenten mit dem Dokumentensendeprofil korrigiert. Version 2.8.0.2 - 25.10.2023 Korrekturen:
-Versand mehrerer Dokumente von Listenseiten korrigiert. Version 2.8.0.1 - 24.10.2023 Neue Funktionen:
-Neues Ereignis: OnBeforeOpenDialog zum Ändern der E-POST Parameter. Version 2.8.0.0 - 24.10.2023 Neue Funktionen:</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Erneutes versenden von fehlerhaften Briefen Kontakte im Dialog editierbar Erweiterungen der Sendungsstatus-Informationen Bearbeitungsstatus im Zielgebiet FrankierID Vereinfachung für &amp;lsquo;Einschreiben Rückschein&amp;rsquo; Version 2.9.0.2 - 08.03.2024 Korrekturen:
+Bei nicht vorhandenem E-POST-Vorgang in der Berichtsauswahl wird eine Meldung ausgegeben. Version 2.9.0.1 - 04.03.2024 Korrekturen:
+Die Senden als Funktion funktioniert wieder mit E-POST Version 2.9.0.0 - 01.03.2024 Neue Funktionen:
+Herstellen der Kompatibiltät zur neuen Easy Batch Version Version 2.</description>
       </item>
       
       <item>

@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/">
@@ -4079,7 +4079,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -9824,7 +9824,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -12328,13 +12328,13 @@ if (!doNotTrack) {
 
   <article class="single__contents" data-dir="ltr">
     <h3 id="arbeiten-mit-festgelegten-zieladressen">Arbeiten mit festgelegten Zieladressen</h3>
-<p>Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt.<br />
+<p>Zur Darstellung der Funktionsweise wird im Folgenden beispielhaft der Umgang mit gebuchten Verkaufsrechnungen dargestellt. <br />
 Es wird hierbei vorausgesetzt, dass der <i> Verkauf-An-Debitor</i> für die Verkaufsrechnungen mithilfe der <strong>Connector 365 Addressee Control</strong> als Zieladresse eingerichtet wurde:</p>
 <table>
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_Example_WorkWith.png" alt=""  />
+  <img src="/images/apps/Addresse_Control/Berichtsauswahl_Verkauf_Example_WorkWith_DEU.png" alt=""  />
 </p></th>
 </tr>
 </thead>
@@ -12344,21 +12344,21 @@ Es wird hierbei vorausgesetzt, dass der <i> Verkauf-An-Debitor</i> für die Verk
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/GebVerkRechnungen_SellToBillToCust.png" alt=""  />
+  <img src="/images/apps/Addresse_Control/Rechnung_SellToBillToCust_DEU.png" alt=""  />
 </p></th>
 </tr>
 </thead>
 </table>
 <div class="notices info" data-title="Hinweis">
-  Zur Vereinfachung wurden im Folgenden für den Rechnungsempfänger <strong><a href="mailto:Bill-To-Customer@mail.de">Bill-To-Customer@mail.de</a></strong> eingerichtet, für den Käufer <strong><a href="mailto:Sell-To-Customer@mail.de">Sell-To-Customer@mail.de</a></strong>.
+  Zur Vereinfachung wurden im Folgenden die Dokumentlayouts für den Rechnungsempfänger mit <strong><a href="/mailto:documentlayout@bill-to-customer.de">documentlayout@bill-to-customer.de</a></strong> eingerichtet und für den Käufer mit <strong><a href="/mailto:documentlayout@sell-to-customer.de">documentlayout@sell-to-customer.de</a></strong>.
 </div>
 </br>
-<p>Bei Ausführen der Aktion: <strong>Per E-Mail senden</strong>, wird im Standard normalerweise die E-Mail-Adresse des Rechnungsempfängers im E-Mail-Dialog eingetragen. Dies sieht, wie folgt aus:</p>
+<p>Bei Ausführen der Aktion: <strong>Per E-Mail senden</strong>, wird im Standard normalerweise die E-Mail-Adresse aus den Dokumentlayouts des Rechnungsempfängers im E-Mail-Dialog eingetragen. Dies sieht, wie folgt aus:</p>
 <table>
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/MailDialog_SellToCust.png" alt=""  />
+  <img src="/images/apps/Addresse_Control/MailDialog_BillTo_DEU.png" alt=""  />
 </p></th>
 </tr>
 </thead>
@@ -12368,14 +12368,36 @@ Es wird hierbei vorausgesetzt, dass der <i> Verkauf-An-Debitor</i> für die Verk
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/MailDialog_BillToCust.png" alt=""  />
+  <img src="/images/apps/Addresse_Control/MailDialog_SellTo_DEU.png" alt=""  />
 </p></th>
 </tr>
 </thead>
 </table>
-<p>Hier wurde nun die E-Mail-Adresse des Verkauf-an-Debitors als Zieladresse herangezogen.<br />
-In diesem Beispiel waren weder für den Rechnungsempfänger noch für den Käufer ein Dokumentlayout eingerichtet worden.<br />
+<p>Hier wurde nun die E-Mail-Adresse des Verkauf-an-Debitors als Zieladresse aus den Dokumentlayouts herangezogen. <br />
 Sofern eingerichtet, werden die weiteren Empfänger (CC und BCC) jedoch entsprechend der eingerichteten Zieladressen-Logik übernommen.</p>
+<p>Wenn in den Dokumentlayouts keine <strong>E-Mail-Adresse</strong> hinterlegt ist, dann greift die Zieladressen-Logik als nächstes auf das E-Mail-Feld im Verkaufsrechnungskopf zurück.</p>
+<p>Der E-Maildialog sähe dann, wie folgt aus:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/Addresse_Control/MailDialog_Belegkopf.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Wenn im Belegkopf der Verkaufsrechnung 102232 keine E-Mail-Adresse hinterlegt ist, dann greift die Zieladressen-Logik auf das nächste hinterlegte Feld. Laut der oben abgebildeten Zieladressen-Logik wird dann auf das E-Mail-Feld des Verkauf an Debitors zugegriffen.</p>
+<p>Der E-Mail-Dialog würde dann die E-Mailadresse des Debitors <strong>10000 Adatum Corporation</strong> beinhalten.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/Addresse_Control/MailDialog_Debitor.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Wenn auch hier das entsprechende Feld keine E-Mailadresse beinhaltet, kommt es zu einer Fehlermeldung, indem das Feld für die Empfänger-E-Mail leer bleibt.</p>
 
   </article>
 </div>

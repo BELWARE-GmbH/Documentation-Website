@@ -20,9 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-report/</guid>
-        <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Report Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
-For this example, we have set up the default attachments in invoice shipping as follows:
-In this example we have attached two PDFs and a time-limited image.</description>
+        <description>Working with Mail Attachments Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Report Default Attachments in the &amp;ldquo;First Steps&amp;rdquo; section.
+For this example, we have set up the default attachments in invoice as follows:
+In this example, we have attached two PDFs and a time-limited image for the language code DEU.</description>
       </item>
       
       <item>
@@ -32,8 +32,8 @@ In this example we have attached two PDFs and a time-limited image.</description
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-customer/</guid>
         <description>Working with Mail Attachment Plus After you have added the attachments you want in the report selection, you can start sending the mail. If you have not done so yet, you can find the setup of the Customer Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
-For this example, we have set up the default attachments in invoice shipping as follows:
-Two PDFs are attached, each with the standards set up per document/report</description>
+For this example, we have set up the default attachments in invoice as follows:
+For the customer 10000 Adatum Corporation, we have activated here that the standard attachments as well as the document attachments and document line attachments are attached.</description>
       </item>
       
       <item>
@@ -42,10 +42,8 @@ Two PDFs are attached, each with the standards set up per document/report</descr
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-document/</guid>
-        <description>Working with Mail Attachment Plus Once you have added all your desired attachments via the &amp;ldquo;Attachments &amp;ldquo; menu, you can start sending. If you have not done so yet, you can find the setup of the Document Default Attachments in the &amp;ldquo;Getting Started&amp;rdquo; section.
-For the example, we have set up the attachments for a receipt as follows:
-An image and a PDF have been set as standard.
-If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different.</description>
+        <description>Working with Mail Attachments Plus Once all your desired attachments have been added via the menu, you can start sending. If this has not yet been done, refer to the &amp;ldquo;First Steps&amp;rdquo; section to set up the Customer Default Attachments.
+For the example, we have set up the attachments for a document as follows. We have attached a status message &amp;ldquo;Status_2102&amp;rdquo; as a document attachment and stored instructions &amp;ldquo;Anleitung_1928-S_AMSTERDAM_Lampe&amp;rdquo; for the item as a document line attachment.</description>
       </item>
       
     

@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-customer/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-customer/">
@@ -12647,20 +12647,26 @@ if (!doNotTrack) {
     <h3 id="setup">Setup</h3>
 <h3 id="standard-attachments-per-customer-and-report">Standard attachments per customer and report.</h3>
 <p>Another way to add attachments is to add them as defaults for customers, for example, if there are conditions that only apply to a specific customer. Open the customer you want to add defaults to and expand the options in the menu via &ldquo;More options&rdquo;, click &ldquo;Navigate&rdquo; and select &ldquo;Document layouts&rdquo;.</p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentnavigation.png" alt=""  />
-</p></p>
-<p>If you have a previously have set up defaults in the report selection, it is possible to automatically also attach these when setting up attachments per customer - simply click the <strong>&ldquo;Copy from Report Selection&rdquo;</strong> button.</p>
-<p>If you want to set up your own attachments select the report for which you want to add default attachments, we will use invoices again in this example. As before, you will notice the new Attachments field. You open the attachments dialog by clicking on the zero.</p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentdocumentlayouts.png" alt=""  />
-</p></p>
-<p>The rest of the process works the same as adding standard attachments to reports without customizing them. You can use the same options as before, including the date range. After you have added your defaults, close the Attachments dialog box.</p>
+<p>If preferences have already been set in the report selection, it is possible to automatically attach them when setting up attachments per customer - simply click the <strong>&ldquo;Copy from Report Selection&rdquo;</strong>.</p>
+<p>If you want to set up your own attachments, select the report for which you want to add default attachments; in this example we will use invoices. As before, you will notice the new attachments field. Open the attachments dialog box by clicking on the zero.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/attachmentdocumentlayouts.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>The rest of the process works the same as adding standard attachments to reports without customizing them. The same options can be used as before, including the date range and the XML embedding option. After adding your defaults, close the attachment dialog box.</p>
+<p><div class="notices info" data-title="Note">
+  <em>Please note that standard attachments that are defined at customer level overwrite the standards set in the report selection. If this is not desired, a checkmark can be placed in the &ldquo;Attach Default&rdquo; field. This means that the standard attachments and the customer-specific attachments are added.</em>
+</div><br />
 <div class="notices info" data-title="Note">
-  <em>One important thing to note about standards set on a per-custom basis is that they override the regular standards. In case this is not desired, checking the box in the &ldquo;Standard Attachments&rdquo; field will add the custom attachments in addition to the standard ones.</em>
-</div>
-<h1 id="heading"></h1>
-<p>Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in <strong>&ldquo;Working with Mail Attachment Plus&rdquo;</strong> under <a href="/en-us/apps/mail-attachments-plus/working-with-map/defaults-customer/">Customer Default Attachments</a></p>
+  <em>The checkbox marked in the screenshot above with &ldquo;Attach Document Attachments&rdquo; and &ldquo;Attach Document Line Attachments&rdquo; is not used to control the attachments uploaded under Attachments. It is used to control whether attachments on the individual document or in the document line should also be added.</em>
+</div></p>
+<h4 id="heading"></h4>
+<p>As soon as the attachments have been set up, an email can be sent as usual. You can find instructions on how to do this in <strong>&ldquo;Working with Mail Attachments Plus&rdquo;</strong> under <a href="/en-us/apps/mail-attachments-plus/working-with-map/defaults-customer/">Customer Default Attachments</a></p>
 
   </article>
 </div>

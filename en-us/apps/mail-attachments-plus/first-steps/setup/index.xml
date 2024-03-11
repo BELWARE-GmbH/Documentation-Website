@@ -31,7 +31,7 @@ Start by opening the report selection of the report you want, in this example we
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-customer/</guid>
         <description>Setup Standard attachments per customer and report. Another way to add attachments is to add them as defaults for customers, for example, if there are conditions that only apply to a specific customer. Open the customer you want to add defaults to and expand the options in the menu via &amp;ldquo;More options&amp;rdquo;, click &amp;ldquo;Navigate&amp;rdquo; and select &amp;ldquo;Document layouts&amp;rdquo;.
-If you have a previously have set up defaults in the report selection, it is possible to automatically also attach these when setting up attachments per customer - simply click the &amp;ldquo;Copy from Report Selection&amp;rdquo; button.</description>
+If preferences have already been set in the report selection, it is possible to automatically attach them when setting up attachments per customer - simply click the &amp;ldquo;Copy from Report Selection&amp;rdquo;.</description>
       </item>
       
       <item>
@@ -40,8 +40,8 @@ If you have a previously have set up defaults in the report selection, it is pos
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/</guid>
-        <description>Setup Adding standard attachments per document Using the Factbox, you have the option of adding standard attachments to each document, which are automatically attached when the document is sent. To do this, select the desired document in the overview and choose &amp;ldquo;Attachments&amp;rdquo; in the factbox on the right.
-Now click on the 0 at &amp;ldquo;Documents&amp;rdquo;, a window opens in which you can add attachments via &amp;ldquo;Select file&amp;rdquo; in the table.</description>
+        <description>Setup The following describes how to add document attachments, i.e. the document attachments from a specific document as an attachment, or how to add document line attachments, i.e. the document attachments from the document lines.
+Add Document Attachments per Document Using the fact box, each document can have document attachments that are automatically attached when the document is sent. To do this, select the desired document in the overview and select &amp;ldquo;Attachments&amp;rdquo; in the fact box on the right.</description>
       </item>
       
       <item>

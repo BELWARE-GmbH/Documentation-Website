@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/addressee-control/working-with-addresse-control/target_addresses/">
@@ -12636,7 +12636,7 @@ if (!doNotTrack) {
 
   <article class="single__contents" data-dir="ltr">
     <h3 id="working-with-specified-target-addresses">Working with specified target addresses</h3>
-<p>To illustrate how this works, the following is an example of how to handle posted sales invoices.<br />
+<p>To illustrate how this works, the following is an example of how to handle posted sales invoices. <br />
 It is assumed here that the sales-to-debitor for the sales invoices has been set up to be used as target via the <strong>Connector 365 Addressee Control</strong> app:</p>
 <table>
 <thead>
@@ -12652,38 +12652,60 @@ It is assumed here that the sales-to-debitor for the sales invoices has been set
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/GebVerkRechnungen_SellToBillToCust_ENU.png" alt=""  />
+  <img src="/images/apps/Addresse_Control/VerkRechnungen_SellToBillToCust_ENU.png" alt=""  />
 </p></th>
 </tr>
 </thead>
 </table>
 <div class="notices info" data-title="Note">
-  For simplicity, <strong><a href="mailto:Bill-To-Customer@mail.de">Bill-To-Customer@mail.de</a></strong> has been set up below for the invoice recipient, and <strong><a href="mailto:Sell-To-Customer@mail.de">Sell-To-Customer@mail.de</a></strong> for the buyer.
+  For simplicity, <strong><a href="/mailto:documentlayout@bill-to-customer.de">documentlayout@bill-to-customer.de</a></strong> has been set up below for the invoice recipient, and <strong><a href="/mailto:documentlayout@sell-to-customer.de">documentlayout@sell-to-customer.de</a></strong> for the buyer.
 </div>
 </br>
-<p>When executing the action: <strong>Send by e-mail</strong>, the e-mail address of the invoice recipient is normally entered in the e-mail dialog by default:</p>
+<p>When executing the action: <strong>Send by Email</strong>, the email address of the invoice recipient´s documentlayouts is normally entered in the e-mail dialog by default. This looks as follows:</p>
 <table>
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/MailDialog_SellToCust_ENU.png" alt=""  />
+  <img src="/images/apps/Addresse_Control/MailDialog_BillTo_ENU.png" alt=""  />
 </p></th>
 </tr>
 </thead>
 </table>
-<p>However, with the setting that the sale-to-debitor should be used for setting the destination addresses, the dialog looks like this:</p>
+<p>However, with the setting that the sell-to-debitor should be used for setting the destination addresses, the dialog looks like this:</p>
 <table>
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/Addresse_Control/MailDialog_BillToCust_ENU.png" alt=""  />
+  <img src="/images/apps/Addresse_Control/MailDialog_SellTo_ENU.png" alt=""  />
 </p></th>
 </tr>
 </thead>
 </table>
-<p>In this example, the email adress of the sell-to customer was used as the target address.<br />
-Here, neither a document layout was set up for the invoice recipient nor for the buyer.<br />
-However, if set up, other recipients (CC and BCC) are used according to the target address logic set up.</p>
+<p>In this example, the email adress of the sell-to customer was used as the target address from the documentlayouts. <br />
+However, if configured, other recipients (CC and BCC) are adopted according to the target address logic set up.</p>
+<p>If no <strong>email adress</strong> is stored in the documentlayouts, then the target address logic next falls back in the example shown above on the email field in the sales invoice header.</p>
+<p>The email dialog would then look as follows:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/Addresse_Control/MailDialog_Belegkopf_ENU.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>If no email address is stored in the document header of sales invoice 102232, the target address logic accesses the next defined field. According to the target address logic shown above, the email field of the sell-to customer is then accessed.</p>
+<p>The email dialog would then contain the email address of the customer <strong>10000 Adatum Corporation</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/Addresse_Control/MailDialog_Debitor_ENU.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>If the corresponding field does not contain an email address here either, an error message is displayed in which the field for the recipient email remains empty.</p>
 
   </article>
 </div>

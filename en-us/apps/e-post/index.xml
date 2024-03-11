@@ -20,10 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/</guid>
-        <description>New and planned Planned functions for future versions Reactivation of negative jobs Contacts editable in dialog Enhancements to shipment status information Processing status in the destination area Franking ID Simplification for &amp;lsquo;Registered mail return receipt&amp;rsquo; Version 2.8.0.3 - 18.12.2023 Corrections:
-Fixed sending of multiple documents with document sending profile. Version 2.8.0.2 - 25.10.2023 Corrections:
-Fixed sending of multiple documents from list pages. Version 2.8.0.1 - 24.10.2023 New Features:
-New Event: OnBeforeOpenDialog to change E-POST parameters.</description>
+        <description>New and planned Planned functions for future versions Reactivation of negative jobs Contacts editable in dialog Enhancements to shipment status information Processing status in the destination area Franking ID Simplification for &amp;lsquo;Registered mail return receipt&amp;rsquo; Version 2.9.0.2 - 08.03.2024 Corrections:
+When no E-POST report is setup in report selections, a message will be displayed. Version 2.9.0.1 - 04.03.2024 Corrections:
+The Send as function works again with E-POST Version 2.9.0.0 - 01.</description>
       </item>
       
       <item>

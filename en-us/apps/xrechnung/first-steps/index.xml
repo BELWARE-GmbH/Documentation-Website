@@ -52,7 +52,9 @@ In case a question could not be answered, we will be glad to help you personally
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/xrechnung/first-steps/setup/</guid>
-        <description></description>
+        <description>Setting up the Connector 365 XRechnung App Here you can find all the important information and instructions for setting up the Connector 365 XRechnung App.
+In your Business Central environment under Supported setup you will find a wizard that guides you step by step through the necessary setup steps. You will be asked to check the data required to create the XRechnung and adapt it to the required format.
+If data is missing, you can also enter it directly here.</description>
       </item>
       
     

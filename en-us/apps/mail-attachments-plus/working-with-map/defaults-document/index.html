@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-document/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-document/">
@@ -1114,7 +1114,7 @@
     "datePublished": "2020-02-28T10:08:56+09:00",
     "dateModified": "2020-02-28T10:08:56+09:00",
     "url" : "https://docs.belware.de/en-us/apps/mail-attachments-plus/working-with-map/defaults-document/",
-    "description": "Working with Mail Attachment Plus Once you have added all your desired attachments via the \u0026ldquo;Attachments \u0026ldquo; menu, you can start sending. If you have not done so …",
+    "description": "Working with Mail Attachments Plus Once all your desired attachments have been added via the menu, you can start sending. If this has not yet been done, refer to the …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://docs.belware.de/"
@@ -12635,33 +12635,56 @@ if (!doNotTrack) {
   
 
   <article class="single__contents" data-dir="ltr">
-    <h3 id="working-with-mail-attachment-plus">Working with Mail Attachment Plus</h3>
-<p>Once you have added all your desired attachments via the <strong>&ldquo;Attachments &ldquo;</strong> menu, you can start sending. If you have not done so yet, you can find the setup of the <a href="/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/">Document Default Attachments</a> in the <strong>&ldquo;Getting Started&rdquo;</strong> section.</p>
-<p>For the example, we have set up the attachments for a receipt as follows:</p>
+    <h3 id="working-with-mail-attachments-plus">Working with Mail Attachments Plus</h3>
+<p>Once all your desired attachments have been added via the menu, you can start sending. If this has not yet been done, refer to the <strong>&ldquo;First Steps&rdquo;</strong> section to set up the <a href="/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/">Customer Default Attachments</a>.</p>
+<p>For the example, we have set up the attachments for a document as follows. We have attached a status message <em><strong>&ldquo;Status_2102&rdquo;</strong></em> as a document attachment and stored instructions <em><strong>&ldquo;Anleitung_1928-S_AMSTERDAM_Lampe&rdquo;</strong></em> for the item as a document line attachment.</p>
 <p><p class="md__image">
   <img src="/images/apps/attachmentdocumentsetup.PNG" alt=""  />
 </p></p>
-<p>An image and a PDF have been set as standard.</p>
+<p>In addition, no standard attachments from the report selection have been defined for this customer in the document layouts. However, specific attachments have been stored in the customer´s document layouts: <em><strong>&ldquo;AGB_Adatum&rdquo;</strong></em> und <em><strong>&ldquo;Hinweis_Adatum&rdquo;</strong></em></p>
 <div class="notices info" data-title="Note">
-  <em>If you are using a Business Central version in which the Mail Experience is not yet available, the procedure is a little different.</em>
+  <em>If you are using a Business Central version in which the Mail Experience is not yet available, the process looks a little different.</em>
 </div>
 <h1 id="heading"></h1>
 <h4 id="mail-with-standard-attachments-per-document">Mail with standard attachments per document</h4>
-<p>To do this, simply open the report for which you previously set up your attachments and then click <strong>&ldquo;Print/Send&rdquo;</strong> and the regular <strong>&ldquo;Send by Email&rdquo;</strong> function.</p>
-<p>The standard Microsoft Mail Experience will open, if you scroll down to the Attachments section you will find the attachments you previously set up.</p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentdocumentdialog.PNG" alt=""  />
-</p></p>
-<p>Unlike the previously shown examples, all attachments are added here, there is no restriction to a certain period.</p>
-<p>If one of the attachments does not fit, you can simply remove it as usual, via the 3 dots and <strong>&ldquo;delete&rdquo;</strong>.</p>
-<p>Using the Mail Attachment Plus App does not prevent you from using the attachment functionality of the standard. You can still add more attachments via the menu bar under <strong>&ldquo;Attach file&rdquo;</strong>. With a click on <strong>&ldquo;Manage&rdquo;</strong> -&gt; <strong>&ldquo;Attach file&rdquo;</strong> this is also possible.</p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentdocumentdialogchange.PNG" alt=""  />
-</p></p>
-<p>When you have made all the changes to your attachments, you can send your mail as usual by clicking <strong>&ldquo;Send email&rdquo;</strong>.</p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentdocumentmail.PNG" alt=""  />
-</p></p>
+<p>Simply open the document for which you have previously set up your attachments and then click on <strong>&ldquo;Print/Send&rdquo;</strong> and the regular <strong>&ldquo;E-Mail&rdquo;</strong> function.</p>
+<p>The standard Microsoft Mail Experience will open. If scroll down to the Attachments section, a list of your previously created attachments will appear.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/attachmentdocumentdialog.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<div class="notices info" data-title="Color code">
+   <p style="text-indent:30px; color: red">Beleganhang "Status_2102"</p>
+<p style="text-indent:30px; color: black">Anhänge aus den Dokumentlayouts "AGB_Adatum" und "Hinweis_Adatum"</p>
+<p style="text-indent:30px; color: orange">Belegzeilenanhang "Anleitung_1928-S_AMSTERDAM_Lampe"</p> 
+
+</div>
+</p>
+<p>The standard attachments from the report selection by language code are time-controlled, as are the attachments from the document layouts. The document attachments and document line attachments cannot be limited to a specific time period, as there is no date range to choose from.</p>
+<p>If one of the attachments does not fit, it can be removed as usual using the three dots and <strong>&ldquo;Delete&rdquo;</strong>.</p>
+<p>Using the Mail Attachments Plus app does not prevent you from using the standard attachment functions. You can still add further attachments via the menu bar under <strong>&ldquo;Add File&rdquo;</strong>.</p>
+<p>Once all the changes to your attachments have been made, you can send your email as usual by clicking on <strong>&ldquo;Send Email&rdquo;</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/attachdocumentmail.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<div class="notices info" data-title="Color code">
+   <p style="text-indent:30px; color: red">Beleganhang "Status_2102"</p>
+<p style="text-indent:30px; color: black">Anhänge aus den Dokumentlayouts "AGB_Adatum" und "Hinweis_Adatum"</p>
+<p style="text-indent:30px; color: orange">Belegzeilenanhang "Anleitung_1928-S_AMSTERDAM_Lampe"</p> 
+
+</div>
+</p>
 
   </article>
 </div>

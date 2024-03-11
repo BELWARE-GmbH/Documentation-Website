@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/open-tasks/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/apps/easy-batch/working-with-easy-batch/open-tasks/">
@@ -4079,7 +4079,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -9824,7 +9824,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -12329,7 +12329,7 @@ if (!doNotTrack) {
   <article class="single__contents" data-dir="ltr">
     <h3 id="arbeiten-mit-easy-batch">Arbeiten mit Easy Batch</h3>
 <h3 id="offene-aufgaben">Offene Aufgaben</h3>
-<p>Die Seite Offene Aufgaben bietet Ihnen eine Übersicht sämtlicher Belege, welche zur Verarbeitung eingestellt wurden, allerdings noch nicht erfolgreich verarbeitet wurden.</p>
+<p>Die Seite <strong>Offene Aufgaben</strong> bietet Ihnen eine Übersicht sämtlicher Belege, welche zur Verarbeitung eingestellt wurden, allerdings noch nicht (erfolgreich) verarbeitet wurden.</p>
 <p><p class="md__image">
   <img src="/images/apps/Easy_Batch/de-de/app_open_tasks.png" alt=""  />
 </p></p>
@@ -12337,8 +12337,100 @@ if (!doNotTrack) {
 <p>Über die Schaltfläche <strong>Verarbeitung stornieren</strong> kann die Verarbeitung für einzelne Belege gestoppt werden.</p>
 <p>Die Aktion <strong>Aufgabe wiederholen</strong> stellt die selektierten Aufgaben erneut zur Verarbeitung ein.<br />
 Es werden nur Aufgaben berücksichtigt, welche bei der Verarbeitung auf einen Fehler gestoßen sind.</p>
+<p>Über <strong>Berichte</strong> können Sie sich jeweils eine Vorschau des selektierten Berichts als auch des E-Mail-Textes anzeigen lassen.</p>
 <p>Durch Klicken des Felds <strong>Belegnr.</strong> navigieren Sie zum spezifischen Beleg.</p>
 <p>Nachdem die Verarbeitung erfolgreich war, werden die Vorgänge aus dieser Übersicht entfernt und anschließend in den <a href="/de-de/apps/easy-batch/working-with-easy-batch/archive/">Connector 365 Aktivitäten</a> archiviert.</p>
+<p>In der folgenden Tabelle finden Sie weitere Informationen zu den Feldern aus der Liste:</p>
+<table>
+<thead>
+<tr>
+<th>Feld</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Belegnr.</strong></td>
+<td>Mit einem Klick auf die Belegnummer kommen Sie direkt zum entsprechenden Beleg.</td>
+</tr>
+<tr>
+<td><strong>Belegart</strong></td>
+<td>Hier können Sie sehen, um welche Art von Beleg es sich für diese entsprechende Belegnummer handelt.</td>
+</tr>
+<tr>
+<td><strong>Verarbeitungszeit</strong></td>
+<td>Zeigt Ihnen den Zeitpunkt an, zu welchem diese Aufgabe verarbeitet werden soll. Wenn Sie in der Connector 365 Einrichtung eine &ldquo;feste&rdquo; Verarbeitungszeit eingerichtet haben, dann wird Ihnen hier gezeigt für wann die Verarbeitung der Aufgabe eingestellt wurde.</td>
+</tr>
+<tr>
+<td><strong>Erstellt am</strong></td>
+<td>Zeigt an, zu welcher Zeit und Datum die Aufgabe gerade erstellt wurde.</td>
+</tr>
+<tr>
+<td><strong>Erstellt von</strong></td>
+<td>Hier können Sie sehen, welcher Nutzer die Aufgabe erstellt hat.</td>
+</tr>
+<tr>
+<td><strong>Fehlernachricht</strong></td>
+<td>Wenn bei der Verarbeitung der Aufgabe ein Fehler aufgetreten ist, dann wird die entsprechende Aufgabe farblich rot markiert. Ebenfalls zeigt dieses Feld dann eine kurze Fehlernachricht an, in welcher der Fehler beschrieben wird.</td>
+</tr>
+<tr>
+<td><strong>Freigegeben</strong></td>
+<td>Zeigt an, ob die Aufgabe freigegeben ist.</td>
+</tr>
+<tr>
+<td><strong>Kontotyp</strong></td>
+<td>Zeigt den mit der Aufgabe, bzw. entsprechendem Beleg verknüpften Kontotyp an.</td>
+</tr>
+<tr>
+<td><strong>Kontonr.</strong></td>
+<td>Gibt die Kontonummer an, die mit dem Beleg verknüpft ist.</td>
+</tr>
+<tr>
+<td><strong>Kontaktnr.</strong></td>
+<td>Zeigt die Kontaktnummer an, die mit dem Beleg verknüpft ist.</td>
+</tr>
+<tr>
+<td><strong>Dateien</strong></td>
+<td>Hier sehen Sie die Anzahl der zusätzlichen Dateien, die zusammen mit dem Beleg für die ausgewählte Aufgabe verschickt werden. Hierunter fallen u.a. Standardanhänge, Beleganhänge und Belegzeilenanhängen.</td>
+</tr>
+<tr>
+<td><strong>Jobmodus</strong></td>
+<td>Zeigt an, wie der Beleg verarbeitet wird. Beispiele für Jobmodi sind z.B. Mail oder XRechnung.</td>
+</tr>
+<tr>
+<td><strong>Empfängeradresse</strong></td>
+<td>Bei Versand via E-Mail sehen Sie hier an welche Empfängeradresse (E-Mailadresse) der Beleg gesendet wird.</td>
+</tr>
+<tr>
+<td><strong>Absenderadresse</strong></td>
+<td>Bei Versand via E-Mail sehen Sie hier von welcher Absenderadresse (E-Mailadresse) der Beleg gesendet wird.</td>
+</tr>
+<tr>
+<td><strong>Berichts-ID</strong></td>
+<td>Zeigt die Berichts-ID an, mit der der Beleg erstellt wird.</td>
+</tr>
+<tr>
+<td><strong>Betreff</strong></td>
+<td>Hier wird der Betreff angezeigt, mit dem die E-Mail gesendet wird.</td>
+</tr>
+<tr>
+<td><strong>Dateiname</strong></td>
+<td>Zeigt den Dateinamen an des generierten Berichts an, mit dem die E-Mail gesendet wird.</td>
+</tr>
+<tr>
+<td><strong>Weitere Empfänger</strong></td>
+<td>Bei weiteren E-Mail-Empfängern können Sie hier die Anzahl und die weiteren Empfängeradressen einsehen.</td>
+</tr>
+<tr>
+<td><strong>Leitweg-ID</strong></td>
+<td>In Verbindung mit unserer Connector 365 XRechnung können Sie hier die angegebene Leitweg-ID des Empfängers für diese XRechnung sehen.</td>
+</tr>
+<tr>
+<td><strong>E-POST Einstellungen</strong></td>
+<td>In Verbindung mit unserer Connector 365 E-POST können Sie hier beim entsprechenden Jobmodus weitere Informationen einsehen, wie ob Ihre E-POST in Farbe, ob mit oder ohne Deckblat, ob in Duplex, ob es sich um ein Einschreiben handelt und um welche Art von Einschreiben und ob die eingereichte Aufgabe im Testmodus oder nicht verschickt wird.</td>
+</tr>
+</tbody>
+</table>
 
   </article>
 </div>

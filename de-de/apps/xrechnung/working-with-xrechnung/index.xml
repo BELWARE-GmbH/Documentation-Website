@@ -21,8 +21,7 @@
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/document-types/</guid>
         <description>Arbeiten mit XRechnung Belegarten für XRechnung Die Connector 365 XRechung-App ist aktuell in der Lage, folgende Belegarten für XRechnung zu verarbeiten:
-Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt.
-Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+Verkaufsrechnungen Verkaufsgutschriften Servicerechnungen 1 Servicegutschriften 1 Hinweis: Um XRechnung-Dateien für Servicebelege zu erstellen, wird eine Premium-Lizenz benötigt. Diese können Sie hier bestellen.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
       </item>
       
       <item>
@@ -44,9 +43,7 @@ Der Inhalt der Mail sowie weitere Anhänge können ebenfalls eingesehen und ver�
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/working-with-xrechnung/attachments/</guid>
-        <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt,
-erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden,
-oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
+        <description>Anhänge Wie bereits in der Einrichtung zum Thema Debitor erwähnt, erlaubt die Connector 365 XRechnung App bei Erzeugung einer XRechnung den Originalbeleg in die resultierende XML-Datei einzubinden, oder aber in Form einer PDF-Datei an eine E-Mail anzuhängen.
 Neben den Originalbeleg können jedoch auch weitere Anhänge beliebig hinzugefügt oder in die XML-Datei eingebettet werden.
 Im folgenden wird näher erläutert, wie Sie Anhänge ganz einfach per Dialog, oder auch durch Vorab-Konfiguration festlegen können.</description>
       </item>

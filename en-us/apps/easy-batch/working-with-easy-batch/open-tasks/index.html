@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/open-tasks/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/easy-batch/working-with-easy-batch/open-tasks/">
@@ -12645,8 +12645,100 @@ if (!doNotTrack) {
 <p>Using the action <strong>Cancel Processing</strong> the processing can be stopped for individual documents.</p>
 <p>The action <strong>Retry Task</strong> enqueues the selected tasks to be processed again.<br />
 Only tasks that ran into an error will be considered by using this action.</p>
+<p>Via <strong>Reports</strong> you can display a preview of the selected report as well as the email text.</p>
 <p>Clicking the <strong>Document No.</strong> lets you navigate to the specific document.</p>
 <p>After the processing succeeded the tasks will be removed from this list and afterwardsarchived in the <a href="/en-us/apps/easy-batch/working-with-easy-batch/archive/">Connector 365 Activities</a>.</p>
+<p>In the following table you will find further information on the fields from the list:</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Document No.</strong></td>
+<td>Click on the document number to go directly to the corresponding document.</td>
+</tr>
+<tr>
+<td><strong>Document Type</strong></td>
+<td>This shows you the type of document for the corresponding document number.</td>
+</tr>
+<tr>
+<td><strong>Processing Time</strong></td>
+<td>Displays the time at which this task is to be processed. If you have set up a &ldquo;fixed&rdquo; processing time in the Connector 365 setup, the processing time for the task is shown here.</td>
+</tr>
+<tr>
+<td><strong>Created At</strong></td>
+<td>Specifies the time and date the task was created.</td>
+</tr>
+<tr>
+<td><strong>Created By</strong></td>
+<td>Specifies the user the task was created by.</td>
+</tr>
+<tr>
+<td><strong>Error Message</strong></td>
+<td>If an error has occured while processing the task, the corresponding task is highlighted in red. This field also displays a short error message describing the error.</td>
+</tr>
+<tr>
+<td><strong>Released</strong></td>
+<td>Shows whether the task has been released and will be processed.</td>
+</tr>
+<tr>
+<td><strong>Account Type</strong></td>
+<td>Displays the account type that is linked to the document.</td>
+</tr>
+<tr>
+<td><strong>Account No.</strong></td>
+<td>Specifies the account number that is linked to the document.</td>
+</tr>
+<tr>
+<td><strong>Contact No.</strong></td>
+<td>Displays the contact number that is linked to the document.</td>
+</tr>
+<tr>
+<td><strong>Files</strong></td>
+<td>Here you can see the number of additional files that are sent together with the document for the selected task. These include standard attachments, document attachments and document line attachments.</td>
+</tr>
+<tr>
+<td><strong>Jobmode</strong></td>
+<td>Indicates how the document is processed. Examples of jobmodes are e.g. Mail or XRechnung.</td>
+</tr>
+<tr>
+<td><strong>Recipient Address</strong></td>
+<td>When sending via email, you can see here to which recipient address (email address) the docuemnt will be sent.</td>
+</tr>
+<tr>
+<td><strong>Sender Address</strong></td>
+<td>When sending via email, you can see here from which sender address (email address) the document is being sent.</td>
+</tr>
+<tr>
+<td><strong>Report ID</strong></td>
+<td>Displays the report ID with which the document is created.</td>
+</tr>
+<tr>
+<td><strong>Subject</strong></td>
+<td>The subject with which the email is sent is displayed here.</td>
+</tr>
+<tr>
+<td><strong>File Name</strong></td>
+<td>Shows the file name of the generated report with which the email is sent.</td>
+</tr>
+<tr>
+<td><strong>Further Recipients</strong></td>
+<td>For additional email recipients, you can view the number and other recipients addresses here.</td>
+</tr>
+<tr>
+<td><strong>Leitweg-ID</strong></td>
+<td>In connection with our Connector 365 XRechnung, you can see the specified Letiweg-ID of the recipient for this XRechnung here.</td>
+</tr>
+<tr>
+<td><strong>E-POST Settings</strong></td>
+<td>In connection with our Connector 365 E-POST, you can view further information for the corresponding jobmode, such as whether your E-POST is in color, whether with or without coverletter, whether in duplex, whether it is registered mail and what type of registered mail and whether the submitted task is sent in test mode or not.</td>
+</tr>
+</tbody>
+</table>
 
   </article>
 </div>

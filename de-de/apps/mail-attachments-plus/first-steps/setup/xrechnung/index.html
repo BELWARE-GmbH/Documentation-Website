@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/xrechnung/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/xrechnung/">
@@ -4079,7 +4079,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -9833,7 +9833,7 @@ if (!doNotTrack) {
   <li class="menu__title--collapse " data-depth="1" data-permalink="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
     <a href="https://docs.belware.de/de-de/apps/mail-attachments-plus/working-with-map/">
       <span class="menu__title--collapse-text">
-        Arbeiten mit Mail Attachments plus
+        Arbeiten mit Mail Attachments Plus
       </span>
     </a>
     <span class="menu__title--icon right">
@@ -12336,31 +12336,31 @@ if (!doNotTrack) {
   
 
   <article class="single__contents" data-dir="ltr">
-    <h1 id="besonderheiten-bei-nutzung-von-connector-365-xrechnung">Besonderheiten bei Nutzung von Connector 365 XRechnung</h1>
+    <h3 id="besonderheiten-bei-nutzung-von-connector-365-xrechnung">Besonderheiten bei Nutzung von Connector 365 XRechnung</h3>
 <p>Wenn Sie die <strong>Connector 365 XRechnung</strong> App installiert haben, steht Ihnen bei Hinzufügen von Anhängen ein weiteres<br />
 Feld zur Verfügung, welches direkten Einfluss auf die Funktionsweise der <strong>Connector 365 XRechnung</strong> App nimmt.<br />
-Letztere ist nämlich kompatibel mit der <strong>Connector 365 Mail Attachments Plus</strong> App. Das heißt, dass eingerichtete Anhänge für Debitoren, Berichte oder Belege ebenfalls beim XRechnung-Versand mithilfe der <strong>Connector 365 XRechnung</strong> App berücksichtigt werden. Besonders beim XRechnung-Versand ist, dass Anhänge entweder klassisch als zusätzlicher Anhang per Mail mitversendet werden können, oder aber direkt in eine XRechnung-XML-Datei eingebettet werden (Mehr dazu <a href="/de-de/apps/xrechnung">hier</a>).<br />
+Letztere ist nämlich kompatibel mit der <strong>Connector 365 Mail Attachments Plus</strong> App. Das heißt, dass eingerichtete Anhänge für Debitoren, Berichte oder Belege ebenfalls beim XRechnung-Versand mithilfe der <strong>Connector 365 XRechnung</strong> App berücksichtigt werden. Besonders beim XRechnung-Versand ist, dass Anhänge entweder klassisch als zusätzlicher Anhang per Mail mitversendet werden können, oder aber direkt in eine XRechnung-XML-Datei eingebettet werden (mehr dazu <a href="/de-de/apps/xrechnung">hier</a>).<br />
 Im Folgenden wird erläutert, wie die besondere Behandlung von Anhängen für XRechnung innerhalb von <strong>Connector 365 Mail Attachments Plus</strong> pro Anhang eingerichtet werden kann.</p>
-<h2 id="einrichten-eines-anhangs">Einrichten eines Anhangs</h2>
+<h4 id="einrichten-eines-anhangs">Einrichten eines Anhangs</h4>
 <p>Gehen Sie sicher, dass die <a href="/de-de/apps/xrechnung"><strong>Connector 365 XRechnung</strong></a> App installiert ist.<br />
 Befolgen Sie die Schritte für das Einrichten von Standard-Anhängen für  <a href="/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-customer">Debitoren</a>, <a href="/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-document">Belege</a> oder <a href="/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report">Berichte</a>.<br />
-Beim Öffnen der Anhangsliste, in der Sie neue Anhänge hinzufügen können, sollte ein Feld <strong>Nicht in XRechnung xml einbetten</strong> sichtbar sein:</p>
+Beim Öffnen der Anhangsliste, in der Sie neue Anhänge hinzufügen können, sollte ein Feld <strong>In XRechnung-XML einbetten</strong> sichtbar sein:</p>
 <table>
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/mail-attachments-plus/de/xr_do_not_embed.png" alt=""  />
+  <img src="/images/apps/mail-attachments-plus/de/inxmleinbetten.png" alt=""  />
 </p></th>
 </tr>
 </thead>
 </table>
-<p>Fügen Sie nun einen beliebigen Anhang hinzu. Standardmäßig, ist das Feld <strong>Nicht in xml XRechnung xml einbetten</strong> nicht angehakt, das heißt für XRechnung werden Anhänge standardmäßig eingebettet.<br />
-Wenn Sie jedoch einrichten möchten, dass der neu eingerichtete Anhang für XRechnungen lediglich als zusätzlichler Anhang verschickt wird, setzen Sie ein Häkchen in das Feld.</p>
+<p>Fügen Sie nun einen beliebigen Anhang hinzu. Standardmäßig, ist das Feld <strong>In XRechnung-XML einbetten</strong> nicht angehakt, das heißt für XRechnung werden Anhänge standardmäßig <strong>nicht</strong> eingebettet.<br />
+Wenn Sie jedoch einrichten möchten, dass der neu eingerichtete Anhang für XRechnungen nicht als zusätzlichler Anhang verschickt wird, sondern in die XRechnung-XML eingebettet wird, setzen Sie ein Häkchen in das Feld.</p>
 <table>
 <thead>
 <tr>
 <th><p class="md__image">
-  <img src="/images/apps/mail-attachments-plus/de/xr_set_do_not_embed.png" alt=""  />
+  <img src="/images/apps/mail-attachments-plus/de/inxmleingebettet.png" alt=""  />
 </p></th>
 </tr>
 </thead>

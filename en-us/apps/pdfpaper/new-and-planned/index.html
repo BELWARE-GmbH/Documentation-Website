@@ -1072,8 +1072,8 @@
 <link rel="stylesheet" href="/css/main.min.css">
 
 
-    <link rel="alternate" type="application/rss&#43;xml" title="rss" href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/index.xml">
-<link rel="alternate" type="application/json" title="json" href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/index.json">
+    <link rel="alternate" type="application/rss&#43;xml" title="RSS" href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/index.xml">
+<link rel="alternate" type="application/json" title="JSON" href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/index.json">
 <meta name="description" content="" />
 <meta name="keywords" content="">
 <meta name="created" content="2020-02-28T10:08:56&#43;0900">
@@ -1085,7 +1085,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/">
 <meta property="og:type" content="website">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/pdfpaper/new-and-planned/">
@@ -12656,6 +12656,49 @@ if (!doNotTrack) {
 <li>Additional functions from PdfPaper module</li>
 <li>Integration of PDF/A functionality</li>
 </ul>
+<h3 id="version-1900---17012024">Version 1.9.0.0 - 17.01.2024</h3>
+<p>New functions:</p>
+<ul>
+<li>Errors during iPaper processing are now output instead of continuing to use the unprocessed PDF.</li>
+</ul>
+<h3 id="version-1801---16012024">Version 1.8.0.1 - 16.01.2024</h3>
+<p>Corrections:</p>
+<ul>
+<li>The report usage is now set based on the document header.</li>
+</ul>
+<h3 id="version-1800---08092023">Version 1.8.0.0 - 08.09.2023</h3>
+<p>New functions:</p>
+<ul>
+<li>New event <em>OnBeforeSaveReportAsPdf</em> to override the report parameters.</li>
+<li>New event <em>OnBeforeFindReportSelectionStationeryOnAfterSetFilter</em> to change the report selection.</li>
+<li>New Event <em>OnBeforeProcessPdf</em> to override the iPaper functionality.</li>
+<li>Number of printed counters is reset when using the preview function.</li>
+</ul>
+<p>Corrections:</p>
+<ul>
+<li>Added report usage to the report selection filter to prevent the wrong data set from being used.</li>
+</ul>
+<h3 id="version-1700---20062023">Version 1.7.0.0 - 20.06.2023</h3>
+<p>New functions:</p>
+<ul>
+<li>Event parameter <em>ReportUsageGlo</em> to the events <em>OnBeforeMergeAttachmentsToIPaperXML</em> and <em>OnAfterMergeAttachmentsToIPaperXML</em> to control attachments depending on the report usage.</li>
+</ul>
+<h3 id="version-1600---11052023">Version 1.6.0.0 - 11.05.2023</h3>
+<p>New functions:</p>
+<ul>
+<li>Integration of the product <em>PDF2Print</em>, enables the printing of PDFs processed by iPaper on server printers.</li>
+</ul>
+<h3 id="version-1500---08052023">Version 1.5.0.0 - 08.05.2023</h3>
+<p>New functions:</p>
+<ul>
+<li>Option to automatically delete the generated PDFs on the file system as soon as a process is completed.</li>
+</ul>
+<h3 id="version-1400---07052023">Version 1.4.0.0 - 07.05.2023</h3>
+<p>New functions:</p>
+<ul>
+<li>Use of iPaper functions with every report execution</li>
+</ul>
+<p>Translated with DeepL.com (free version)</p>
 <h3 id="version-1300---03052023">Version 1.3.0.0 - 03.05.2023</h3>
 <p>New functions:</p>
 <ul>

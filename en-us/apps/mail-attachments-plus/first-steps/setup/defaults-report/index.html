@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-report/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-report/">
@@ -12652,16 +12652,68 @@ if (!doNotTrack) {
 <p>Default attachments are a great way to save time when adding files to your emails. If you use the same attachment in every email, just add it as a default and it will be automatically attached to every email.</p>
 <p>Start by opening the report selection of the report you want, in this example we will use Sales and Invoices. If you are not sure where to find the report selector, you can always use the Dynamics 365 Business Central search feature.</p>
 <p>As you can see in the screenshot above, there is also a new Attachments field in this window. The process of adding new default attachments works like adding attachments to your regular mail. Start by clicking on the 0 to open the attachment dialog and add your files via &ldquo;New&rdquo; and &ldquo;Add attachment&rdquo;.</p>
-<p><strong>Setting a up attachments for a certain date</strong></p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentdates.png" alt=""  />
-</p></p>
-<p>After adding the file(s), you may have noticed the &ldquo;From Date&rdquo; and &ldquo;To Date&rdquo; fields. These two fields allow you to set a default attachment for a specific time period only. This can be used, for example, to add an advertisement to your mails that is only valid for a certain period of time. Before setting the date, you must first click on &ldquo;Edit list&rdquo; in the menu, otherwise the date fields cannot be edited</p>
-<div class="notices info" data-title="Hinweis">
-  <em>The date set for the installation does not use the system date to determine the day, but the working date of your Business Central environment.</em>
+<p><em><strong>Setting attachments per language code</strong></em></p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_languagecode.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>The first step is to define the language code for which attachments are to be added. To do this, select the relevant language code and click on 0 under Attachment No. to define the attachments for this language.</p>
+<p></p>
+<p>A new window will open:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_attachment_per_languagecode.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>By clicking in the <strong>Attachment Name</strong> field, a new attachment can be added. The table containing your attachments for our Connector 365 apps will open. There are no files here the first time you use it. Add these using the three dots via <strong>New</strong> and then <strong>Add Attachment</strong>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/attach.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>After adding the file(s), it is possible to use the &ldquo;From Date&rdquo; and &ldquo;To Date&rdquo; fields to define whether a default attachment should only be attached for a certain period of time. This can be used, for example, to add an advertisement to your mails that is only valid for a certain period of time. If you are unable to edit the date fields, first click on &ldquo;Edit List&rdquo; in the menu and then set the date.</p>
+<p>Here it is also an option to set whether your attachment should always be embedded in the XRechnung XML when used with our Connector 365 XRechnung.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/xml_einbetten.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<div class="notices info" data-title="Note">
+  <em>The date set for the system does not use the system date to determine the day, but the working date of your Business Central environment.</em>
 </div>
-<h1 id="heading"></h1>
-<p>Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in <strong>&ldquo;Working with Mail Attachment Plus&rdquo;</strong> under <a href="/en-us/apps/mail-attachments-plus/working-with-map/defaults-report/">Report Default Attachments</a></p>
+<h3 id="attach-document-attachments-and-document-line-attachments-per-report">Attach Document Attachments and Document Line Attachments per Report</h3>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_new_DEU.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>In addition to the field for adding standard attachments, you have two other fields with which you can contrl whether your document attachments should be attached by default for the selected report.</p>
+<div class="notices info" data-title="Note">
+  <em>The &ldquo;Attach Document Attachments&rdquo; and &ldquo;Attach Document Line Attachments&rdquo; checkboxes marked in the screenshot aove are not used to control the attachments uploaded under attachments. They are used to control whether attachments on the individual document or in the document line should also be added automatically.</em>
+</div>
+<h4 id="heading"></h4>
+<p>Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in <strong>&ldquo;Working with Mail Attachments Plus&rdquo;</strong> under <a href="/en-us/apps/mail-attachments-plus/working-with-map/defaults-report/">Report Default Attachments</a></p>
 
   </article>
 </div>

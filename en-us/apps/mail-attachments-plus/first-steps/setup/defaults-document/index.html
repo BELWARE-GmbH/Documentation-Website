@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.120.3">
+<meta name="generator" content="Hugo 0.101.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/">
@@ -1114,7 +1114,7 @@
     "datePublished": "2020-02-28T10:08:56+09:00",
     "dateModified": "2020-02-28T10:08:56+09:00",
     "url" : "https://docs.belware.de/en-us/apps/mail-attachments-plus/first-steps/setup/defaults-document/",
-    "description": "Setup Adding standard attachments per document Using the Factbox, you have the option of adding standard attachments to each document, which are automatically attached …",
+    "description": "Setup The following describes how to add document attachments, i.e. the document attachments from a specific document as an attachment, or how to add document line …",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://docs.belware.de/"
@@ -12645,21 +12645,109 @@ if (!doNotTrack) {
 
   <article class="single__contents" data-dir="ltr">
     <h3 id="setup">Setup</h3>
-<h3 id="adding-standard-attachments-per-document">Adding standard attachments per document</h3>
-<p>Using the Factbox, you have the option of adding standard attachments to each document, which are automatically attached when the document is sent. To do this, select the desired document in the overview and choose <strong>&ldquo;Attachments&rdquo;</strong> in the factbox on the right.</p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentoverattachen.PNG" alt=""  />
-</p></p>
-<p>Now click on the 0 at &ldquo;Documents&rdquo;, a window opens in which you can add attachments via <strong>&ldquo;Select file&rdquo;</strong> in the table.</p>
-<p><p class="md__image">
-  <img src="/images/apps/attachmentdoc.PNG" alt=""  />
-</p></p>
-<p>Select the desired file and repeat this process until all the desired files are attached. From now on, the selected files will be sent whenever you send the selected document.</p>
-<p>In order to fully activate this functionality, the checkbox <strong>&ldquo;Attach Document Attachments &ldquo;</strong> must first be set in the document layouts of the respective customer.</p>
-<p><p class="md__image">
-  <img src="/images/apps/documents_en.png" alt=""  />
-</p></p>
-<p>Once the attachments are set, a mail can be sent as usual, instructions on how to do this can be found in <strong>&ldquo;Working with Mail Attachment Plus&rdquo;</strong> under <a href="/en-us/apps/mail-attachments-plus/working-with-map/defaults-document/">Document Default Attachments</a></p>
+<p>The following describes how to add document attachments, i.e. the document attachments from a specific document as an attachment, or how to add document line attachments, i.e. the document attachments from the document lines.</p>
+<h3 id="add-document-attachments-per-document">Add Document Attachments per Document</h3>
+<p>Using the fact box, each document can have document attachments that are automatically attached when the document is sent. To do this, select the desired document in the overview and select <strong>&ldquo;Attachments&rdquo;</strong> in the fact box on the right.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/attachmentoverattachde.PNG" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Now click on the 0 under &ldquo;Documents&rdquo;, a window will open in which attachments can be added via <strong>&ldquo;Attach File(s)&rdquo;</strong> in the table.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/attachmentdoc_DEU.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Select the desired file and repeat this process until all the desired files have been attached. From now on, the selected files can always be sent wwhen you send the selected document. To actually use this option, the <strong>&ldquo;Use Document Attachments&rdquo;</strong> box must be checked in the appropriate report selection or documentlayouts of the respective customer.<br />
+Please note that the setting in the documentlayouts overwrites the setting in the report selection.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/compare_reportselection.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/compare_documentlayouts.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>If overwriting is to be prevented, i.e. the general default attachments are to be attached in addition to the customer-specific attachments, this can be achieved by ticking the &ldquo;Atttach Default Attachments&rdquo; box.</p>
+<p>As soon as the attachments have been set, an email can be sent as usual. You can find instructions on how to do this in the <strong>&ldquo;Working with Mail Attachments Plus&rdquo;</strong> under <a href="/en-us/apps/mail-attachments-plus/working-with-map/defaults-document/">Document Default Attachments</a></p>
+<h3 id="adding-document-line-attachments-per-document">Adding Document Line Attachments per Document</h3>
+<p>Via the fact box, you have the option of selecting whether document line attachments are automatically attached when a document is sent.</p>
+<div class="notices info" data-title="Document line attachments">
+  <em>This refers to documents that you add via the document line. This includes, for example, attachments that you attach to item cards and then drag into the document line using a document</em>
+</div>
+<p></p>
+<p>To add these to a sales offer, for example, proceed as follows:</p>
+<p>Activate in the corresponding report selection, here: sales offer, that the document line attachments are attached by default.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/reportselection_belegzeilenanh%c3%a4nge.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>You must also activate this setting in the documentlayouts of the customer:</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/documentlayouts_belegzeilenanh%c3%a4nge.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>You can now check whether a document line attachment exists in the document. To do this, go to the document and click on <em>Line</em> under <strong>Lines</strong>, below which you will now find the sub-item <em>Attachments</em>.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/beispiel_belegzeilenanh%c3%a4nge.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>Clicking on this will open a new window, which will now show you that an attachment is linked in the example shown above for the item.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/belegzeilenanhang.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>At this point, you can also add further attachments to the corresponding document line or remove existing documents if neccessary.</p>
+<p>The document attached here is stored on the item card under attachments.</p>
+<table>
+<thead>
+<tr>
+<th><p class="md__image">
+  <img src="/images/apps/mail-attachments-plus/de/artikelkarte_anhang.png" alt=""  />
+</p></th>
+</tr>
+</thead>
+</table>
+<p>As soon as the attachments have been set, an email can be sent as usual. Instructions can be found in the <strong>&ldquo;Working with Mail Attachments Plus&rdquo;</strong> section under <a href="/en-us/apps/mail-attachments-plus/working-with-map/defaults-document/">Document Default Attachments</a></p>
 
   </article>
 </div>
