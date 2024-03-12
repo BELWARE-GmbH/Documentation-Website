@@ -34,7 +34,8 @@ The Connector 365 Upgrade app provides a function for data synchronisation.</des
         
         <guid>https://docs.belware.de/en-us/apps/connector-upgrade/using-the-upgrade-app/matrix_transfer/</guid>
         <description>Upgrade of communication matrix (CON Communication Matrix) Introduction Please check the prerequisites before proceeding.
-The communication matrix of the Connector NAV/BC contains, if maintained, setup data that determines if and how documents for individual customers, vendors or contacts are processed. In the product series Connector 365 (Business Central versions &amp;gt; 14), the communication matrix is no longer available as a separate table.
+The communication matrix of the Connector NAV/BC contains, if maintained, setup data that determines if and how documents for individual customers, vendors or contacts are processed.
+In the product series Connector 365 (Business Central versions &amp;gt; 14), the communication matrix is no longer available as a separate table.
 Instead, the Document Layouts are used for similar facilities.</description>
       </item>
       

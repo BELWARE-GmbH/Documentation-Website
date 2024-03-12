@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-2/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.101.0" />
+<meta name="generator" content="Hugo 0.120.3">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://docs.belware.de/en-us/apps/easy-supra/funktionsbeschreibung/einrichtungsassistent/stufe-2/">
@@ -12654,43 +12654,43 @@ if (!doNotTrack) {
   <img src="/images/connectornav/easysupraWeb/Abb8.png" alt=""  />
 </p></p>
 <p><strong>Figure 8: Criteria selection using the &ldquo;hard&rdquo; criteria as an example</strong>.</p>
-<p>Define all relevant criteria in this mask. For this purpose enter a criteria code, <br />
-a description and the reference fields as evaluation basis. Optionally you can <br />
+<p>Define all relevant criteria in this mask. For this purpose enter a criteria code,<br />
+a description and the reference fields as evaluation basis. Optionally you can<br />
 specify additional filters for the article category, the product group, an article and a variant. This allows you a differentiated evaluation of certain products or product groups. This also allows you, for example, to weight and evaluate the complaint rate of two different product groups differently.<br />
-To set up the respective criteria, entries are made for the fields &ldquo;Reference field 1&rdquo;, <br />
-&ldquo;Reference field 2&rdquo; and the respective option on the reference field are required. On the first level <br />
-the fields are selected, which are to be compared with each other. The following example shows the possibilities available at this level. <br />
+To set up the respective criteria, entries are made for the fields &ldquo;Reference field 1&rdquo;,<br />
+&ldquo;Reference field 2&rdquo; and the respective option on the reference field are required. On the first level<br />
+the fields are selected, which are to be compared with each other. The following example shows the possibilities available at this level.<br />
 are given on this level. For the &ldquo;hard&rdquo; criterion delivery reliability (see figure 8) fields of the reference table purchase delivery line (posted goods receipts) are used.</p>
 <p><p class="md__image">
   <img src="/images/connectornav/easysupraWeb/Abb9.png" alt=""  />
 </p></p>
 <p><strong>Figure 9: Hard criteria setup</strong>.</p>
-<p>By selecting the reference field, all available fields of the selected reference table are displayed. In terms of the supplier&rsquo;s delivery date adherence, the &ldquo;committed goods receipt date&rdquo; and the &ldquo;posting date&rdquo; are compared. <br />
-To view more details about the definition of the criterion, open via <br />
+<p>By selecting the reference field, all available fields of the selected reference table are displayed. In terms of the supplier&rsquo;s delivery date adherence, the &ldquo;committed goods receipt date&rdquo; and the &ldquo;posting date&rdquo; are compared.<br />
+To view more details about the definition of the criterion, open via<br />
 button &ldquo;Criterion setup&rdquo; to open the detail view and define a calculation/ comparison basis.<br />
 basis for comparison. Here exemplarily on the basis of the delivery reliability:</p>
 <p><p class="md__image">
   <img src="/images/connectornav/easysupraWeb/Abb10.png" alt=""  />
 </p></p>
 <p><strong>Figure 10: Detail setup of the hard criteria</strong>.</p>
-<p>The percentage signs in the &ldquo;Formula&rdquo; column are set in the evaluation by the selected <br />
-reference fields (cf. Figure 9) for the criterion. The &ldquo;Reference field 1&rdquo; corresponds to <br />
-thus %1 and the &ldquo;Reference field 2&rdquo; %2. In the lower part of the map you can also see this assignment. In the column &ldquo;Type&rdquo; you define which unit is to be used for the range <br />
-(here: &ldquo;Days&rdquo;, also possible &ldquo;Quantities&rdquo; and &ldquo;Percent&rdquo;). The entries in the &ldquo;From&rdquo; and &ldquo;To&rdquo; columns define the validity of the criteria range. Finally, a <br />
+<p>The percentage signs in the &ldquo;Formula&rdquo; column are set in the evaluation by the selected<br />
+reference fields (cf. Figure 9) for the criterion. The &ldquo;Reference field 1&rdquo; corresponds to<br />
+thus %1 and the &ldquo;Reference field 2&rdquo; %2. In the lower part of the map you can also see this assignment. In the column &ldquo;Type&rdquo; you define which unit is to be used for the range<br />
+(here: &ldquo;Days&rdquo;, also possible &ldquo;Quantities&rdquo; and &ldquo;Percent&rdquo;). The entries in the &ldquo;From&rdquo; and &ldquo;To&rdquo; columns define the validity of the criteria range. Finally, a<br />
 score must be specified for the defined range.</p>
 <p>Please note the following when defining formulas:</p>
 <ul>
-<li>&ldquo;Reference field 1&rdquo; represents the ACTUAL value, whereas &ldquo;Reference field 2&rdquo; represents the <br />
+<li>&ldquo;Reference field 1&rdquo; represents the ACTUAL value, whereas &ldquo;Reference field 2&rdquo; represents the<br />
 TARGET value, which is the basis of the comparison.</li>
-<li>Furthermore, please note that when using formulas for percentage comparisons, commas (&quot;,&quot;) must be used. <br />
+<li>Furthermore, please note that when using formulas for percentage comparisons, commas (&quot;,&quot;) must be used.<br />
 comparison, commas (&quot;,&quot;) must be replaced by periods (&quot;.&quot;).</li>
 <li>Please do not use pipe characters (&quot;|&quot;) within the formulas.</li>
 </ul>
-<p>For the example of delivery reliability, the &ldquo;Criteria Detail Code&rdquo; &ldquo;FRUEH&rdquo; has been defined (cf. <br />
+<p>For the example of delivery reliability, the &ldquo;Criteria Detail Code&rdquo; &ldquo;FRUEH&rdquo; has been defined (cf.<br />
 Figure 10). Here, the fields &ldquo;Committed goods receipt date&rdquo; and &ldquo;Posting date&rdquo; from the table &ldquo;Purchase delivery line&rdquo; are compared. If the date of the &ldquo;Committed goods receipt date&rdquo; field is before the date of the &ldquo;Posting date&rdquo; field, the criterion applies and the delivery is awarded 100 points. According to the example process<br />
 the values are checked (e.g. 13.03.2017 &gt; 12.03.2017).<br />
-After you have made all the desired settings, exit the mask <br />
-by clicking on the &ldquo;OK&rdquo; button. To activate a completely defined criterion, activate the respective criterion via the &ldquo;Allocate&rdquo; check mark (cf. Figure 9) for <br />
+After you have made all the desired settings, exit the mask<br />
+by clicking on the &ldquo;OK&rdquo; button. To activate a completely defined criterion, activate the respective criterion via the &ldquo;Allocate&rdquo; check mark (cf. Figure 9) for<br />
 the current supplier rating.<br />
 Next, set up the soft criteria.</p>
 <p><p class="md__image">
@@ -12703,18 +12703,18 @@ Next, set up the soft criteria.</p>
 </p></p>
 <p><strong>Figure 12: Definition of the soft criteria</strong>.</p>
 <p>The &ldquo;Criterion Setup&rdquo; button (cf. Figure 12) takes you to the profile survey for the selected criterion. Here the functionalities of the Business Central<br />
-Standard contact profile survey are used (cf. Figure 13). At this point you define <br />
-your questions and the answers. For each criterion you define only 1 question including the <br />
-corresponding answers. So in the current example, the question &ldquo;Are order confirmations sent?&rdquo; with the answers &ldquo;Yes&rdquo; and &ldquo;No&rdquo; belongs to the soft criterion &ldquo;Order confirmation&rdquo; (cf. Figure 13). If you would like to assign a score, this can be <br />
+Standard contact profile survey are used (cf. Figure 13). At this point you define<br />
+your questions and the answers. For each criterion you define only 1 question including the<br />
+corresponding answers. So in the current example, the question &ldquo;Are order confirmations sent?&rdquo; with the answers &ldquo;Yes&rdquo; and &ldquo;No&rdquo; belongs to the soft criterion &ldquo;Order confirmation&rdquo; (cf. Figure 13). If you would like to assign a score, this can be<br />
 under the &ldquo;To value&rdquo; field at the answer. When calculating the total score, the sum of the answer points is always divided by the number of answers given, regardless of the setup type &ldquo;multiple answers possible&rdquo; - Yes/No. Exit the mask by clicking the &ldquo;OK&rdquo; button</p>
 <p><p class="md__image">
   <img src="/images/connectornav/easysupraWeb/Abb13.png" alt=""  />
 </p></p>
 <p><strong>Figure 13: Set up soft criteria via the standard profile survey</strong>.</p>
-<p>note: You can also use the creditor card to perform the profile survey. The answer will be stored at the contact for the vendor. If no contact exists for the vendor yet, it will be created automatically. Please note that for this purpose in the &ldquo;Sales and <br />
+<p>note: You can also use the creditor card to perform the profile survey. The answer will be stored at the contact for the vendor. If no contact exists for the vendor yet, it will be created automatically. Please note that for this purpose in the &ldquo;Sales and<br />
 Marketing setup&rdquo; a number series for contacts must be stored.<br />
 Once all the desired criteria have been defined, you will be taken back to the Level 2 setup wizard (cf. Figure 11).</p>
-<p><strong>Tip:</strong> All defined criteria (&ldquo;hard&rdquo; and &ldquo;soft&rdquo;) are now available for each new or existing supplier rating. The creation and setup is therefore unique and <br />
+<p><strong>Tip:</strong> All defined criteria (&ldquo;hard&rdquo; and &ldquo;soft&rdquo;) are now available for each new or existing supplier rating. The creation and setup is therefore unique and<br />
 each supplier rating can use the pool of criteria from now on.</p>
 <p>After setting up all criteria, press the &ldquo;Next&rdquo; button in the wizard.</p>
 
