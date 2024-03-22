@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PDF on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/pdf/</link>
+    <description>Recent content in PDF on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/pdf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>New and planned</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/new-and-planned/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/new-and-planned/</guid>
+        <description>New and planned features of the Connector 365 PDF App Here you will find all important information and notes about new and planned features of the Connector 365 PDF App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the support page.
+Planned functions for future versions further functions from the PdfPaper module Version 1.</description>
+      </item>
+      
+      <item>
+        <title>First steps</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/</guid>
+        <description>Getting started with the Connector 365 PDF app. Here you will find all the important information and notes on the trial version, installation and purchase of the Connector 365 PDF App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Working with PDF</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/</guid>
+        <description>Working with PDF Here you will find all the important information and notes on working with the Connector 365 PDF App.
+Simply use either the bottom or left navigation menu.
+In case a question could not be answered for you, we will be happy to help you personally. You will find the necessary contact information on the support page.</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/videos/</guid>
+        <description>Videos Here you can find some informative videos about our PDF app, each video covers a special topic</description>
+      </item>
+      
+    
+  </channel>
+</rss>

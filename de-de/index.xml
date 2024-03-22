@@ -510,6 +510,17 @@ Mit der Connector 365 Mail Subject Plus App ist es möglich, Ihre eigenen Standa
       
       <item>
         <title>Einleitung</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/introduction/</guid>
+        <description>Erste Schritte Einleitung Mit der Connector 365 PDF App bringen Sie Ihr hochwertiges Briefpapier mit Ihrer CI auf Ihre digitale Belege und das ohne aufwendige Reportanpassungen - diese fallen weg.
+Die Connector 365 PDF App erlaubt Ihnen ein Briefpapier Global zu hinterlegen, sowie pro Bericht ein weiteres Briefpapier zu hinterlegen und darüber hinaus ebenfalls auch pro Debitor.
+Vor dem Versand Ihrer Belege können Sie noch per Vorschaufunktion das Endergebnis prüfen.</description>
+      </item>
+      
+      <item>
+        <title>Einleitung</title>
         <link>https://docs.belware.de/de-de/apps/pdfpaper/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -558,6 +569,17 @@ Einrichtung Subject</description>
         <description>Einrichtung Einrichten der einzelnen Module Die Connector 365 Mail Experience Pro App verbindet die 7 Apps aus unserer Mail Pro-Reihe zu einer Power App. Im Folgenden informieren wir Sie darüber wie Sie die einzelnen Bereiche einrichten.
 Bereich Mail Subject Plus Der Bereich Mail Subject Plus ist dazu da um Ihren E-Mails eigene dynamische Betreffzeilen je Bericht oder Debitor hinzuzufügen. Dabei unterstützen Sie Platzhalter um eigene Inhalte zu definieren.
 Einrichtung Subject</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/einrichtung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/einrichtung/</guid>
+        <description>Einrichtung Damit Ihre Dokumente in Ihrem Corporate-Design verschickt werden, müssen Sie vorab den Connector 365 PDF einrichten. Im Folgenden wird erläutert, welche Schritte notwendig sind, für die grundlegende Einrichtung und anschließende Nutzung.
+Allgemein Für die allgemeine Einrichtung der App PDF suchen Sie über die Tell me-Funktion nach Connector 365 Einrichtung und öffnen Sie den entsprechenden Link. Klicken Sie anschließend auf PDF-Einrichtung. Die Einrichtung für die App klappt aus.
+API-Schlüssel Hier füllen Sie nun zuerst das folgende Feld aus: API-Schlüssel.</description>
       </item>
       
       <item>
@@ -1371,6 +1393,26 @@ Vor Bestellung können Sie die anfallenden Kosten der auf unserer Website bereit
       
       <item>
         <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/installation/appsource/</guid>
+        <description>Installation In diesem Abschnitt geht es um die Installation des Connector 365 PDF. Hierzu haben Sie bei SaaS Umgebungen zwei Möglichkeiten die App zu installieren: extern und intern in Business Central.
+Je nach der aktuellen Microsoft-Upgrade-Richtlinie verfügen Sie möglicherweise nicht über die aktuellste Version der App. Um auf die aktuellste Version zu aktualisieren, öffnen Sie das Dynamics 365 Business Central Admin Center und führen Sie das entsprechende Upgrade der App für Ihre Umgebung durch.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/test-purchase/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/test-purchase/appsource/</guid>
+        <description>Test &amp;amp; Kauf AppSource Unsere App steht Ihnen im Microsoft AppSource zum Download zur Verfügung.
+Nach der Installation haben Sie die Möglichkeit unsere App für 30 Tage zu testen. Wir weisen darauf hin, dass auch schon während des Testzeitraums Gebühren anfallen können. Die anfallenden Kosten können Sie der auf unserer Website bereitgestellten Preisliste entnehmen. Sollten Sie vor Beginn Ihres Testzeitraums Fragen zu den Kosten oder dem Ablauf haben, dann wenden Sie sich bitte an die info@belware.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
         <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/test-purchase/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -1581,6 +1623,17 @@ Lieferanten an. Damit wird die Leistungsfähigkeit eines einzelnen Lieferanten v
         <guid>https://docs.belware.de/de-de/connectornav/html-word/link_pics/</guid>
         <description>Bilder verknüpfen Wenn Sie Ihre HTML-Vorlagen mit Word erstellen wollen, müssen verwendete Bilder mittels URL im Dokument verknüpft werden. Andernfalls werden diese nach dem Versand per E-Mail nicht mehr angezeigt.
 Die Bilder müssen zunächst an geeigneter Stelle beispielsweise über ein FTP-Programm auf einem Webserver bereitgestellt werden, am besten im Format .jpg oder .png. Sobald Ihre Bilddateien auf dem Webserver hochgeladen sind, können Sie die genaue Adresse (beispielsweise „http://www.firma-xyz.de/images/testbild.jpg“) kopieren und in Ihren Newsletter einfügen.</description>
+      </item>
+      
+      <item>
+        <title>Briefpapier nutzen</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/working-with-pdfpaper/stationery/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/working-with-pdfpaper/stationery/</guid>
+        <description>Arbeiten mit der PDF App Briefpapier nutzen Einmal hinterlegt, wird das Briefpapier automatisch bei der Erstellung von PDFs gemerged. Dabei unterstützen wir jeden Arbeitsvorgang bei dem eine PDF zur Verfügung gestellt wird.
+Die folgenden Berichte werden unterstützt:
+Verkauf Einkauf Angebote Anfragen Aufträge Bestellungen Rahmenaufträge Rahmenbestellungen Geb. Vk-Rechnungen Geb. Ek-Rechnungen Geb. Vk-Gutschriften Geb. EK-Gutschriften Reg. Mahnungen Unsere anderen Apps, bei denen eine PDF-Erstellung stattfindet, unterstützen ebenfalls die Connector 365 PDF App:</description>
       </item>
       
       <item>
@@ -2591,6 +2644,18 @@ Sie sollten vor dem Einsatz ggf. einige Stammdaten überprüfen, damit Sie im sp
       </item>
       
       <item>
+        <title>Einrichtung in Berichtsauswahl</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/reportselection/</guid>
+        <description>Einrichtung Die in der Berichtsauswahl hinterlegte PDF-Einrichtung wird gegenüber der PDF-Einrichtung in der Connector 365 Einrichtung priorisiert.
+PDF in der Berichtsauswahl Die Berichtsauswahl ist eine weitere Stelle an der Sie Ihr Briefpapier hinterlegen können neben der Connector 365 Einrichtung und den Dokumentenlayouts.
+Öffnen Sie die entsprechende Berichtsauswahl z.B. &amp;ldquo;Berichtsauswahl - Verkauf&amp;rdquo;. Wählen Sie dort nun den Bericht aus für den Sie ein Briefpapier hinterlegen möchten.
+Sie werden hier nun als neuen Bereich PDF-Einrichtung finden.</description>
+      </item>
+      
+      <item>
         <title>Einstellungen pro Bericht</title>
         <link>https://docs.belware.de/de-de/apps/mail-sender-plus/first-steps/setup/report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -3167,6 +3232,17 @@ Es werden nur Aufgaben berücksichtigt, welche bei der Verarbeitung auf einen Fe
       </item>
       
       <item>
+        <title>PDF im Dokumentenlayout</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/documentlayouts/</guid>
+        <description>Einrichtung Die in den Dokumentenlayouts oder Beleglayouts hinterlegte Briefpapier-Konfiguration wird gegenüber der PDF-Einrichtung in der Berichtsauswahl als auch in der Connector 365 Einrichtung priorisiert.
+Briefpapier im Dokumentenlayout Sie haben neben der Möglichkeit ein Briefpapier für alle Berichte, sowie per Bericht auch die Möglichkeit ein berichtspezifisches Briefpapier pro Debitor zu hinterlegen. Die Einrichtung hierfür wird in den jeweiligen Dokumentenlayouts vorgenommen.
+Öffnen Sie die Karte des Debitors, bei dem Sie ein abweichendes Briefpapier hinterlegen wollen.</description>
+      </item>
+      
+      <item>
         <title>PEPPOL im Standard</title>
         <link>https://docs.belware.de/de-de/connectornav/data-exchange/peppol/standard/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -3631,6 +3707,15 @@ Einrichtung der App </description>
         
         <guid>https://docs.belware.de/de-de/apps/mail-subject-plus/videos/</guid>
         <description>Videos Hier finden Sie einige informative Videos zur unserer Mail Subject Plus App, jedes Video behandelt ein spezielles Thema</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/videos/</guid>
+        <description>Videos Hier finden Sie einige informative Videos zur unserer PDF App, jedes Video behandelt ein spezielles Thema</description>
       </item>
       
       <item>

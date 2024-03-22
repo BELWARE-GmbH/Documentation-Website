@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "PDF on Connector 365 Online Help",
+    "description": "Recent content in PDF on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/pdf/index.json",
+    "items" : [
+    {
+        "title" : "New and planned",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/pdf/new-and-planned/",
+        "url" : "https://docs.belware.de/en-us/apps/pdf/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"new-and-planned-features-of-the-connector-365-pdf-app\"\u003eNew and planned features of the Connector 365 PDF App\u003c/h3\u003e\n\u003cp\u003eHere you will find all important information and notes about new and planned features of the Connector 365 PDF App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n\u003ch3 id=\"planned-functions-for-future-versions\"\u003ePlanned functions for future versions\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003efurther functions from the PdfPaper module\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eStoring stationery: global, per report and per customer\u003c/li\u003e\n\u003cli\u003ecreation of multiple stationery\u003c/li\u003e\n\u003cli\u003epreview function\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "First steps",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/pdf/first-steps/",
+        "url" : "https://docs.belware.de/en-us/apps/pdf/first-steps/",
+        "content_html" : "\u003ch3 id=\"getting-started-with-the-connector-365-pdf-app\"\u003eGetting started with the Connector 365 PDF app.\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and notes on the trial version, installation and purchase of the Connector 365 PDF App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Working with PDF",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/",
+        "url" : "https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/",
+        "content_html" : "\u003ch3 id=\"working-with-pdf\"\u003eWorking with PDF\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and notes on working with the Connector 365 PDF App.\u003c/p\u003e\n\u003cp\u003eSimply use either the bottom or left navigation menu.\u003c/p\u003e\n\u003cp\u003eIn case a question could not be answered for you, we will be happy to help you personally. You will find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/en-us/apps/pdf/videos/",
+        "url" : "https://docs.belware.de/en-us/apps/pdf/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHere you can find some informative videos about our PDF app, each video covers a special topic\u003c/p\u003e\n"
+    }
+    ]
+}

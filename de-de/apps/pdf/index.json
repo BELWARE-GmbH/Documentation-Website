@@ -1,0 +1,41 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "PDF on Connector 365 Online Hilfe",
+    "description": "Recent content in PDF on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/pdf/index.json",
+    "items" : [
+    {
+        "title" : "Neu und geplant",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/pdf/new-and-planned/",
+        "url" : "https://docs.belware.de/de-de/apps/pdf/new-and-planned/",
+        "content_html" : "\u003ch3 id=\"neue-und-geplante-features-der-connector-365-pdf-app\"\u003eNeue und geplante Features der Connector 365 PDF App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zu neuen und geplanten Features der Connector 365 PDF App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n\u003ch3 id=\"geplante-funktionen-für-zukünftige-versionen\"\u003eGeplante Funktionen für zukünftige Versionen\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eweitere Funktionen aus Modul PdfPaper\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"version-1000\"\u003eVersion 1.0.0.0\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eHinterlegen von Briefpapier: Global, pro Bericht \u0026amp; pro Debitor\u003c/li\u003e\n\u003cli\u003eAnlegen von mehreren Briefpapieren\u003c/li\u003e\n\u003cli\u003eVorschaufunktion\u003c/li\u003e\n\u003c/ul\u003e\n"
+    },
+    {
+        "title" : "Erste Schritte",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/pdf/first-steps/",
+        "url" : "https://docs.belware.de/de-de/apps/pdf/first-steps/",
+        "content_html" : "\u003ch3 id=\"erste-schritte-mit-der-connector-365-pdf-app\"\u003eErste Schritte mit der Connector 365 PDF App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 PDF App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie zur Navigation einfach entweder das untere oder linke Menü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Arbeiten mit PDF",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/pdf/working-with-pdfpaper/",
+        "url" : "https://docs.belware.de/de-de/apps/pdf/working-with-pdfpaper/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Videos",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/pdf/videos/",
+        "url" : "https://docs.belware.de/de-de/apps/pdf/videos/",
+        "content_html" : "\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\u003cp\u003eHier finden Sie einige informative Videos zur unserer PDF App, jedes Video behandelt ein spezielles Thema\u003c/p\u003e\n"
+    }
+    ]
+}

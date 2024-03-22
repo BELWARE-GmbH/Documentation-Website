@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einrichtung on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/</link>
+    <description>Recent content in Einrichtung on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/pdf/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Einrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/einrichtung/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/einrichtung/</guid>
+        <description>Einrichtung Damit Ihre Dokumente in Ihrem Corporate-Design verschickt werden, müssen Sie vorab den Connector 365 PDF einrichten. Im Folgenden wird erläutert, welche Schritte notwendig sind, für die grundlegende Einrichtung und anschließende Nutzung.
+Allgemein Für die allgemeine Einrichtung der App PDF suchen Sie über die Tell me-Funktion nach Connector 365 Einrichtung und öffnen Sie den entsprechenden Link. Klicken Sie anschließend auf PDF-Einrichtung. Die Einrichtung für die App klappt aus.
+API-Schlüssel Hier füllen Sie nun zuerst das folgende Feld aus: API-Schlüssel.</description>
+      </item>
+      
+      <item>
+        <title>Einrichtung in Berichtsauswahl</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/reportselection/</guid>
+        <description>Einrichtung Die in der Berichtsauswahl hinterlegte PDF-Einrichtung wird gegenüber der PDF-Einrichtung in der Connector 365 Einrichtung priorisiert.
+PDF in der Berichtsauswahl Die Berichtsauswahl ist eine weitere Stelle an der Sie Ihr Briefpapier hinterlegen können neben der Connector 365 Einrichtung und den Dokumentenlayouts.
+Öffnen Sie die entsprechende Berichtsauswahl z.B. &amp;ldquo;Berichtsauswahl - Verkauf&amp;rdquo;. Wählen Sie dort nun den Bericht aus für den Sie ein Briefpapier hinterlegen möchten.
+Sie werden hier nun als neuen Bereich PDF-Einrichtung finden.</description>
+      </item>
+      
+      <item>
+        <title>PDF im Dokumentenlayout</title>
+        <link>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/pdf/first-steps/setup/documentlayouts/</guid>
+        <description>Einrichtung Die in den Dokumentenlayouts oder Beleglayouts hinterlegte Briefpapier-Konfiguration wird gegenüber der PDF-Einrichtung in der Berichtsauswahl als auch in der Connector 365 Einrichtung priorisiert.
+Briefpapier im Dokumentenlayout Sie haben neben der Möglichkeit ein Briefpapier für alle Berichte, sowie per Bericht auch die Möglichkeit ein berichtspezifisches Briefpapier pro Debitor zu hinterlegen. Die Einrichtung hierfür wird in den jeweiligen Dokumentenlayouts vorgenommen.
+Öffnen Sie die Karte des Debitors, bei dem Sie ein abweichendes Briefpapier hinterlegen wollen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

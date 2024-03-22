@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working with PDF on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/</link>
+    <description>Recent content in Working with PDF on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Using the stationery</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/stationery/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/stationery/</guid>
+        <description>Working with the PDF app Use the stationery Once stored, the stationery is automatically merged when PDFs are created. We support work processes in which a PDF is made available.
+The following reports are supported:
+Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket Sales Order Blanket Purchase Order Post. Sales Invoice Sales Purchase Invoice Post. Sales Credit Memo Post. Purchase Credit Memo Reg. Reminder Our other apps that create PDFs also support the Connector 365 PDF app:</description>
+      </item>
+      
+    
+  </channel>
+</rss>

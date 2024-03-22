@@ -70,6 +70,17 @@ Actions E-POST With this action you send the E-POST. PDF With this action you cr
       </item>
       
       <item>
+        <title>appsource</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/installation/appsource/</guid>
+        <description>Installation This section deals with the installation of the Connector 365 PDF. In SaaS environments, you have two options for installing the app: externally and internally in Business Central.
+Depending on the current Microsoft upgrade policy, you may not have the latest version of the app. To upgrade to the latest version, open the Dynamics 365 Business Central Admin Center and upgrade the app for your environment.
+AppSource You can purchase the Connector 365 PDF via the AppSource.</description>
+      </item>
+      
+      <item>
         <title>AppSource</title>
         <link>https://docs.belware.de/en-us/apps/addressee-control/first-steps/installation/appsource/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -532,6 +543,16 @@ With the Connector 365 Easy Batch it is possible to intelligently send multiple 
       
       <item>
         <title>Introduction</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/introduction/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/introduction/</guid>
+        <description>First steps Introduction With the Connector 365 PDF App, you can apply your high-quality stationery with your CI to your digital documents without the need for time-consuming report adjustments - these are no longer necessary.
+The Connector 365 PDF App allows you to store your own stationery for each report and also for each customer. Before sending your documents, you can still check the final result using the preview function.</description>
+      </item>
+      
+      <item>
+        <title>Introduction</title>
         <link>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/introduction/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -942,6 +963,17 @@ Mail Subject Plus area The Mail Subject Plus area is for adding your own dynamic
         <guid>https://docs.belware.de/en-us/apps/mail-experience-pro/first-steps/setup/modules/</guid>
         <description>Setup Setting up the individual modules The Connector 365 Mail Experience Pro app combines the 3 apps from our Mail Pro series into one power app. Below we will tell you how to set up each area.
 Mail Subject Plus area The Mail Subject Plus area is for adding your own dynamic subject lines per report or customer to your emails. You can use placeholders to define your own content.</description>
+      </item>
+      
+      <item>
+        <title>Setup</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/setup/</guid>
+        <description>Setup To ensure that your documents are sent in your corporate design, you must first set up the Connector 365 PDF. The steps required for the basic setup and subsequent use are explained below.
+General For the general setup of the PDF app, search via Tell me for Connector 365 Setup and open the corresponding link. Then click on PDF Setup. The setup for the app folds out.
+API-Key The first field you fill in is the API-Key.</description>
       </item>
       
       <item>
@@ -1385,6 +1417,17 @@ After installation the full functionality of the app can be used for 30 days fre
 If the app suits your requirements you can purchase full licenses via our order form.
 Licensing is on a per-user basis, counting each user with a Team Member or Essentials license.
 Before placing an order, you can find the applicable costs in the price list provided on our website.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/test-purchase/onprem/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/test-purchase/onprem/</guid>
+        <description>Test &amp;amp; Purchase AppSource Our app is available for download from Microsoft AppSource.
+After installation, you have the option of testing our app for 30 days. We would like to point out that fees may be incurred even during the trial period. The costs incurred can be requested via E-Mail.
+If you like the app and its range of functions, you can purchase licenses for a fee at any time using our order form.</description>
       </item>
       
       <item>
@@ -2010,6 +2053,18 @@ If you wish to purchase the software immediately, we will provide you with the n
       
       <item>
         <title>PdfPaper Setup</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/pdfpaper/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/pdfpaper/</guid>
+        <description>Setup Connector 365 PdfPaper In order to use the Connector 365 PdfPaper app, a connection to the iPaper software must be established. This is done via the &amp;ldquo;Connector 365 Setup&amp;rdquo;, which you can find via the search function.
+There you will find 3 fields for setup:
+PdfPaperIn - Here you have to specify the input folder from the iPaper setup.
+PdfPaperOut - Here you have to specify the output folder from the iPaper setup.</description>
+      </item>
+      
+      <item>
+        <title>PdfPaper Setup</title>
         <link>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/pdfpaper/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -2198,6 +2253,17 @@ For IncaMail, the e-mail of the IncaMail account is entered.</description>
         <description>Setup of an SMTP adress per user First of all, we need to access the intended user&amp;rsquo;s user setup to make sure that the correct email address is specified there.
 The user setup for the user Max Mustermann
 Check if the marked e-mail field is filled in (correctly). Make any necessary changes and then close the user setup. Now open the Mail Sender Plus setup, which can be found in the Connector NAV menu.</description>
+      </item>
+      
+      <item>
+        <title>Using the stationery</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/stationery/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/working-with-pdfpaper/stationery/</guid>
+        <description>Working with the PDF app Use the stationery Once stored, the stationery is automatically merged when PDFs are created. We support work processes in which a PDF is made available.
+The following reports are supported:
+Sales Purchase Quote Inquiries Sales Order Purchase Order Blanket Sales Order Blanket Purchase Order Post. Sales Invoice Sales Purchase Invoice Post. Sales Credit Memo Post. Purchase Credit Memo Reg. Reminder Our other apps that create PDFs also support the Connector 365 PDF app:</description>
       </item>
       
       <item>
@@ -2665,6 +2731,18 @@ Now an additional window opens with various informaton about the corresponding p
 Sent XRechnung&amp;quot; &amp;amp; &amp;ldquo;Incorrect XRechnung&amp;rdquo;.
 Protocol Sent XRechnung In the detailed dispatch log &amp;ldquo;Who&amp;rdquo; - &amp;ldquo;What&amp;rdquo; - &amp;ldquo;When &amp;ldquo; all successfully sent XRechnung are archived. The original XML file as well as the validation report are included in the log.
 Protocol incorrect XRechnung Here XRechnung are displayed, which failed the check and are not accepted as XRechnung.</description>
+      </item>
+      
+      <item>
+        <title>Stationery in the report selection</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/reportselection/</guid>
+        <description>Setup The PDF setup stored in the report selection is prioritized over the PDF setup in the Connector 365 Setup.
+PDF in the report selection The report selection is another place where you can store your stationery in addition to the Connector 365 Setup and the document layouts.
+Open the corresponding report selection, e.g. &amp;ldquo;Report Selection - Sales&amp;rdquo;. Now select the report for which you want .
+Here you will now find the new section: PDF-Setup.</description>
       </item>
       
       <item>
@@ -3138,6 +3216,17 @@ Sources of Information For the setup of the STARFACE software some information i
       
       <item>
         <title>Stationery in the document layout</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/documentlayouts/</guid>
+        <description>Setup The configuration defined in the document layouts is prioritized over the PDF setup in the report selection as well as in the Connector 365 Setup.
+Stationery in the Document Layout In addition to the option of defining a stationery for all reports globally and per report, you also have the option of defining a report-specific stationery for each customer. This is set up in the respective document layouts.
+Open the document layouts of the customer for whom you want to define a different stationery.</description>
+      </item>
+      
+      <item>
+        <title>Stationery in the document layout</title>
         <link>https://docs.belware.de/en-us/apps/pdfpaper/first-steps/setup/documentlayouts/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -3604,6 +3693,15 @@ Setup of the App </description>
         
         <guid>https://docs.belware.de/en-us/apps/mail-subject-plus/videos/</guid>
         <description>Videos Here you can find some informative videos about our Mail Subject Plus app, each video covers a special topic</description>
+      </item>
+      
+      <item>
+        <title>Videos</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/videos/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/videos/</guid>
+        <description>Videos Here you can find some informative videos about our PDF app, each video covers a special topic</description>
       </item>
       
       <item>

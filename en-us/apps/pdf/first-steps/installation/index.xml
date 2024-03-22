@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/pdf/first-steps/installation/</link>
+    <description>Recent content in Installation on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/pdf/first-steps/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>appsource</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/installation/appsource/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/installation/appsource/</guid>
+        <description>Installation This section deals with the installation of the Connector 365 PDF. In SaaS environments, you have two options for installing the app: externally and internally in Business Central.
+Depending on the current Microsoft upgrade policy, you may not have the latest version of the app. To upgrade to the latest version, open the Dynamics 365 Business Central Admin Center and upgrade the app for your environment.
+AppSource You can purchase the Connector 365 PDF via the AppSource.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

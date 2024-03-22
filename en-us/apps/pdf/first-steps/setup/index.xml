@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Connector 365 Online Help</title>
+    <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/</link>
+    <description>Recent content in Setup on Connector 365 Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/en-us/apps/pdf/first-steps/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Setup</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/setup/</guid>
+        <description>Setup To ensure that your documents are sent in your corporate design, you must first set up the Connector 365 PDF. The steps required for the basic setup and subsequent use are explained below.
+General For the general setup of the PDF app, search via Tell me for Connector 365 Setup and open the corresponding link. Then click on PDF Setup. The setup for the app folds out.
+API-Key The first field you fill in is the API-Key.</description>
+      </item>
+      
+      <item>
+        <title>PdfPaper Setup</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/pdfpaper/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/pdfpaper/</guid>
+        <description>Setup Connector 365 PdfPaper In order to use the Connector 365 PdfPaper app, a connection to the iPaper software must be established. This is done via the &amp;ldquo;Connector 365 Setup&amp;rdquo;, which you can find via the search function.
+There you will find 3 fields for setup:
+PdfPaperIn - Here you have to specify the input folder from the iPaper setup.
+PdfPaperOut - Here you have to specify the output folder from the iPaper setup.</description>
+      </item>
+      
+      <item>
+        <title>Stationery in the report selection</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/reportselection/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/reportselection/</guid>
+        <description>Setup The PDF setup stored in the report selection is prioritized over the PDF setup in the Connector 365 Setup.
+PDF in the report selection The report selection is another place where you can store your stationery in addition to the Connector 365 Setup and the document layouts.
+Open the corresponding report selection, e.g. &amp;ldquo;Report Selection - Sales&amp;rdquo;. Now select the report for which you want .
+Here you will now find the new section: PDF-Setup.</description>
+      </item>
+      
+      <item>
+        <title>Stationery in the document layout</title>
+        <link>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/documentlayouts/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/pdf/first-steps/setup/documentlayouts/</guid>
+        <description>Setup The configuration defined in the document layouts is prioritized over the PDF setup in the report selection as well as in the Connector 365 Setup.
+Stationery in the Document Layout In addition to the option of defining a stationery for all reports globally and per report, you also have the option of defining a report-specific stationery for each customer. This is set up in the respective document layouts.
+Open the document layouts of the customer for whom you want to define a different stationery.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

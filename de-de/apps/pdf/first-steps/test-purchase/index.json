@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Test & Kauf on Connector 365 Online Hilfe",
+    "description": "Recent content in Test & Kauf on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/pdf/first-steps/test-purchase/index.json",
+    "items" : [
+    {
+        "title" : "AppSource",
+        "date_published" : "2020-02-28T10:08:56+09:00",
+        "date_modified" : "2020-02-28T10:08:56+09:00",
+        "id" : "https://docs.belware.de/de-de/apps/pdf/first-steps/test-purchase/appsource/",
+        "url" : "https://docs.belware.de/de-de/apps/pdf/first-steps/test-purchase/appsource/",
+        "content_html" : "\u003ch3 id=\"test--kauf\"\u003eTest \u0026amp; Kauf\u003c/h3\u003e\n\u003ch3 id=\"appsource\"\u003eAppSource\u003c/h3\u003e\n\u003cp\u003eUnsere App steht Ihnen im \u003ca href=\"https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.belwaregmbh2%7CAID.connector_365_custom_filename%7CPAPPID.879c2015-6f09-42ba-b3e6-874dcb07ff75?tab=Overview\" target=\"_blank\"\u003eMicrosoft AppSource\u003c/a\u003e zum Download zur Verfügung.\u003c/p\u003e\n\u003cp\u003eNach der Installation haben Sie die Möglichkeit unsere App für 30 Tage zu testen. Wir weisen darauf hin, dass auch schon während des Testzeitraums Gebühren anfallen können. Die anfallenden Kosten können Sie der \u003ca href=\"https://www.belware.de/preise\" target=\"_blank\"\u003eauf unserer Website bereitgestellten Preisliste\u003c/a\u003e entnehmen. Sollten Sie vor Beginn Ihres Testzeitraums Fragen zu den Kosten oder dem Ablauf haben, dann wenden Sie sich bitte an die \u003ca href=\"/mailto:info@belware.de\"\u003einfo@belware.de\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eWenn Ihnen die App und Ihr Funktionsumfang zusagt, können Sie jederzeit über unser Bestellformular kostenpflichtig Lizenzen erwerben. Die Lizenzierung erfolgt\u003c/p\u003e\n\u003cp\u003eSie haben die Möglichkeit, unsere Connector 365 PdfPaper App unverbindlich vorab zu testen oder auch direkt zu erwerben. Vor Bestellung können Sie die anfallenden Kosten der \u003ca href=\"https://www.belware.de/preise\" target=\"_blank\"\u003eauf unserer Website bereitgestellten Preisliste\u003c/a\u003e entnehmen.\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\r\nZum Bestellformular\r\n\u003c/p\u003e\r\n\u003cp\u003e\u003ca href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wbg8p1B5wk60E37fEWJ6gK10RbLPyuxOs2bKXXZxm8JUM0tNOEJVMlIxUkpOQzJTN0owME5OV0wwNy4u\" target=\"_blank\"\u003e\u003cimg src=\"/images/apps/Forms_pdf.png\"\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eSollten vorab Fragen auftauchen, wenden Sie sich bei technischen Anfragen an \u003ca href=\"/mailto:Support@belware.de\"\u003eSupport@belware.de\u003c/a\u003e und bei allgemeinen Anfragen wie Preise, Ablauf oder Ähnliches an die \u003ca href=\"/mailto:Info@belware.de\"\u003eInfo@belware.de\u003c/a\u003e\u003c/p\u003e\n"
+    }
+    ]
+}
