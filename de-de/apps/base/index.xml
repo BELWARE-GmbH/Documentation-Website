@@ -20,15 +20,11 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/base/new-and-planned/</guid>
-        <description>Neu und geplant Version 2.16.0.5 09.11.2023 Verbesserungen:
-Beheben von Fehler bei Speicherung und Anzeige diverser Belegarten in der Aktivitätenliste Version 2.13.0.2 Verbesserungen:
-Performance-Verbesserungen für die Connector 365 Statistiken Version 2.13.0.0 Neuerungen:
-Einblenden der kommunikationsmatrix (Dokumentlayouts) in den Seiten:
-Kreditoren Debitoren
-(Jeweils Übersicht- und Karte) Aktivitäteneinträge und Statistik in den Seiten
-Kreditore Debitore Kontakte
-(Jeweils Übersicht- und Karte) Korrekturen:
-Korrektur der Funktion zum Löschen der Aktivitäteneinträge Fehlerbehung bei Upgrade von einer Connector 365 Version &amp;lt; 2.</description>
+        <description>Neu und geplant Version 2.20.0.1 21.03.2024 Korrekturen:
+Behebt Fehler bei Abrufen von Bodytexten Version 2.20.0.0 15.03.2024 Neuerungen:
+Integriert interne Funktionen zwecks Kompatibilität zur kommenden Connector 365 PDF App Version 2.19.0.0 1.03.2024 Neuerungen:
+Nutzung der neuen Layout Code Feldern aus Berichtsauswahl / Dokumentlayouts Kompatibilität zu neuesten Funktionen der Connector 365 Easy Batch App Version 2.18.0.0 7.2.2024 Neurungen:
+Fügt Bodytext Feld in die Connector 365 Aktivitäten hinzu Version 2.17.0.0 15.12.2023 Neue features:</description>
       </item>
       
       <item>
