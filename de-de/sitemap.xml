@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/scenarios/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -2673,6 +2688,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/new-and-planned/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents/new-and-planned/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/attach-as-pdf/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -4743,6 +4773,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents/working-with-e-documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/send/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -5789,6 +5834,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/smtp2fax/working-with-smtp2fax/issuedreminders/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents/"
                 />
   </url>
   

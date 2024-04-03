@@ -158,6 +158,14 @@
         "content_html" : "\u003ch3 id=\"connector-365-smtp2fax-online-hilfe\"\u003eConnector 365 SMTP2FAX Online Hilfe\u003c/h3\u003e\n\u003cp\u003eHier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 SMTP2FAX App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
+        "title" : "E-Documents",
+        "date_published" : "2024-04-03T00:00:00Z",
+        "date_modified" : "2024-04-03T00:00:00Z",
+        "id" : "https://docs.belware.de/de-de/apps/e-documents/",
+        "url" : "https://docs.belware.de/de-de/apps/e-documents/",
+        "content_html" : ""
+    },
+    {
         "title" : "Entwicklerdokumentation",
         "date_published" : "2020-02-28T10:08:56+09:00",
         "date_modified" : "2020-02-28T10:08:56+09:00",
