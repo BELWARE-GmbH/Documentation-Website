@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-Documents Validator on Connector 365 Online Hilfe</title>
+    <link>https://docs.belware.de/de-de/apps/e-documents-validator/</link>
+    <description>Recent content in E-Documents Validator on Connector 365 Online Hilfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy;{year} - Germany - BELWARE® GmbH - Dorsten</copyright>
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://docs.belware.de/de-de/apps/e-documents-validator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Neu und geplant</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents-validator/new-and-planned/</link>
+        <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents-validator/new-and-planned/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Erste Schritte</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/</link>
+        <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/</guid>
+        <description>Erste Schritte mit der Connector 365 E-Documents Validator App Hier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 E-Documents Validator App.
+Nutzen Sie zur Navigation einfach entweder das untere oder linke Menü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>Arbeiten mit E-Documents Validator</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents-validator/working-with-e-documents/</link>
+        <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents-validator/working-with-e-documents/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

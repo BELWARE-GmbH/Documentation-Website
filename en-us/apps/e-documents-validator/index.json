@@ -1,0 +1,33 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "E-Documents Validator on Connector 365 Online Help",
+    "description": "Recent content in E-Documents Validator on Connector 365 Online Help",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/en-us/apps/e-documents-validator/index.json",
+    "items" : [
+    {
+        "title" : "First steps",
+        "date_published" : "2024-04-03T00:00:00Z",
+        "date_modified" : "2024-04-03T00:00:00Z",
+        "id" : "https://docs.belware.de/en-us/apps/e-documents-validator/first-steps/",
+        "url" : "https://docs.belware.de/en-us/apps/e-documents-validator/first-steps/",
+        "content_html" : ""
+    },
+    {
+        "title" : "New and Planned",
+        "date_published" : "2024-04-03T00:00:00Z",
+        "date_modified" : "2024-04-03T00:00:00Z",
+        "id" : "https://docs.belware.de/en-us/apps/e-documents-validator/new-and-planned/",
+        "url" : "https://docs.belware.de/en-us/apps/e-documents-validator/new-and-planned/",
+        "content_html" : ""
+    },
+    {
+        "title" : "Working with E-Documents",
+        "date_published" : "2024-04-03T00:00:00Z",
+        "date_modified" : "2024-04-03T00:00:00Z",
+        "id" : "https://docs.belware.de/en-us/apps/e-documents-validator/working-with-e-documents/",
+        "url" : "https://docs.belware.de/en-us/apps/e-documents-validator/working-with-e-documents/",
+        "content_html" : ""
+    }
+    ]
+}

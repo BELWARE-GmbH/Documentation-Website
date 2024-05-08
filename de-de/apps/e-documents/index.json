@@ -6,20 +6,20 @@
     "feed_url" : "https://docs.belware.de/de-de/apps/e-documents/index.json",
     "items" : [
     {
-        "title" : "Erste Schritte",
-        "date_published" : "2024-04-03T00:00:00Z",
-        "date_modified" : "2024-04-03T00:00:00Z",
-        "id" : "https://docs.belware.de/de-de/apps/e-documents/first-steps/",
-        "url" : "https://docs.belware.de/de-de/apps/e-documents/first-steps/",
-        "content_html" : ""
-    },
-    {
         "title" : "Neu und geplant",
         "date_published" : "2024-04-03T00:00:00Z",
         "date_modified" : "2024-04-03T00:00:00Z",
         "id" : "https://docs.belware.de/de-de/apps/e-documents/new-and-planned/",
         "url" : "https://docs.belware.de/de-de/apps/e-documents/new-and-planned/",
         "content_html" : ""
+    },
+    {
+        "title" : "Erste Schritte",
+        "date_published" : "2024-05-02T00:00:00Z",
+        "date_modified" : "2024-05-02T00:00:00Z",
+        "id" : "https://docs.belware.de/de-de/apps/e-documents/first-steps/",
+        "url" : "https://docs.belware.de/de-de/apps/e-documents/first-steps/",
+        "content_html" : "\u003ch3 id=\"erste-schritte-mit-der-connector-365-e-documents-app\"\u003eErste Schritte mit der Connector 365 E-Documents App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Testversion, Installation und Kauf der Connector 365 E-Documents App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie zur Navigation einfach entweder das untere oder linke Menü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Arbeiten mit E-Documents",

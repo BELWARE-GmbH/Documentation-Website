@@ -15,6 +15,28 @@
     
       
       <item>
+        <title>E-Documents</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/</link>
+        <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/</guid>
+        <description>Connector 365 E-Documents Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Connector 365 E-Documents App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
+        <title>E-Documents Validator</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents-validator/</link>
+        <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents-validator/</guid>
+        <description>Connector 365 E-Documents Validator Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Microsoft AppSource Connector 365 E-Documents Validator App.
+Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Kontaktinformationen finden Sie auf der Support-Seite.</description>
+      </item>
+      
+      <item>
         <title>Addressee Control</title>
         <link>https://docs.belware.de/de-de/apps/addressee-control/</link>
         <pubDate>Sat, 04 Jul 2020 11:13:47 -0500</pubDate>
@@ -109,6 +131,16 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
         
         <guid>https://docs.belware.de/de-de/apps/easy-supra/</guid>
         <description>Connector 365 Easy Supra Online help </description>
+      </item>
+      
+      <item>
+        <title>Entwicklerdokumentation</title>
+        <link>https://docs.belware.de/de-de/apps/developer-docu/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/developer-docu/</guid>
+        <description>Connector 365 Entwicklerdokumentation Als Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unseren Apps eigenhändig vornehmen können.
+Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
       </item>
       
       <item>
@@ -218,25 +250,6 @@ Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/</guid>
         <description>Connector 365 SMTP2FAX Online Hilfe Hier finden Sie sämtliche Hilfe- und Lernressourcen, zu unserer Connector 365 SMTP2FAX App.
 Nutzen Sie einfach entweder das untere oder linke Navigationsmenü.
-Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
-      </item>
-      
-      <item>
-        <title>E-Documents</title>
-        <link>https://docs.belware.de/de-de/apps/e-documents/</link>
-        <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/e-documents/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Entwicklerdokumentation</title>
-        <link>https://docs.belware.de/de-de/apps/developer-docu/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://docs.belware.de/de-de/apps/developer-docu/</guid>
-        <description>Connector 365 Entwicklerdokumentation Als Entwickler im Bereich Dynamics 365 Business Central finden Sie hier Informationen, wie Sie Anpassungen im Zusammenhang mit unseren Apps eigenhändig vornehmen können.
 Für den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. die nötigen Konktatinformationen finden Sie auf der Support-Seite.</description>
       </item>
       

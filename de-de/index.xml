@@ -15,6 +15,26 @@
     
       
       <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/appsource/</link>
+        <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/appsource/</guid>
+        <description>Installation In diesem Abschnitt geht es um die Installation des Connector 365 E-Documents Validator. Hierzu haben Sie bei SaaS Umgebungen zwei Möglichkeiten die App zu installieren: extern und intern in Business Central.
+Je nach der aktuellen Microsoft-Upgrade-Richtlinie verfügen Sie möglicherweise nicht über die aktuellste Version der App. Um auf die aktuellste Version zu aktualisieren, öffnen Sie das Dynamics 365 Business Central Admin Center und führen Sie das entsprechende Upgrade der App für Ihre Umgebung durch.</description>
+      </item>
+      
+      <item>
+        <title>AppSource</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/first-steps/installation/appsource/</link>
+        <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/first-steps/installation/appsource/</guid>
+        <description>Installation In diesem Abschnitt geht es um die Installation des Connector 365 E-Documents. Hierzu haben Sie bei SaaS Umgebungen zwei Möglichkeiten die App zu installieren: extern und intern in Business Central.
+Je nach der aktuellen Microsoft-Upgrade-Richtlinie verfügen Sie möglicherweise nicht über die aktuellste Version der App. Um auf die aktuellste Version zu aktualisieren, öffnen Sie das Dynamics 365 Business Central Admin Center und führen Sie das entsprechende Upgrade der App für Ihre Umgebung durch.</description>
+      </item>
+      
+      <item>
         <title>Szenarien für Custom Filename</title>
         <link>https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/scenarios/</link>
         <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
@@ -2326,6 +2346,28 @@ Ist kein abweichender Rechnungsempfänger angegeben, gilt die gleiche Priorisier
         <guid>https://docs.belware.de/de-de/apps/smtp2fax/first-steps/installation/onprem/</guid>
         <description>Installation OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; SMTP2FAX App per Mail. Damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
 Veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App Das veröffentlichen der Connector 365 Base &amp;amp; SMTP2FAX App erfolgt via der Business Central Administration Shell. Transferieren Sie zunächst die von uns an Sie gesendete Dateien auf dem Server auf dem Ihre Business Central Instanz läuft.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/onprem/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/onprem/</guid>
+        <description>Installation Die App Connector 365 E-Documents Validator steht Ihnen erst ab Microsoft Dynamics 365 Business Central Version 23.2 zur Verfügung, da Sie auf der Standardfunktion der E-Belege von Microsoft basiert.
+OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; E-Documents Validator App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; E-Documents Validator App Das veröffentlichen der Connector 365 Base &amp;amp; E-Documents Validator App erfolgt via der Business Central Administration Shell.</description>
+      </item>
+      
+      <item>
+        <title>OnPrem</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/first-steps/installation/onprem/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/first-steps/installation/onprem/</guid>
+        <description>Installation Die App Connector 365 E-Documents steht Ihnen erst ab Microsoft Dynamics 365 Business Central Version 23.2 zur Verfügung, da Sie auf der Standardfunktion der E-Belege von Microsoft basiert.
+OnPrem Sie erhalten von uns die Objekte für die Connector 365 Base &amp;amp; E-Documents App per Mail, damit Sie die App nutzen können, müssen diese zunächst veröffentlicht und anschließend installiert werden.
+Veröffentlichen der Connector 365 Base &amp;amp; E-Documents App Das veröffentlichen der Connector 365 Base &amp;amp; E-Documents App erfolgt via der Business Central Administration Shell.</description>
       </item>
       
       <item>

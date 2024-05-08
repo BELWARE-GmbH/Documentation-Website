@@ -5,5 +5,13 @@
     "home_page_url" : "https://docs.belware.de/",
     "feed_url" : "https://docs.belware.de/en-us/apps/e-documents/first-steps/index.json",
     "items" : [
+    {
+        "title" : "Introduction",
+        "date_published" : "2024-04-03T00:00:00Z",
+        "date_modified" : "2024-04-03T00:00:00Z",
+        "id" : "https://docs.belware.de/en-us/apps/e-documents/first-steps/introduction/",
+        "url" : "https://docs.belware.de/en-us/apps/e-documents/first-steps/introduction/",
+        "content_html" : ""
+    }
     ]
 }

@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/</loc>
+    <loc>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/appsource/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/installation/appsource/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/e-documents/first-steps/"
+                href="https://docs.belware.de/en-us/apps/e-documents/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/e-documents/first-steps/"
+                href="https://docs.belware.de/de-de/apps/e-documents/"
                 />
   </url>
   
@@ -29,6 +39,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/custom-filename/working-with-custom-filename/scenarios/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents-validator/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents-validator/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents-validator/"
                 />
   </url>
   
@@ -1209,6 +1234,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/data-exchange/peppol/settings/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/developer-docu/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/developer-docu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/developer-docu/"
                 />
   </url>
   
@@ -2684,6 +2724,31 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/smtp2fax/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/installation/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents-validator/new-and-planned/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents-validator/new-and-planned/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents-validator/new-and-planned/"
                 />
   </url>
   
@@ -4773,6 +4838,44 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/onprem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/installation/onprem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents-validator/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents/first-steps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents/first-steps/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -4784,6 +4887,21 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents-validator/working-with-e-documents/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/e-documents-validator/working-with-e-documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/e-documents-validator/working-with-e-documents/"
                 />
   </url>
   
@@ -5838,21 +5956,6 @@
   </url>
   
   <url>
-    <loc>https://docs.belware.de/de-de/apps/e-documents/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/e-documents/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/e-documents/"
-                />
-  </url>
-  
-  <url>
     <loc>https://docs.belware.de/de-de/apps/addressee-control/working-with-addresse-control/target_addresses/</loc>
     <lastmod>2022-10-20T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -6814,21 +6917,6 @@
                 rel="alternate"
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/e-post/first-steps/setup/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://docs.belware.de/de-de/apps/developer-docu/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://docs.belware.de/en-us/apps/developer-docu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="https://docs.belware.de/de-de/apps/developer-docu/"
                 />
   </url>
   

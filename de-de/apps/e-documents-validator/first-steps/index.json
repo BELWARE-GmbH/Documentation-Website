@@ -1,0 +1,17 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Erste Schritte on Connector 365 Online Hilfe",
+    "description": "Recent content in Erste Schritte on Connector 365 Online Hilfe",
+    "home_page_url" : "https://docs.belware.de/",
+    "feed_url" : "https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/index.json",
+    "items" : [
+    {
+        "title" : "Installation",
+        "date_published" : "2024-05-02T00:00:00Z",
+        "date_modified" : "2024-05-02T00:00:00Z",
+        "id" : "https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/",
+        "url" : "https://docs.belware.de/de-de/apps/e-documents-validator/first-steps/installation/",
+        "content_html" : "\u003ch3 id=\"installation-der-connector-365-e-documents-validator-app\"\u003eInstallation der Connector 365 E-Documents Validator App\u003c/h3\u003e\n\u003cp\u003eHier finden Sie alle wichtigen Informationen und Hinweise zur Installation der Connector 365 E-Documents App.\u003c/p\u003e\n\u003cp\u003eNutzen Sie einfach entweder das untere oder linke Navigationsmenü.\u003c/p\u003e\n\u003cp\u003eFür den Fall, dass Ihnen eine Frage nicht beantwortet werden konnte, helfen wir Ihnen gerne persönlich weiter. Die nötigen Kontaktinformationen finden Sie auf der \u003ca href=\"/de-de/apps/help-and-support/\"\u003eSupport-Seite\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

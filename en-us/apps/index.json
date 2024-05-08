@@ -6,6 +6,14 @@
     "feed_url" : "https://docs.belware.de/en-us/apps/index.json",
     "items" : [
     {
+        "title" : "E-Documents Validator",
+        "date_published" : "2024-04-03T00:00:00Z",
+        "date_modified" : "2024-04-03T00:00:00Z",
+        "id" : "https://docs.belware.de/en-us/apps/e-documents-validator/",
+        "url" : "https://docs.belware.de/en-us/apps/e-documents-validator/",
+        "content_html" : ""
+    },
+    {
         "title" : "Addresse Control",
         "date_published" : "2022-07-04T00:00:00-05:00",
         "date_modified" : "2022-07-04T00:00:00-05:00",
