@@ -11,7 +11,7 @@
         "date_modified" : "2020-02-28T10:08:56+09:00",
         "id" : "https://docs.belware.de/en-us/apps/smtp2fax/new-and-planned/",
         "url" : "https://docs.belware.de/en-us/apps/smtp2fax/new-and-planned/",
-        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1000---15022023\"\u003eVersion 1.0.0.0 - 15.02.2023\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFirst release\u003c/li\u003e\n\u003c/ul\u003e\n"
+        "content_html" : "\u003ch3 id=\"new-and-planned\"\u003eNew and planned\u003c/h3\u003e\n\u003ch3 id=\"version-1101---09022024\"\u003eVersion 1.1.0.1 - 09.02.2024\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImplementation of monetization via Microsoft.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"version-1000---15022023\"\u003eVersion 1.0.0.0 - 15.02.2023\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eFirst release\u003c/li\u003e\n\u003c/ul\u003e\n"
     },
     {
         "title" : "First steps",
@@ -19,7 +19,7 @@
         "date_modified" : "2020-02-28T00:00:00+09:00",
         "id" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/",
         "url" : "https://docs.belware.de/en-us/apps/smtp2fax/first-steps/",
-        "content_html" : "\u003ch3 id=\"getting-started-with-the-connector-365-smtp2fax-app\"\u003eGetting Started with the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to install the Connector 365 SMTP2FAX App.\u003cbr /\u003e\nJust use either the bottom or left navigation menu.\u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"getting-started-with-the-connector-365-smtp2fax-app\"\u003eGetting Started with the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all the important information and instructions on how to install the Connector 365 SMTP2FAX App. \u003cbr /\u003e\nJust use either the bottom or left navigation menu. \u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     },
     {
         "title" : "Working with SMTP2FAX",
@@ -27,7 +27,7 @@
         "date_modified" : "2020-02-28T00:00:00+09:00",
         "id" : "https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/",
         "url" : "https://docs.belware.de/en-us/apps/smtp2fax/working-with-smtp2fax/",
-        "content_html" : "\u003ch3 id=\"working-with-the-connector-365-smtp2fax-app\"\u003eWorking with the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all important information and hints on how to use the Connector 365 SMTP2FAX App correctly.\u003cbr /\u003e\nJust use either the bottom or left navigation menu.\u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
+        "content_html" : "\u003ch3 id=\"working-with-the-connector-365-smtp2fax-app\"\u003eWorking with the Connector 365 SMTP2FAX App\u003c/h3\u003e\n\u003cp\u003eHere you will find all important information and hints on how to use the Connector 365 SMTP2FAX App correctly. \u003cbr /\u003e\nJust use either the bottom or left navigation menu. \u003cbr /\u003e\nIn case a question could not be answered, we will be happy to help you personally. You can find the necessary contact information on the \u003ca href=\"/en-us/apps/help-and-support/\"\u003esupport page\u003c/a\u003e.\u003c/p\u003e\n"
     }
     ]
 }

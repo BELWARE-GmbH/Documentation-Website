@@ -20,11 +20,8 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/harte-kriterien-warenwirtschaft/</guid>
-        <description>Harte Kriterien - Warenwirtschaft „Harte“ Kriterien sind Informationen, die bereits im System vorhanden sind und durch „zählen“, „messen“ oder „wiegen“ zu Stande kommen, beispielsweise im Bestellprozess. Beispiele
-für harte Kriterien sind die Liefertreue und die Reklamationsrate.
-Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ auswerten. Ein oft
-genutztes Beispiel ist die Mengentreue. Dabei wird geprüft, ob der Lieferant die Menge liefert,
-die er dem Einkäufer zugesagt hat.</description>
+        <description>Harte Kriterien - Warenwirtschaft „Harte“ Kriterien sind Informationen, die bereits im System vorhanden sind und durch „zählen“, „messen“ oder „wiegen“ zu Stande kommen, beispielsweise im Bestellprozess. Beispiele für harte Kriterien sind die Liefertreue und die Reklamationsrate.
+Hierbei können Sie die Informationen aus den vier folgenden Referenztabellen „Einkaufszeile“, „Einkaufslieferzeile“, „Einkaufszeilenarchiv“ und „Qualitätsprotokoll“ auswerten. Ein oft genutztes Beispiel ist die Mengentreue. Dabei wird geprüft, ob der Lieferant die Menge liefert, die er dem Einkäufer zugesagt hat.</description>
       </item>
       
       <item>
@@ -33,10 +30,7 @@ die er dem Einkäufer zugesagt hat.</description>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/reklamationen/</guid>
-        <description>Reklamationen Mit dem Modul Easy Supra wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über
-das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich
-nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird
-für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.</description>
+        <description>Reklamationen Mit dem Modul Easy Supra wird die Anbindung der Business Central-Standard Einkaufsreklamationen ermöglicht und damit einhergehend die Auswertung einer mengenmäßigen Reklamationsrate. Dazu erfassen Sie eine Standard-Einkaufsreklamationen in Business Central. In der Einkaufsreklamation muss der Bezug zu einem bestimmten Wareneingang über das Feld „Ausgleich mit Artikelposten“ hergestellt werden. Wird dieser manuelle Ausgleich nicht gesetzt, nimmt Business Central automatisch den Standardausgleich vor. Dabei wird für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO“ (First-InFirst-Out) ausgeglichen.</description>
       </item>
       
       <item>
@@ -45,8 +39,7 @@ für den Artikel je nach Lagerabgangsmethode die Ware zum Beispiel nach „FIFO�
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/wareneingangs-u-qualit%C3%A4tsprotokoll/</guid>
-        <description>Wareneingangs-/Qualitätsprotokoll Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt Easy Supra eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in Easy Supra mitgelieferten Felder
-eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
+        <description>Wareneingangs-/Qualitätsprotokoll Die Anforderungen an Qualitätsprotokolle sind von Unternehmen zu Unternehmen unterschiedlich. Aus diesem Grund stellt Easy Supra eine Fülle von zusätzlichen Feldern mit unterschiedlichen Datentypen („Datum“, „Dezimal“, „Boolean“, etc.) bereit. In wenigen Handgriffen kann ein individuelles Qualitätsprotokoll mit Hilfe der in Easy Supra mitgelieferten Felder eingerichtet werden. Diese Einrichtung kann, abhängig von der vorhandenen Kundenlizenz
 eigenständig oder durch den zuständigen Microsoft-Partner durchgeführt werden.
 Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevanten Informationen im Bestellvorgang übertragen werden.</description>
       </item>
@@ -57,9 +50,7 @@ Nach der Festlegung des Aufbaus Ihres Qualitätsprotokolls können die relevante
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/funktionsbeschreibung/auszuwertende-daten/weiche-kriterien-kontatkprofile/</guid>
-        <description>Weiche Kriterien - Kontaktprofile Die „weichen“ Kriterien können in der Einrichtung frei definiert werden (vgl. 3.1.3). In den
-Kontaktprofilen werden die Informationen am Lieferanten hinterlegt. Beispiele für weiche Kriterien können der Werbewert des Lieferanten oder auch die Transportanbindung sein, also
-Faktoren, welche subjektiv vergeben und mit Hilfe der in Abschnitt 3.1.3 beschriebenen Fragen evaluiert werden müssen.
+        <description>Weiche Kriterien - Kontaktprofile Die „weichen“ Kriterien können in der Einrichtung frei definiert werden (vgl. 3.1.3). In den Kontaktprofilen werden die Informationen am Lieferanten hinterlegt. Beispiele für weiche Kriterien können der Werbewert des Lieferanten oder auch die Transportanbindung sein, also Faktoren, welche subjektiv vergeben und mit Hilfe der in Abschnitt 3.1.3 beschriebenen Fragen evaluiert werden müssen.
 Über die Lieferantenübersicht („Abteilungen“ – „Lieferbewertung“ – „Einrichtung“ – „Lieferantenübersicht“) können Sie die „weichen“ Kriterien, die einem Lieferanten zugeordnet wurden,</description>
       </item>
       

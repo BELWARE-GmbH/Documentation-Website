@@ -20,11 +20,13 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/base/new-and-planned/</guid>
-        <description>New and planned Version 2.20.0.1 21.03.2024 Corrections:
+        <description>New and planned Version 2.20.0.5 19.04.2024 Corrections:
+License check is repeated up to three times in the event of an error. Version 2.20.0.4 03.04.2024 Corrections:
+Compatibility for versions &amp;lt; BC23 established. Version 2.20.0.3 02.04.2024 Corrections:
+Added permissions for standard tables. Version 2.20.0.2 02.04.2024 Corrections:
+Removed Document Statistics subpage from the Sent emails page Version 2.20.0.1 21.03.2024 Corrections:
 Fixes errors when retrieving body texts Version 2.20.0.0 15.03.2024 New features:
-Integrates internal functions for compatibility with the upcoming Connector 365 PDF app Version 2.19.0.0 1.03.2024 New features:
-Use of the new layout code fields from report selection / document layouts Compatibility with the latest functions of the Connector 365 Easy Batch App Version 2.18.0.0 7.2.2024 New features:
-Adds bodytext field to the Connector 365 activities Version 2.</description>
+Integrates internal functions for compatibility with the upcoming Connector 365 PDF app Version 2.</description>
       </item>
       
       <item>

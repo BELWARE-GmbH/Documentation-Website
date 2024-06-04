@@ -20,10 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen Version 2.7.0.0 - 04.03.2024 Neuerungen:
-Herstellen der Kompatibilität zur neuen Easy Batch Version Anhänge abhängig der Sprache steuern Nutzung zentraler Anhangstabelle zum Hochladen und Auswählen von Anhängen Automatisches Anhängen von Anhängen aus den Belegzeilen Version 2.6.0.0 - 06.09.2023 Neuerungen:
-Neues Event OnAttachDocumentAttachmentsOnCaseElse um Anhänge auch für andere Belegarten zu ermöglichen Version 2.5.0.0 - 14.07.2023 Neuerungen:
-Event OnGetC365Attachments integriert um Anhänge in anderen Apps abzurufen und zu erweitern Version 2.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen Version 2.7.0.2 - 22.03.2024 Korrekturen:
+Herstellen der Kompatibilität mit Versionen &amp;lt; BC21.2 Version 2.7.0.1 - 20.03.2024 Korrekturen:
+Es wird nur noch auf den Sprachcode geprüft, wenn er auch gesetzt wurde. Version 2.7.0.0 - 04.03.2024 Neuerungen:
+Herstellen der Kompatibilität zur neuen Easy Batch Version Anhänge abhängig der Sprache steuern Nutzung zentraler Anhangstabelle zum Hochladen und Auswählen von Anhängen Automatisches Anhängen von Anhängen aus den Belegzeilen Version 2.</description>
       </item>
       
       <item>

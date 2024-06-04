@@ -20,10 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Implementierung weiterer Belege aus dem Einkaufsbereich sowie Servicebereich. Version 2.15.0.2 - 08.03.2024 Korrekturen:
-nicht benötigte App-Abhängigkeit entfernt, sodass die App auch mit älteren BC-Versionen kompatibel ist. Version 2.15.0.1 - 04.03.2024 Korrekturen:
-Berichtslayouts werden korrekt analog dem Standard gesetzt. Die Nutzung von XRechnung im Belegsendeprofil führt nicht mehr zu Fehlern. Version 2.15.0.0 - 01.03.2024 Neuerungen:
-Erweiterung der offenen Aufgaben um alle im Connector steuerbaren Versandparameter.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Version 2.15.0.21 - 04.06.2024 Korrekturen:
+Die Aktion &amp;ldquo;Vorschau E-Mail-Text&amp;rdquo; lädt die Datei nun immer mit der Endung &amp;ldquo;-html&amp;rdquo; herunter. Version 2.15.0.20 - 23.05.2024 Korrekturen:
+Beim Einstellen von Mahnungen als Aufgabe über den Registrierungsprozess wird nur noch eine einzelne Meldung, dass die Belege zur Verarbeitung eingestellt wurden, angezeigt. Version 2.15.0.19 - 23.05.2024 Korrekturen:
+Fehler beim Heranziehen der Berichtslayouts, wenn ein Dokumentlayouteintrag besteht. Version 2.</description>
       </item>
       
       <item>

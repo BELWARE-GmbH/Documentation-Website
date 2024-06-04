@@ -20,9 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/easy-batch/new-and-planned/</guid>
-        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.15.0.2 - 08.03.2024 Corrections:
-Removed not required app dependency so that the app is also compatible with older BC versions. Version 2.15.0.1 - 04.03.2024 Corrections:
-Report layouts are set correctly according to the standard. The use of XRechnung in the document sending profile no longer leads to errors. Version 2.15.0.0 - 01.</description>
+        <description>New and Planned Planned functions for future versions Implementation of new document types from purchase as well as service. Version 2.15.0.21 - 04.06.2024 Corrections:
+The action &amp;ldquo;Preview Email Text&amp;rdquo; on the page &amp;ldquo;Connector 365 Open Tasks&amp;rdquo; now always downloads the file with the ending &amp;ldquo;.html&amp;rdquo; Version 2.15.0.20 - 23.05.2024 Corrections:
+When setting reminders as a task via the registration process, only a single message that the documents have been set for processing is displayed.</description>
       </item>
       
       <item>
