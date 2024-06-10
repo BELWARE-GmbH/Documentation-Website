@@ -2825,6 +2825,17 @@ Zusätzlich zum einfachen öffnen der Berichtsoptionen im Prozess, gibt es nun n
       
       <item>
         <title>MwSt.-Schema</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-vat-scheme/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-vat-scheme/</guid>
+        <description>Einrichtung MwSt.-Schema überprüfen Sie sollten die MwSt.-Schema Codes für die jeweiligen Länder überprüfen.
+Diese lassen sich unter “Länder/Regionen” anpassen, am schnellsten Finden Sie diesen Punkt über die Suchfunktion.
+Dort ändern Sie nun das Feld “MwSt.-Schema” in den Code für das entsprechende Land. Der Code für Deutschland lautet 9930, alle weiteren Codes finden Sie hier.</description>
+      </item>
+      
+      <item>
+        <title>MwSt.-Schema</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -3140,6 +3151,17 @@ Feldbeschreibung Lfd.Nr. Eindeutige Jobnummer, wird vom Connector NAV vergeben. 
         <description>Der Dialog Auch im Dialog haben Sie die Möglichkeit die Absenderadresse nochmal anzupassen, vorausgesetzt ist aber auch hier, dass die zu verwendende Adresse zuvor in der Mail Sender Plus Einrichtung hinterlegt wurde.
 Übersicht des Dialogs
 Ändern Sie dazu einfach die Adresse im „Email Absender“ Feld auf die von Ihnen gewünschte Adresse. Anschließend können Sie wie gewohnt den Dialog bestätigen</description>
+      </item>
+      
+      <item>
+        <title>Einheitencodes</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-unit-codes/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-unit-codes/</guid>
+        <description>Einrichtung Standardcodes für Einheiten überprüfen Ein weiterer Punkt der sich zu überprüfen lohnt sind Einheitencodes. Diese müssen, um PEPPOL-konform zu sein eine spezielle Bezeichnung haben, damit diese akzeptiert werden.
+Die Liste mit Ihrem Einheitencodes können Sie am schnellsten über die Suchfunktion erreichen in dem Sie einfach nach „Einheiten“ suchen.
+Anschließend sollten Sie das Feld “Internationaler Standardcode” anhand der UN/ECE Recommendation 20 bzw. 21 anpassen.</description>
       </item>
       
       <item>
@@ -3467,6 +3489,16 @@ Mehr Informationen zu beiden Punkten finden Sie in der Doku für die Kommunikati
       
       <item>
         <title>Steuerkategorie</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-tax-category/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-tax-category/</guid>
+        <description>Einrichtung Überprüfen der Steuerkategorie Es lohnt sich auch, die Steuerkategorie anzusehen, diese ist in der MwSt.-Buchungsmatrix zu finden. Diese lässt sich auch wieder am schnellsten über die Suchfunktion aufrufen.
+Hier sollte nun das Feld “Steuerkategorie” mit der jeweiligen Bezeichnung gefüllt werden, diese können Sie hier finden. In den meisten Fällen werden Sie nur E S und Z benötigen.</description>
+      </item>
+      
+      <item>
+        <title>Steuerkategorie</title>
         <link>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-tax-category/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -3674,6 +3706,17 @@ Weitere Informationen zur genauen Verwendung dieser Funktion finden Sie in der E
         
         <guid>https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/schluesselung/</guid>
         <description>Schlüsselung Die an der Bewertung hinterlegten „weichen“ und „harten“ Bewertungskriterien werden gewichtet. An der Bewertung wird hinterlegt, wie die weichen und harten Kriterien in die Gesamtbewertung einfließen (vgl. Abbildung 1).</description>
+      </item>
+      
+      <item>
+        <title>Verkäufer-Ländercode</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-seller-country-code/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-seller-country-code/</guid>
+        <description>Einrichtung Überprüfen des Verkäufer-Ländercodes Ein Punkt, der ebenfalls beachtet werden muss, ist die Einrichtung des Verkäufer-Ländercodes entsprechend der ISO-Norm 3166.
+Festgelegt wird der Code in den Firmendaten:
+Nähere Informationen zur korrekten Anlage des Codes finden Sie auf der entsprechenden Wikipedia-Seite.</description>
       </item>
       
       <item>

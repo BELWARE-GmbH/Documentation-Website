@@ -5711,6 +5711,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-vat-scheme/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-vat-scheme/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -6236,6 +6241,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-unit-codes/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-unit-codes/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -6278,6 +6288,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/apps/custom-filename/first-steps/setup/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -7051,6 +7066,11 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-tax-category/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/de-de/apps/xrechnung/first-steps/setup/setup-tax-category/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link
@@ -7323,6 +7343,11 @@
                 hreflang="de-de"
                 href="https://docs.belware.de/de-de/connectornav/easysupra/kurzbeschreibung/schluesselung/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://docs.belware.de/de-de/apps/e-documents/first-steps/setup/setup-seller-country-code/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
