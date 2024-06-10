@@ -14,6 +14,28 @@
     
     
       
+      <item>
+        <title>Empfang von E-Belegen</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/incoming_edocuments/</link>
+        <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/incoming_edocuments/</guid>
+        <description>Empfang von E-Belegen In Abhängigkeit, ob Sie Ihren E-Beleg per E-Mail oder per Peppol-Netzwerk empfangen haben, variiert das Einlesen Ihres Belegs. Sollten Sie Ihren E-Beleg per E-Mail erhalten haben, so können Sie diesen manuell ins System einlesen.
+Wenn Ihr E-Beleg über das Peppol-Netzwerk an Sie übermittelt wurde, dann stehen Ihnen zwei Optionen zur Verfügung:
+Aufgabenwarteschlange Bei der Inbetriebnahme des Connector 365 E-Documents wird eine Aufgabenwarteschlange eingerichtet, die automatisch die E-Belege vom BELWARE-Peppol-Access-Point abholt und nach vorhandener Prüfung durch den Validator unter E-Belegen ablegt.</description>
+      </item>
+      
+      <item>
+        <title>Versand von E-Belegen</title>
+        <link>https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/outgoing_edocuments/</link>
+        <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/e-documents/working-with-e-documents/outgoing_edocuments/</guid>
+        <description>Versand von E-Belegen Wenn die Einrichtung abgeschlossen ist und Sie das entsprechend eingerichtete Belegsendeprofil den gewünschten Debitoren zugewiesen haben, können Sie Connector 365 E-Documents u.a. für den Versand Ihrer E-Belege nutzen.
+Hierunter erläutern wir Ihnen exemplarisch anhand einer Verkaufsrechnung, wie Connector 365 E-Belege erstellt und verschickt.
+Erstellen Sie Ihre Verkaufsrechnung und hantieren Sie Ihr gewohntes Vorgehen. Anschließend buchen Sie die Verkaufsrechnung. Nun folgt zuerst die interne Prüfung von Microsoft, welche überprüft ob alle benötigten Felder ausgefüllt wurden.</description>
+      </item>
+      
     
   </channel>
 </rss>
