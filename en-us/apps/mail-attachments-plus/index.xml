@@ -20,10 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/mail-attachments-plus/new-and-planned/</guid>
-        <description>New and planned Version 2.7.0.2 - 22.03.2024 Corrections:
-Establish compatibility with versions &amp;lt; BC21.2 Version 2.7.0.1 - 20.03.2024 Corrections:
-The language code is only checked if it has been set. Version 2.7.0.0 - 04.03.2024 New features:
-Establish compatibility with the new Easy Batch version Control attachments depending on the language Use of central attachment table for uploading and selecting attachments Automatic attachment of attachments from the document lines Version 2.6.0.0 - 06.</description>
+        <description>New and planned Version 2.8.0.1 - 10.07.2024 Corrections:
+Attachments are no longer deleted from the attachment selection after sending. Version 2.8.0.0 - 05.07.2024 New features:
+Attachments can now be added via a separate page action. Attachment name and size are now written to the table. Attachments can now be displayed via the DrillDown of the attachment name field. Version 2.7.0.3 - 05.06.2024 Corrections:
+Correction of the use of report selection attachments.</description>
       </item>
       
       <item>

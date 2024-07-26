@@ -20,10 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/mail-attachments-plus/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen Version 2.7.0.2 - 22.03.2024 Korrekturen:
-Herstellen der Kompatibilität mit Versionen &amp;lt; BC21.2 Version 2.7.0.1 - 20.03.2024 Korrekturen:
-Es wird nur noch auf den Sprachcode geprüft, wenn er auch gesetzt wurde. Version 2.7.0.0 - 04.03.2024 Neuerungen:
-Herstellen der Kompatibilität zur neuen Easy Batch Version Anhänge abhängig der Sprache steuern Nutzung zentraler Anhangstabelle zum Hochladen und Auswählen von Anhängen Automatisches Anhängen von Anhängen aus den Belegzeilen Version 2.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Anhangsfunktionalitäten auf weiteren Ebenen Version 2.8.0.1 - 10.07.2024 Korrekturen:
+Anhänge werden nach dem Versand nicht mehr aus der Anhangsauswahl gelöscht. Version 2.8.0.0 - 05.07.2024 Neuerungen:
+Anhänge können nun über eine eigene Page Action hinzugefügt werden. Anhangsname und -größe werden von nun an in die Tabelle geschrieben. Anhänge können nun über den DrillDown des Anhangsnamenfeld angezeigt werden. Version 2.7.0.3 - 05.06.2024 Korrekturen:
+Korrektur des Heranziehens der Berichtsauswahlanhänge.</description>
       </item>
       
       <item>

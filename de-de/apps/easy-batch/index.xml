@@ -20,10 +20,11 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/easy-batch/new-and-planned/</guid>
-        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Version 2.15.0.21 - 04.06.2024 Korrekturen:
-Die Aktion &amp;ldquo;Vorschau E-Mail-Text&amp;rdquo; lädt die Datei nun immer mit der Endung &amp;ldquo;-html&amp;rdquo; herunter. Version 2.15.0.20 - 23.05.2024 Korrekturen:
-Beim Einstellen von Mahnungen als Aufgabe über den Registrierungsprozess wird nur noch eine einzelne Meldung, dass die Belege zur Verarbeitung eingestellt wurden, angezeigt. Version 2.15.0.19 - 23.05.2024 Korrekturen:
-Fehler beim Heranziehen der Berichtslayouts, wenn ein Dokumentlayouteintrag besteht. Version 2.</description>
+        <description>Neu und geplant Geplante Funktionen für zukünftige Versionen Version 2.16.0.0 - 12.07.2024 Neuerungen:
+Der Eventaufruf OnAfterCreatePdfFileFromReport wurde durch OnAfterCreateReportPdfFile ersetzt. Die Tabelle Connector 365 Open Task wurde um zwei Felder erweitert: Report Selection Sequence und Cust. Rep. Selection Sequence. Version 2.15.0.28 - 05.07.2024 Korrekturen:
+Integration mit Report Layout Plus korrigiert. Version 2.15.0.27 - 29.06.2024 Korrekturen:
+Prüfung, ob auf leere Berichtsauswahl korrigiert. Version 2.15.0.26 - 26.06.2024 Korrekturen:
+Korrektur der Prüfung auf nicht gesetzten E-Mailtext.</description>
       </item>
       
       <item>

@@ -20,9 +20,9 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/en-us/apps/e-post/new-and-planned/</guid>
-        <description>New and planned Planned functions for future versions Reactivation of negative jobs Contacts editable in dialog Enhancements to shipment status information Processing status in the destination area Franking ID Simplification for &amp;lsquo;Registered mail return receipt&amp;rsquo; Version 2.9.0.2 - 08.03.2024 Corrections:
-When no E-POST report is setup in report selections, a message will be displayed. Version 2.9.0.1 - 04.03.2024 Corrections:
-The Send as function works again with E-POST Version 2.9.0.0 - 01.</description>
+        <description>New and planned Planned functions for future versions Reactivation of negative jobs Contacts editable in dialog Enhancements to shipment status information Processing status in the destination area Franking ID Simplification for &amp;lsquo;Registered mail return receipt&amp;rsquo; Version 2.9.0.6 - 17.07.2024 Corrections:
+Check whether address line exists before transfer. Correction of a spelling error in the address data. Removal of quotation marks when transferring address data. Version 2.9.0.5 - 11.04.2024 Corrections:
+Correction of the setting of the address data.</description>
       </item>
       
       <item>

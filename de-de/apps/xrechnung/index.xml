@@ -20,12 +20,10 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://docs.belware.de/de-de/apps/xrechnung/new-and-planned/</guid>
-        <description>Neu und geplant Geplant März 2024 Einrichtungsassistent (Wizard) Veröffentlichte Versionen Version 2.9.0.12 - 29.05.2024 Korrekturen:
+        <description>Neu und geplant Geplant März 2024 Einrichtungsassistent (Wizard) Veröffentlichte Versionen Version 2.9.0.13 - 22.07.2024 Korrekturen:
+Die Datensatz-ID wird nun in die Tabelle der Aktivitätseinträge geschrieben, um die Anzeige von XRechnungen auf der Dokumentenseite zu ermöglichen. Version 2.9.0.12 - 29.05.2024 Korrekturen:
 Das Heranziehen der Berichtslayouts in Kombination mit Connector 365 Easy Batch wurde vereinheitlicht. Version 2.9.0.11 - 13.05.2024 Korrekturen:
-Neue Logik für das Heranziehen des Berichtslayouts implementiert. Version 2.9.0.10 - 11.04.2024 Korrekturen:
-Das Senden ohne E-Mail-Text korrigiert. Version 2.9.0.9 - 02.04.2024 Korrekturen:
-Tenant Media Berechtigungen hinzugefügt Version 2.9.0.8 - 28.03.2024 Korrekturen:
-Übergeben der korrekten Variable zur Berechung der legal monetary info.</description>
+Neue Logik für das Heranziehen des Berichtslayouts implementiert. Version 2.9.0.10 - 11.04.2024 Korrekturen:</description>
       </item>
       
       <item>
