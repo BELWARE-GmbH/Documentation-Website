@@ -4628,6 +4628,21 @@
   </url>
   
   <url>
+    <loc>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/"
+                />
+  </url>
+  
+  <url>
     <loc>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
     <xhtml:link

@@ -2172,6 +2172,19 @@ On the pages on which the Drag &amp;amp; Drop function is integrated, you will n
       </item>
       
       <item>
+        <title>User Placeholder Setup</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/</guid>
+        <description>Setup User Placeholder Setup To set up the user placeholders, first navigate to the User setup page.
+There you can access the setup via the User placeholder setup action.
+In the user placeholder setup, you can set up dynamic placeholders using table fields.
+Fields from the following tables are currently supported:
+User setup User In the Placeholder field, you define the character string which is replaced in the email text by the values of the field stored in the Definition field.</description>
+      </item>
+      
+      <item>
         <title>User report setup</title>
         <link>https://docs.belware.de/en-us/connectornav/status-report/job-queue-error/user_report_setup/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>

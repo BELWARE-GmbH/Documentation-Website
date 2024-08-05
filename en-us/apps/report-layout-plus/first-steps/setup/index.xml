@@ -25,6 +25,19 @@ Sales Purchase Reminder/Finance Charge After reaching the report selection you w
 The number there, shows how many different report layouts are setup for the specific report ID. By clicking the number you reach the Report Layout Selection.</description>
       </item>
       
+      <item>
+        <title>User Placeholder Setup</title>
+        <link>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/en-us/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/</guid>
+        <description>Setup User Placeholder Setup To set up the user placeholders, first navigate to the User setup page.
+There you can access the setup via the User placeholder setup action.
+In the user placeholder setup, you can set up dynamic placeholders using table fields.
+Fields from the following tables are currently supported:
+User setup User In the Placeholder field, you define the character string which is replaced in the email text by the values of the field stored in the Definition field.</description>
+      </item>
+      
     
   </channel>
 </rss>

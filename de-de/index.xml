@@ -1513,6 +1513,20 @@ Status: %19</description>
       </item>
       
       <item>
+        <title>Benutzerplatzhaltereinrichtung</title>
+        <link>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://docs.belware.de/de-de/apps/report-layout-plus/first-steps/setup/user-placeholder-setup/</guid>
+        <description>Einrichtung Benutzerplatzhaltereinrichtung Für die Einrichtung der Benutzerplatzhalter navigieren Sie zunächst zur Seite Benutzer Einrichtung.
+Dort gelangen Sie über die Aktion Benutzerplatzhaltereinrichtung zur Einrichtung.
+In der Benutzerplatzhaltereinrichtung können Sie dynamische Platzhalter anhand von Tabellenfeldern einrichten.
+Aktuell werden Felder der folgenden Tabellen unterstützt:
+Benutzer Einrichtung Benutzer Im Feld Platzhalter definieren Sie die Zeichenfolge, welche im E-Mailtext durch die Werte des im Feld Definition hinterlegten Feldes ersetzt werden.
+Damit das Ersetzen des Platzhalters funktioniert müssen Sie diese in Ihre Berichtslayouts für E-Mail-Texte integrieren.</description>
+      </item>
+      
+      <item>
         <title>Bericht Standardanhänge</title>
         <link>https://docs.belware.de/de-de/apps/mail-attachments-plus/first-steps/setup/defaults-report/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
